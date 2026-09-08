@@ -1,0 +1,42 @@
+name: Galway GAA Weekly Scraper
+
+# When should this run?
+on:
+  schedule:
+    # Runs at 3:00 AM every Monday
+    - cron: '0 3 * * 1'
+  workflow_dispatch: 
+    # Allows you to click a button to run it manually anytime
+
+jobs:
+  scrape-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Grab your code
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 2. Install Python
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      # 3. Install the required libraries
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          playwright install chromium
+
+      # 4. Run your scraper script
+      - name: Run Scraper
+        run: python scraper.py
+
+      # 5. Save the CSV so you can download it
+      - name: Upload CSV as Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: GAA-Results-Spreadsheet
+          path: "*.csv"
+          retention-days: 30
