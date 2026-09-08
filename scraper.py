@@ -35,10 +35,10 @@ def scrape_galway_football_results():
                 "Date": row.get_attribute("data-date"),
                 "Time": row.get_attribute("data-time"),
                 "Competition": competition,
-                "Home_Team": row.get_attribute("data-hometeam"),
-                "Home_Score": row.get_attribute("data-homescore"),
-                "Away_Score": row.get_attribute("data-awayscore"),
-                "Away_Team": row.get_attribute("data-awayteam"),
+               "Home_Team": row.get_attribute("data-hometeam"),
+            "Home_Score": f"'{row.get_attribute('data-homescore')}" if row.get_attribute('data-homescore') else "",
+            "Away_Score": f"'{row.get_attribute('data-awayscore')}" if row.get_attribute('data-awayscore') else "",
+            "Away_Team": row.get_attribute("data-awayteam"),
                 "Venue": row.get_attribute("data-venue"),
                 "Referee": row.get_attribute("data-referee"),
                 "Match_Status": row.get_attribute("data-comment"),
@@ -52,7 +52,7 @@ def scrape_galway_football_results():
     if scraped_data:
         df = pd.DataFrame(scraped_data)
         csv_filename = f"Galway_GAA_Football_Results_{datetime.now().strftime('%Y-%m-%d')}.csv"
-        df.to_csv(csv_filename, index=False)
+       df.to_csv(csv_filename, index=False, encoding="utf-8-sig")
         print(f"Success! {len(df)} football matches saved to {csv_filename}")
     else:
         print("No football results found on the page.")
