@@ -7,10 +7,9 @@ TARGET_URL = "https://www.galwaygaa.ie/results/"
 def scrape_galway_football_results():
     scraped_data = []
     
-    # 1. Generate 7-day date chunks from March 1st of the current year to Today
-    current_year = datetime.now().year
-    start_date = datetime(current_year, 3, 1)
-    end_date = datetime.now()
+    # 1. Generate 7-day date chunks for the entire 2025 season
+    start_date = datetime(2025, 1, 1)
+    end_date = datetime(2025, 12, 31)
     date_chunks = []
     
     current = start_date
@@ -29,14 +28,12 @@ def scrape_galway_football_results():
         page.goto(TARGET_URL)
         page.wait_for_selector("#fdate", timeout=15000)
         
-        # 2. Loop through every 7-day chunk
+        # 2. Loop through every 7-day chunk in 2025
         for fdate, tdate in date_chunks:
             print(f"Scraping matches from {fdate} to {tdate}...")
             
-            # Clear old data to prevent grabbing the previous chunk's table while the new one loads
             page.evaluate('document.querySelectorAll("ul.table-body.results").forEach(el => el.remove());')
             
-            # Inject the dates and force JavaScript change events so the server registers them
             page.evaluate(f'''() => {{
                 document.querySelectorAll('[name="fdate"]').forEach(el => {{
                     el.value = '{fdate}';
@@ -50,13 +47,10 @@ def scrape_galway_football_results():
                 }});
             }}''')
             
-            # Click search
             page.locator('input[name="btn"]').first.click()
             
-            # Wait up to 20 seconds for the new results table to generate for this specific week
             try:
                 page.wait_for_selector("ul.table-body.results", timeout=20000)
-                # Give it an extra 2 seconds for all row elements to finish rendering
                 page.wait_for_timeout(2000) 
             except Exception:
                 print(f"No results found for period {fdate} to {tdate}.")
@@ -70,7 +64,6 @@ def scrape_galway_football_results():
             for row in match_rows:
                 competition = row.get_attribute("data-compname")
                 
-                # Filter out hurling
                 if not competition or "hurling" in competition.lower():
                     continue
                 
@@ -97,17 +90,14 @@ def scrape_galway_football_results():
     # 3. Clean up the final dataset and export
     if scraped_data:
         df = pd.DataFrame(scraped_data)
-        
-        # Drop duplicates in case a match bridged a date chunk gap
         df.drop_duplicates(subset=['Date', 'Time', 'Home_Team', 'Away_Team'], inplace=True)
         
-        csv_filename = f"Galway_GAA_Football_Full_Season_{datetime.now().strftime('%Y-%m-%d')}.csv"
-        
-        # utf-8-sig ensures Excel parses Irish fadas correctly
+        # Name the file specifically for the 2025 season
+        csv_filename = f"Galway_GAA_Football_2025_Season.csv"
         df.to_csv(csv_filename, index=False, encoding="utf-8-sig")
         print(f"Success! {len(df)} total football matches saved to {csv_filename}")
     else:
-        print("No football results found on the page.")
+        print("No football results found on the page for 2025.")
 
 if __name__ == "__main__":
     scrape_galway_football_results()
