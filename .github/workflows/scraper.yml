@@ -9,12 +9,23 @@ on:
     # Allows you to click a button to run it manually anytime
     inputs:
       season_year:
-        description: 'Season to scrape (e.g. 2025). Blank = current year.'
+        description: 'Season(s) to scrape, space separated (e.g. 2025 2024). Blank = current year.'
         required: false
         default: ''
+  push:
+    # Editing seasons.txt on main kicks off a backfill of the years listed
+    # in it. Scoped to that one file, so committing scraped data never
+    # retriggers the workflow.
+    branches: [main]
+    paths: ['seasons.txt']
 
 permissions:
   contents: write
+
+concurrency:
+  # Two runs committing to main at once would collide
+  group: scraper
+  cancel-in-progress: false
 
 jobs:
   scrape-data:
@@ -37,13 +48,35 @@ jobs:
           pip install -r requirements.txt
           playwright install chromium
 
-      # 4. Run your scraper script
+      # 4. Work out which seasons to scrape, then run the scraper once each
       - name: Run Scraper
         env:
-          SEASON_YEAR: ${{ inputs.season_year }}
-        run: python scraper.py
+          SEASON_INPUT: ${{ inputs.season_year }}
+        run: |
+          set -euo pipefail
 
-      # 5. Save the CSV so you can download it
+          if [ -n "${SEASON_INPUT:-}" ]; then
+            YEARS="$SEASON_INPUT"
+          elif [ "${{ github.event_name }}" = "push" ] && [ -f seasons.txt ]; then
+            # one 4-digit year per line; blank lines and # comments ignored
+            YEARS=$(awk '{gsub(/[ \t\r]/,""); if ($0 ~ /^[0-9]{4}$/) print}' seasons.txt | tr '\n' ' ')
+          else
+            YEARS=$(date -u +%Y)
+          fi
+
+          if [ -z "$YEARS" ]; then
+            echo "No seasons requested; nothing to do."
+            exit 0
+          fi
+
+          echo "Scraping seasons: $YEARS"
+          for Y in $YEARS; do
+            echo "::group::Season $Y"
+            SEASON_YEAR="$Y" python scraper.py
+            echo "::endgroup::"
+          done
+
+      # 5. Save the CSVs so you can download them
       - name: Upload CSV as Artifact
         uses: actions/upload-artifact@v4
         with:
@@ -51,29 +84,35 @@ jobs:
           path: "*.csv"
           retention-days: 30
 
-      # 6. Commit the CSV into the repo so it can be read directly from git
-      - name: Commit CSV to repository
+      # 6. Commit the CSVs into the repo so they can be read directly from git
+      - name: Commit CSVs to repository
         run: |
           set -euo pipefail
 
-          CSV=$(ls -1 Galway_GAA_Football_Season_*.csv 2>/dev/null | head -n 1 || true)
-          if [ -z "$CSV" ]; then
+          shopt -s nullglob
+          FILES=(Galway_GAA_Football_Season_*.csv)
+          if [ ${#FILES[@]} -eq 0 ]; then
             echo "No CSV produced by the scraper; nothing to commit."
             exit 0
           fi
 
-          YEAR="${{ inputs.season_year }}"
-          [ -z "$YEAR" ] && YEAR=$(date -u +%Y)
-
           mkdir -p data
-          cp "$CSV" "data/season_${YEAR}.csv"
-          # latest.csv always tracks the current season
-          if [ "$YEAR" = "$(date -u +%Y)" ]; then
-            cp "$CSV" data/latest.csv
-          fi
+          THIS_YEAR=$(date -u +%Y)
+          SUMMARY=""
 
-          ROWS=$(($(wc -l < "data/season_${YEAR}.csv") - 1))
-          echo "season=$YEAR rows=$ROWS"
+          for CSV in "${FILES[@]}"; do
+            YEAR=$(echo "$CSV" | grep -oE '[0-9]{4}' | tail -n 1)
+            cp "$CSV" "data/season_${YEAR}.csv"
+            # latest.csv always tracks the current season
+            if [ "$YEAR" = "$THIS_YEAR" ]; then
+              cp "$CSV" data/latest.csv
+            fi
+            ROWS=$(($(wc -l < "data/season_${YEAR}.csv") - 1))
+            echo "season=$YEAR rows=$ROWS"
+            SUMMARY="${SUMMARY}${YEAR} (${ROWS} rows), "
+          done
+
+          SUMMARY=${SUMMARY%, }
 
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -84,7 +123,7 @@ jobs:
             exit 0
           fi
 
-          git commit -m "Scraped season ${YEAR} on $(date -u +%Y-%m-%d) (${ROWS} rows)"
+          git commit -m "Scraped ${SUMMARY} on $(date -u +%Y-%m-%d)"
 
           # Retry once in case the branch moved while this job ran
           git push || {
