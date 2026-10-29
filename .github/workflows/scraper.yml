@@ -7,6 +7,11 @@ on:
     - cron: '0 3 * * 1'
   workflow_dispatch:
     # Allows you to click a button to run it manually anytime
+    inputs:
+      season_year:
+        description: 'Season to scrape (e.g. 2025). Blank = current year.'
+        required: false
+        default: ''
 
 permissions:
   contents: write
@@ -34,6 +39,8 @@ jobs:
 
       # 4. Run your scraper script
       - name: Run Scraper
+        env:
+          SEASON_YEAR: ${{ inputs.season_year }}
         run: python scraper.py
 
       # 5. Save the CSV so you can download it
@@ -49,18 +56,24 @@ jobs:
         run: |
           set -euo pipefail
 
-          CSV=$(ls -1 Galway_GAA_Football_Full_Season_*.csv 2>/dev/null | head -n 1 || true)
+          CSV=$(ls -1 Galway_GAA_Football_Season_*.csv 2>/dev/null | head -n 1 || true)
           if [ -z "$CSV" ]; then
             echo "No CSV produced by the scraper; nothing to commit."
             exit 0
           fi
 
-          mkdir -p data
-          cp "$CSV" "data/$CSV"
-          cp "$CSV" data/latest.csv
+          YEAR="${{ inputs.season_year }}"
+          [ -z "$YEAR" ] && YEAR=$(date -u +%Y)
 
-          ROWS=$(($(wc -l < data/latest.csv) - 1))
-          echo "rows=$ROWS"
+          mkdir -p data
+          cp "$CSV" "data/season_${YEAR}.csv"
+          # latest.csv always tracks the current season
+          if [ "$YEAR" = "$(date -u +%Y)" ]; then
+            cp "$CSV" data/latest.csv
+          fi
+
+          ROWS=$(($(wc -l < "data/season_${YEAR}.csv") - 1))
+          echo "season=$YEAR rows=$ROWS"
 
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -71,7 +84,7 @@ jobs:
             exit 0
           fi
 
-          git commit -m "Scraped results $(date -u +%Y-%m-%d) (${ROWS} rows)"
+          git commit -m "Scraped season ${YEAR} on $(date -u +%Y-%m-%d) (${ROWS} rows)"
 
           # Retry once in case the branch moved while this job ran
           git push || {

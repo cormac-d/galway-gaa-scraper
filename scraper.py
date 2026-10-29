@@ -1,16 +1,24 @@
 from playwright.sync_api import sync_playwright
 import pandas as pd
+import os
 from datetime import datetime, timedelta
 
 TARGET_URL = "https://www.galwaygaa.ie/results/"
 
 def scrape_galway_football_results():
     scraped_data = []
-    
-    # Generate 7-day date chunks from March 1st of current year to today
-    current_year = datetime.now().year
-    start_date = datetime(current_year, 3, 1)
-    end_date = datetime.now()
+
+    # Which season to scrape. Defaults to the current year; set SEASON_YEAR to
+    # pull an earlier season (the results page accepts any date range).
+    season_year = int(os.environ.get("SEASON_YEAR") or datetime.now().year)
+
+    # Generate 7-day date chunks from March 1st of the season to its end.
+    # For a past season that is 31 December; for the current one, today.
+    start_date = datetime(season_year, 3, 1)
+    end_date = min(datetime.now(), datetime(season_year, 12, 31))
+    if end_date < start_date:
+        raise SystemExit(f"Season {season_year} has not started yet.")
+    print(f"Season {season_year}: {start_date:%d-%m-%Y} to {end_date:%d-%m-%Y}")
     date_chunks = []
     
     current = start_date
@@ -96,7 +104,7 @@ def scrape_galway_football_results():
         # Remove duplicate records
         df.drop_duplicates(subset=['Date', 'Time', 'Home_Team', 'Away_Team'], inplace=True)
         
-        csv_filename = f"Galway_GAA_Football_Full_Season_{datetime.now().strftime('%Y-%m-%d')}.csv"
+        csv_filename = f"Galway_GAA_Football_Season_{season_year}.csv"
         df.to_csv(csv_filename, index=False, encoding="utf-8-sig")
         print(f"Success! {len(df)} total football matches saved to {csv_filename}")
     else:
