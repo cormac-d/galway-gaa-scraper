@@ -5,8 +5,11 @@ on:
   schedule:
     # Runs at 3:00 AM every Monday
     - cron: '0 3 * * 1'
-  workflow_dispatch: 
+  workflow_dispatch:
     # Allows you to click a button to run it manually anytime
+
+permissions:
+  contents: write
 
 jobs:
   scrape-data:
@@ -40,3 +43,38 @@ jobs:
           name: GAA-Results-Spreadsheet
           path: "*.csv"
           retention-days: 30
+
+      # 6. Commit the CSV into the repo so it can be read directly from git
+      - name: Commit CSV to repository
+        run: |
+          set -euo pipefail
+
+          CSV=$(ls -1 Galway_GAA_Football_Full_Season_*.csv 2>/dev/null | head -n 1 || true)
+          if [ -z "$CSV" ]; then
+            echo "No CSV produced by the scraper; nothing to commit."
+            exit 0
+          fi
+
+          mkdir -p data
+          cp "$CSV" "data/$CSV"
+          cp "$CSV" data/latest.csv
+
+          ROWS=$(($(wc -l < data/latest.csv) - 1))
+          echo "rows=$ROWS"
+
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No change in scraped data; nothing to commit."
+            exit 0
+          fi
+
+          git commit -m "Scraped results $(date -u +%Y-%m-%d) (${ROWS} rows)"
+
+          # Retry once in case the branch moved while this job ran
+          git push || {
+            git pull --rebase
+            git push
+          }
