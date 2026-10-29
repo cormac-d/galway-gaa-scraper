@@ -1,0 +1,9 @@
+# Seasons to scrape. One four-digit year per line.
+# Editing this file on main triggers the scraper for every year listed
+# and commits each as data/season_<year>.csv.
+# Blank lines and # comments are ignored.
+
+2025
+2024
+2023
+2022
