@@ -1,30 +1,48 @@
-id,status,title,teams,years,url
-217984,error: MissingSchema,,,,/league/217984
-217852,error: MissingSchema,,,,/league/217852
-217522,error: MissingSchema,,,,/league/217522
-217009,error: MissingSchema,,,,/league/217009
-215416,error: MissingSchema,,,,/league/215416
-215383,error: MissingSchema,,,,/league/215383
-215277,error: MissingSchema,,,,/league/215277
-214631,error: MissingSchema,,,,/league/214631
-214414,error: MissingSchema,,,,/league/214414
-213914,error: MissingSchema,,,,/league/213914
-213774,error: MissingSchema,,,,/league/213774
-213414,error: MissingSchema,,,,/league/213414
-212414,error: MissingSchema,,,,/league/212414
-212156,error: MissingSchema,,,,/league/212156
-211414,error: MissingSchema,,,,/league/211414
-209414,error: MissingSchema,,,,/league/209414
-207454,error: MissingSchema,,,,/league/207454
-206914,error: MissingSchema,,,,/league/206914
-204414,error: MissingSchema,,,,/league/204414
-199414,error: MissingSchema,,,,/league/199414
-194414,error: MissingSchema,,,,/league/194414
-189414,error: MissingSchema,,,,/league/189414
-184414,error: MissingSchema,,,,/league/184414
-178823,error: MissingSchema,,,,/league/178823
-174414,error: MissingSchema,,,,/league/174414
-164414,error: MissingSchema,,,,/league/164414
-149414,error: MissingSchema,,,,/league/149414
-134414,error: MissingSchema,,,,/league/134414
-114414,error: MissingSchema,,,,/league/114414
+id,status,title,teams,years,label,url
+220978,ok,League,Ardnaree Sarsfields | Hollymount-Carramore | Béal an Mhuirthead | Moy Davitts | Kilmeena | Breaffy,"2023,2024,2025,2026",McHale Agri Forest Garden Under 21 Football B - Knockout,https://mayogaa.com/league/220978
+220231,ok,League,Knockmore | Westport GAA | Ballina Stephenites,"2023,2024,2025,2026",Michael Walsh Cup  Division 1 - Cup Division 1,https://mayogaa.com/league/220231
+219555,ok,League,Mountbellew/Moylough | Bearna-Na Forbacha | Caherlistrane | Killannin | Dunmore MacHales | Clg Mícheál Breathnach,"2023,2024,2025,2026",FBD Under 16  - Group 2,https://mayogaa.com/league/219555
+219439,ok,League,"Milltown | Carna-Caiseal/Na Piarsaigh | Cumann Peile Naomh Anna, Leitir Móir | Kilkerrin-Clonberne | Northern Gaels | Kilconly","2023,2024,2025,2026",U19 C Football Championship,https://mayogaa.com/league/219439
+219191,ok,League,Kilmeena | Shrule/Glencorrib | St. Gerards | CLG ACLA,"2023,2024,2025,2026",Homeland U15 Autumn League - League Division 4,https://mayogaa.com/league/219191
+219160,ok,League,Davitts GAA Club | Balla,"2023,2024,2025,2026",Homeland U13 Autumn Leagues - Cup Division 5,https://mayogaa.com/league/219160
+219143,ok,League,Swinford B | Claremorris B | Charlestown Sarsfields B | Aghamore B,"2023,2024,2025,2026",Homeland U13 Development Autumn League - League Division 7,https://mayogaa.com/league/219143
+218822,ok,League,Westport GAA | Ballyhaunis | Claremorris,"2023,2024,2025,2026",Homeland U14 Hurling Championship - Group 2,https://mayogaa.com/league/218822
+217850,ok,League,,"2023,2024,2025,2026",Senior C Hurling,https://mayogaa.com/league/217850
+217524,ok,League,Crossmolina Deel Rovers | Aghamore Gaa | Ballintubber G.A.A. Club | Mayo Gaels,"2023,2024,2025,2026",Connacht Gold Senior Club Championship - Group 3,https://mayogaa.com/league/217524
+217175,ok,League,Kilmeena | Moy Davitts | Louisburgh | Shrule/Glencorrib,"2023,2024,2025,2026",Homeland Mayo GAA U16 C Championship Shield Finals 2026,https://mayogaa.com/league/217175
+217158,ok,League,Moy Davitts | Swinford | Knockmore,"2023,2024,2025,2026",Homeland Mayo GAA U14 C Championship Shield Finals 2026,https://mayogaa.com/league/217158
+217141,ok,League,Moy Davitts | Crossmolina Deel Rovers | Kilmeena | Westport GAA B,"2023,2024,2025,2026",Homeland Mayo GAA Minor D Championship 2026 - Group 2,https://mayogaa.com/league/217141
+217124,ok,League,Charlestown Sarsfields B | The Neale B | Bèal an Mhuirthead B | Castlebar Mitchels C,"2023,2024,2025,2026",Homeland Mayo GAA U14 F Championship 2026 - Group 2,https://mayogaa.com/league/217124
+216696,ok,League,Seamròga Iorrais | Knockmore,"2023,2024,2025,2026",The Junction Restaurant North Mayo Minor D Championship,https://mayogaa.com/league/216696
+216405,ok,League,Ballinrobe | Claremorris,"2023,2024,2025,2026",St Colman's Credit Union South Mayo U16 - Cup Division 1,https://mayogaa.com/league/216405
+216298,ok,League,Parke/Keelogues/Crimlin | Burrishoole | Islandeady | Louisburgh | Kilmeena,"2023,2024,2025,2026",West Mayo U16 Championship - Cup Division 2,https://mayogaa.com/league/216298
+216055,ok,League,Claremorris | The Neale | Aghamore Gaa | Béal an Mhuirthead,"2023,2024,2025,2026",Homeland U14 Leagues 2026 - Cup Division 2,https://mayogaa.com/league/216055
+215987,ok,League,,"2009,2014,2018,2021,2023,2024,2025,2026",Senior ‘A’,https://mayogaa.com/league/215987
+215425,ok,League,St Jarlaths | Balla | Hollymount-Carramore | Kiltimagh,"2023,2024,2025,2026",John West Feile Peil na nOg Maigheo Division 3 - Cup Division 1,https://mayogaa.com/league/215425
+215416,ok,League,Ballina Stephenites | Ballintubber G.A.A. Club | Castlebar Mitchels,"2023,2024,2025,2026",John West Feile Peil na nOg Maigheo - League Division 2,https://mayogaa.com/league/215416
+215383,ok,League,Moy Davitts | Kilmeena | Seamròga Iorrais | Burrishoole,"2023,2024,2025,2026",John West Feile Peil na nOg Maigheo Division 2 - Cup Division 1,https://mayogaa.com/league/215383
+215277,ok,League,Caherlistrane | Salthill-Knocknacarra | Claregalway | Cumann Peile Mhaigh Cuilinn | Cumann Peile Bhearna Na Forbacha | Corofin,"2023,2024,2025,2026",,https://mayogaa.com/league/215277
+215227,ok,League,Aghamore B | Breaffy B | Swinford B | Kilmeena B,"2023,2024,2025,2026",Premier Junior B Championship  - Group 3,https://mayogaa.com/league/215227
+215027,ok,League,Moy Davitts | Charlestown Sarsfields | Aghamore Gaa | Louisburgh | Kilmeena | Islandeady,"2023,2024,2025,2026",Homeland U12 Spring League 2026 - 2 Team Group 2,https://mayogaa.com/league/215027
+214931,ok,League,Lahardane MacHales | Westport B | Swinford | Ardagh | Kilmaine GAA | Kiltimagh,"2023,2024,2025,2026",Abbvie Mayo Senior League Division 4,https://mayogaa.com/league/214931
+214631,ok,League,Oranmore-Maree | Claregalway | Salthill-Knocknacarra | Clg Mícheál Breathnach | Cumann Peile Mhaigh Cuilinn | Killannin,"2023,2024,2025,2026",,https://mayogaa.com/league/214631
+214571,ok,League,Knockmore | Ballina Stephenites,"2023,2024,2025,2026",North Mayo Sweeney Cup Senior and Intermediate Finals  - Cup Division 1,https://mayogaa.com/league/214571
+214414,ok,League,Caltra | Monivea/Abbey GAA Football Club | Cortoon Shamrocks | Mountbellew/Moylough | Headford,"2023,2024,2025,2026",,https://mayogaa.com/league/214414
+213938,ok,League,Tuairín | Caiseal Gaels | Claremorris | Ballina Stephenites | Gaeltacht Iorrais,"2023,2024,2025,2026",Junior Hurling Championship - Group 2,https://mayogaa.com/league/213938
+213767,ok,League,Breaffy | Swinford | Seamròga Iorrais | Parke/Keelogues/Crimlin | Moy Davitts | Knockmore,"2023,2024,2025,2026",Homeland U14 Leagues 2026 - League Division 3,https://mayogaa.com/league/213767
+212162,ok,League,Holy Rosary College Mountbellew | Scoil Mhuire Strokestown | St. Louis Community School,"2023,2024,2025,2026",PPS Juvenile B Football Competition 2025/26- Group 3,https://mayogaa.com/league/212162
+211714,ok,League,Erins Own | Bride Rovers | Newtownshandrum | Kanturk | Valley Rovers | Newcestown,"2023,2024,2025,2026",Division 2 HL,https://mayogaa.com/league/211714
+207508,ok,League,,"2023,2024,2025,2026",Link to View Competition,https://mayogaa.com/league/207508
+189956,ok,League,,"2023,2024,2025,2026",,https://mayogaa.com/league/189956
+188338,ok,League,Glenamaddy Community School | Holy Rosary College Mountbellew,"2023,2024,2025,2026",,https://mayogaa.com/league/188338
+187824,ok,League,"Clifden Community School | Colaiste Cholmcille, Indreabhain | Colaiste Chroi Mhuire Spiddal | St. Mary`s College Galway | Merlin Woods Secondary School","2023,2024,2025,2026",,https://mayogaa.com/league/187824
+186045,ok,League,Caltra | Kilconly | Milltown | Corofin,"2023,2024,2025,2026",,https://mayogaa.com/league/186045
+185183,ok,League,,"2023,2024,2025,2026",,https://mayogaa.com/league/185183
+184272,ok,League,,"2023,2024,2025,2026",,https://mayogaa.com/league/184272
+183667,ok,League,"Naomh Pádraig, An Fháirche | Cárna-Caiseal | Fr Griffin's Éire Óg | Renvyle","2023,2024,2025,2026",,https://mayogaa.com/league/183667
+183226,ok,League,,"2023,2024,2025,2026",,https://mayogaa.com/league/183226
+181881,ok,League,Cumann Peile Bhearna Na Forbacha | Mícheál Breathnach | Oranmore-Maree | St. Michael's,"2023,2024,2025,2026",,https://mayogaa.com/league/181881
+180979,ok,League,Claregalway | An Cheathrú Rua | St. Michael's | Mícheál Breathnach,"2023,2024,2025,2026",,https://mayogaa.com/league/180979
+180483,ok,League,Mícheál Breathnach | St. Michael's | Cumann Peile Bhearna Na Forbacha | An Cheathrú Rua | Carna-Caiseal/Na Piarsaigh | St. James,"2023,2024,2025,2026",,https://mayogaa.com/league/180483
+180000,ok,League,"Naomh Anna, Leitir Móir | An Cheathrú Rua | Carna-Caiseal/Na Piarsaigh | Clifden | Naomh Pádraig, An Fháirche","2023,2024,2025,2026",,https://mayogaa.com/league/180000
+178819,ok,League,Monivea-Abbey | Claregalway | Caltra | Milltown,"2023,2024,2025,2026",,https://mayogaa.com/league/178819

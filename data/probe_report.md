@@ -1,6 +1,6 @@
 # Competition id probe
 
-Run 2026-11-11 14:24 UTC
+Run 2026-11-11 14:27 UTC
 
 ## 1. Discovery on index pages
 
@@ -26,43 +26,68 @@ Run 2026-11-11 14:24 UTC
 
 Discovered 692 ids, range 178819-220978.
 
-## 2. Id probe via 
+## 2. Id probe via https://mayogaa.com
 
-Probing 29 ids.
+Probing 47 ids.
 
-| id | status | years | title |
-|---|---|---|---|
-| 217984 | error: MissingSchema | - | - |
-| 217852 | error: MissingSchema | - | - |
-| 217522 | error: MissingSchema | - | - |
-| 217009 | error: MissingSchema | - | - |
-| 215416 | error: MissingSchema | - | - |
-| 215383 | error: MissingSchema | - | - |
-| 215277 | error: MissingSchema | - | - |
-| 214631 | error: MissingSchema | - | - |
-| 214414 | error: MissingSchema | - | - |
-| 213914 | error: MissingSchema | - | - |
-| 213774 | error: MissingSchema | - | - |
-| 213414 | error: MissingSchema | - | - |
-| 212414 | error: MissingSchema | - | - |
-| 212156 | error: MissingSchema | - | - |
-| 211414 | error: MissingSchema | - | - |
-| 209414 | error: MissingSchema | - | - |
-| 207454 | error: MissingSchema | - | - |
-| 206914 | error: MissingSchema | - | - |
-| 204414 | error: MissingSchema | - | - |
-| 199414 | error: MissingSchema | - | - |
-| 194414 | error: MissingSchema | - | - |
-| 189414 | error: MissingSchema | - | - |
-| 184414 | error: MissingSchema | - | - |
-| 178823 | error: MissingSchema | - | - |
-| 174414 | error: MissingSchema | - | - |
-| 164414 | error: MissingSchema | - | - |
-| 149414 | error: MissingSchema | - | - |
-| 134414 | error: MissingSchema | - | - |
-| 114414 | error: MissingSchema | - | - |
+| id | status | years | title | index label |
+|---|---|---|---|---|
+| 220978 | ok | 2023,2024,2025,2026 | League | McHale Agri Forest Garden Under 21 Football B - Kn |
+| 220231 | ok | 2023,2024,2025,2026 | League | Michael Walsh Cup  Division 1 - Cup Division 1 |
+| 219555 | ok | 2023,2024,2025,2026 | League | FBD Under 16  - Group 2 |
+| 219439 | ok | 2023,2024,2025,2026 | League | U19 C Football Championship |
+| 219191 | ok | 2023,2024,2025,2026 | League | Homeland U15 Autumn League - League Division 4 |
+| 219160 | ok | 2023,2024,2025,2026 | League | Homeland U13 Autumn Leagues - Cup Division 5 |
+| 219143 | ok | 2023,2024,2025,2026 | League | Homeland U13 Development Autumn League - League Di |
+| 218822 | ok | 2023,2024,2025,2026 | League | Homeland U14 Hurling Championship - Group 2 |
+| 217850 | ok | 2023,2024,2025,2026 | League | Senior C Hurling |
+| 217524 | ok | 2023,2024,2025,2026 | League | Connacht Gold Senior Club Championship - Group 3 |
+| 217175 | ok | 2023,2024,2025,2026 | League | Homeland Mayo GAA U16 C Championship Shield Finals |
+| 217158 | ok | 2023,2024,2025,2026 | League | Homeland Mayo GAA U14 C Championship Shield Finals |
+| 217141 | ok | 2023,2024,2025,2026 | League | Homeland Mayo GAA Minor D Championship 2026 - Grou |
+| 217124 | ok | 2023,2024,2025,2026 | League | Homeland Mayo GAA U14 F Championship 2026 - Group  |
+| 216696 | ok | 2023,2024,2025,2026 | League | The Junction Restaurant North Mayo Minor D Champio |
+| 216405 | ok | 2023,2024,2025,2026 | League | St Colman's Credit Union South Mayo U16 - Cup Divi |
+| 216298 | ok | 2023,2024,2025,2026 | League | West Mayo U16 Championship - Cup Division 2 |
+| 216055 | ok | 2023,2024,2025,2026 | League | Homeland U14 Leagues 2026 - Cup Division 2 |
+| 215987 | ok | 2009,2014,2018,2021,2023,2024,2025,2026 | League | Senior ‘A’ |
+| 215425 | ok | 2023,2024,2025,2026 | League | John West Feile Peil na nOg Maigheo Division 3 - C |
+| 215416 | ok | 2023,2024,2025,2026 | League | John West Feile Peil na nOg Maigheo - League Divis |
+| 215383 | ok | 2023,2024,2025,2026 | League | John West Feile Peil na nOg Maigheo Division 2 - C |
+| 215277 | ok | 2023,2024,2025,2026 | League | - |
+| 215227 | ok | 2023,2024,2025,2026 | League | Premier Junior B Championship  - Group 3 |
+| 215027 | ok | 2023,2024,2025,2026 | League | Homeland U12 Spring League 2026 - 2 Team Group 2 |
+| 214931 | ok | 2023,2024,2025,2026 | League | Abbvie Mayo Senior League Division 4 |
+| 214631 | ok | 2023,2024,2025,2026 | League | - |
+| 214571 | ok | 2023,2024,2025,2026 | League | North Mayo Sweeney Cup Senior and Intermediate Fin |
+| 214414 | ok | 2023,2024,2025,2026 | League | - |
+| 213938 | ok | 2023,2024,2025,2026 | League | Junior Hurling Championship - Group 2 |
+| 213767 | ok | 2023,2024,2025,2026 | League | Homeland U14 Leagues 2026 - League Division 3 |
+| 212162 | ok | 2023,2024,2025,2026 | League | PPS Juvenile B Football Competition 2025/26- Group |
+| 211714 | ok | 2023,2024,2025,2026 | League | Division 2 HL |
+| 207508 | ok | 2023,2024,2025,2026 | League | Link to View Competition |
+| 189956 | ok | 2023,2024,2025,2026 | League | - |
+| 188338 | ok | 2023,2024,2025,2026 | League | - |
+| 187824 | ok | 2023,2024,2025,2026 | League | - |
+| 186045 | ok | 2023,2024,2025,2026 | League | - |
+| 185183 | ok | 2023,2024,2025,2026 | League | - |
+| 184272 | ok | 2023,2024,2025,2026 | League | - |
+| 183667 | ok | 2023,2024,2025,2026 | League | - |
+| 183226 | ok | 2023,2024,2025,2026 | League | - |
+| 181881 | ok | 2023,2024,2025,2026 | League | - |
+| 180979 | ok | 2023,2024,2025,2026 | League | - |
+| 180483 | ok | 2023,2024,2025,2026 | League | - |
+| 180000 | ok | 2023,2024,2025,2026 | League | - |
+| 178819 | ok | 2023,2024,2025,2026 | League | - |
 
 ## 3. Which ids carry which season
 
-No dated competitions found - the pages may be JavaScript-rendered, in which case this needs the playwright approach used by scraper.py.
+- **2026**: 47 ids, 178819-220978
+- **2025**: 47 ids, 178819-220978
+- **2024**: 47 ids, 178819-220978
+- **2023**: 47 ids, 178819-220978
+- **2021**: 1 ids, 215987-215987
+- **2018**: 1 ids, 215987-215987
+- **2014**: 1 ids, 215987-215987
+- **2009**: 1 ids, 215987-215987
 
