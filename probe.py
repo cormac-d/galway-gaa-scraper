@@ -1,213 +1,78 @@
-"""Enumerate the seasons the Galway results platform will still serve.
+"""Sweep below the known seasons to see how far back the archive goes.
 
-What the structure probe found
-------------------------------
-The results page (/results/) has no season control at all - only fdate and
-tdate. That is why date-chunking across 2025 returned nothing: the endpoint is
-scoped to the current season whatever dates you hand it. The backfill was never
-going to work that way.
-
-The competitions page is different. It carries:
-
-    <select id="select_level">
-      <option value=""     seasonid="">Select Code</option>
-      <!-- <option value="6929" seasonid="3070">Football</option>
-           <option value="44"   seasonid="3057">Hurling</option> -->
-      <option value="6929" seasonid="3976">Football</option>
-      <option value="44"   seasonid="3958">Hurling</option>
-    </select>
-
-and drives it with
-
-    POST /wp-admin/admin-ajax.php
-        action   = Get_competition_data
-        value    = 6929 (football) | 44 (hurling)
-        seasonid = <season key>
-
-So season is a first-class parameter, 6929 is football, and 3070 is a season
-they previously had live and have since commented out - almost certainly the
-one before 3976.
-
-This script sweeps seasonid, records every season that still returns football
-competitions, and then dates each one by reading real match dates off one of
-its competition pages. That gives a seasonid -> year map, which is all the
-scraper needs to backfill properly.
+The first sweep covered seasonid 2900-4100 and found four football seasons:
+3070 (2023), 3642 (2024), 3831 (2025), 3976 (2026). 2022 would sit below
+3070, outside that range. This looks lower, and dates anything it finds from
+real match dates rather than assuming the numbering is regular.
 """
-
-import os
-import re
-import json
-import time
+import os, re, json, time
 from datetime import datetime
-
 import requests
 from bs4 import BeautifulSoup
 
 BASE = "https://www.galwaygaa.ie"
 AJAX = f"{BASE}/wp-admin/admin-ajax.php"
 FOOTBALL = "6929"
-
-HEADERS = {
-    "User-Agent": "Mozilla/5.0 (compatible; club-archive-research/1.0)",
-    "Accept": "application/json, text/javascript, */*; q=0.01",
-    "X-Requested-With": "XMLHttpRequest",
-    "Referer": f"{BASE}/competitions/",
-}
-
-# Seasons known to exist from the markup: 3976 current football, 3070 the
-# commented-out older one. Sweep generously around both.
-SWEEP = list(range(2900, 4100))
-
-PAUSE = 0.12
-TIMEOUT = 25
-
-session = requests.Session()
-session.headers.update(HEADERS)
+HEAD = {"User-Agent": "Mozilla/5.0 (compatible; club-archive-research/1.0)",
+        "Referer": f"{BASE}/competitions/"}
+s = requests.Session(); s.headers.update(HEAD)
 out = []
 
 
-def w(line=""):
-    out.append(line)
-
-
-def fetch_season(seasonid):
-    """Ask for the football competitions in one season."""
+def comps(sid):
     try:
-        r = session.post(
-            AJAX,
-            data={"action": "Get_competition_data",
-                  "value": FOOTBALL,
-                  "seasonid": str(seasonid)},
-            timeout=TIMEOUT,
-        )
-    except Exception as exc:
-        return None, f"error {type(exc).__name__}"
-    if r.status_code != 200:
-        return None, f"http {r.status_code}"
-    body = r.text.strip()
-    if not body or body in ("0", "-1", "null", "[]", "{}"):
-        return None, "empty"
-    try:
-        return r.json(), "json"
+        r = s.post(AJAX, data={"action": "Get_competition_data",
+                               "value": FOOTBALL, "seasonid": str(sid)},
+                   headers={"X-Requested-With": "XMLHttpRequest"}, timeout=25)
+        html = r.json().get("competition", "") or ""
     except Exception:
-        return body, "text"
+        return {}
+    d = {}
+    for a in BeautifulSoup(html, "html.parser").find_all("a", href=True):
+        m = re.search(r"/league/(\d+)", a["href"])
+        if m:
+            d[int(m.group(1))] = a.get_text(" ", strip=True)
+    return d
 
 
-def ids_and_names(payload):
-    """Pull competition ids and names out of whatever shape came back."""
-    blob = payload if isinstance(payload, str) else json.dumps(payload)
-    ids = sorted({int(i) for i in re.findall(r'"?(?:competition_?id|id)"?\s*[:=]\s*"?(\d{5,7})"?', blob)})
-    if not ids:
-        ids = sorted({int(i) for i in re.findall(r"/league/(\d+)", blob)})
-    names = re.findall(r'"(?:name|competition_name|title)"\s*:\s*"([^"]{4,80})"', blob)
-    return ids, names[:12], len(blob)
-
-
-def date_a_competition(cid):
-    """Read real match dates off a competition page to pin its year."""
+def years(cid):
     try:
-        r = session.get(f"{BASE}/league/{cid}", timeout=TIMEOUT,
-                        headers={"Accept": "text/html"})
+        r = s.get(f"{BASE}/league/{cid}", timeout=25)
     except Exception:
-        return None, None
-    if r.status_code != 200:
-        return None, None
-    soup = BeautifulSoup(r.text, "html.parser")
-
-    # Match rows carry data-date="07 Nov 2026" on this platform.
-    dates = [el.get("data-date") for el in soup.select("[data-date]")
-             if el.get("data-date")]
-    if not dates:
-        dates = re.findall(r"\b\d{1,2}\s+[A-Z][a-z]{2}\s+(?:19|20)\d\d\b", r.text)
-    years = sorted({int(m.group()) for d in dates
-                    for m in [re.search(r"(?:19|20)\d\d", d)] if m})
-
-    title = None
-    for sel in ("h1", "h2", ".comp-name"):
-        el = soup.select_one(sel)
-        if el and el.get_text(strip=True) and el.get_text(strip=True).lower() != "league":
-            title = el.get_text(strip=True)
-            break
-    return years, (title or "")[:90]
+        return []
+    ds = [e.get("data-date") for e in BeautifulSoup(r.text, "html.parser")
+          .select("[data-date]") if e.get("data-date")]
+    return sorted({int(m.group()) for d in ds
+                   for m in [re.search(r"(?:19|20)\d\d", d)] if m})
 
 
 def main():
     os.makedirs("data", exist_ok=True)
-    w("# Season enumeration")
-    w()
-    w(f"Run {datetime.utcnow():%Y-%m-%d %H:%M} UTC")
-    w()
-    w("The results page has no season control, only fdate/tdate, which is why "
-      "date-chunking earlier years returned nothing. The competitions page "
-      "drives a `seasonid` parameter through admin-ajax.php instead. This "
-      "sweeps that parameter for football (value=6929).")
-    w()
-
-    hits = {}
-    for sid in SWEEP:
-        payload, how = fetch_season(sid)
-        time.sleep(PAUSE)
-        if payload is None:
+    found = {}
+    for sid in range(1500, 3100):
+        c = comps(sid)
+        time.sleep(0.08)
+        if not c:
             continue
-        ids, names, size = ids_and_names(payload)
-        if not ids:
-            continue
-        hits[sid] = {"ids": ids, "names": names, "size": size, "how": how}
-        print(f"seasonid {sid}: {len(ids)} competitions ({how}, {size}b)")
-
-    w(f"## Seasons returning football competitions: {len(hits)}")
-    w()
-    if not hits:
-        w("None. Either the parameter needs a nonce or a logged-in session, "
-          "or the endpoint only answers for the live season.")
-    else:
-        w("| seasonid | competitions | id range | sample names |")
-        w("|---|---|---|---|")
-        for sid in sorted(hits):
-            h = hits[sid]
-            rng = f"{min(h['ids'])}-{max(h['ids'])}" if h["ids"] else "-"
-            w(f"| {sid} | {len(h['ids'])} | {rng} | "
-              f"{', '.join(h['names'][:3])[:70]} |")
-    w()
-
-    # ---- date each season ------------------------------------------------
-    w("## Dating each season from real match dates")
-    w()
-    w("| seasonid | competition sampled | match years | title |")
-    w("|---|---|---|---|")
-    season_years = {}
-    for sid in sorted(hits):
-        ids = hits[sid]["ids"]
-        for cid in ids[: min(3, len(ids))]:
-            years, title = date_a_competition(cid)
-            time.sleep(PAUSE)
-            if years:
-                season_years.setdefault(sid, set()).update(years)
-                w(f"| {sid} | {cid} | {','.join(str(y) for y in years)} | {title} |")
+        found[sid] = c
+        print(f"seasonid {sid}: {len(c)} competitions")
+    out.append("# How far back the archive goes\n")
+    out.append(f"Run {datetime.utcnow():%Y-%m-%d %H:%M} UTC\n")
+    out.append(f"Swept seasonid 1500-3099. Football seasons found: {len(found)}\n")
+    out.append("| seasonid | competitions | match years | sample |")
+    out.append("|---|---|---|---|")
+    for sid in sorted(found):
+        ids = sorted(found[sid])
+        ys = []
+        for cid in ids[:4]:
+            ys = years(cid)
+            time.sleep(0.08)
+            if ys:
                 break
-        else:
-            w(f"| {sid} | {ids[0] if ids else '-'} | (no dates found) | |")
-    w()
-
-    w("## Verdict")
-    w()
-    if season_years:
-        for sid in sorted(season_years):
-            ys = sorted(season_years[sid])
-            w(f"- seasonid **{sid}** -> {', '.join(str(y) for y in ys)}")
-        w()
-        w("To backfill, the scraper should request competitions for the "
-          "wanted seasonid, then read each competition page by id, rather "
-          "than driving fdate/tdate on the results page.")
-    else:
-        w("Seasons were listed but none could be dated; the competition "
-          "pages may need the playwright path scraper.py already uses.")
-
-    with open("data/season_report.md", "w", encoding="utf-8") as fh:
-        fh.write("\n".join(out) + "\n")
-    with open("data/seasons_found.json", "w", encoding="utf-8") as fh:
-        json.dump({str(k): v for k, v in hits.items()}, fh, indent=1)
-    print("\n".join(out[-40:]))
+        out.append(f"| {sid} | {len(ids)} | {','.join(map(str, ys)) or '—'} | "
+                   f"{found[sid][ids[0]][:60]} |")
+    open("data/archive_depth.md", "w").write("\n".join(out) + "\n")
+    print("\n".join(out))
 
 
 if __name__ == "__main__":

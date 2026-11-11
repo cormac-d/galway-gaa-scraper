@@ -3,4 +3,4 @@
 # since the county results page only ever serves the current season.
 # Output lands in data/probe_report.md and data/competition_index.csv.
 
-run 4 - sweep seasonid through admin-ajax to enumerate seasons
+run 5 - sweep seasonid 1500-3099 for seasons before 2023
