@@ -61,6 +61,8 @@ KNOWN_2026 = [214414, 214631, 215277, 215383, 215416]
 DATE_RE = re.compile(r"(\d{1,2})[-/ ]([A-Za-z]{3,9}|\d{1,2})[-/ ](\d{2,4})")
 LEAGUE_HREF_RE = re.compile(r"/league/(\d+)")
 
+LABELS = {}
+
 session = requests.Session()
 session.headers.update(HEADERS)
 
@@ -138,6 +140,13 @@ def discover():
             ids = set(int(i) for i in LEAGUE_HREF_RE.findall(html))
             soup = BeautifulSoup(html, "html.parser")
 
+            # Anchor text often names the competition, sometimes with its year.
+            for a in soup.find_all("a", href=LEAGUE_HREF_RE):
+                m = LEAGUE_HREF_RE.search(a.get("href") or "")
+                label = a.get_text(" ", strip=True)
+                if m and label:
+                    LABELS.setdefault(int(m.group(1)), label[:120])
+
             # Does the page offer a season / year selector?
             selectors = []
             for sel in soup.find_all("select"):
@@ -169,7 +178,8 @@ def probe_ids(ids, host):
         time.sleep(PAUSE)
         if not html:
             rows.append({"id": cid, "status": status, "title": "", "teams": "",
-                         "years": "", "url": url})
+                         "years": "", "label": LABELS.get(cid, ""),
+                         "url": url})
             continue
         info = parse_competition(html)
         rows.append({
@@ -178,6 +188,7 @@ def probe_ids(ids, host):
             "title": info["title"],
             "teams": info["teams"],
             "years": ",".join(str(y) for y in info["years"]),
+            "label": LABELS.get(cid, ""),
             "url": url,
         })
         print(f"{cid}: {info['title'][:70]} | years={info['years']}")
@@ -213,15 +224,17 @@ def main():
     # Anchor on the known 2026 ids, then walk backwards in widening steps to
     # find where earlier seasons sit. Geometric spread first: if 2025 is only
     # a few thousand below 2026 we want to know before scanning finely.
-    anchor = min(KNOWN_2026)
-    offsets = [0, 500, 1000, 2000, 3000, 5000, 7500, 10000, 15000, 20000,
-               25000, 30000, 40000, 50000, 65000, 80000, 100000]
-    targets = [anchor - o for o in offsets if anchor - o > 1000]
-    targets += KNOWN_2026
-    targets += random.sample(discovered, min(8, len(discovered))) if discovered else []
+    targets = list(KNOWN_2026)          # calibration: known 2026 ids
+    if discovered:
+        # Spread evenly across everything discovered, so every band the
+        # index pages exposed gets sampled rather than just the newest.
+        ds = sorted(discovered)
+        step = max(1, len(ds) // 40)
+        targets += ds[::step]
+        targets += [ds[0], ds[-1]]
     targets = sorted(set(targets), reverse=True)
 
-    host = os.environ.get("PROBE_HOST", HOSTS[1])   # mayogaa by default
+    host = os.environ.get("PROBE_HOST") or HOSTS[1]   # mayogaa by default
     report.append(f"## 2. Id probe via {host}")
     report.append("")
     report.append(f"Probing {len(targets)} ids.")
@@ -231,15 +244,16 @@ def main():
 
     with open("data/competition_index.csv", "w", newline="", encoding="utf-8") as fh:
         w = csv.DictWriter(fh, fieldnames=["id", "status", "title", "teams",
-                                           "years", "url"])
+                                           "years", "label", "url"])
         w.writeheader()
         w.writerows(rows)
 
-    report.append("| id | status | years | title |")
-    report.append("|---|---|---|---|")
+    report.append("| id | status | years | title | index label |")
+    report.append("|---|---|---|---|---|")
     for r in rows:
         report.append(
-            f"| {r['id']} | {r['status']} | {r['years'] or '-'} | {r['title'][:70] or '-'} |"
+            f"| {r['id']} | {r['status']} | {r['years'] or '-'} | "
+            f"{r['title'][:60] or '-'} | {r.get('label','')[:50] or '-'} |"
         )
     report.append("")
 

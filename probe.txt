@@ -3,4 +3,4 @@
 # since the county results page only ever serves the current season.
 # Output lands in data/probe_report.md and data/competition_index.csv.
 
-run 1
+run 2 - probe the discovered id bands, with the host bug fixed
