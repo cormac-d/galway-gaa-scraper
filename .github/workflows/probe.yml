@@ -49,7 +49,7 @@ jobs:
           set -euo pipefail
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/probe_report.md data/competition_index.csv
+          git add data/
           if git diff --cached --quiet; then
             echo "No change in probe output."
             exit 0

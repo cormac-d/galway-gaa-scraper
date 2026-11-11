@@ -1,283 +1,188 @@
-"""Probe the GAA results platform for archived competitions.
+"""Find out how the GAA results platform exposes earlier seasons.
 
-Background
-----------
-The county results pages (galwaygaa.ie/results/) only ever serve the current
-season, which is why backfilling 2022-2025 through scraper.py produced nothing.
+Why
+---
+galwaygaa.ie/results/ only ever serves the current season, so the 2022-2025
+backfill came back empty. But every competition page on the platform carries
+the strings 2023, 2024, 2025 and 2026, which looks like a season control
+somewhere in the page rather than four years of match dates.
 
-But competitions on this platform are also addressable directly by a numeric
-id, as /league/<id>, and that id is NOT scoped to a county: a Galway
-competition can be read through mayogaa.com, gaacork.ie or any other county
-domain. If those ids are allocated sequentially over time, earlier seasons are
-still sitting there and can be read by id even though the results page will not
-surface them.
+If there is a season parameter, scraper.py needs one extra field and the whole
+backfill works. This script goes looking for it, and reports exactly what it
+finds so the next step is an informed one rather than another guess.
 
-This script tests that. It does two things:
+It dumps:
+  - every <select> and its options, on the results page and a competition page
+  - every form field (name/type/value), which is what the results page is
+    actually driven by
+  - every occurrence of "season" / "year" in the markup, with surrounding
+    context
+  - every link carrying a four-digit year
+  - the real match rows on a competition page, so we can tell a live page from
+    a placeholder
 
-  1. DISCOVERY - loads the county fixtures/results pages and harvests every
-     /league/<id> link it can see, together with any season selector. If the
-     site exposes a season dropdown, we get earlier ids for free and no
-     scanning is needed.
-
-  2. PROBE - samples competition ids across a wide range and records what
-     each one is: competition name, the teams, and the date range of its
-     matches. That maps id -> season, which tells us where 2025 lives.
-
-Output lands in data/ as a CSV index plus a readable report, both committed
-back to the repo so they can be read from git.
-
-Nothing here writes to any GAA system; it issues ordinary GET requests at a
-deliberately gentle rate.
+Output goes to data/structure_report.md, committed back to the repo.
 """
 
 import os
 import re
-import csv
 import json
-import time
-import random
 from datetime import datetime
 
 import requests
 from bs4 import BeautifulSoup
 
-UA = "Mozilla/5.0 (compatible; club-archive-research/1.0)"
-HEADERS = {"User-Agent": UA, "Accept": "text/html,application/xhtml+xml"}
-TIMEOUT = 20
-PAUSE = 0.4          # be polite between requests
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (compatible; club-archive-research/1.0)",
+    "Accept": "text/html,application/xhtml+xml",
+}
+TIMEOUT = 25
 
-# Any of these domains serve the same backend; if one is slow or blocks us we
-# can read the identical competition through another.
-HOSTS = [
-    "https://www.galwaygaa.ie",
-    "https://mayogaa.com",
-    "https://gaacork.ie",
+PAGES = [
+    ("Galway results page", "https://www.galwaygaa.ie/results/"),
+    ("Galway competitions page", "https://www.galwaygaa.ie/competitions/"),
+    ("Galway U19 A Football League (known 2026)", "https://mayogaa.com/league/215277"),
+    ("A low-band id", "https://mayogaa.com/league/180000"),
+    ("A low-band Galway id", "https://www.galwaygaa.ie/league/178819"),
 ]
-
-# Competition ids already known to exist, all from the 2026 season. These
-# anchor the search: whatever numbering scheme is in use, 2025 sits below them.
-KNOWN_2026 = [214414, 214631, 215277, 215383, 215416]
-
-DATE_RE = re.compile(r"(\d{1,2})[-/ ]([A-Za-z]{3,9}|\d{1,2})[-/ ](\d{2,4})")
-LEAGUE_HREF_RE = re.compile(r"/league/(\d+)")
-
-LABELS = {}
 
 session = requests.Session()
 session.headers.update(HEADERS)
+out = []
+
+
+def w(line=""):
+    out.append(line)
 
 
 def get(url):
-    """GET a page, returning text or None. Never raises."""
     try:
         r = session.get(url, timeout=TIMEOUT)
+        return r.text, r.status_code, r.url
     except Exception as exc:
-        return None, f"error: {type(exc).__name__}"
-    if r.status_code != 200:
-        return None, f"http {r.status_code}"
-    return r.text, "ok"
+        return None, f"error {type(exc).__name__}", url
 
 
-def years_in(text):
-    """Pull plausible match years out of a page."""
-    years = set()
-    for m in re.finditer(r"\b(20[0-2]\d)\b", text):
-        y = int(m.group(1))
-        if 2005 <= y <= 2027:
-            years.add(y)
-    return years
-
-
-def parse_competition(html):
-    """Extract competition name, team names and match years from a page."""
-    soup = BeautifulSoup(html, "html.parser")
-
-    title = None
-    for sel in ("h1", "h2", ".comp-name", ".competition-title", "title"):
-        el = soup.select_one(sel)
-        if el and el.get_text(strip=True):
-            title = el.get_text(strip=True)
-            break
-
-    # Teams tend to appear in the standings table's first column.
-    teams = []
-    for row in soup.select("table tr"):
-        cells = row.find_all(["td", "th"])
-        if cells:
-            t = cells[0].get_text(strip=True)
-            if t and len(t) < 60 and not t.lower().startswith(("pos", "#", "team")):
-                teams.append(t)
-    teams = [t for t in teams if t][:6]
-
-    text = soup.get_text(" ", strip=True)
-    return {
-        "title": (title or "")[:160],
-        "teams": " | ".join(teams)[:300],
-        "years": sorted(years_in(text)),
-        "chars": len(text),
-    }
-
-
-def discover():
-    """Harvest competition ids and any season selector from index pages."""
-    found = {}
-    notes = []
-    index_paths = [
-        "/fixtures-results/",
-        "/fixtures-and-results/",
-        "/results/",
-        "/competitions/",
-    ]
-    for host in HOSTS:
-        for path in index_paths:
-            url = host + path
-            html, status = get(url)
-            time.sleep(PAUSE)
-            if not html:
-                notes.append(f"{url} -> {status}")
-                continue
-
-            ids = set(int(i) for i in LEAGUE_HREF_RE.findall(html))
-            soup = BeautifulSoup(html, "html.parser")
-
-            # Anchor text often names the competition, sometimes with its year.
-            for a in soup.find_all("a", href=LEAGUE_HREF_RE):
-                m = LEAGUE_HREF_RE.search(a.get("href") or "")
-                label = a.get_text(" ", strip=True)
-                if m and label:
-                    LABELS.setdefault(int(m.group(1)), label[:120])
-
-            # Does the page offer a season / year selector?
-            selectors = []
-            for sel in soup.find_all("select"):
-                name = (sel.get("name") or sel.get("id") or "").lower()
-                opts = [o.get_text(strip=True) for o in sel.find_all("option")][:30]
-                if any(re.fullmatch(r"20\d\d", o or "") for o in opts) or \
-                   any(k in name for k in ("season", "year")):
-                    selectors.append({"name": name, "options": opts})
-
-            notes.append(
-                f"{url} -> ok, {len(ids)} league ids, {len(selectors)} season selector(s)"
-            )
-            if selectors:
-                notes.append("    selectors: " + json.dumps(selectors)[:800])
-            if ids:
-                found.setdefault(host, set()).update(ids)
-                notes.append(
-                    f"    id range {min(ids)}-{max(ids)} (sample {sorted(ids)[:8]})"
-                )
-    return found, notes
-
-
-def probe_ids(ids, host):
-    """Fetch each competition id and describe it."""
+def dump_selects(soup):
     rows = []
-    for cid in ids:
-        url = f"{host}/league/{cid}"
-        html, status = get(url)
-        time.sleep(PAUSE)
-        if not html:
-            rows.append({"id": cid, "status": status, "title": "", "teams": "",
-                         "years": "", "label": LABELS.get(cid, ""),
-                         "url": url})
-            continue
-        info = parse_competition(html)
+    for sel in soup.find_all("select"):
+        name = sel.get("name") or sel.get("id") or "(unnamed)"
+        opts = [(o.get("value"), o.get_text(strip=True))
+                for o in sel.find_all("option")][:40]
+        rows.append((name, opts))
+    return rows
+
+
+def dump_inputs(soup):
+    rows = []
+    for inp in soup.find_all(["input", "button"]):
         rows.append({
-            "id": cid,
-            "status": "ok" if info["chars"] > 400 else "thin",
-            "title": info["title"],
-            "teams": info["teams"],
-            "years": ",".join(str(y) for y in info["years"]),
-            "label": LABELS.get(cid, ""),
-            "url": url,
+            "tag": inp.name,
+            "type": inp.get("type"),
+            "name": inp.get("name"),
+            "id": inp.get("id"),
+            "value": (inp.get("value") or "")[:40],
         })
-        print(f"{cid}: {info['title'][:70]} | years={info['years']}")
+    return rows[:60]
+
+
+def context_hits(html, word, limit=12, pad=110):
+    hits = []
+    for m in re.finditer(word, html, re.I):
+        a, b = max(0, m.start() - pad), min(len(html), m.end() + pad)
+        frag = re.sub(r"\s+", " ", html[a:b])
+        hits.append(frag)
+        if len(hits) >= limit:
+            break
+    return hits
+
+
+def year_links(soup):
+    found = []
+    for a in soup.find_all("a", href=True):
+        href = a["href"]
+        if re.search(r"(19|20)\d\d", href) and len(href) < 220:
+            found.append((a.get_text(" ", strip=True)[:60], href[:200]))
+    # de-duplicate, keep order
+    seen, uniq = set(), []
+    for t, h in found:
+        if h not in seen:
+            seen.add(h)
+            uniq.append((t, h))
+    return uniq[:40]
+
+
+def match_rows(soup):
+    """The results page marks matches up as ul.table-body.results with
+    data- attributes; competition pages use plain tables."""
+    rows = []
+    for el in soup.select("ul.table-body.results")[:5]:
+        rows.append({k: v for k, v in el.attrs.items()
+                     if k.startswith("data-")})
+    if not rows:
+        for tr in soup.select("table tr")[:8]:
+            cells = [td.get_text(" ", strip=True)[:40]
+                     for td in tr.find_all(["td", "th"])]
+            if any(cells):
+                rows.append(cells)
     return rows
 
 
 def main():
     os.makedirs("data", exist_ok=True)
-    report = []
-    report.append("# Competition id probe")
-    report.append("")
-    report.append(f"Run {datetime.utcnow():%Y-%m-%d %H:%M} UTC")
-    report.append("")
+    w("# Platform structure probe")
+    w()
+    w(f"Run {datetime.utcnow():%Y-%m-%d %H:%M} UTC")
+    w()
+    w("Looking for whatever controls the season, so the backfill can ask for "
+      "one. Each page below is reported in full: controls, season/year "
+      "mentions, year-bearing links, and a sample of real match rows.")
+    w()
 
-    # ---- 1. discovery -----------------------------------------------------
-    report.append("## 1. Discovery on index pages")
-    report.append("")
-    found, notes = discover()
-    report.extend("- " + n for n in notes)
-    report.append("")
+    for label, url in PAGES:
+        w(f"## {label}")
+        w()
+        w(f"`{url}`")
+        w()
+        html, status, final = get(url)
+        if html is None:
+            w(f"- **{status}**")
+            w()
+            continue
+        w(f"- status {status}, {len(html):,} bytes, final url `{final}`")
+        soup = BeautifulSoup(html, "html.parser")
 
-    discovered = sorted({i for s in found.values() for i in s})
-    if discovered:
-        report.append(
-            f"Discovered {len(discovered)} ids, range "
-            f"{min(discovered)}-{max(discovered)}."
-        )
-    else:
-        report.append("No ids discovered from index pages.")
-    report.append("")
+        sels = dump_selects(soup)
+        w(f"- {len(sels)} select element(s)")
+        for name, opts in sels:
+            shown = ", ".join(f"{v!r}:{t!r}" for v, t in opts[:14])
+            w(f"    - **{name}** -> {shown}")
 
-    # ---- 2. probe ---------------------------------------------------------
-    # Anchor on the known 2026 ids, then walk backwards in widening steps to
-    # find where earlier seasons sit. Geometric spread first: if 2025 is only
-    # a few thousand below 2026 we want to know before scanning finely.
-    targets = list(KNOWN_2026)          # calibration: known 2026 ids
-    if discovered:
-        # Spread evenly across everything discovered, so every band the
-        # index pages exposed gets sampled rather than just the newest.
-        ds = sorted(discovered)
-        step = max(1, len(ds) // 40)
-        targets += ds[::step]
-        targets += [ds[0], ds[-1]]
-    targets = sorted(set(targets), reverse=True)
+        inputs = dump_inputs(soup)
+        named = [i for i in inputs if i["name"]]
+        w(f"- {len(named)} named form field(s): "
+          + ", ".join(f"{i['name']}({i['type']})" for i in named[:20]))
 
-    host = os.environ.get("PROBE_HOST") or HOSTS[1]   # mayogaa by default
-    report.append(f"## 2. Id probe via {host}")
-    report.append("")
-    report.append(f"Probing {len(targets)} ids.")
-    report.append("")
+        for word in ("season", "year"):
+            hits = context_hits(html, word)
+            w(f"- {len(hits)} '{word}' mention(s) shown:")
+            for h in hits:
+                w(f"    - `{h}`")
 
-    rows = probe_ids(targets, host)
+        yl = year_links(soup)
+        w(f"- {len(yl)} link(s) containing a year:")
+        for t, h in yl[:20]:
+            w(f"    - {t or '(no text)'} -> `{h}`")
 
-    with open("data/competition_index.csv", "w", newline="", encoding="utf-8") as fh:
-        w = csv.DictWriter(fh, fieldnames=["id", "status", "title", "teams",
-                                           "years", "label", "url"])
-        w.writeheader()
-        w.writerows(rows)
+        mr = match_rows(soup)
+        w(f"- {len(mr)} sample content row(s):")
+        for r in mr:
+            w(f"    - `{json.dumps(r)[:400]}`")
+        w()
 
-    report.append("| id | status | years | title | index label |")
-    report.append("|---|---|---|---|---|")
-    for r in rows:
-        report.append(
-            f"| {r['id']} | {r['status']} | {r['years'] or '-'} | "
-            f"{r['title'][:60] or '-'} | {r.get('label','')[:50] or '-'} |"
-        )
-    report.append("")
-
-    # ---- 3. read the result ----------------------------------------------
-    by_year = {}
-    for r in rows:
-        for y in (r["years"] or "").split(","):
-            if y:
-                by_year.setdefault(int(y), []).append(r["id"])
-    report.append("## 3. Which ids carry which season")
-    report.append("")
-    if by_year:
-        for y in sorted(by_year, reverse=True):
-            ids = sorted(by_year[y])
-            report.append(f"- **{y}**: {len(ids)} ids, {min(ids)}-{max(ids)}")
-    else:
-        report.append("No dated competitions found - the pages may be "
-                      "JavaScript-rendered, in which case this needs the "
-                      "playwright approach used by scraper.py.")
-    report.append("")
-
-    with open("data/probe_report.md", "w", encoding="utf-8") as fh:
-        fh.write("\n".join(report) + "\n")
-    print("\n".join(report[-30:]))
+    with open("data/structure_report.md", "w", encoding="utf-8") as fh:
+        fh.write("\n".join(out) + "\n")
+    print("\n".join(out))
 
 
 if __name__ == "__main__":
