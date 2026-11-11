@@ -3,4 +3,4 @@
 # competition is read by id. See backfill.py for why the results page
 # cannot do this.
 
-run 1 - 2023, 2024, 2025
+run 2 - standings for 2023-2025, plus recon for the match endpoint
