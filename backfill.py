@@ -4,16 +4,19 @@ Why the results page could not do this
 --------------------------------------
 scraper.py drives fdate/tdate on /results/. That page has no season control,
 so it answers for the live season whatever dates you give it - which is why
-asking it for 2022-2025 returned nothing. It was the wrong door, not a bug.
+asking it for 2022-2025 returned nothing. Wrong door, not a bug.
 
-The competitions page uses a different route:
-
+The route that works
+--------------------
     POST /wp-admin/admin-ajax.php
         action   = Get_competition_data
         value    = 6929        (football; 44 is hurling)
         seasonid = <season key>
 
-Sweeping seasonid found four seasons still served, each confirmed from match
+returns {"groups": [...], "competition": "<html list of competitions>"}, where
+the HTML holds one <a href=".../league/<id>">Name</a> per competition.
+
+Sweeping seasonid found four seasons still served, each dated from real match
 dates on its own competition pages:
 
     3070 -> 2023 (209 competitions)
@@ -21,16 +24,15 @@ dates on its own competition pages:
     3831 -> 2025 (262)
     3976 -> 2026 (205)
 
-What a competition page actually serves
----------------------------------------
-Only the standings table is server-rendered: Team, Pld, W, D, L, PF, PA, PD,
-Pts. The match list is loaded client-side, which is why the first attempt at
-this found nothing.
+Each /league/<id> page then carries its matches as data- attributes, exactly
+the shape scraper.py already parses from the results page: data-date,
+data-hometeam, data-homescore, data-venue, data-compname and the rest. So the
+output below keeps scraper.py's schema and analyse.py needs no change.
 
-Standings are still most of what the review needs - games played, won and
-lost, scores for and against, and final position, per club per competition per
-season. So this takes them, and at the same time dumps the page's AJAX wiring
-so the match-level endpoint can be found next.
+One trap worth recording: the JSON escapes forward slashes, so the hrefs come
+back as "https:\\/\\/www.galwaygaa.ie\\/league\\/189937". A regex for
+"/league/(\\d+)" against the raw body matches nothing. Parse the JSON first,
+then read the HTML it contains.
 """
 
 import os
@@ -56,17 +58,16 @@ HEADERS = {
 PAUSE = 0.2
 TIMEOUT = 30
 
-FIELDS = ["Season", "Competition_Id", "Competition", "Position", "Team",
-          "Played", "Won", "Drawn", "Lost", "Points_For", "Points_Against",
-          "Difference", "League_Points", "Scraped_At"]
+FIELDS = ["Date", "Time", "Competition", "Home_Team", "Home_Score",
+          "Away_Score", "Away_Team", "Venue", "Referee", "Match_Status",
+          "Scraped_At"]
 
 session = requests.Session()
 session.headers.update(HEADERS)
-recon = []
 
 
 def competitions_for(seasonid):
-    """Competition ids and names in one season."""
+    """{competition_id: name} for one season."""
     try:
         r = session.post(
             AJAX,
@@ -77,94 +78,92 @@ def competitions_for(seasonid):
         )
     except Exception as exc:
         print(f"  seasonid {seasonid}: {type(exc).__name__}")
-        return {}, ""
+        return {}
     if r.status_code != 200:
         print(f"  seasonid {seasonid}: http {r.status_code}")
-        return {}, ""
+        return {}
 
-    blob = r.text
-    names = {}
-    # Try to pair ids with names out of whatever JSON shape comes back.
+    # The competition list arrives as HTML inside a JSON field. Parsing the
+    # JSON first is what unescapes the hrefs.
     try:
-        data = r.json()
-        stack = [data]
-        while stack:
-            node = stack.pop()
-            if isinstance(node, dict):
-                cid = node.get("competition_id") or node.get("id")
-                nm = (node.get("name") or node.get("competition_name")
-                      or node.get("title"))
-                if cid and str(cid).isdigit() and nm:
-                    names[int(cid)] = str(nm).strip()
-                stack.extend(node.values())
-            elif isinstance(node, list):
-                stack.extend(node)
+        html = r.json().get("competition", "") or ""
     except Exception:
-        pass
+        html = r.text.replace("\\/", "/")
 
-    ids = {int(i) for i in re.findall(
-        r'"?(?:competition_?id|id)"?\s*[:=]\s*"?(\d{5,7})"?', blob)}
-    if not ids:
-        ids = {int(i) for i in re.findall(r"/league/(\d+)", blob)}
-    for i in ids:
-        names.setdefault(i, "")
-    return names, blob[:1500]
-
-
-HDR = ("team", "pld", "w", "d", "l")
+    out = {}
+    for a in BeautifulSoup(html, "html.parser").find_all("a", href=True):
+        m = re.search(r"/league/(\d+)", a["href"])
+        if m:
+            out[int(m.group(1))] = a.get_text(" ", strip=True)
+    return out
 
 
-def standings_and_recon(cid):
-    """Standings rows from a competition page, plus its AJAX wiring."""
+def matches_in(cid):
+    """Every match on one competition page, in scraper.py's schema."""
     try:
         r = session.get(f"{BASE}/league/{cid}", timeout=TIMEOUT)
     except Exception:
-        return [], None, []
+        return []
     if r.status_code != 200:
-        return [], None, []
-    html = r.text
-    soup = BeautifulSoup(html, "html.parser")
-
-    # Competition name: the <title> is more specific than any heading here.
-    title = ""
-    if soup.title and soup.title.get_text(strip=True):
-        title = re.sub(r"\s*[-|]\s*(Galway GAA|GAA).*$", "",
-                       soup.title.get_text(strip=True)).strip()
-    if not title or title.lower() in ("league", "competition"):
-        for sel in ("h1", "h2", ".comp-name"):
-            el = soup.select_one(sel)
-            t = el.get_text(strip=True) if el else ""
-            if t and t.lower() not in ("league", "fixtures", "results"):
-                title = t
-                break
+        return []
 
     rows = []
-    for table in soup.find_all("table"):
-        trs = table.find_all("tr")
-        if len(trs) < 2:
-            continue
-        head = [c.get_text(strip=True).lower()
-                for c in trs[0].find_all(["th", "td"])]
-        if len(head) < 5 or not head[0].startswith("team"):
-            continue
-        for pos, tr in enumerate(trs[1:], 1):
-            cells = [c.get_text(strip=True) for c in tr.find_all(["td", "th"])]
-            if len(cells) < 9 or not cells[0]:
-                continue
-            rows.append({
-                "Competition_Id": cid,
-                "Competition": title,
-                "Position": pos,
-                "Team": cells[0],
-                "Played": cells[1], "Won": cells[2], "Drawn": cells[3],
-                "Lost": cells[4], "Points_For": cells[5],
-                "Points_Against": cells[6], "Difference": cells[7],
-                "League_Points": cells[8],
-            })
+    for el in BeautifulSoup(r.text, "html.parser").select("[data-hometeam]"):
+        g = el.get
+        home_s, away_s = g("data-homescore"), g("data-awayscore")
+        rows.append({
+            "Date": g("data-date") or "",
+            "Time": g("data-time") or "",
+            "Competition": (g("data-compname") or "").strip(),
+            "Home_Team": g("data-hometeam") or "",
+            # Leading apostrophe stops a spreadsheet reading 2-6 as a date,
+            # matching what scraper.py writes.
+            "Home_Score": f"'{home_s}" if home_s else "",
+            "Away_Score": f"'{away_s}" if away_s else "",
+            "Away_Team": g("data-awayteam") or "",
+            "Venue": g("data-venue") or "",
+            "Referee": g("data-referee") or "",
+            "Match_Status": g("data-comment") or "",
+            "Scraped_At": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+        })
+    return rows
 
-    # Recon: what AJAX actions does this page use? One of them loads matches.
-    actions = sorted(set(re.findall(r'action\s*:\s*["\']([A-Za-z_]{4,40})["\']', html)))
-    return rows, title, actions
+
+def scrape_season(seasonid, year):
+    print(f"\n=== season {year} (seasonid {seasonid}) ===")
+    comps = competitions_for(seasonid)
+    print(f"  {len(comps)} competitions")
+    time.sleep(PAUSE)
+
+    all_rows, skipped = [], 0
+    for n, (cid, name) in enumerate(sorted(comps.items()), 1):
+        if "hurling" in name.lower() or "camogie" in name.lower():
+            skipped += 1
+            continue
+        rows = matches_in(cid)
+        time.sleep(PAUSE)
+        for r in rows:
+            if not r["Competition"]:
+                r["Competition"] = name
+        # Some competitions are mixed-code listings; filter per row too.
+        rows = [r for r in rows
+                if "hurling" not in r["Competition"].lower()
+                and "camogie" not in r["Competition"].lower()]
+        all_rows.extend(rows)
+        if n % 50 == 0:
+            print(f"  {n}/{len(comps)} competitions, {len(all_rows)} matches")
+
+    seen, uniq = set(), []
+    for r in all_rows:
+        key = (r["Date"], r["Time"], r["Home_Team"], r["Away_Team"])
+        if key in seen:
+            continue
+        seen.add(key)
+        uniq.append(r)
+
+    print(f"  -> {len(uniq)} football matches ({skipped} hurling/camogie "
+          f"competitions skipped)")
+    return uniq
 
 
 def main():
@@ -173,71 +172,39 @@ def main():
               os.environ.get("BACKFILL_YEARS", "2023 2024 2025").split()
               if y.isdigit()}
 
-    summary, all_actions, sample_payload = [], set(), ""
-
+    summary = []
     for seasonid, year in sorted(SEASONS.items()):
         if year not in wanted:
             continue
-        print(f"\n=== season {year} (seasonid {seasonid}) ===")
-        names, payload = competitions_for(seasonid)
-        if year == min(wanted):
-            sample_payload = payload
-        print(f"  {len(names)} competitions")
-        time.sleep(PAUSE)
-
-        rows = []
-        for n, cid in enumerate(sorted(names), 1):
-            srows, title, actions = standings_and_recon(cid)
-            all_actions.update(actions)
-            time.sleep(PAUSE)
-            if not srows:
-                continue
-            name = (title or names.get(cid) or "").lower()
-            if "hurling" in name or "camogie" in name:
-                continue
-            for r in srows:
-                r["Season"] = year
-                r["Competition"] = r["Competition"] or names.get(cid, "")
-                r["Scraped_At"] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-            rows.extend(srows)
-            if n % 50 == 0:
-                print(f"  {n}/{len(names)}, {len(rows)} standings rows")
-
+        rows = scrape_season(seasonid, year)
         if not rows:
             summary.append(f"- **{year}**: nothing returned")
             continue
-        path = f"data/standings_{year}.csv"
+        path = f"data/season_{year}.csv"
         with open(path, "w", newline="", encoding="utf-8-sig") as fh:
             w = csv.DictWriter(fh, fieldnames=FIELDS)
             w.writeheader()
             w.writerows(rows)
-        comps = len({r["Competition_Id"] for r in rows})
-        teams = len({r["Team"] for r in rows})
-        mc = [r for r in rows if "Mhaigh Cuilinn" in r["Team"]
-              or "Maigh Cuilinn" in r["Team"] or "Moycullen" in r["Team"]]
+        comps = len({r["Competition"] for r in rows})
+        dates = sorted(d for d in (r["Date"] for r in rows) if d)
+        mc = sum(1 for r in rows
+                 if "Mhaigh Cuilinn" in (r["Home_Team"] + r["Away_Team"])
+                 or "Maigh Cuilinn" in (r["Home_Team"] + r["Away_Team"]))
         summary.append(
-            f"- **{year}**: {len(rows)} standings rows, {comps} competitions, "
-            f"{teams} teams — {len(mc)} Moycullen entries"
+            f"- **{year}**: {len(rows)} matches, {comps} competitions, "
+            f"{mc} involving Moycullen"
+            + (f" ({dates[0]} to {dates[-1]})" if dates else "")
         )
         print(f"  wrote {path}")
 
     with open("data/backfill_report.md", "w", encoding="utf-8") as fh:
-        fh.write("# Backfill — standings by season\n\n")
+        fh.write("# Backfill\n\n")
         fh.write(f"Run {datetime.utcnow():%Y-%m-%d %H:%M} UTC\n\n")
-        fh.write("Competition pages server-render only the standings table; "
-                 "the match list loads client-side. Standings still give "
-                 "played, won, lost, scores for and against and final "
-                 "position per club per competition per season.\n\n")
-        fh.write("\n".join(summary) + "\n\n")
-        fh.write("## Recon for match-level data\n\n")
-        fh.write("AJAX actions seen on competition pages:\n\n")
-        for a in sorted(all_actions):
-            fh.write(f"- `{a}`\n")
-        fh.write("\n## Sample competition-list payload\n\n```\n")
-        fh.write((sample_payload or "(none)")[:1200])
-        fh.write("\n```\n")
+        fh.write("Seasons are requested by seasonid through admin-ajax.php, "
+                 "then each competition is read by id. The results page "
+                 "cannot do this: it has no season control.\n\n")
+        fh.write("\n".join(summary) + "\n")
     print("\n" + "\n".join(summary))
-    print("actions:", sorted(all_actions))
 
 
 if __name__ == "__main__":

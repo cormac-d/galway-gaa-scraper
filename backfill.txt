@@ -3,4 +3,4 @@
 # competition is read by id. See backfill.py for why the results page
 # cannot do this.
 
-run 2 - standings for 2023-2025, plus recon for the match endpoint
+run 3 - parse the JSON before the hrefs; take match-level data
