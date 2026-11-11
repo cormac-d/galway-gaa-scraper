@@ -1,0 +1,6 @@
+# Editing this file on main runs the competition id probe.
+# The probe asks whether earlier seasons are readable by competition id,
+# since the county results page only ever serves the current season.
+# Output lands in data/probe_report.md and data/competition_index.csv.
+
+run 1
