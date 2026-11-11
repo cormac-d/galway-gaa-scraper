@@ -1,50 +1,65 @@
-"""Find out how the GAA results platform exposes earlier seasons.
+"""Enumerate the seasons the Galway results platform will still serve.
 
-Why
----
-galwaygaa.ie/results/ only ever serves the current season, so the 2022-2025
-backfill came back empty. But every competition page on the platform carries
-the strings 2023, 2024, 2025 and 2026, which looks like a season control
-somewhere in the page rather than four years of match dates.
+What the structure probe found
+------------------------------
+The results page (/results/) has no season control at all - only fdate and
+tdate. That is why date-chunking across 2025 returned nothing: the endpoint is
+scoped to the current season whatever dates you hand it. The backfill was never
+going to work that way.
 
-If there is a season parameter, scraper.py needs one extra field and the whole
-backfill works. This script goes looking for it, and reports exactly what it
-finds so the next step is an informed one rather than another guess.
+The competitions page is different. It carries:
 
-It dumps:
-  - every <select> and its options, on the results page and a competition page
-  - every form field (name/type/value), which is what the results page is
-    actually driven by
-  - every occurrence of "season" / "year" in the markup, with surrounding
-    context
-  - every link carrying a four-digit year
-  - the real match rows on a competition page, so we can tell a live page from
-    a placeholder
+    <select id="select_level">
+      <option value=""     seasonid="">Select Code</option>
+      <!-- <option value="6929" seasonid="3070">Football</option>
+           <option value="44"   seasonid="3057">Hurling</option> -->
+      <option value="6929" seasonid="3976">Football</option>
+      <option value="44"   seasonid="3958">Hurling</option>
+    </select>
 
-Output goes to data/structure_report.md, committed back to the repo.
+and drives it with
+
+    POST /wp-admin/admin-ajax.php
+        action   = Get_competition_data
+        value    = 6929 (football) | 44 (hurling)
+        seasonid = <season key>
+
+So season is a first-class parameter, 6929 is football, and 3070 is a season
+they previously had live and have since commented out - almost certainly the
+one before 3976.
+
+This script sweeps seasonid, records every season that still returns football
+competitions, and then dates each one by reading real match dates off one of
+its competition pages. That gives a seasonid -> year map, which is all the
+scraper needs to backfill properly.
 """
 
 import os
 import re
 import json
+import time
 from datetime import datetime
 
 import requests
 from bs4 import BeautifulSoup
 
+BASE = "https://www.galwaygaa.ie"
+AJAX = f"{BASE}/wp-admin/admin-ajax.php"
+FOOTBALL = "6929"
+
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (compatible; club-archive-research/1.0)",
-    "Accept": "text/html,application/xhtml+xml",
+    "Accept": "application/json, text/javascript, */*; q=0.01",
+    "X-Requested-With": "XMLHttpRequest",
+    "Referer": f"{BASE}/competitions/",
 }
-TIMEOUT = 25
 
-PAGES = [
-    ("Galway results page", "https://www.galwaygaa.ie/results/"),
-    ("Galway competitions page", "https://www.galwaygaa.ie/competitions/"),
-    ("Galway U19 A Football League (known 2026)", "https://mayogaa.com/league/215277"),
-    ("A low-band id", "https://mayogaa.com/league/180000"),
-    ("A low-band Galway id", "https://www.galwaygaa.ie/league/178819"),
-]
+# Seasons known to exist from the markup: 3976 current football, 3070 the
+# commented-out older one. Sweep generously around both.
+SWEEP = list(range(2900, 4100))
+
+PAUSE = 0.12
+TIMEOUT = 25
 
 session = requests.Session()
 session.headers.update(HEADERS)
@@ -55,134 +70,144 @@ def w(line=""):
     out.append(line)
 
 
-def get(url):
+def fetch_season(seasonid):
+    """Ask for the football competitions in one season."""
     try:
-        r = session.get(url, timeout=TIMEOUT)
-        return r.text, r.status_code, r.url
+        r = session.post(
+            AJAX,
+            data={"action": "Get_competition_data",
+                  "value": FOOTBALL,
+                  "seasonid": str(seasonid)},
+            timeout=TIMEOUT,
+        )
     except Exception as exc:
-        return None, f"error {type(exc).__name__}", url
+        return None, f"error {type(exc).__name__}"
+    if r.status_code != 200:
+        return None, f"http {r.status_code}"
+    body = r.text.strip()
+    if not body or body in ("0", "-1", "null", "[]", "{}"):
+        return None, "empty"
+    try:
+        return r.json(), "json"
+    except Exception:
+        return body, "text"
 
 
-def dump_selects(soup):
-    rows = []
-    for sel in soup.find_all("select"):
-        name = sel.get("name") or sel.get("id") or "(unnamed)"
-        opts = [(o.get("value"), o.get_text(strip=True))
-                for o in sel.find_all("option")][:40]
-        rows.append((name, opts))
-    return rows
+def ids_and_names(payload):
+    """Pull competition ids and names out of whatever shape came back."""
+    blob = payload if isinstance(payload, str) else json.dumps(payload)
+    ids = sorted({int(i) for i in re.findall(r'"?(?:competition_?id|id)"?\s*[:=]\s*"?(\d{5,7})"?', blob)})
+    if not ids:
+        ids = sorted({int(i) for i in re.findall(r"/league/(\d+)", blob)})
+    names = re.findall(r'"(?:name|competition_name|title)"\s*:\s*"([^"]{4,80})"', blob)
+    return ids, names[:12], len(blob)
 
 
-def dump_inputs(soup):
-    rows = []
-    for inp in soup.find_all(["input", "button"]):
-        rows.append({
-            "tag": inp.name,
-            "type": inp.get("type"),
-            "name": inp.get("name"),
-            "id": inp.get("id"),
-            "value": (inp.get("value") or "")[:40],
-        })
-    return rows[:60]
+def date_a_competition(cid):
+    """Read real match dates off a competition page to pin its year."""
+    try:
+        r = session.get(f"{BASE}/league/{cid}", timeout=TIMEOUT,
+                        headers={"Accept": "text/html"})
+    except Exception:
+        return None, None
+    if r.status_code != 200:
+        return None, None
+    soup = BeautifulSoup(r.text, "html.parser")
 
+    # Match rows carry data-date="07 Nov 2026" on this platform.
+    dates = [el.get("data-date") for el in soup.select("[data-date]")
+             if el.get("data-date")]
+    if not dates:
+        dates = re.findall(r"\b\d{1,2}\s+[A-Z][a-z]{2}\s+(?:19|20)\d\d\b", r.text)
+    years = sorted({int(m.group()) for d in dates
+                    for m in [re.search(r"(?:19|20)\d\d", d)] if m})
 
-def context_hits(html, word, limit=12, pad=110):
-    hits = []
-    for m in re.finditer(word, html, re.I):
-        a, b = max(0, m.start() - pad), min(len(html), m.end() + pad)
-        frag = re.sub(r"\s+", " ", html[a:b])
-        hits.append(frag)
-        if len(hits) >= limit:
+    title = None
+    for sel in ("h1", "h2", ".comp-name"):
+        el = soup.select_one(sel)
+        if el and el.get_text(strip=True) and el.get_text(strip=True).lower() != "league":
+            title = el.get_text(strip=True)
             break
-    return hits
-
-
-def year_links(soup):
-    found = []
-    for a in soup.find_all("a", href=True):
-        href = a["href"]
-        if re.search(r"(19|20)\d\d", href) and len(href) < 220:
-            found.append((a.get_text(" ", strip=True)[:60], href[:200]))
-    # de-duplicate, keep order
-    seen, uniq = set(), []
-    for t, h in found:
-        if h not in seen:
-            seen.add(h)
-            uniq.append((t, h))
-    return uniq[:40]
-
-
-def match_rows(soup):
-    """The results page marks matches up as ul.table-body.results with
-    data- attributes; competition pages use plain tables."""
-    rows = []
-    for el in soup.select("ul.table-body.results")[:5]:
-        rows.append({k: v for k, v in el.attrs.items()
-                     if k.startswith("data-")})
-    if not rows:
-        for tr in soup.select("table tr")[:8]:
-            cells = [td.get_text(" ", strip=True)[:40]
-                     for td in tr.find_all(["td", "th"])]
-            if any(cells):
-                rows.append(cells)
-    return rows
+    return years, (title or "")[:90]
 
 
 def main():
     os.makedirs("data", exist_ok=True)
-    w("# Platform structure probe")
+    w("# Season enumeration")
     w()
     w(f"Run {datetime.utcnow():%Y-%m-%d %H:%M} UTC")
     w()
-    w("Looking for whatever controls the season, so the backfill can ask for "
-      "one. Each page below is reported in full: controls, season/year "
-      "mentions, year-bearing links, and a sample of real match rows.")
+    w("The results page has no season control, only fdate/tdate, which is why "
+      "date-chunking earlier years returned nothing. The competitions page "
+      "drives a `seasonid` parameter through admin-ajax.php instead. This "
+      "sweeps that parameter for football (value=6929).")
     w()
 
-    for label, url in PAGES:
-        w(f"## {label}")
-        w()
-        w(f"`{url}`")
-        w()
-        html, status, final = get(url)
-        if html is None:
-            w(f"- **{status}**")
-            w()
+    hits = {}
+    for sid in SWEEP:
+        payload, how = fetch_season(sid)
+        time.sleep(PAUSE)
+        if payload is None:
             continue
-        w(f"- status {status}, {len(html):,} bytes, final url `{final}`")
-        soup = BeautifulSoup(html, "html.parser")
+        ids, names, size = ids_and_names(payload)
+        if not ids:
+            continue
+        hits[sid] = {"ids": ids, "names": names, "size": size, "how": how}
+        print(f"seasonid {sid}: {len(ids)} competitions ({how}, {size}b)")
 
-        sels = dump_selects(soup)
-        w(f"- {len(sels)} select element(s)")
-        for name, opts in sels:
-            shown = ", ".join(f"{v!r}:{t!r}" for v, t in opts[:14])
-            w(f"    - **{name}** -> {shown}")
+    w(f"## Seasons returning football competitions: {len(hits)}")
+    w()
+    if not hits:
+        w("None. Either the parameter needs a nonce or a logged-in session, "
+          "or the endpoint only answers for the live season.")
+    else:
+        w("| seasonid | competitions | id range | sample names |")
+        w("|---|---|---|---|")
+        for sid in sorted(hits):
+            h = hits[sid]
+            rng = f"{min(h['ids'])}-{max(h['ids'])}" if h["ids"] else "-"
+            w(f"| {sid} | {len(h['ids'])} | {rng} | "
+              f"{', '.join(h['names'][:3])[:70]} |")
+    w()
 
-        inputs = dump_inputs(soup)
-        named = [i for i in inputs if i["name"]]
-        w(f"- {len(named)} named form field(s): "
-          + ", ".join(f"{i['name']}({i['type']})" for i in named[:20]))
+    # ---- date each season ------------------------------------------------
+    w("## Dating each season from real match dates")
+    w()
+    w("| seasonid | competition sampled | match years | title |")
+    w("|---|---|---|---|")
+    season_years = {}
+    for sid in sorted(hits):
+        ids = hits[sid]["ids"]
+        for cid in ids[: min(3, len(ids))]:
+            years, title = date_a_competition(cid)
+            time.sleep(PAUSE)
+            if years:
+                season_years.setdefault(sid, set()).update(years)
+                w(f"| {sid} | {cid} | {','.join(str(y) for y in years)} | {title} |")
+                break
+        else:
+            w(f"| {sid} | {ids[0] if ids else '-'} | (no dates found) | |")
+    w()
 
-        for word in ("season", "year"):
-            hits = context_hits(html, word)
-            w(f"- {len(hits)} '{word}' mention(s) shown:")
-            for h in hits:
-                w(f"    - `{h}`")
-
-        yl = year_links(soup)
-        w(f"- {len(yl)} link(s) containing a year:")
-        for t, h in yl[:20]:
-            w(f"    - {t or '(no text)'} -> `{h}`")
-
-        mr = match_rows(soup)
-        w(f"- {len(mr)} sample content row(s):")
-        for r in mr:
-            w(f"    - `{json.dumps(r)[:400]}`")
+    w("## Verdict")
+    w()
+    if season_years:
+        for sid in sorted(season_years):
+            ys = sorted(season_years[sid])
+            w(f"- seasonid **{sid}** -> {', '.join(str(y) for y in ys)}")
         w()
+        w("To backfill, the scraper should request competitions for the "
+          "wanted seasonid, then read each competition page by id, rather "
+          "than driving fdate/tdate on the results page.")
+    else:
+        w("Seasons were listed but none could be dated; the competition "
+          "pages may need the playwright path scraper.py already uses.")
 
-    with open("data/structure_report.md", "w", encoding="utf-8") as fh:
+    with open("data/season_report.md", "w", encoding="utf-8") as fh:
         fh.write("\n".join(out) + "\n")
-    print("\n".join(out))
+    with open("data/seasons_found.json", "w", encoding="utf-8") as fh:
+        json.dump({str(k): v for k, v in hits.items()}, fh, indent=1)
+    print("\n".join(out[-40:]))
 
 
 if __name__ == "__main__":
