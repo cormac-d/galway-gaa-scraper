@@ -1,0 +1,6 @@
+# Editing this file on main backfills earlier seasons.
+# Seasons are fetched by seasonid through admin-ajax.php, then each
+# competition is read by id. See backfill.py for why the results page
+# cannot do this.
+
+run 1 - 2023, 2024, 2025

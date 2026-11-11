@@ -1,0 +1,48 @@
+name: Season Backfill
+
+# Pulls earlier seasons by seasonid + competition id, which the results page
+# cannot do. Triggered by editing backfill.txt on main.
+on:
+  workflow_dispatch:
+    inputs:
+      years:
+        description: 'Seasons to backfill, space separated'
+        required: false
+        default: '2023 2024 2025'
+  push:
+    branches: [main]
+    paths: ['backfill.txt']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scraper
+  cancel-in-progress: false
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+      - run: pip install requests beautifulsoup4
+      - name: Run backfill
+        env:
+          BACKFILL_YEARS: ${{ inputs.years || '2023 2024 2025' }}
+        run: python backfill.py
+      - name: Commit seasons
+        run: |
+          set -euo pipefail
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No change."
+            exit 0
+          fi
+          git commit -m "Backfill earlier seasons by competition id $(date -u +%Y-%m-%d\ %H:%M)"
+          git push || { git pull --rebase && git push; }
