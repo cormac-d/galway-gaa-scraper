@@ -1,93 +1,71 @@
-"""Why does 2022 have no county senior championship?
+"""Is the 2022 senior championship an UNLISTED competition?
 
-Three possibilities, tested here:
-  1. The competition exists under seasonid 2849 but our list missed it.
-  2. 2022 has a SECOND season key (Galway sometimes files a championship
-     under its own key, e.g. "2022/23"), so sweep ids around 2849.
-  3. The championship sits under a different competition "value" code than
-     6929 (football) / 44 (hurling), so sweep plausible codes.
+The season list for 2849 serves 139 competitions and none of them is the SFC
+group stage, though its relegation group (id 176667) is there. Competition ids
+are global and a /league/<id> page renders whether or not the id appears in any
+season list, so an orphaned competition is still readable.
+
+2022's listed ids run 168776 to 177745. This walks that range, keeps any page
+whose matches are dated 2022, and reports the ones we do not already hold.
 """
-import re, time, json
+import re, time, json, os
 import requests
 from bs4 import BeautifulSoup
 
 BASE = "https://www.galwaygaa.ie"
-AJAX = f"{BASE}/wp-admin/admin-ajax.php"
 HEAD = {"User-Agent": "Mozilla/5.0 (compatible; club-archive-research/1.0)",
         "Referer": f"{BASE}/competitions/"}
 s = requests.Session(); s.headers.update(HEAD)
-out = []
+
+LO, HI = 168700, 177800
+STEP = 1
+INTERESTING = re.compile(r'senior|intermediate|championship|\bsfc\b|\bifc\b', re.I)
 
 
-def comps(sid, value="6929"):
+def page(cid):
     try:
-        r = s.post(AJAX, data={"action": "Get_competition_data", "value": value,
-                               "seasonid": str(sid)},
-                   headers={"X-Requested-With": "XMLHttpRequest"}, timeout=25)
-        html = r.json().get("competition", "") or ""
+        r = s.get(f"{BASE}/league/{cid}", timeout=20)
     except Exception:
-        return {}
-    d = {}
-    for a in BeautifulSoup(html, "html.parser").find_all("a", href=True):
-        m = re.search(r"/league/(\d+)", a["href"])
-        if m:
-            d[int(m.group(1))] = a.get_text(" ", strip=True)
-    return d
-
-
-def years_and_sample(cid):
-    try:
-        r = s.get(f"{BASE}/league/{cid}", timeout=25)
-    except Exception:
-        return [], []
+        return None
+    if r.status_code != 200:
+        return None
     soup = BeautifulSoup(r.text, "html.parser")
-    ds = [e.get("data-date") for e in soup.select("[data-date]") if e.get("data-date")]
-    yrs = sorted({int(m.group()) for d in ds for m in [re.search(r"(?:19|20)\d\d", d)] if m})
-    teams = [e.get("data-hometeam") for e in soup.select("[data-hometeam]")][:4]
-    return yrs, teams
+    els = soup.select("[data-hometeam]")
+    if not els:
+        return None
+    names = {e.get("data-compname", "").strip() for e in els if e.get("data-compname")}
+    dates = [e.get("data-date", "") for e in els]
+    yrs = sorted({int(m.group()) for d in dates for m in [re.search(r"(?:19|20)\d\d", d)] if m})
+    teams = sorted({e.get("data-hometeam", "") for e in els})[:4]
+    return dict(n=len(els), names=sorted(n for n in names if n), years=yrs, teams=teams)
 
 
 def main():
-    # 1. full 2022 list
-    c = comps(2849)
-    out.append(f"## seasonid 2849 (2022): {len(c)} competitions\n")
-    sen = {k: v for k, v in c.items() if re.search(r'senior|sfc|intermediate|championship', v, re.I)}
-    out.append(f"championship-named: {len(sen)}\n")
-    for k, v in sorted(sen.items(), key=lambda x: x[1]):
-        out.append(f"- {k}: {v}")
-    out.append("\nALL names:\n")
-    for k, v in sorted(c.items(), key=lambda x: x[1]):
-        out.append(f"- {v}")
-
-    # 2. neighbouring season keys
-    out.append("\n## sweeping seasonid 2700-3069 for other 2022 keys\n")
-    for sid in range(2700, 3070):
-        if sid == 2849:
+    os.makedirs("data", exist_ok=True)
+    found, checked, hits = [], 0, 0
+    for cid in range(LO, HI, STEP):
+        d = page(cid)
+        checked += 1
+        time.sleep(0.03)
+        if not d or 2022 not in d["years"]:
             continue
-        d = comps(sid)
-        time.sleep(0.05)
-        if not d:
-            continue
-        ids = sorted(d)
-        yrs, teams = [], []
-        for cid in ids[:3]:
-            yrs, teams = years_and_sample(cid)
-            time.sleep(0.05)
-            if yrs:
-                break
-        out.append(f"- seasonid {sid}: {len(d)} comps, years {yrs}, sample '{d[ids[0]]}'")
-
-    # 3. other competition codes for 2022
-    out.append("\n## other 'value' codes under seasonid 2849\n")
-    for val in ["6929", "44", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10",
-                "6930", "6928", "45", "43", "6931", "6927"]:
-        d = comps(2849, val)
-        time.sleep(0.05)
-        if d:
-            out.append(f"- value {val}: {len(d)} comps, sample '{d[sorted(d)[0]]}'")
-
+        hits += 1
+        nm = " / ".join(d["names"]) or "(unnamed)"
+        if INTERESTING.search(nm):
+            found.append(dict(id=cid, name=nm, n=d["n"], years=d["years"],
+                              teams=d["teams"]))
+        if checked % 1000 == 0:
+            print(f"  {checked} ids checked, {hits} with 2022 matches, "
+                  f"{len(found)} championship-named")
+    out = ["# Unlisted 2022 competitions", "",
+           f"Walked ids {LO}-{HI}. {hits} pages carry 2022 matches; "
+           f"{len(found)} are championship-named.", ""]
+    for f in found:
+        out.append(f"- **{f['id']}** {f['name']} — {f['n']} matches, "
+                   f"years {f['years']}, e.g. {', '.join(f['teams'][:3])}")
     open("data/probe2022.md", "w").write("\n".join(out) + "\n")
-    print("\n".join(out[:80]))
+    json.dump(found, open("data/unlisted_2022.json", "w"), indent=1)
+    print("\n".join(out[:60]))
 
 
 if __name__ == "__main__":
