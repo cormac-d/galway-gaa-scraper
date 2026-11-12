@@ -49,7 +49,18 @@ BASE = "https://www.galwaygaa.ie"
 AJAX = f"{BASE}/wp-admin/admin-ajax.php"
 FOOTBALL = "6929"
 
-SEASONS = {3070: 2023, 3642: 2024, 3831: 2025, 3976: 2026}
+# Every season the archive still serves, found by sweeping seasonid.
+# The year is confirmed from each season's own match dates at run time
+# rather than trusted from this map.
+SEASONS = {1617: 2016, 1745: 2017, 1891: 2018, 2063: 2019, 2266: 2020,
+           2588: 2021, 2849: 2022, 3070: 2023, 3642: 2024, 3831: 2025,
+           3976: 2026}
+
+# Schools and third-level competitions run on the same system but are not
+# club football, so they are filtered out alongside hurling and camogie.
+NOT_CLUB = re.compile(
+    r'post primary|schools|colleges|ppsnr|ppsjn|bunscol|university|'
+    r'sigerson|freshers|vocational', re.I)
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (compatible; club-archive-research/1.0)",
@@ -137,7 +148,8 @@ def scrape_season(seasonid, year):
 
     all_rows, skipped = [], 0
     for n, (cid, name) in enumerate(sorted(comps.items()), 1):
-        if "hurling" in name.lower() or "camogie" in name.lower():
+        if ("hurling" in name.lower() or "camogie" in name.lower()
+                or NOT_CLUB.search(name)):
             skipped += 1
             continue
         rows = matches_in(cid)
@@ -148,7 +160,8 @@ def scrape_season(seasonid, year):
         # Some competitions are mixed-code listings; filter per row too.
         rows = [r for r in rows
                 if "hurling" not in r["Competition"].lower()
-                and "camogie" not in r["Competition"].lower()]
+                and "camogie" not in r["Competition"].lower()
+                and not NOT_CLUB.search(r["Competition"])]
         all_rows.extend(rows)
         if n % 50 == 0:
             print(f"  {n}/{len(comps)} competitions, {len(all_rows)} matches")
@@ -161,22 +174,31 @@ def scrape_season(seasonid, year):
         seen.add(key)
         uniq.append(r)
 
-    print(f"  -> {len(uniq)} football matches ({skipped} hurling/camogie "
-          f"competitions skipped)")
-    return uniq
+    yrs = {}
+    for r in uniq:
+        m = re.search(r'(?:19|20)\d\d', r["Date"] or '')
+        if m:
+            yrs[int(m.group())] = yrs.get(int(m.group()), 0) + 1
+    actual = max(yrs, key=yrs.get) if yrs else year
+    if actual != year:
+        print(f"  !! map says {year}, match dates say {actual} "
+              f"({sorted(yrs.items(), key=lambda x: -x[1])[:3]})")
+    print(f"  -> {len(uniq)} club football matches "
+          f"({skipped} non-club competitions skipped), dated {actual}")
+    return uniq, actual
 
 
 def main():
     os.makedirs("data", exist_ok=True)
     wanted = {int(y) for y in
-              os.environ.get("BACKFILL_YEARS", "2023 2024 2025").split()
+              os.environ.get("BACKFILL_YEARS", "2016 2017 2018 2019 2020 2021 2022").split()
               if y.isdigit()}
 
     summary = []
     for seasonid, year in sorted(SEASONS.items()):
         if year not in wanted:
             continue
-        rows = scrape_season(seasonid, year)
+        rows, year = scrape_season(seasonid, year)
         if not rows:
             summary.append(f"- **{year}**: nothing returned")
             continue

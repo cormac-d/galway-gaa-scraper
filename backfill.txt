@@ -3,4 +3,4 @@
 # competition is read by id. See backfill.py for why the results page
 # cannot do this.
 
-run 3 - parse the JSON before the hrefs; take match-level data
+run 4 - backfill 2016-2022, schools filtered, year confirmed from match dates
