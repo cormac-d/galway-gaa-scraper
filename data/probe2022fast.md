@@ -1,0 +1,9901 @@
+# Unlisted 2022 competitions
+
+Walked ids 168700-177800. 7570 pages carry 2022 matches; 2324 are championship-named.
+
+- **168700** Connacht GAA Post Primary Schools Junior D Football Championship 2022 — 8 matches, years [2022], e.g. Davitt College, Roscommon Community College, Sancta Muire Louisburgh
+- **168701** South Mayo U16 B Championship 2022 — 6 matches, years [2022], e.g. Davitts, Hollymount-Carramore, Mayo Gaels
+- **168702** Connacht GAA Post Primary Schools Juvenile B Football Championship 2022 — 2 matches, years [2022], e.g. Carrick-on-Shannon Community School, St. Muredach`s College
+- **168703** Connacht GAA Post Primary Schools Senior E Football Championship 2022 — 1 matches, years [2022], e.g. Rossport Vocational School
+- **168705** East Mayo U16B Championship 2022 — 15 matches, years [2022], e.g. Aghamore, Bohola Moy Davitts, Charlestown Sarsfields
+- **168707** North Mayo U18B Championship 2022 — 4 matches, years [2022], e.g. Ardmoy MacHales, Ardnaree, Bonniconlon
+- **168708** South Mayo U14 A Championship  Knockout 2022 — 3 matches, years [2022], e.g. Ballinrobe, Claremorris, The Neale
+- **168709** East Mayo U14B Championship 2022 — 12 matches, years [2022], e.g. Aghamore, Bohola Moy Davitts, Kilmovee Shamrocks
+- **168710** Sweeney Cup Senior 2022 — 3 matches, years [2022], e.g. Ballina Stephenites, Béal an Mhuirthead, Knockmore
+- **168711** North Mayo U14B Championship 2022 — 6 matches, years [2022], e.g. Ardmoy, Crossmolina Deel Rovers, Knockmore
+- **168712** South Mayo U14 B Championship 2022 — 6 matches, years [2022], e.g. Carras, Hollymount-Carramore, Mayo Gaels
+- **168713** Connacht GAA Post Primary Schools Junior E Football Championship 2022 — 1 matches, years [2022], e.g. Colaiste Muire Tuar Mhic Eadaigh
+- **168714** South Mayo U16 C Championship  Knockout 2022 — 1 matches, years [2022], e.g. Ballinrobe
+- **168715** Connacht GAA Post Primary Schools 1st Year B Football Championship 2022 — 2 matches, years [2022], e.g. Carrick-on-Shannon Community School, St. Muredach`s College
+- **168716** West Mayo U16C Group 1 Championship 2022 — 7 matches, years [2022], e.g. Achill, Islandeady, Tuar Mhic Éadaigh
+- **168718** Masita GAA Post Primary Schools Hogan Cup (Senior A Football) — 2 matches, years [2022], e.g. St Brendans Killarney
+- **168720** Senior Hurling Division 1 — 45 matches, years [2022], e.g. Abbeydorney, Ballyduff, Ballyheigue
+- **168721** Senior Football Division 1 — 68 matches, years [2022], e.g. An Ghaeltacht, Austin Stacks, Ballymacelligott GAA
+- **168722** Senior Football Division 4 — 67 matches, years [2022], e.g. Ardfert, Austin Stacks, Beale
+- **168724** Senior Football Division 6A — 28 matches, years [2022], e.g. Desmonds, Fossa, Kenmare Shamrocks
+- **168735** Senior Football Division 2 — 66 matches, years [2022], e.g. Annascaul, Beaufort, Desmonds
+- **168736** Senior Football Division 3 — 67 matches, years [2022], e.g. Ballydonoghue, Brosna, Churchill
+- **168737** Senior Football Division 5 — 68 matches, years [2022], e.g. Asdee, Ballyduff, Ballylongford
+- **168739** Senior Football Division 6B — 21 matches, years [2022], e.g. Beaufort, Dingle, Dr. Crokes
+- **168740** Electric Ireland HE GAA Fresher 2 Football Championship Group C — 1 matches, years [2022], e.g. MTU Kerry
+- **168744** Senior Hurling Division 2B — 10 matches, years [2022], e.g. Ballyheigue, Causeway, Crotta O`Neill's
+- **168745** Senior Hurling Division 2A — 10 matches, years [2022], e.g. Abbeydorney, Kenmare Shamrocks, Kilgarvan
+- **168746** Senior Hurling Division 3 — 22 matches, years [2022], e.g. Abbeydorney, Dr. Crokes, Duagh
+- **168747** Munster GAA Football Senior Championship — 2 matches, years [2022], e.g. Cork, Kerry
+- **168748** 2022 Ulster GAA Football Senior League — 3 matches, years [2022], e.g. Coill an Chlochair Naomh Mhuire, Dungannon Thomas Clarke GAA, Erne Gaels Belleek
+- **168756** HE GAA IFC — 4 matches, years [2022], e.g. G.M.I.T., N.U.I Galway, University College Cork
+- **168764** Connacht GAA PPS Senior A FC — 2 matches, years [2022], e.g. St. Attractas Community School Tubbercurry, St. Jarlath`s College Tuam
+- **168770** Connacht GAA PPS Senior E FC — 2 matches, years [2022], e.g. Elphin Community College, St. Killians, New Inn
+- **168776** Junior B Championship West — 28 matches, years [2022], e.g. An Cheathrú Rua, An Spidéal, Clifden
+- **168783** Junior B Championship North — 28 matches, years [2022], e.g. Athenry, Claregalway, Cortoon Shamrocks
+- **168784** Junior C Championship West — 50 matches, years [2022], e.g. An Spidéal, Annaghdown, Claregalway
+- **168785** U19 A West Championship — 15 matches, years [2022], e.g. Cumann Peil Mhaigh Cuilinn, Killannin, Oranmore-Maree
+- **168788** U19 B West Championship — 15 matches, years [2022], e.g. An Spidéal, Cumann Peile Bhearna Na Forbacha, Micheal Breathnach
+- **168799** Electric Ireland HE GAA Fresher 2 Football Championship Group B — 2 matches, years [2022], e.g. Mary Immaculate College Limerick, TUS Midlands
+- **168800** Electric Ireland HE GAA Intermediate Football Championship — 1 matches, years [2022], e.g. University of Limerick
+- **168809** Masita GAA Post Primary Schools Paddy Drummond Cup (Senior B Football) — 1 matches, years [2022], e.g. Gorey Community School
+- **168810** Connacht GAA Post Primary Schools Juvenile C Football Championship 2022 — 3 matches, years [2022], e.g. Coola Post Primary, Mohill Community College, Scoil Mhuire Strokestown
+- **168811** Connacht GAA Post Primary Schools Senior E Football Championship 2022 — 2 matches, years [2022], e.g. Carrigallen VS, Lough Allen College
+- **168812** Connacht GAA Post Primary Schools 1st Year B Football Championship 2022 — 2 matches, years [2022], e.g. Roscommon CBS, St. Attractas Community School Tubbercurry
+- **168815** Connacht GAA Post Primary Schools Junior D Football Championship 2022 — 2 matches, years [2022], e.g. Coláiste Iascaigh, Roscommon Community College
+- **168817** Connacht GAA Post Primary Schools 1st Year D Football Championship 2022 — 2 matches, years [2022], e.g. Carrigallen VS, Lough Allen College
+- **168820** Connacht GAA Post Primary Schools Junior E Football Championship 2022 — 4 matches, years [2022], e.g. Carrigallen VS, Castlerea Community School, Lough Allen College
+- **168821** Connacht GAA Post Primary Schools 1st Year C Football Championship 2022 — 1 matches, years [2022], e.g. Castlerea Community School
+- **168826** Connacht GAA Post Primary Schools Junior C Football Championship 2022 — 1 matches, years [2022], e.g. Scoil Mhuire Strokestown
+- **168827** Connacht GAA Post Primary Schools Juvenile B Football Championship 2022 — 2 matches, years [2022], e.g. Roscommon CBS, St. Attractas Community School Tubbercurry
+- **168832** North Tipperary Intermediate Football — 1 matches, years [2022], e.g. Borrisokane
+- **168836** Masita GAA Post Primary Schools Paddy Drummond Cup (Senior B Football) — 1 matches, years [2022], e.g. Abbey C.B.SÂ
+- **168839** Mid Intermediate Football 2022 — 4 matches, years [2022], e.g. Loughmore - Castleiney, Moyne/Templetuohy
+- **168858** Senior Plate — 6 matches, years [2022], e.g. Clongowes Wood College, Presentation College Bray, St Michaels College
+- **168896** South Mayo U18 B Championship 2022 — 3 matches, years [2022], e.g. Carras, Hollymount-Carramore, Mayo Gaels
+- **168897** South Mayo U18 C Championship Knockout 2022 — 2 matches, years [2022], e.g. Shrule/Glencorrib
+- **169050** Junior C Championship North — 49 matches, years [2022], e.g. Caherlistrane, Caltra, Corofin
+- **169054** 2022 Junior Hurling Championship Group B — 3 matches, years [2022], e.g. Pádraig Pearses, Roscommon Gaels
+- **169055** 2022 Junior Hurling Championship — 6 matches, years [2022], e.g. Four Roads/Na Ceithre Boithre, Oran Hurling Club, Tremane
+- **169056** U19 B North Championship — 25 matches, years [2022], e.g. Annaghdown, Athenry, Caherlistrane
+- **169057** U19 A North Championship — 10 matches, years [2022], e.g. Claregalway, Corofin, Dunmore MacHales
+- **169063** U19 C North Championship — 19 matches, years [2022], e.g. Ballinasloe, Cortoon Shamrocks, Gaeil na Gaillimhe
+- **169064** U19 C West Championship — 6 matches, years [2022], e.g. An Cheathrú Rua, Cárna-Caiseal, Naomh Pádraig, An Fháirche
+- **169074** U21 A Football Championship — 8 matches, years [2022], e.g. Ballygarvan, Carrigaline, Kinsale
+- **169075** U21 B Football Championship — 4 matches, years [2022], e.g. Ballinhassig, Ballymartle, Belgooly
+- **169088** Ross Oil Junior A Football Championship 2022 Grp 1 — 6 matches, years [2022], e.g. Clondrohid, Dripsey, Kilmurry
+- **169089** Ross Oil Junior A Football Championship 2022 Grp 2 — 3 matches, years [2022], e.g. Canovee, Eire Og
+- **169090** Ross Oil Junior A Football Championship 2022 Grp 3 — 3 matches, years [2022], e.g. Ballincollig, Grenagh
+- **169091** Ross Oil Junior A Football Championship 2022 Grp 4 — 3 matches, years [2022], e.g. Aghinagh, Inniscarra
+- **169092** Ballincollig Cr Un Junior B Football Championship 2022 — 11 matches, years [2022], e.g. Aghabullogue, Ballincollig 2, Blarney
+- **169093** Rochestown Park Hotel Junior C Football Championship 2022 — 13 matches, years [2022], e.g. Aghinagh 2, Cill na Martra 2, Clondrohid 2
+- **169094** MJK Oil Ltd Junior A Hurling Championship 2022 Grp 1 — 3 matches, years [2022], e.g. Donoughmore, Inniscarra
+- **169095** MJK Oil Ltd Junior A Hurling Championship 2022 Grp 2 — 6 matches, years [2022], e.g. Cloughduv, Grenagh, Kilmichael
+- **169096** MJK Oil Ltd Junior A Hurling Championship 2022 Grp 3 — 6 matches, years [2022], e.g. Ballincollig, Ballinora, Eire Og
+- **169097** Oriel House Hotel Junior B Hurling Championship 2022 — 11 matches, years [2022], e.g. Ballincollig 2, Blarney 2, Eire Og 2
+- **169127** U17 A North Championship — 10 matches, years [2022], e.g. Annaghdown, Claregalway, Corofin
+- **169129** U17 B West Championship — 15 matches, years [2022], e.g. An Spidéal, Clifden, Cumann Peile Bhearna Na Forbacha
+- **169130** U17 A West Championship — 10 matches, years [2022], e.g. Cumann Peil Mhaigh Cuilinn, Killannin, Oranmore-Maree
+- **169132** U17 C North Championship — 16 matches, years [2022], e.g. Caltra, Cortoon Shamrocks, Kilconly
+- **169133** U17 C West Championship — 15 matches, years [2022], e.g. An Cheathrú Rua, Carna-Caiseal/Na Piarsaigh, Naomh Anna, Leitir Móir
+- **169156** Senior Hurling League 2022 — 21 matches, years [2022], e.g. Abhainn Dála, Bray Emmets, Eiré Óg Greystones
+- **169175** McAuliffe Hurleys JB2 Hurling Championship — 4 matches, years [2022], e.g. Ballyhea, Kildorrery, Mallow
+- **169215** CVF U9 Championship Competition Knockout — 5 matches, years [2022], e.g. Bows Soccer Academy, Doncaster Elite Football Academy U9, FC Wiltshire Blacks
+- **169233** U12 CHAMPIONSHIP NATIONAL PATHWAY — 13 matches, years [2022], e.g. Corby Town FC, Dartford FC Youth Academy, Doncaster Elite Football Academy Whites
+- **169235** U11 CHAMPIONSHIP NATIONAL PATHWAY — 13 matches, years [2022], e.g. Alfold FC, Ashford Town, Bows Soccer Academy
+- **169241** Boys Senior Playoffs — 3 matches, years [2022], e.g. Midleton, Waterford Wizards
+- **169243** CVF U10 Championship Competition Knockout — 6 matches, years [2022], e.g. Aston Clinton Colt Hype U10s, Bustleholme FC, Cheltenham Town DC Hfd - Hereford Site
+- **169259** Anne McInerney Cup Final (Senior Development) — 1 matches, years [2022], e.g. Arklow CBS
+- **169262** Senior Development Shield Final (Div 3A) — 2 matches, years [2022], e.g. Presentation De La Salle Bagenalstown
+- **169301** Connacht LGFA Minor Championship — 10 matches, years [2022], e.g. Galway, Leitrim, Mayo
+- **169303** Connacht LGFA U16 Championship — 10 matches, years [2022], e.g. Galway, Leitrim, Mayo
+- **169304** Senior League Division 1B Final — 1 matches, years [2022], e.g. St Andrews College
+- **169386** Intermediate League — 21 matches, years [2022], e.g. Boherlahan - Dualla, Borris - Ileigh, Cahir
+- **169397** North Mayo U18B Championship Knockout 2022 — 3 matches, years [2022], e.g. Ardmoy McHales, Cill Chomain, Erris St. Pats
+- **169398** North Mayo U18C Championship Knockout 2022 — 2 matches, years [2022], e.g. Béal an Mhuirthead
+- **169399** Wagga Senior Winter 2022 — 42 matches, years [2022], e.g. Brahman Bulls Baseball Club, The Duke of Kent Jackals Baseball Club Black, The Duke of Kent Jackals Baseball Club Red
+- **169440** TSSDL U15 Championship Boys — 18 matches, years [2022], e.g. Clonmel Celtic A, Moyglass A, Peake Villa
+- **169443** TSSDL U13 Championship Boys — 21 matches, years [2022], e.g. Bansha Celtic A, Clerihan, Donohill
+- **169447** TSSDL U12 Championship Boys — 31 matches, years [2022], e.g. Cahir Park B, Clonmel Celtic A, Donohill
+- **169453** TSSDL U14 Championship Boys — 42 matches, years [2022], e.g. Bansha Celtic A, Cahir Park B, Cashel Town B
+- **169456** TSSDL U16 Championship Boys — 12 matches, years [2022], e.g. Cahir Park A, Donohill, Peake Villa
+- **169461** TSSDL U12 Championship Girls — 21 matches, years [2022], e.g. Cahir Park, Cashel Town B, Cashel Town C
+- **169480** West Mayo U16A KnockoutChampionship 2022 — 1 matches, years [2022], e.g. Castlebar Mitchels
+- **169487** TSSDL U14 Championship Girls — 30 matches, years [2022], e.g. Cahir Park, Cashel Town B, Clonmel Town B
+- **169515** Kate Russell Schoolgirls Championship — 10 matches, years [2022], e.g. Crescent Comprehensive, Holy Child Killiney, Kilkenny college
+- **169516** All Ireland Schoolboys Championship — 6 matches, years [2022], e.g. Bandon Grammar, Friends Lisburn, Kings Hospital
+- **169525** CVF U8 Championship Competition Knockout — 1 matches, years [2022], e.g. South Staffordshire RTC Gold
+- **169539** CLONA MILK CARBERY UNDER 21A HURLING CHAMPIONSHIP 2022 — 7 matches, years [2022], e.g. Ahan Gaels, Ibane Gaels, Newcestown
+- **169540** CLONA MILK CARBERY UNDER 21B HURLING CHAMPIONSHIP 2022 — 3 matches, years [2022], e.g. Kilbrittain
+- **169564** Under 13 B Hurling Championship — 28 matches, years [2022], e.g. Abhainn Dála, Barndarrig, Eiré Óg Greystones
+- **169565** Under 13 A Hurling Championship — 15 matches, years [2022], e.g. Arklow Rock Parnell, Bray Emmets, Eiré Óg Greystones
+- **169566** Under 15 Hurling Championship — 55 matches, years [2022], e.g. Arklow Rock Parnell, Barndarrig, Bray Emmets
+- **169567** Minor A Hurling Championship — 21 matches, years [2022], e.g. Arklow Rock Parnell, Bray Emmets, Eiré Óg Greystones
+- **169585** Under 13 A Football Championship — 21 matches, years [2022], e.g. An Tóchar, Arklow Geraldines-Ballymoney/Na nGearaltaigh-Baile, Blessington
+- **169586** Under 13 C Football Championship — 15 matches, years [2022], e.g. Ath na Fuinseoige, Aughrim, Emmet Carn An Bhua
+- **169587** Under 13 E Football Championship — 15 matches, years [2022], e.g. Abhainn Dála, Blessington, Clann na Gael
+- **169588** Under 15 D Football Championship — 28 matches, years [2022], e.g. An Tóchar, Arklow Geraldines-Ballymoney/Na nGearaltaigh-Baile, Blessington
+- **169589** Under 13 B Football Championship — 21 matches, years [2022], e.g. Annacurra GAA Club, Baltinglass, Eiré Óg Greystones
+- **169590** Under 15 B Football Championship — 15 matches, years [2022], e.g. Annacurra GAA Club, Baltinglass, Bray Emmets
+- **169591** Under 15 A Football Championship — 15 matches, years [2022], e.g. An Tóchar, Arklow Geraldines-Ballymoney/Na nGearaltaigh-Baile, Blessington
+- **169645** Michael Walsh Senior Cup 2022 — 15 matches, years [2022], e.g. Aghamore, Ballintubber, Béal an Mhuirthead
+- **169674** Michael Walsh Intermediate Cup 2022 — 15 matches, years [2022], e.g. Ardnaree, Ballinrobe, Ballyhaunis
+- **169692** Gerry Kennedy Crash Repairs East Intermediate Hurling Championship Group 1 — 3 matches, years [2022], e.g. Butlerstown GAA Club, Micheal MacCraith Tramore, Portlaw
+- **169697** Gerry Kennedy Crash Repairs East Intermediate Hurling Championship Group 2 — 3 matches, years [2022], e.g. De La Salle, Ferrybank, St Molleran's
+- **169698** Gerry Kennedy Crash Repairs East Intermediate Hurling Championship Group 3 — 6 matches, years [2022], e.g. Ballyduff Lower, Ballygunner, Erins Own
+- **169700** Tony Kirwan Plant Hire East Intermediate Football Championship Group 2 — 3 matches, years [2022], e.g. Ballyduff Lower, Micheal MacCraith Tramore, Roanmore
+- **169701** Tony Kirwan Plant Hire East Intermediate Football Championship Group 1 — 6 matches, years [2022], e.g. Bunmahon, De La Salle, Gaultier
+- **169702** Tony Kirwan Plant Hire East Intermediate Football Championship Group 3 — 3 matches, years [2022], e.g. Kill, Newtown, Rathgormack
+- **169729** South Mayo U18 A Championship Knockout 2022 — 1 matches, years [2022], e.g. Ballinrobe
+- **169757** Armagh Senior Hurling League 2022 — 5 matches, years [2022], e.g. An Charraig Mhór Éire Óg, Derrynoose, Lisbellaw St Patrick's
+- **169832** East Mayo U18A Championship Knockout  2022 — 1 matches, years [2022], e.g. Aghamore
+- **169833** East Mayo U18B Championship Knockout  2022 — 1 matches, years [2022], e.g. Kilmovee Shamrocks
+- **169884** Gerry Kennedy Crash Repairs East Junior A Hurling Championship Group 2 — 6 matches, years [2022], e.g. Ballydurn, Ballygunner, Clonea
+- **169885** Gerry Kennedy Crash Repairs East Junior A Hurling Championship Group 1 — 6 matches, years [2022], e.g. Fenor, Kilmacthomas, Mt. Sion
+- **169917** Electric Ireland Munster GAA Hurling Minor Championship — 2 matches, years [2022], e.g. Kerry, Limerick
+- **169919** NRU Senior Men A Division — 40 matches, years [2022], e.g. Fergus Highland, Hamilton Hornets, Niagara Wasps
+- **169920** NRU Senior Men's B Division — 27 matches, years [2022], e.g. Crusaders Rugby Club, Grimsby RFC, Niagara Wasps
+- **169921** NRU Senior Women Division — 40 matches, years [2022], e.g. Burlington Centaurs, Fergus Highland, Hamilton Hornets
+- **169955** Munster GAA Hurling U20 Championship — 2 matches, years [2022], e.g. Kerry, Waterford
+- **169989** U18 A Championship Knockout 2022 — 4 matches, years [2022], e.g. Ballina Stephenites, Bohola Moy Davitts
+- **169990** U18 B Championship Knockout 2022 — 3 matches, years [2022], e.g. Ardmoy MacHales, Carras
+- **170028** Junior B Hurling Championship Gorey Dist — 45 matches, years [2022], e.g. Askamore (Hurling), Ballygarrett (Hurling), Buffers Alley
+- **170075** North Tipp U19B Football Championship K.O. — 6 matches, years [2022], e.g. Borrisokane, Clonakenny/Moneygall, Kilruane Mac Donaghs
+- **170085** Senior League - Division 2A Playoffs — 5 matches, years [2022], e.g. Colaiste Chill Mhantain, Gorey Community School, Mount Temple
+- **170086** Vinnie Murray Plate Final (Senior) — 1 matches, years [2022], e.g. St Patricks Classical School Navan
+- **170089** Under-15 Hurling Championship Phase 1 Group D — 10 matches, years [2022], e.g. Abbeyleix St Lazarians, Ballinakill Ballypickas, Castletown
+- **170090** Under-15 Hurling Championship Phase 1 Group A — 6 matches, years [2022], e.g. Mountmellick Clonaslee St Manman's, Portlaoise GAA, Rathdowney Errill
+- **170091** Under-15 Hurling Championship Phase 1 Group B — 6 matches, years [2022], e.g. Clonad/Trumera, Park Ratheniska-Timahoe, Raheen Parish Gaels
+- **170092** Under-15 Hurling Championship Phase 1 Group C — 6 matches, years [2022], e.g. Ballyfin CLG, Borris in Ossory Kilcotton, Camross
+- **170095** 2022 Minor League MP60 State Championships — 16 matches, years [2022], e.g. Byford Bushrangers 34, Carine Cats 32, Kalamunda Rangers 31
+- **170097** U18 C Championship Knockout 2022 — 2 matches, years [2022], e.g. Béal an Mhuirthead
+- **170103** CVF U8 Championship Finals — 1 matches, years [2022], e.g. Worcester City Reds
+- **170105** CVF U9 Championship Finals — 3 matches, years [2022], e.g. Bows Soccer Academy, Forza Football Academy Halifax, Pompey in the Community
+- **170106** CVF U10 Championship Finals — 6 matches, years [2022], e.g. PSC Academy, Star Soccer Academy, Thame United FC Reds
+- **170116** CLONA MILK CARBERY UNDER 21C HURLING CHAMPIONSHIP 2022 — 5 matches, years [2022], e.g. Randal Og, Rossa Gabriels
+- **170230** U13 CHAMPIONSHIP NATIONAL PATHWAY — 7 matches, years [2022], e.g. Beaconsfield Town FC, Cheltenham Town FC - Cheltenham Site, Millbrook FC
+- **170233** U14 CHAMPIONSHIP NATIONAL PATHWAY — 9 matches, years [2022], e.g. Bromley FC, Darlington FC, Kettering Town FC Academy
+- **170241** Junior Hurling Championship Group A — 6 matches, years [2022], e.g. Borris in Ossory/Kilcotton, Camross, Colt Shanahoe
+- **170242** Junior B Hurling Championship Group A — 6 matches, years [2022], e.g. Castletown, Kyle, Mountmellick
+- **170243** Premier Intermediate Hurling Championship Group B — 6 matches, years [2022], e.g. Ballyfin CLG, Camross, Clonaslee St Manmans/Cluain na Slí Naomh Meanmain
+- **170244** Junior C Hurling Championship Group A — 6 matches, years [2022], e.g. Abbeyleix St Lazarians, Ballyfin CLG, Camross
+- **170245** Junior C Hurling Championship Group B — 3 matches, years [2022], e.g. Ballypickas/Baile Piocas, Borris in Ossory Kilcotton, Park Ratheniska-Timahoe
+- **170246** Senior Hurling Championship Group A — 6 matches, years [2022], e.g. Castletown, Clough-Ballacolla, The Harps
+- **170247** Junior Hurling Championship Group B — 6 matches, years [2022], e.g. Abbeyleix St Lazarians, Castletown, Park Ratheniska-Timahoe
+- **170248** Intermediate Hurling Championship Group A — 6 matches, years [2022], e.g. Ballypickas/Baile Piocas, Borris in Ossory/Kilcotton, Naomh Fiontáin Maighean Rátha
+- **170249** Junior B Hurling Championship Group C — 3 matches, years [2022], e.g. Clough-Ballacolla, Rathdowney Errill, The Harps
+- **170250** Junior B Hurling Championship Group B — 3 matches, years [2022], e.g. Baile na Coille CLG, Naomh Fiontáin Maighean Rátha, Portlaoise GAA
+- **170251** Junior C Hurling Championship Group B — 6 matches, years [2022], e.g. Clonaslee St Manmans/Cluain na Slí Naomh Meanmain, CluainFhada, The Harps
+- **170252** Junior C Hurling Championship Group D — 3 matches, years [2022], e.g. Baile na Coille CLG, Clough-Ballacolla, Naomh Fiontáin Maighean Rátha
+- **170253** Premier Intermediate Hurling Championship Group A — 6 matches, years [2022], e.g. Abbeyleix St Lazarians, Portlaoise GAA, Rathdowney Errill
+- **170254** Senior Hurling Championship Group B — 6 matches, years [2022], e.g. Baile na Coille CLG, Borris in Ossory Kilcotton, Rosenallis
+- **170255** Intermediate Hurling Championship Group B — 6 matches, years [2022], e.g. Clough-Ballacolla, CluainFhada, Colt Shanahoe
+- **170256** Junior B Football Championship Group A — 6 matches, years [2022], e.g. Graiguecullen GAA, Portlaoise GAA, Stradbally
+- **170257** Junior B Football Championship Group C — 3 matches, years [2022], e.g. Ballyfin CLG, Ballylinan, Emo
+- **170258** Junior C Football Championship Group A — 3 matches, years [2022], e.g. Borris In Ossory, Naomh Fiontáin Maighean Rátha, Shanahoe
+- **170259** Junior C Football Championship Group C — 3 matches, years [2022], e.g. Arles Kilcruise, Killeshin, Park Ratheniska
+- **170260** Junior C Football Championship Group E — 3 matches, years [2022], e.g. Kilcavan, O'Dempseys, Portarlington
+- **170261** Junior Football Championship Group D — 3 matches, years [2022], e.g. Kilcavan, Slieve Bloom Castletown, The Harps
+- **170262** Junior C Football Championship Group G — 3 matches, years [2022], e.g. Portlaoise GAA, St Joseph's, The Heath/An Fraoch Mór
+- **170263** Junior Football Championship Group B — 3 matches, years [2022], e.g. Portarlington, Spink, The Heath/An Fraoch Mór
+- **170264** Senior Football Championship — 30 matches, years [2022], e.g. Arles/Killeen, Ballyfin CLG, Ballylinan
+- **170265** Junior Football Championship Group C — 3 matches, years [2022], e.g. Barrowhouse GAA, Castletown, Portlaoise GAA
+- **170266** Junior B Football Championship Group B — 3 matches, years [2022], e.g. Arles/Killeen, Mountmellick, Rosenallis
+- **170267** Junior B Football Championship Group D — 3 matches, years [2022], e.g. Camross, Errill, Kilcotton
+- **170268** Junior C Football Championship Group B — 3 matches, years [2022], e.g. Colt, Crettyard, Rathdowney
+- **170269** Junior C Football Championship Group D — 3 matches, years [2022], e.g. Ballyroan Abbey, Clonaslee St Manmans/Cluain na Slí Naomh Meanmain, Timahoe
+- **170270** Junior C Football Championship Group F — 3 matches, years [2022], e.g. Annanough, Courtwood, Rosenallis
+- **170271** Junior Football Championship Group A — 6 matches, years [2022], e.g. Annanough, Graiguecullen GAA, Killeshin
+- **170272** Junior C Football Championship Group H — 3 matches, years [2022], e.g. Barrowhouse GAA, Spink, Stradbally
+- **170273** Intermediate Football Championship — 14 matches, years [2022], e.g. Arles Kilcruise, Ballyroan Abbey, Crettyard
+- **170277** U15 CHAMPIONSHIP NATIONAL PATHWAY — 8 matches, years [2022], e.g. Atherton Collieries AFC Academy, FC Wiltshire, Oxford City FC
+- **170279** U16 CHAMPIONSHIP NATIONAL PATHWAY — 9 matches, years [2022], e.g. FITC Academy (Football in the Community), Letchworth Garden City Eagles Blue, Qualitas
+- **170291** U-17 Hurling Championship Phase 1 Group B — 3 matches, years [2022], e.g. Castletown, Clough-Ballacolla, Park Ratheniska-Timahoe
+- **170292** U-17 Hurling Championship Phase 1 Group D — 3 matches, years [2022], e.g. Borris in Ossory Kilcotton, Na Fianna, Raheen Parish Gaels
+- **170293** U-13 Hurling Championship Phase 1 Group A — 10 matches, years [2022], e.g. Ballyfin CLG, Mountmellick, Park Ratheniska-Timahoe
+- **170294** U-13 Hurling Championship Phase 1 Group C — 10 matches, years [2022], e.g. Castletown, Clough-Ballacolla, Colt Shanahoe
+- **170296** U-17 Hurling Championship Phase 1 Group 1 — 3 matches, years [2022], e.g. Abbeyleix St Lazarians, Rosenallis, The Harps
+- **170297** U-17 Hurling Championship Phase 1 Group C — 3 matches, years [2022], e.g. Ballinakill Ballypickas, Camross, Naomh Fiontáin Maighean Rátha
+- **170298** U-17 Hurling Championship Phase 1 Group E — 3 matches, years [2022], e.g. Portarlington, Portlaoise GAA, Rathdowney Errill
+- **170299** U-13 Hurling Championship Phase 1 Group B — 10 matches, years [2022], e.g. Abbeyleix St Lazarians, Ballinakill Ballypickas, Camross
+- **170300** U-13 Hurling Championship Phase 1 Group D — 6 matches, years [2022], e.g. Borris in Ossory Kilcotton, Clonaslee St Manmans/Cluain na Slí Naomh Meanmain, Naomh Fiontáin Maighean Rátha
+- **170301** U-15 Football Championship Phase 1 Group B — 10 matches, years [2022], e.g. Baile Uí Laigheanáin/Ballylinan, Ballyfin Gaels, Gleann Uiseann
+- **170302** U-13 Football Championship Phase 1 Group A — 10 matches, years [2022], e.g. Crettyard/Spink, Portlaoise GAA, St Joseph's
+- **170303** U-13 Football Championship Phase 1 Group C — 15 matches, years [2022], e.g. Ballyroan Abbey, Camross, Clonaslee St Manmans/Cluain na Slí Naomh Meanmain
+- **170306** U-17 Football Championship Phase 1 Group B — 10 matches, years [2022], e.g. Graiguecullen GAA, Portarlington, St Pauls
+- **170307** U-17 Football Championship Phase 1 Group D — 15 matches, years [2022], e.g. An Fraoch, Camross, Crettyard/Spink
+- **170308** U-15 Football Championship Phase 1 Group A — 10 matches, years [2022], e.g. Portlaoise GAA, Rosenallis, St Joseph's
+- **170309** U-15 Football Championship Phase 1 Group C — 10 matches, years [2022], e.g. An Fraoch, Crettyard/Spink, Mountmellick Parish Gaels
+- **170310** U-13 Football Championship Phase 1 Group B — 10 matches, years [2022], e.g. Kilcavan The Rock, Killeshin, Na Fianna Og
+- **170311** U-13 Football Championship Phase 1 Group D — 15 matches, years [2022], e.g. Ballyfin CLG, Ballylinan, Colt Shanahoe
+- **170312** U-15 Football Championship Phase 1 Group D — 6 matches, years [2022], e.g. Colt Shanahoe, Mainistir Béal Atha an Róine/Ballyroan Abbey, Portarlington
+- **170313** U-17 Football Championship Phase 1 Group A — 11 matches, years [2022], e.g. Gleann Uiseann, Killeshin, Mainistir Béal Atha an Róine/Ballyroan Abbey
+- **170314** U-17 Football Championship Phase 1 Group C — 10 matches, years [2022], e.g. Ballyfin Gaels, Ballylinan, Na Fianna Og
+- **170323** Junior B Hurling Championship Enniscorthy District Gp A — 30 matches, years [2022], e.g. Ballyhogue, Davidstown Courtnacuddy GAA, Monageer-Boolavogue
+- **170324** Junior B Hurling Championship Enniscorthy District Gp B — 30 matches, years [2022], e.g. , Cloughbawn, HWH Bunclody/Tig Leath Slí Bun Clóidí
+- **170338** South Tipp U13A FB Championship Knockout 2022 — 4 matches, years [2022], e.g. Cahir, Clonmel Commercials, Kilsheelan-Kilcash
+- **170340** South Tipp U13B FB Championship Knockout 2022 — 11 matches, years [2022], e.g. Ardfinnan GAA, Ballylooby/Castlegrace, Ballypooreen/Skeheenawrinky
+- **170341** Junior B Hurling Championship New Ross District Gp B — 6 matches, years [2022], e.g. Bannow-Ballymitty, Horeswood G.A.A.Club, St James'
+- **170342** Junior B Hurling Championship New Ross District Gp A — 6 matches, years [2022], e.g. Geraldine O`Hanrahans, Gusserane-O`Rahilly's, St Abban's Adamstown
+- **170365** U12 GFA Championship Girls — 30 matches, years [2021, 2022], e.g. Corrib Celtic, Craughwell United C, Cregmore/Claregalway
+- **170381** Senior Boys — 36 matches, years [2022], e.g. Dingos, Koalas, Kookaburras
+- **170385** Senior Netball — 36 matches, years [2022], e.g. Black, Dark Blue, Light Blue
+- **170386** TG4 Leinster Intermediate Championship Group A — 6 matches, years [2022], e.g. Laois, Louth, Offaly
+- **170387** TG4 Leinster Intermediate Championship Group B — 6 matches, years [2022], e.g. Carlow, Kildare, Longford
+- **170388** TG4 Leinster Senior Championship — 3 matches, years [2022], e.g. Dublin, Meath, Westmeath
+- **170389** Leinster Minor Championship 2022 Group A — 6 matches, years [2022], e.g. Dublin, Laois, Meath
+- **170396** Leinster Minor Championship 2022 Group B — 6 matches, years [2022], e.g. Longford, Louth, Westmeath
+- **170400** 2022 New Ross Standard U13 Football Championship Div 5 Group B15 Aside — 12 matches, years [2022], e.g. , CLG Naomh Pádraig, Gusserane-O`Rahilly's
+- **170404** Leinster Minor Championship 2022 Group C — 6 matches, years [2022], e.g. Carlow, Kilkenny, Offaly
+- **170421** West Mayo U16C Knockout Championship 2022 — 3 matches, years [2022], e.g. Castlebar Mitchels, Tuar Mhic Éadaigh
+- **170422** East Mayo U16B Championship Knockout  2022 — 1 matches, years [2022], e.g. Bohola Moy Davitts
+- **170424** EirGrid GAA Football Under 20 Munster Championship — 2 matches, years [2022], e.g. Clare, Kerry
+- **170487** South Mayo U16 B Championship  Knockout 2022 — 1 matches, years [2022], e.g. Davitts
+- **170517** Sweeney Cup Senior Final 2022 — 1 matches, years [2022], e.g. Ballina Stephenites
+- **170527** Junior B Hurling Championship 2022 — 25 matches, years [2022], e.g. Crookedwood, Fr Daltons, Ringtown
+- **170535** North U14C Championship Knockout 2022 — 1 matches, years [2022], e.g. Cill Chomain
+- **170543** North U14A Championship Knockout 2022 — 1 matches, years [2022], e.g. Ardnaree
+- **170557** TG4 Connacht LGFA Intermediate Championship — 6 matches, years [2022], e.g. Leitrim, Roscommon, Sligo
+- **170565** South Tipp U13C FB Championship Knockout 2022 — 5 matches, years [2022], e.g. Cahir, Clonmel Commercials, Father Sheehys
+- **170576** East kerry senior League Div 1. — 4 matches, years [2022], e.g. Dr Crokes, Legion
+- **170579** 2022 U21 Hurling Championship — 4 matches, years [2022], e.g. Ath\Tremane, Four Roads/Na Ceithre Boithre, Pádraig Pearses
+- **170580** 2022 Senior Hurling League Group A — 6 matches, years [2022], e.g. Four Roads/Na Ceithre Boithre, Oran Hurling Club, Pádraig Pearses
+- **170581** 2022 Senior Hurling Championship — 15 matches, years [2022], e.g. Four Roads/Na Ceithre Boithre, Oran Hurling Club, Pádraig Pearses
+- **170582** 2022 Senior Hurling League Group B — 3 matches, years [2022], e.g. St. Dominics, Tremane, Áth Liag/Athleague
+- **170588** Junior B Football Championship Gorey District League — 28 matches, years [2022], e.g. , CLG Naomh Pádraig, Castletown
+- **170606** Homeland U16 B Championship 2022 — 3 matches, years [2022], e.g. Bohola Moy Davitts, Parke/Keelogues/Crimlin
+- **170609** Homeland U16 A Championship 2022 — 3 matches, years [2022], e.g. Castlebar Mitchels, Claremorris
+- **170616** North Mayo U16A Championship Knockout 2022 — 1 matches, years [2022], e.g. Crossmolina Deel Rovers
+- **170643** Electric Ireland Munster Minor Hurling Championship — 1 matches, years [2022], e.g. Clare
+- **170650** South Tipp Senior Football Championship 2022 — 21 matches, years [2022], e.g. Ardfinnan GAA, BALLYPOREEN CLONMEL OG, CUMANN CILL NAILE CLG
+- **170656** South Tipp Intermediate Hurling Championship 2022 — 7 matches, years [2022], e.g. Ballingarry, Ballybacon Grange Gaa Club, Carrick Davins GAA Club
+- **170657** South Tipp Senior Hurling Championship 2022 — 3 matches, years [2022], e.g. CATHAIL S CIOCAM, St Mary's Hurling Club Clonmel
+- **170658** South Tipp Intermediate Football Championship 2022 — 21 matches, years [2022], e.g. CATHAIL S CIOCAM, Clonmel Commercials, Clonmel Og
+- **170672** East Mayo U14A Championship Knockout 2022 — 1 matches, years [2022], e.g. Charlestown Sarsfields
+- **170673** East Mayo U14B Championship Knockout 2022 — 1 matches, years [2022], e.g. Bohola Moy Davitts
+- **170677** West Mayo U16B Knockout Championship 2022 — 1 matches, years [2022], e.g. Balla
+- **170700** Junior A  Hurling Championship 2022 — 10 matches, years [2022], e.g. Castlepollard Hurling Club, Castletown Geoghegan/Baile Chaisleáin Mhic Eochag, Clonkill
+- **170707** South Mayo U14 A Championship  Knockout 2022 — 1 matches, years [2022], e.g. Claremorris
+- **170708** South Mayo U14C Championship  Knockout 2022 — 1 matches, years [2022], e.g. Ballinrobe
+- **170709** South Mayo U14B Championship  Knockout 2022 — 1 matches, years [2022], e.g. Mayo Gaels
+- **170710** North Mayo U16C Championship Knockout 2022 — 1 matches, years [2022], e.g. Ardmoy
+- **170728** U11 Championship Finals 2021 - 2022 — 3 matches, years [2022], e.g. Bows Soccer Academy, Cheltenham Town FC - Cheltenham Site, Revolution Football Club
+- **170730** U12 Championship Finals 2021 - 2022 — 3 matches, years [2022], e.g. Dartford FC Youth Academy, Herald FC Green, LJR Coaching
+- **170734** Sweeney Intermediate Cup Final 2022 — 1 matches, years [2022], e.g. Crossmolina Deel Rovers
+- **170738** North U14B Championship Knockout 2022 — 1 matches, years [2022], e.g. Ardmoy
+- **170745** Junior A Hurling Championship 2022 — 14 matches, years [2022], e.g. Ballinhassig, Ballygarvan, Ballymartle
+- **170746** Junior A Football Championship 2022 — 17 matches, years [2022], e.g. Ballinhassig, Ballygarvan, Ballymartle
+- **170747** EirGrid GAA Football All-Ireland U20 Championship — 1 matches, years [2022], e.g. Kerry
+- **170757** Emerging Senior Women Interpro — 1 matches, years [2022], e.g. Ulster Women
+- **170758** Senior Women Interpro Friendly — 1 matches, years [2022], e.g. Ulster Women
+- **170761** South Tipp Intermediate Football Championship 2022 — 15 matches, years [2022], e.g. Clonmel Commercials, Clonmel Og, Father Sheehys
+- **170762** Tony Kirwan Plant Hire East Junior A Football Championship Group 1 — 4 matches, years [2022], e.g. Fenor, Ferrybank, John Mitchel's
+- **170763** John J. Murphy East Junior B Hurling Championship Group 2 — 6 matches, years [2022], e.g. De La Salle, Dunhill, Erins Own
+- **170764** John J. Murphy East Junior B Hurling Championship Group 1 — 3 matches, years [2022], e.g. Ballygunner, Butlerstown GAA Club, Mt. Sion
+- **170765** Tony Kirwan Plant Hire East Junior A Football Championship Group 2 — 3 matches, years [2022], e.g. Bunmahon, Butlerstown GAA Club, St Molleran's
+- **170775** John J. Murphy East Junior C Hurling Championship Group 1 — 10 matches, years [2022], e.g. Micheal MacCraith Tramore, Naomh Pól, Passage
+- **170779** John J. Murphy East Junior C Hurling Championship Group 2 — 6 matches, years [2022], e.g. Ballyduff Lower, Clonea, Ferrybank
+- **170780** Homeland U16 C Championship 2022 — 2 matches, years [2022], e.g. Castlebar Mitchels
+- **170782** Homeland U14 A Championship 2022 — 3 matches, years [2022], e.g. Béal an Mhuirthead, Claremorris
+- **170783** Homeland U14 C Championship 2022 — 2 matches, years [2022], e.g. Ballinrobe, Bonniconlon
+- **170784** Homeland U14 B Championship 2022 — 3 matches, years [2022], e.g. Ardmoy, Mayo Gaels
+- **170791** TG4 Leinster Senior Championship 2022 — 2 matches, years [2022], e.g. Dublin, Westmeath
+- **170836** Home Nations Senior Men — 6 matches, years [2022], e.g. England, Ireland, Wales
+- **170940** Junior C Football Championship — 12 matches, years [2022], e.g. Ballinacurra, Ballinure, Ballyphehane
+- **170943** Rebel Og Coiste Fe14 Premier 1 Football Championship — 6 matches, years [2022], e.g. Ballincollig, Bishopstown, Carrigaline
+- **170946** Rebel Og North/East Fe14 Division 1 Football Cup Championship — 7 matches, years [2022], e.g. Aghada, Croke Rovers, Kilworth Araglen Og
+- **170947** Rebel Og Coiste Fe14 Premier 2 Football Championship — 7 matches, years [2022], e.g. Eire Og, Erins Own, Na Piarsaigh
+- **170948** Rebel Og Coiste Fe14 Prem 1 Hurling Championship — 7 matches, years [2022], e.g. Douglas, Glen Rovers, Killeagh
+- **170949** Rebel Og Coiste Fe14 Premier 2A Football Championship — 7 matches, years [2022], e.g. Bandon, Carrigtwohill, Kinsale
+- **170950** Rebel Og Coiste Fe14 Prem 2 Hurling Championship — 7 matches, years [2022], e.g. Aghada, Carrigaline, Na Piarsaigh
+- **170951** Rebel Og North Fe14 Division 2  Football  Championship — 7 matches, years [2022], e.g. BK Plunketts, Ballycastle Gaels, Bye
+- **170953** Rebel Og Coiste Fe14 Prem 2A Hurling Championship — 3 matches, years [2022], e.g. Ballinora, Blackrock
+- **170954** Rebel Og North Fe14 Division 3  Football  Championship — 3 matches, years [2022], e.g. Kildorrery, Mayfield
+- **170955** Rebel Og Coiste Fe14 Prem Second Teams Hurling Championship — 6 matches, years [2022], e.g. Carrigaline, Douglas, Nemo Rangers
+- **170958** Rebel Og West/Mid Fe14 Division 1 Football Championship — 6 matches, years [2022], e.g. Aghabullogue, Ballygarvan, Castlehaven
+- **170959** Rebel Og West Fe14 Division 2  Football  Championship — 3 matches, years [2022], e.g. Ahan Gaels, Ilen Rovers, Sam Maguires
+- **170960** Rebel Og West/Mid Fe14 Division 3  Football  Championship — 7 matches, years [2022], e.g. Caha Og, Ibane Gaels, Kilmacabea
+- **170961** Rebel Og East/North/Mid Fe14 Division 1 Hurling Championship — 6 matches, years [2022], e.g. Kilworth Araglen Og, Mallow, St Catherines
+- **170962** Rebel Og East Fe14 Division 2  Football  Championship — 3 matches, years [2022], e.g. Bride Rovers, Lisgoold, St Catherines
+- **170963** Rebel Og East Fe14 Division 2 Hurling Championship — 3 matches, years [2022], e.g. Castlelyons, Youghal
+- **170964** Rebel Og Mid Fe14 Division 2  Football  Championship — 6 matches, years [2022], e.g. , Blarney, Passage
+- **170965** Rebel Og East/Mid Fe14 Division 3 Hurling Championship — 3 matches, years [2022], e.g. Cobh, Mayfield, Whitechurch
+- **170966** Rebel Og Coiste Fe14 Second Team Football Championship — 6 matches, years [2022], e.g. Carrigaline, Douglas, Glanmire 2
+- **170974** Rebel Og West/Mid Fe14 Division 1 Hurling Championship — 7 matches, years [2022], e.g. Aghabullogue, Bandon, Cill Mochomog
+- **170975** Rebel Og Mid Fe14 Division 2 Hurling Championship — 9 matches, years [2022], e.g. Ahan Gaels, Ballinhassig, Crosshaven
+- **170976** Rebel Og North Fe14 Division 2 Hurling Championship — 3 matches, years [2022], e.g. Ballygiblin, Croke Rovers
+- **170977** Rebel Og North Fe14 Division 3 Hurling Championship — 3 matches, years [2022], e.g. Buttevant, Millstreet
+- **170982** Electric Ireland Munster GAA Football Minor Championship — 2 matches, years [2022], e.g. Cork, Kerry
+- **171001** Tipp bng U13A county Football Championship 2022 — 3 matches, years [2022], e.g. Clonmel Commercials, JK Brackens, TULACH SHEASTA
+- **171039** South Tipp Senior Football Championship 2022 — 9 matches, years [2022], e.g. Ardfinnan GAA, Clonmel Commercials, Kilsheelan-Kilcash
+- **171040** Junior B Football Championship — 28 matches, years [2022], e.g. Abbey Rovers, Araglen, Castlelyons
+- **171045** Tipp county U13D FB Championship 2022 — 3 matches, years [2022], e.g. EMLY/TREACYS, JK Brackens, Toomevara
+- **171046** Tipp County U13C FB Championship 2022 — 3 matches, years [2022], e.g. Gráinseach Mhóicléir Baile Uí Néill, Éire Óg Anacarty/Donohill
+- **171047** Tipp County U13B FB championship 2022 — 3 matches, years [2022], e.g. Clonmel Óg, Gortnahoe-Glengoole, Kiladangan
+- **171053** Senior Hurling Championship Grp 2 — 3 matches, years [2022], e.g. Glenealy, Naomh Teagain/Kiltegan, St Patrick's GAA Club Wicklow
+- **171054** Intermediate Hurling Championship Grp 1 — 3 matches, years [2022], e.g. Bray Emmets, Glenealy, Western Gaels
+- **171055** Senior Hurling Championship Grp 1 — 6 matches, years [2022], e.g. Abhainn Dála, Bray Emmets, Eiré Óg Greystones
+- **171056** Intermediate Hurling Championship Grp 1 — 6 matches, years [2022], e.g. Arklow Rock Parnell, Barndarrig, Emmet Carn An Bhua
+- **171057** Senior Football Championship — 4 matches, years [2022], e.g. An Tóchar, Arklow Geraldines-Ballymoney/Na nGearaltaigh-Baile, Bray Emmets
+- **171058** Junior A Football Championship — 3 matches, years [2022], e.g. Arklow Geraldines-Ballymoney/Na nGearaltaigh-Baile, Ballinacor, Cnoc an Eanaigh
+- **171059** Intermediate Football Championship — 4 matches, years [2022], e.g. Ballymanus, Barndarrig, Coolkenno
+- **171064** Senior C/Ship — 10 matches, years [2022], e.g. Burgess / Duharra, Cashel, Knockavilla Donaskeigh Kickhams
+- **171066** Senior C/Ship Grp 2 — 6 matches, years [2022], e.g. Annacarty, Clonoulty / Rossmore, Drom Inch
+- **171076** Junior B Hurling Championship — 13 matches, years [2022], e.g. Freemount, Gabriel Rangers, Lough Rovers
+- **171112** Junior A  Hurling Championship 2022 — 20 matches, years [2022], e.g. Crookedwood, Fr Daltons, Ringtown
+- **171120** East Mayo Junior A Championship — 3 matches, years [2022], e.g. Eastern Gaels, Kilmovee Shamrocks, Swinford
+- **171128** Mayo SFC Group 1 — 6 matches, years [2022], e.g. Ballintubber, Mayo Gaels, The Neale
+- **171129** Mayo SFC Group 2 — 6 matches, years [2022], e.g. Aghamore, Ballaghaderreen, Ballina Stephenites
+- **171130** Mayo SFC Group 3 — 6 matches, years [2022], e.g. Balla, Breaffy, Béal an Mhuirthead
+- **171131** Mayo IFC Group 1 — 6 matches, years [2022], e.g. Bonniconlon, Crossmolina Deel Rovers, Lahardane
+- **171132** Mayo IFC Group 3 — 6 matches, years [2022], e.g. Ardnaree, Ballyhaunis, Bohola Moy Davitts
+- **171136** Mayo SFC Group 4 — 6 matches, years [2022], e.g. Castlebar Mitchels, Charlestown Sarsfields, Davitts
+- **171137** Mayo IFC Group 2 — 6 matches, years [2022], e.g. Ballinrobe, Burrishoole, Kiltane
+- **171138** Mayo IFC Group 4 — 6 matches, years [2022], e.g. Hollymount-Carramore, Kilmaine, Kilmeena
+- **171140** Jim & Anne Kennedy Junior b Football Championship Knockout — 10 matches, years [2022], e.g. Boherlahan Dualla, JK Brackens, Loughmore - Castleiney
+- **171141** Jim & Anne Kennedy Junior A Football Championship — 6 matches, years [2022], e.g. Clonakenny, Gortnahoe-Glengoole, Holycross/Ballycahill
+- **171142** 2022 Junior Hurling Championship Knock Out — 3 matches, years [2022], e.g. Oran Hurling Club, Roscommon Gaels, Tremane
+- **171170** Corinthians Intermediate Grading 2022 — 36 matches, years [2022], e.g. Corinthians 2022 - Intermediate Balls Deep, Corinthians 2022 - Intermediate Bin Juice, Corinthians 2022 - Intermediate City of Trybes
+- **171188** North Tipp Junior A Football Championship — 3 matches, years [2022], e.g. Kiladangan, Portroe, TULACH SHEASTA
+- **171189** North Tipp Junior B Football Championship — 4 matches, years [2022], e.g. Béal An Átha, Kilruane Mac Donaghs, Moneygall
+- **171229** Kukri Ulster Rugby Championship Division 1 — 90 matches, years [2022, 2023], e.g. Ballyclare RFC, C.I.Y.M.S RFC, Carrickfergus RFC
+- **171230** Kukri Ulster Rugby Championship Division 2 — 90 matches, years [2022, 2023], e.g. Academy RFC, Ards RFC, Ballymoney RFC
+- **171231** Kukri Ulster Rugby Championship Division 3 — 90 matches, years [2022, 2023], e.g. B.H.S FP RFC, Cavan RFC, Civil Service RFC
+- **171311** Go Ahead Junior H Hurling Championship Group 2 — 15 matches, years [2022], e.g. Fingallians, Garda, Geraldine P. Morans
+- **171312** Go Ahead Junior H Hurling Championship Group 1 — 15 matches, years [2022], e.g. Cuala, Naomh Barrog, Ranelagh Gaels
+- **171313** Go Ahead Junior G Hurling Championship Group 1 — 15 matches, years [2022], e.g. Ballyboden St Endas, O' Dwyers, Portobello
+- **171314** Go Ahead Junior G Hurling Championship Group 2 — 15 matches, years [2022], e.g. Clontarf, Kevins, Lucan Sarsfields
+- **171315** Go Ahead Junior F Hurling Championship Group 1 — 15 matches, years [2022], e.g. Castleknock, Realt Dearg, Scoil Ui Chonaill
+- **171316** Go Ahead Junior F Hurling Championship Group 2 — 15 matches, years [2022], e.g. Good Counsel / Liffey Gaels, Kilmacud Crokes, O' Tooles
+- **171317** Go Ahead Junior E Hurling Championship Group 1 — 15 matches, years [2022], e.g. Ballinteer St Johns, Commercials, Cuala
+- **171319** Go Ahead Junior E Hurling Championship Group 2 — 15 matches, years [2022], e.g. Ballyboden St Endas, Castleknock, Civil Service HC
+- **171394** Rebel Og Mid Fe14 Division 2 Football Championship Shield Finals — 3 matches, years [2022], e.g. Courcey Rovers, Grenagh, Sliabh Rua
+- **171395** Rebel Og North/East Fe14 Division 1 Football Shield Championship — 3 matches, years [2022], e.g. Glenville, Kilworth Araglen Og
+- **171396** Rebel Og North/East Fe14 Division 2 Football Shield Championship — 3 matches, years [2022], e.g. Buttevant, Duarigle Gaels, Fermoy
+- **171397** Rebel Og North/East Fe14 Division 3 Football Shield Championship — 1 matches, years [2022], e.g. Clyda Rovers
+- **171398** Rebel Og West/Mid Fe14 Division 1 Football Shield Championship — 2 matches, years [2022], e.g. Aghabullogue
+- **171404** Rebel Og Coiste Fe14 Premier 1 Football Shield Championship — 3 matches, years [2022], e.g. Ballincollig, St Nicholas
+- **171405** Rebel Og Coiste Fe14 Premier 2 Football Shield Championship — 3 matches, years [2022], e.g. Beara, Nemo Rangers
+- **171408** Rebel Og Coiste Fe14 Premier 2A Football Shield Championship — 3 matches, years [2022], e.g. Ballinora, Carrigtwohill, St Michaels
+- **171434** Ulster Intermediate Club Championship 2022 — 7 matches, years [2022], e.g. Aodh Ruadh (Donegal), Castlerahan/Denn (Cavan), Derrygonnelly (Fermanagh)
+- **171437** Ulster Junior Club Championship 2022 — 8 matches, years [2022], e.g. Ballerin (Derry), Castleblaney (Monaghan), Clonoe (Tyrone)
+- **171440** Go Ahead Junior D Hurling Championship Group 2 — 15 matches, years [2022], e.g. Crumlin, Naomh Barrog, Naomh Mearnog
+- **171441** Go Ahead Junior D Hurling Championship Group 1 — 15 matches, years [2022], e.g. Clontarf, Round Towers Lusk, Setanta
+- **171442** Go Ahead Junior C Hurling Championship Group 1 — 15 matches, years [2022], e.g. Erins Isle, Na Gaeil Oga, Naomh Olaf
+- **171443** Go Ahead Junior C Hurling Championship Group 2 — 15 matches, years [2022], e.g. Faughs, Kevins, Kilmacud Crokes
+- **171445** Go Ahead Junior B Hurling Championship Group 1 — 15 matches, years [2022], e.g. Ballyboden St Endas, Faughs, Lucan Sarsfields
+- **171446** Go Ahead Junior B Hurling Championship Group 2 — 15 matches, years [2022], e.g. Bye, Castleknock, Civil Service HC
+- **171447** Go Ahead Junior A Hurling Championship Group 1 — 15 matches, years [2022], e.g. Ballinteer St Johns, Lucan Sarsfields, Realt Dearg
+- **171448** Go Ahead Junior A Hurling Championship Group 2 — 15 matches, years [2022], e.g. Commercials, Cuala, Good Counsel / Liffey Gaels
+- **171449** Go Ahead Intermediate Hurling Championship Group 1 — 15 matches, years [2022], e.g. Bye, Round Towers (C), St Brigids
+- **171450** Go Ahead Intermediate Hurling Championship Group 2 — 15 matches, years [2022], e.g. Ballyboden St Endas, Bye, Clanna Gael Fontenoy
+- **171453** Go Ahead Senior 3 Hurling Championship Group 1 — 15 matches, years [2022], e.g. Bye, Cuala, Naomh Olaf
+- **171455** Go Ahead Senior 3 Hurling Championship Group 2 — 15 matches, years [2022], e.g. Bye, Clontarf, Crumlin
+- **171456** Go Ahead Senior 2 Hurling Championship Group 1 — 15 matches, years [2022], e.g. Ballinteer St Johns, Bye, Castleknock
+- **171458** Go Ahead Senior 2 Hurling Championship Group 2 — 15 matches, years [2022], e.g. Ballyboden St Endas, Bye, Faughs
+- **171497** North Tipp Junior A Hurling Championship — 13 matches, years [2022], e.g. Borris-Ileigh, Kilruane Mac Donaghs, Nenagh Éire Óg
+- **171498** Crust & Crumb Senior Football League Division 2 — 45 matches, years [2022], e.g. Aghadrumsee St McCartans, Belcoo O`Rahilly's, Brookeboro Heber McMahons
+- **171499** Westville Hotel Senior Football League Division 1 — 45 matches, years [2022], e.g. Belnaleck Art McMurroughs, Derrygonnelly Harps, Derrylin O Connells
+- **171502** Go Ahead Senior 1 Hurling Championship Group 1 — 15 matches, years [2022], e.g. Ballyboden St Endas, Bye, Cuala
+- **171503** Go Ahead Senior 1 Hurling Championship Group 2 — 15 matches, years [2022], e.g. Bye, Craobh Chiarain, Kilmacud Crokes
+- **171506** Senior Football League  Division 6 (Shield — 18 matches, years [2022], e.g. Beaufort, Desmonds, Dingle
+- **171507** Senior Football League  Division 6 (Cup) — 16 matches, years [2022], e.g. Dr. Crokes, Firies, Fossa
+- **171516** Women 7s Championship - Lisbon — 25 matches, years [2022], e.g. Belgium, Czechia, France
+- **171517** Men 7s Championship - Lisbon — 25 matches, years [2022], e.g. Belgium, Czechia, Georgia
+- **171518** Co-op Superstores Premier Senior Hurling Championship - Divisions/Colleges — 10 matches, years [2022], e.g. Avondhu, Carbery, Carrigdhoun
+- **171519** Bon Secours Premier Senior Football Championship - Divisions/Colleges — 10 matches, years [2022], e.g. Avondhu, Carbery, Duhallow
+- **171532** North Tipp Junior Hurling Championship Group 2 — 10 matches, years [2022], e.g. Burgess, Portroe, Silvermines
+- **171534** North Tipp Junior B Hurling Championship Group 3 — 6 matches, years [2022], e.g. Béal An Átha, Kiladangan, Moneygall
+- **171535** GAA Football All-Ireland Senior Championship — 3 matches, years [2022], e.g. Dublin, Kerry
+- **171538** Rebel Og Coiste Fe14 Prem 1 Hurling Shield Championship — 3 matches, years [2022], e.g. Carrigtwohill, Eire Og, Kiltha Og
+- **171539** Rebel Og Coiste Fe14 Prem 2 Hurling Shield Championship — 3 matches, years [2022], e.g. Ballincollig, Erins Own, St Finbarrs
+- **171540** Rebel Og West/Mid Fe14 Division 3 Football Shield Championship — 3 matches, years [2022], e.g. Ballinhassig, Muintir Bhaire
+- **171542** Rebel Og West/Mid Fe14 Division 1 Hurling Shield Championship — 3 matches, years [2022], e.g. Aghabullogue, Courcey Rovers, Kilbrittain
+- **171584** Under-13 Hurling Championship Phase 2 Group 2A — 15 matches, years [2022], e.g. Abbeyleix St Lazarians, Ballinakill Ballypickas, Ballyfin CLG
+- **171585** Under-13 Hurling Championship Phase 2 Group 2B — 15 matches, years [2022], e.g. Borris in Ossory/Kilcotton, Castletown, Clough-Ballacolla
+- **171586** Under-13 Hurling Championship Phase 2 Group 2C — 6 matches, years [2022], e.g. Clonad/Trumera, Mountmellick, Portarlington
+- **171587** Under-13 Hurling Championship Phase 2 Group 2D — 3 matches, years [2022], e.g. Clonaslee St Manmans/Cluain na Slí Naomh Meanmain, Colt Shanahoe, St Pauls
+- **171596** Senior Hurling Championship Group 2 — 5 matches, years [2022], e.g. Abbeydorney, Dr. Crokes, Kilmoyley
+- **171597** Senior Hurling Championship Group 1 — 5 matches, years [2022], e.g. Ballyduff, Causeway, St Brendan's
+- **171598** Senior Hurling Championship Group 3 — 5 matches, years [2022], e.g. Ballyheigue, Crotta O`Neill's, Lixnaw
+- **171626** U15 B Championship — 9 matches, years [2022], e.g. Aghadrumsee St McCartans, Coa O`Dwyer's, Derrylin O Connells
+- **171627** U15 A Championship — 9 matches, years [2022], e.g. Derrygonnelly Harps, Devenish St Mary's, Newtownbutler First Fermanaghs
+- **171646** Rebel Og Mid Fe14 Division 2 Hurling Shield Championship — 2 matches, years [2022], e.g. Ahan Gaels, Crosshaven
+- **171666** Go Ahead Junior 2 Club Football Championship Group 1 — 28 matches, years [2022], e.g. Bye, Cabinteely, Erin Go Bragh
+- **171667** Go Ahead Junior 2 Club Football Championship Group 2 — 15 matches, years [2022], e.g. Bank of Ireland, Beann Eadair, Croi Ro Naofa
+- **171669** Go Ahead Intermediate Club Football Championship Group 1 — 6 matches, years [2022], e.g. Garda, O' Tooles, St Finians (N)
+- **171670** Go Ahead Intermediate Club Football Championship Group 2 — 6 matches, years [2022], e.g. Good Counsel / Liffey Gaels, Naomh Barrog, Scoil Ui Chonaill
+- **171671** Go Ahead Intermediate Club Football Championship Group 3 — 6 matches, years [2022], e.g. Clann Mhuire, Naomh Fionnbarra, St Margarets
+- **171672** Go Ahead Intermediate Club Football Championship Group 4 — 6 matches, years [2022], e.g. Clanna Gael Fontenoy, Fingal Ravens, Geraldine P. Morans
+- **171673** Go Ahead Junior 1 Club Football Championship Group 1 — 6 matches, years [2022], e.g. Crumlin, Na Gaeil Oga, Shankill
+- **171674** Go Ahead Junior 1 Club Football Championship Group 2 — 6 matches, years [2022], e.g. Craobh Chiarain, Innisfails, O' Dwyers
+- **171675** Go Ahead Junior 1 Club Football Championship Group 3 — 6 matches, years [2022], e.g. Ballyfermot De Salle, Man O War, St Finians (S)
+- **171676** Go Ahead Junior 1 Club Football Championship Group 4 — 6 matches, years [2022], e.g. Bye, Civil Service Football, Garristown
+- **171699** Rebel Og East Fe14 Division 2 Football Shield Championship — 1 matches, years [2022], e.g. Lisgoold
+- **171701** Rebel Og West Fe14 Division 2 Football Shield Championship — 1 matches, years [2022], e.g. Ahan Gaels
+- **171702** Go Ahead Senior 2 Club Football Championship Group 1 — 6 matches, years [2022], e.g. Naomh Mearnog, Naomh Olaf, St Oliver Plunketts ER
+- **171703** Go Ahead Senior 2 Club Football Championship Group 2 — 6 matches, years [2022], e.g. Ballyboughal, Parnells, St Marys S
+- **171704** Go Ahead Senior 2 Club Football Championship Group 3 — 6 matches, years [2022], e.g. Erins Isle, Fingallians, St Annes
+- **171705** Go Ahead Senior 2 Club Football Championship Group 4 — 6 matches, years [2022], e.g. Round Towers (C), St Brigids, St Sylvesters
+- **171708** Go Ahead Junior 6 South All County Football Championship G2 — 6 matches, years [2022], e.g. Clontarf, Kilmacud Crokes, Scoil Ui Chonaill
+- **171709** Go Ahead Junior 6 South All County Football Championship G3 — 6 matches, years [2022], e.g. Ballinteer St Johns, Lucan Sarsfields, St Finians (N)
+- **171710** Under -13 Football Championship Phase 2 Group 2B — 15 matches, years [2022], e.g. Ballyfin CLG, Ballyroan Abbey, Mountmellick
+- **171711** Under -13 Football Championship Phase 2 Group 2D — 15 matches, years [2022], e.g. Ballylinan, Colt Shanahoe, Na Fianna Og
+- **171712** Under -13 Football Championship Phase 2 Group 2A — 15 matches, years [2022], e.g. Crettyard/Spink, Kilcavan The Rock, Killeshin
+- **171713** Under -13 Football Championship Phase 2 Group 2C — 14 matches, years [2022], e.g. Camross, Clonaslee St Manmans/Cluain na Slí Naomh Meanmain, Graiguecullen GAA
+- **171717** Go Ahead Junior 6 South All County Football Championship G1 — 6 matches, years [2022], e.g. Crumlin, Na Gaeil Oga, St Brigids
+- **171718** Go Ahead Junior 6 South All County Football Championship G4 — 6 matches, years [2022], e.g. Ballyfermot De Salle, Castleknock, Good Counsel / Liffey Gaels
+- **171719** Go-Ahead Junior C Championship Group A — 10 matches, years [2022], e.g. Garda/Westmanstown Gaels, Portobello, Ranelagh Gaels
+- **171720** Go-Ahead Junior C Championship Group B — 10 matches, years [2022], e.g. Castleknock B, Crumlin, Fingallians B
+- **171721** Go-Ahead Junior D Championship Group A — 10 matches, years [2022], e.g. Ballinteer St Johns B, Ballymun Kickhams, Round Towers Lusk
+- **171722** Go-Ahead Junior D Championship Group B — 10 matches, years [2022], e.g. Beann Eadair A, Cuala B, Garristown
+- **171723** Go-Ahead Junior E Championship Group B — 6 matches, years [2022], e.g. Clontarf C, St Brigids B, St Maurs B
+- **171724** Go-Ahead Junior E Championship Group A — 6 matches, years [2022], e.g. Na Fianna C, Robert Emmets, St Margarets
+- **171725** Go-Ahead Junior F Championship Group A — 15 matches, years [2022], e.g. Ballyboden St Endas D, Clanna Gael Fontenoy B, Fingal Ravens
+- **171726** Go-Ahead Junior F Championship Group B — 10 matches, years [2022], e.g. Craobh Chiaran, Croi Ro Naofa, Na Gaeil Oga
+- **171727** Go-Ahead Junior G Championship Group A — 10 matches, years [2022], e.g. Fingallians C, O Tooles, Round Towers Clondalkin
+- **171728** Go-Ahead Junior G Championship Group B — 10 matches, years [2022], e.g. Naomh Barrog B, Naomh Olaf B, Shankill
+- **171729** Go-Ahead Junior H Championship Group A — 15 matches, years [2022], e.g. Clontarf D, Cuala C, Raheny B
+- **171730** Go-Ahead Junior H Championship Group B — 10 matches, years [2022], e.g. Erins Isle B, Man O War B, Na Fianna D
+- **171731** Go-Ahead Junior I Championship Group A — 10 matches, years [2022], e.g. Castleknock C, Crumlin B, Erin Go Bragh
+- **171732** Go-Ahead Junior I Championship Group B — 6 matches, years [2022], e.g. Fingallians D, Lucan Sarsfields C, St James Gaels / An Caislean
+- **171733** Go-Ahead Junior J Championship Group A — 15 matches, years [2022], e.g. Geraldine P Morans, Na Fianna E, Na Gaeil Aeracha
+- **171734** Go-Ahead Junior J Championship Group B — 10 matches, years [2022], e.g. Ballyboden St Endas E, Beann Eadair B, Cuala D
+- **171740** Intermediate C/Ship — 21 matches, years [2022], e.g. Boherlahan - Dualla, Borris - Ileigh, Cahir
+- **171741** GAA Hurling All-Ireland Senior Championship — 1 matches, years [2022], e.g. Kerry
+- **171742** West U13A Hurling Championship — 7 matches, years [2022], e.g. CASHEL KING CORMACS, CLONOULTY/ROSSMORE, Cappawhite Gaels
+- **171743** West U13C Hurling Championship — 12 matches, years [2022], e.g. Emly, Galtee Rovers/St Pecaun, KNOCKAVILLA DONASKEIGH KICKHAMS
+- **171744** West U13D Hurling Championship — 20 matches, years [2022], e.g. Arravale Rovers GAA Club, CASHEL KING CORMACS, Cappawhite Gaels
+- **171745** West U13B Hurling Championship — 16 matches, years [2022], e.g. Arravale Rovers GAA Club, Golden-Kilfeacle, Lattin-Cullen
+- **171746** Electric Ireland GAA Football All-Ireland Minor Championship — 2 matches, years [2022], e.g. Mayo, Tyrone
+- **171747** West U15B Hurling Championship — 21 matches, years [2022], e.g. CLONOULTY/ROSSMORE, Galtee Rovers/St Pecaun, Golden-Kilfeacle
+- **171748** West U15A Hurling Championship — 8 matches, years [2022], e.g. Arravale Rovers GAA Club, CASHEL KING CORMACS, Cappawhite Gaels
+- **171750** Corinthians Intermediate Division 1 — 15 matches, years [2022], e.g. Corinthians 2022 - Intermediate Balls Deep, Corinthians 2022 - Intermediate City of Trybes, Corinthians 2022 - Intermediate Stairway to 7
+- **171751** Corinthians Intermediate Division 2 — 15 matches, years [2022], e.g. Corinthians 2022 - Intermediate Galway Mountain Rescue, Corinthians 2022 - Intermediate No Woman No Try, Corinthians 2022 - Intermediate Odd Socks
+- **171752** Corinthians Intermediate Division 3 — 15 matches, years [2022], e.g. Corinthians 2022 - Intermediate Impact Factor, Corinthians 2022 - Intermediate KPMG, Corinthians 2022 - Intermediate MedTaggers
+- **171772** John J. Murphy East Junior C Football Championship Group 1 — 6 matches, years [2022], e.g. Erins Own, Kilmacthomas, Micheal MacCraith Tramore
+- **171773** Junior A Football Championship — 23 matches, years [2022], e.g. Bride Rovers, Carraig na bhFear, Carrigtwohill
+- **171775** John J. Murphy East Junior C Football Championship Group 2 — 6 matches, years [2022], e.g. Butlerstown GAA Club, Gaultier, Naomh Pól
+- **171776** IFC - Group 2 — 6 matches, years [2022], e.g. Caltra, Mícheál Breathnach, Oranmore-Maree
+- **171777** IFC - Group 4 — 6 matches, years [2022], e.g. Dunmore MacHales, Kilconly, St. Gabriels
+- **171778** IFC - Group 1 — 6 matches, years [2022], e.g. Corofin, Cortoon Shamrocks, Cumann Peil Mhaigh Cuilinn
+- **171779** IFC - Group 3 — 6 matches, years [2022], e.g. Headford, Kilkerrin/Clonberne, Killererin
+- **171781** Junior B Football Championship — 15 matches, years [2022], e.g. Castlelyons, Dungourney, Fr O Neills
+- **171783** Junior C Football Championship — 12 matches, years [2022], e.g. Aghada, Carraig na bhFear, Carrigtwohill
+- **171786** Junior B Hurling Championship — 23 matches, years [2022], e.g. Aghada, Bride Rovers, Castlemartyr
+- **171791** Junior C Hurling Championship — 20 matches, years [2022], e.g. Bride Rovers, Carraig na bhFear, Carrigtwohill
+- **171795** Go Ahead Junior 6 North All County Football Championship G4 — 6 matches, years [2022], e.g. Erins Isle, Fingal Ravens, Man O War
+- **171796** Go Ahead Junior 6 North All County Football Championship G3 — 6 matches, years [2022], e.g. Ballymun Kickhams, O' Dwyers, St Monicas
+- **171797** Go Ahead Junior 6 North All County Football Championship G2 — 6 matches, years [2022], e.g. Fingallians, Na Fianna, Round Towers Lusk
+- **171798** Go Ahead Junior 6 North All County Football Championship G1 — 6 matches, years [2022], e.g. Garristown, Raheny, St Maurs
+- **171805** Rebel Og West Fe17 Division 1 Football Championship — 6 matches, years [2022], e.g. Caha Og, Clonakilty, O Donovan Rossa
+- **171806** Rebel Og West Fe17 Division 1 Football Championship Final — 1 matches, years [2022], e.g. Caha Og
+- **171808** Rebel Og West Fe17 Division 3 Football Championship section 1 — 10 matches, years [2022], e.g. Aghinagh, Ballingeary, Canovee
+- **171809** Rebel Og West Fe17 Division 3 Football Championship section 2A — 3 matches, years [2022], e.g. Castletownbere, Clann na nGael, Dunmanus Rovers
+- **171810** Rebel Og West Fe17 Division 3 Football Championship section 2B — 6 matches, years [2022], e.g. Gabriel Rangers, St James, Tadhg Mac Carthaigh
+- **171811** Rebel Og West Fe17 Division 3 Football Championship Playoff — 5 matches, years [2022], e.g. Castletownbere, Cill na Martra, Gabriel Rangers
+- **171812** Rebel Og West Fe17 Division 3 Football  Shield Championship Playoff — 4 matches, years [2022], e.g. Clondrohid, Dunmanus Rovers, Uibh Laoire
+- **171813** Rebel Og West Fe17 Division 2 Football Championship section 1 — 10 matches, years [2022], e.g. Ahan Gaels, Ibane Gaels, Ilen Rovers
+- **171814** Rebel Og West Fe17 Division 2 Football Championship section 2 — 10 matches, years [2022], e.g. Carbery Rangers, Castlehaven, Kilmichael
+- **171815** Rebel Og West Fe17 Division 2 Football Championship Playoff — 3 matches, years [2022], e.g. Castlehaven, Naomh Aban
+- **171816** Rebel Og West Fe17 Division 2 Football Championship Shield Playoff — 3 matches, years [2022], e.g. Ibane Gaels, Newcestown
+- **171817** Rebel Og West Fe15 Division 3 Football Championship Playoff — 5 matches, years [2022], e.g. Cill na Martra, Ilen Rovers, Urhan
+- **171818** Rebel Og West Fe15 Division 3 Football Championship section 1 — 10 matches, years [2022], e.g. Canovee, Cill na Martra, Clondrohid
+- **171819** Rebel Og West Fe15 Division 3 Football Championship section 2 — 10 matches, years [2022], e.g. Ballingeary, Caha Og, Castletownbere
+- **171820** Rebel Og West Fe15 Division 3 Football Championship section 3 — 6 matches, years [2022], e.g. Gabriel Rangers, Ilen Rovers, Kilmacabea
+- **171821** Intermediate Hurling Championship 2022 — 28 matches, years [2022], e.g. Castletown Geoghegan/Baile Chaisleáin Mhic Eochag, Clonkill, Cullion Hurling Club
+- **171822** Go Ahead Junior 5 All County Football Championship Group 4 — 6 matches, years [2022], e.g. Clann Mhuire, Clanna Gael Fontenoy, Kilmacud Crokes
+- **171823** Go Ahead Junior 5 All County Football Championship Group 3 — 6 matches, years [2022], e.g. Ballyboden St Endas, Naomh Barrog, St Marks
+- **171824** Go Ahead Junior 5 All County Football Championship Group 2 — 6 matches, years [2022], e.g. Geraldine P. Morans, Lucan Sarsfields, St Brendans
+- **171825** Go Ahead Junior 5 All County Football Championship Group 1 — 6 matches, years [2022], e.g. Good Counsel / Liffey Gaels, Naomh Mearnog, St Judes
+- **171831** SFC - Group 1 — 15 matches, years [2022], e.g. An Spidéal, Corofin, Cumann Peil Mhaigh Cuilinn
+- **171832** SFC - Group 3 — 15 matches, years [2022], e.g. Caherlistrane, Claregalway, Killannin
+- **171835** SFC - Group 2 — 15 matches, years [2022], e.g. An Cheathrú Rua, Annaghdown, Cumann Peile Bhearna Na Forbacha
+- **171840** Rebel Og West Fe15 Division 2 Football Championship section 1 — 6 matches, years [2022], e.g. Aghinagh, Ahan Gaels, Kilmichael
+- **171841** Rebel Og West Fe15 Division 2 Football Championship section 2 — 10 matches, years [2022], e.g. Ballinhassig, Castlehaven, Kilbrittain
+- **171843** Rebel Og West Fe15 Division 2 Football Championship Shield — 3 matches, years [2022], e.g. Ahan Gaels, Kilmeen/Kilbree
+- **171844** Rebel Og West Fe15 Division 2 Football Championship Cup Play offs — 3 matches, years [2022], e.g. Castlehaven, Kilmichael, Naomh Aban
+- **171846** Rebel Og West Fe15 Division 1 Football Championship section 1 — 6 matches, years [2022], e.g. Clonakilty 1, Sam Maguires, St Colums
+- **171848** Rebel Og West Fe15 Division 1 Football Championship section 2 — 6 matches, years [2022], e.g. Bantry Blues, Carbery Rangers, Newcestown
+- **171850** Rebel Og West Fe15 Division 1 Football Championship play offs — 4 matches, years [2022], e.g. Carbery Rangers, Sam Maguires
+- **171853** Rebel Og West Fe15 Division 1 Football Championship Shield — 3 matches, years [2022], e.g. Newcestown, Valley Rovers 1
+- **171856** Rebel Og West Fe15 Division 3 Football Championship Shield — 5 matches, years [2022], e.g. Clondrohid, Kilmacabea, Tadhg Mac Carthaigh
+- **171857** Rebel Og West Fe15 Division 3 Hurling Championship — 15 matches, years [2022], e.g. Ballygarvan, Kilmeen/Kilbree, Laochra Og
+- **171858** Rebel Og West Fe15 Division 3 Hurling Championship Cup Final — 1 matches, years [2022], e.g. St James
+- **171859** Rebel Og West Fe15 Division 3 Hurling Championship Shield Final — 1 matches, years [2022], e.g. Ballygarvan
+- **171866** Rebel Og West Fe15 Division 1 Hurling Championship — 10 matches, years [2022], e.g. Cill Mochomog, Clonakilty, Courcey Rovers
+- **171867** Rebel Og West Fe15 Division 1 Hurling Championship Cup Final — 1 matches, years [2022], e.g. Clonakilty
+- **171868** Rebel Og West Fe15 Division 1 Hurling Championship Shield Final — 1 matches, years [2022], e.g. Newcestown
+- **171869** Rebel Og West Fe17 Division 1 Hurling Championship — 6 matches, years [2022], e.g. Bandon, Cill Mochomog, Courcey Rovers
+- **171870** Rebel Og West Fe17 Division 1 Hurling Championship Cup Final — 1 matches, years [2022], e.g. Bandon
+- **171871** Rebel Og West Fe17 Division 1 Hurling Championship Shield Final — 1 matches, years [2022], e.g. Cill Mochomog
+- **171872** Rebel Og West Fe17 Division 2 Hurling Championship — 15 matches, years [2022], e.g. Ahan Gaels, Clonakilty, Ibane Gaels
+- **171873** Go Ahead Junior 4 All County Football Championship Group 4 — 15 matches, years [2022], e.g. Ballyboden St Endas, Bye, Castleknock
+- **171874** Rebel Og West Fe17 Division 2 Hurling Championship Cup Final — 1 matches, years [2022], e.g. Ahan Gaels
+- **171875** Rebel Og West Fe17 Division 2 Hurling Championship Shield Final — 1 matches, years [2022], e.g. Owen Gaels
+- **171876** Rebel Og West Fe17 Division 3 Hurling Championship — 15 matches, years [2022], e.g. Laochra Og, Lee Gaels, Rossa Gabriels
+- **171877** Go Ahead Junior 4 All County Football Championship Group 3 — 6 matches, years [2022], e.g. Ballinteer St Johns, Parnells, St Patricks (D)
+- **171878** Rebel Og West Fe17 Division 3 Hurling Championship Cup Final — 1 matches, years [2022], e.g. Sam Maguires
+- **171879** Go Ahead Junior 4 All County Football Championship Group 2 — 15 matches, years [2022], e.g. Bye, Cuala, Na Fianna
+- **171880** Rebel Og West Fe17 Division 3 Hurling Championship Shield Final — 1 matches, years [2022], e.g. Lee Gaels
+- **171881** Go Ahead Junior 4 All County Football Championship Group 1 — 6 matches, years [2022], e.g. Erins Isle, Raheny, St Oliver Plunketts ER
+- **171882** Go Ahead Junior 3 All County Football Championship Group 4 — 6 matches, years [2022], e.g. Castleknock, Clontarf, Na Fianna
+- **171883** Go Ahead Junior 3 All County Football Championship Group 3 — 6 matches, years [2022], e.g. Ballyboughal, Bye, St Judes
+- **171884** Go Ahead Junior 3 All County Football Championship Group 2 — 7 matches, years [2022], e.g. Bye, Garda, Naomh Barrog
+- **171885** Go Ahead Junior 3 All County Football Championship Group 1 — 6 matches, years [2022], e.g. Kilmacud Crokes, Naomh Olaf, St Finians (S)
+- **171887** Go Ahead Junior 2 All County Football Championship Group 1 — 6 matches, years [2022], e.g. Lucan Sarsfields, St Annes, St Marys S
+- **171888** Rebel Og Coiste Fe15 Premier 1 Hurling Championship section 1 — 6 matches, years [2022], e.g. Bandon, Eire Og, Midleton
+- **171889** Rebel Og Coiste Fe15 Premier 1 Hurling Championship section 2 — 6 matches, years [2022], e.g. Ballincollig, Carrigaline, Douglas
+- **171890** Go Ahead Junior 2 All County Football Championship Group 2 — 6 matches, years [2022], e.g. Bye, Fingal Ravens, Naomh Olaf
+- **171891** Rebel Og Coiste Fe15 Premier 1 Hurling Championship Playoffs — 3 matches, years [2022], e.g. Inniscarra, Sarsfields
+- **171892** Go Ahead Junior 2 All County Football Championship Group 3 — 6 matches, years [2022], e.g. Ballinteer St Johns, Round Towers Lusk, St Oliver Plunketts ER
+- **171893** Rebel Og Coiste Fe15 Premier 1 Hurling Championship Challenge Cup Playoffs — 3 matches, years [2022], e.g. Ballincollig, Eire Og
+- **171894** Go Ahead Junior 2 All County Football Championship Group 4 — 6 matches, years [2022], e.g. Ballyboden St Endas, Ballymun Kickhams, Naomh Mearnog
+- **171895** Rebel Og Coiste Fe15 Premier 2 Hurling Championship section 1 — 15 matches, years [2022], e.g. Bishopstown, Bride Rovers, Bye
+- **171896** Go Ahead Junior 1 All County Football Championship Group 1 — 6 matches, years [2022], e.g. Cuala, Na Fianna, St Brigids
+- **171897** Rebel Og Coiste Fe15 Premier 2 Hurling Championship section 2 — 15 matches, years [2022], e.g. Aghada, Ballinora 1, Bye
+- **171898** Rebel Og Coiste Fe15 Premier 2 Hurling Championship Playoffs — 3 matches, years [2022], e.g. Ibane Gaels, Youghal
+- **171899** Go Ahead Junior 1 All County Football Championship Group 2 — 6 matches, years [2022], e.g. Castleknock, Fingallians, Raheny
+- **171901** Go Ahead Junior 1 All County Football Championship Group 3 — 6 matches, years [2022], e.g. Ballinteer St Johns, Kilmacud Crokes, St Maurs
+- **171902** Go Ahead Junior 1 All County Football Championship Group 4 — 6 matches, years [2022], e.g. Ballyboden St Endas, Bye, Erins Isle
+- **171903** Rebel Og Coiste Fe15 Premier 1 Football Championship section 1 — 6 matches, years [2022], e.g. Ballincollig, Bandon, Douglas
+- **171904** Rebel Og Coiste Fe15 Premier 1 Football Championship section 2 — 6 matches, years [2022], e.g. Bishopstown, Carrigaline, Glanmire
+- **171905** Rebel Og Coiste Fe15 Premier 1 Football Championship Playoffs — 2 matches, years [2022], e.g. Ballincollig, Nemo Rangers
+- **171906** Go Ahead Intermediate All County Football Championship G 1 — 6 matches, years [2022], e.g. Cuala, Skerries Harps, St Oliver Plunketts ER
+- **171907** Rebel Og Coiste Fe15 Premier 1 Football Championship Challenge Cup Playoffs — 3 matches, years [2022], e.g. Bandon, Bishopstown
+- **171908** Go Ahead Intermediate All County Football Championship G 2 — 6 matches, years [2022], e.g. Clontarf, Lucan Sarsfields, St Brigids
+- **171909** Rebel Og Coiste Fe15 Premier 2 Football Championship section 1 — 6 matches, years [2022], e.g. Bye, Duarigle Gaels 1, Kilshannig
+- **171910** Go Ahead Intermediate All County Football Championship G 3 — 6 matches, years [2022], e.g. Ballyboden St Endas, Na Fianna, St Sylvesters
+- **171911** Rebel Og Coiste Fe15 Premier 2 Football Championship section 2 — 6 matches, years [2022], e.g. Eire Og, Ibane Gaels, Macroom
+- **171912** Go Ahead Intermediate All County Football Championship G 4 — 6 matches, years [2022], e.g. Ballymun Kickhams, Bye, Kilmacud Crokes
+- **171913** Rebel Og Coiste Fe15 Premier 2 Football Championship Playoffs — 3 matches, years [2022], e.g. Duarigle Gaels 1, Eire Og, Macroom
+- **171914** Rebel Og Coiste Fe15 Premier 2 Football Championship Challenge Cup Playoffs — 3 matches, years [2022], e.g. Ibane Gaels, Na Piarsaigh, St Finbarrs
+- **171915** Rebel Og Coiste Fe17 Premier 1 Hurling Championship section 1 — 6 matches, years [2022], e.g. Ballincollig 1, Douglas 1, Fermoy 1
+- **171916** Go Ahead Senior 1 Club Football Championship Group 1 — 6 matches, years [2022], e.g. Ballinteer St Johns, Kilmacud Crokes, Raheny
+- **171917** Rebel Og Coiste Fe17 Premier 1 Hurling Championship section 2 — 6 matches, years [2022], e.g. Glen Rovers, Midleton 1, Sarsfields 1
+- **171918** Rebel Og Coiste Fe17 Premier 1 Hurling Championship Playoffs — 3 matches, years [2022], e.g. Douglas, Midleton
+- **171919** Rebel Og Coiste Fe17 Premier 1 Hurling Championship Challenge Cup Playoffs — 3 matches, years [2022], e.g. Glen Rovers, Na Piarsaigh, Sarsfields
+- **171920** Go Ahead Senior 1 Club Football Championship Group 2 — 6 matches, years [2022], e.g. Ballyboden St Endas, Ballymun Kickhams, Clontarf
+- **171921** Go Ahead Senior 1 Club Football Championship Group 3 — 6 matches, years [2022], e.g. Na Fianna, Skerries Harps, St Judes
+- **171922** Rebel Og Coiste Fe17 Premier 2 Hurling Championship section 1 — 6 matches, years [2022], e.g. Aghada, Ballinhassig, Carrigtwohill
+- **171923** Go Ahead Senior 1 Club Football Championship Group 4 — 6 matches, years [2022], e.g. Castleknock, Lucan Sarsfields, Round Towers Lusk
+- **171924** Rebel Og Coiste Fe17 Premier 2 Hurling Championship section 2 — 6 matches, years [2022], e.g. Bishopstown 1, Erins Own, Inniscarra
+- **171925** Rebel Og Coiste Fe17 Premier 2 Hurling Championship section 3 — 6 matches, years [2022], e.g. Bride Rovers, Mallow, Shandrum
+- **171927** Rebel Og Coiste Fe17 Premier 1 Football Championship section 1 — 6 matches, years [2022], e.g. Ballincollig 1, Bishopstown 1, Glanmire
+- **171928** Rebel Og Coiste Fe17 Premier 1 Football Championship section 2 — 6 matches, years [2022], e.g. Bantry Blues, Douglas 1, Mallow 1
+- **171929** Rebel Og Coiste Fe17 Premier 1 Football Championship Playoffs — 3 matches, years [2022], e.g. Bishopstown 1, Douglas, Valley Rovers 1
+- **171930** Rebel Og Coiste Fe17 Premier 1 Football Championship Challenge Cup Playoffs — 3 matches, years [2022], e.g. Ballincollig, Mallow
+- **171931** Rebel Og Coiste Fe17 Premier 2 Football Championship section 1 — 6 matches, years [2022], e.g. Bandon, Kilshannig, Na Piarsaigh
+- **171933** Rebel Og Coiste Fe17 Premier 2 Football Championship Playoffs — 3 matches, years [2022], e.g. Carrigaline, St Finbarrs
+- **171935** Senior 1-2 Group B — 33 matches, years [2022], e.g. Ballinteer St Johns, Cuala, Erins Isle
+- **171936** Senior 1-2 Group B — 24 matches, years [2022], e.g. Erins Isle, Good Counsel Liffey Gaels, Kilmacud Crokes
+- **171948** Rebel Og East Fe15 Division 1 Hurling Championship — 15 matches, years [2022], e.g. Blackrock, Carrigtwohill, Glen Rovers
+- **171951** Rebel Og East Fe15 Division 2 Hurling Championship section 1 — 6 matches, years [2022], e.g. Lisgoold, Mayfield, St Catherines
+- **171952** Rebel Og East Fe15 Division 2 Hurling  Championship section 2 — 6 matches, years [2022], e.g. Castlelyons, Cobh, Erins Own
+- **171955** Rebel Og East Fe15 Division 1 Football Championship section 1 — 6 matches, years [2022], e.g. Killeagh, Midleton, St Colmans
+- **171956** Rebel Og East Fe15 Division 1 Football Championship section 2 — 6 matches, years [2022], e.g. Aghada, Cobh, Mayfield
+- **171957** Rebel Og East Fe15 Division 1 Football Championship Cup Playoffs — 3 matches, years [2022], e.g. Killeagh, Youghal
+- **171962** Rebel Og East Fe15 Division 2 Football Championship section 1 — 6 matches, years [2022], e.g. Fr O Neills, Glenville, Kiltha Og
+- **171963** Rebel Og East Fe15 Division 2 Football Championship section 2 — 6 matches, years [2022], e.g. Bride Rovers, Carrigtwohill, Castlelyons
+- **171964** Rebel Og East Fe15 Division 2 Football Championship Cup Playoffs — 3 matches, years [2022], e.g. Carrigtwohill, Glenville, St Catherines
+- **171965** Rebel Og East Fe15 Division 2 Football Championship Shield Playoffs — 2 matches, years [2022], e.g. Bride Rovers, Castlelyons
+- **171967** Rebel Og East Fe17 Division 1 Football Championship section 1 — 6 matches, years [2022], e.g. Carrigtwohill, Erins Own, Killeagh
+- **171969** Rebel Og East Fe17 Division 1 Football Championship section 2 — 6 matches, years [2022], e.g. Glenville 1, Midleton, St Catherines
+- **171970** Rebel Og East Fe17 Division 1 Football Championship Cup Playoffs — 3 matches, years [2022], e.g. Killeagh, Midleton
+- **171971** Rebel Og East Fe17 Division 1 Football Championship Shield Playoff Final — 3 matches, years [2022], e.g. Carrigtwohill, Glenville 1
+- **171972** Rebel Og East Fe17 Division 2 Football Championship section 1 — 6 matches, years [2022], e.g. Bride Rovers 1, Cobh, Fr O Neills
+- **171973** Rebel Og East Fe17 Division 2 Football Championship section 2 — 6 matches, years [2022], e.g. Kiltha Og, Lisgoold, Mayfield
+- **171974** Rebel Og East Fe17 Division 2 Football Championship Cup Playoffs — 3 matches, years [2022], e.g. Kiltha Og, Mayfield, Youghal
+- **171975** Rebel Og East Fe17 Division 2 Football Championship Shield Playoffs — 3 matches, years [2022], e.g. Cobh, St Colmans 1
+- **171976** Rebel Og East Fe17 Division 1 Hurling Championship section 1 — 6 matches, years [2022], e.g. Cobh, Kiltha Og, Nemo Rangers 1
+- **171977** Rebel Og East Fe17 Division 1 Hurling Championship section 2 — 6 matches, years [2022], e.g. Blackrock 1, Bye, Fr O Neills
+- **171978** Rebel Og East Fe17 Division 1 Hurling Championship Cup Playoff Final — 3 matches, years [2022], e.g. Kiltha Og, Youghal
+- **171979** Rebel Og East Fe17 Division 1 Hurling Championship Shield Playoff Final — 3 matches, years [2022], e.g. Nemo Rangers 1, Watergrasshill
+- **171980** Rebel Og North Fe14 Division 3 Hurling Shield Championship Final — 1 matches, years [2022], e.g. Kildorrery
+- **171983** Rebel Og East Fe17 Division 2 Hurling  Championship section 1 — 6 matches, years [2022], e.g. Lisgoold, Mayfield, St Colmans 1
+- **171984** Rebel Og East Fe17 Division 2 Hurling  Championship section 2 — 6 matches, years [2022], e.g. Ballygiblin, Bye, Killavullen
+- **171985** Rebel Og East Fe17 Division 2 Hurling Championship Cup Playoff Final — 3 matches, years [2022], e.g. Ballygiblin, St Colmcilles, Whitechurch
+- **171986** Rebel Og East Fe17 Division 2 Hurling  Championship Shield Playoffs — 2 matches, years [2022], e.g. Mayfield, St Colmans 1
+- **171987** Rebel Og Mid Fe15 Division 1 Hurling Championship section 1 — 15 matches, years [2022], e.g. Ballinhassig 1, Blarney, Crosshaven
+- **171988** Rebel Og Mid Fe15 Division 1 Hurling Championship Cup — 1 matches, years [2022], e.g. Donoughmore
+- **171989** Rebel Og Mid Fe15 Division 1 Hurling Championship Shield — 1 matches, years [2022], e.g. Ballinhassig 1
+- **171990** Rebel Og Mid Fe15 Division 2 Hurling  Championship section 1 — 15 matches, years [2022], e.g. Ahan Gaels, Bye, Cloughduv
+- **171991** Rebel Og Mid Fe15 Division 2 Hurling  Championship section 2 — 15 matches, years [2022], e.g. Aghabullogue, Bye, Owen Gaels
+- **171992** Rebel Og Mid Fe15 Division 2 Hurling  Championship Cup Playoffs — 3 matches, years [2022], e.g. Kinsale, St Vincents
+- **171993** Rebel Og Mid Fe15 Division 2 Hurling  Championship Shield Playoffs — 3 matches, years [2022], e.g. Ahan Gaels, Tracton
+- **171994** Rebel Og Mid Fe15 Division 3 Hurling  Championship — 15 matches, years [2022], e.g. Brian Dillons, Bye, Lee Gaels
+- **171995** Rebel Og Mid Fe15 Division 3 Hurling  Championship Cup Final — 1 matches, years [2022], e.g. 1 V 2
+- **171996** Rebel Og Mid Fe15 Division 3 Hurling  Championship Shield Final — 1 matches, years [2022], e.g. 3 v 4
+- **171997** Rebel Og Mid Fe15 Division 1 Football Championship section 1 — 6 matches, years [2022], e.g. Blarney, Donoughmore, Kinsale
+- **171998** Rebel Og Mid Fe15 Division 1 Football Championship section 2 — 15 matches, years [2022], e.g. Ballinora 1, Bye, Clyda Rovers
+- **171999** Rebel Og Mid Fe15 Division 1 Football Championship Cup Playoffs — 3 matches, years [2022], e.g. Inniscarra, Kinsale
+- **172000** Rebel Og Mid Fe15 Division 1 Football Championship Shield Playoffs — 3 matches, years [2022], e.g. Clyda Rovers, Crosshaven, St Michaels 1
+- **172001** Rebel Og Mid Fe15 Division 2 Football Championship section 1 — 6 matches, years [2022], e.g. Aghabullogue, Erins Own, Sliabh Rua 1
+- **172002** Rebel Og Mid Fe15 Division 2 Football Championship section 2 — 6 matches, years [2022], e.g. Courcey Rovers, Passage, Shamrocks
+- **172004** Rebel Og Mid Fe15 Division 2 Football Championship Shield Playoffs — 2 matches, years [2022], e.g. Fourth section 1, Third section 1
+- **172005** Rebel Og Mid Fe15 Division 3 Football Championship — 6 matches, years [2022], e.g. Ballygarvan, Brian Dillons, Lee Gaels
+- **172008** Rebel Og Mid Fe15 Division 3 Football Championship Shield Final — 1 matches, years [2022], e.g. Whitechurch
+- **172009** Rebel Og Mid Fe17 Division 1 Hurling Championship section 1 — 6 matches, years [2022], e.g. Aghabullogue, Ballinora, Donoughmore
+- **172010** Rebel Og Mid Fe17 Division 1 Hurling Championship section 2 — 10 matches, years [2022], e.g. Blarney, Carrigaline, Cloughduv
+- **172011** Rebel Og Mid Fe17 Division 1 Hurling Championship Cup Playoff Final — 3 matches, years [2022], e.g. Aghabullogue, Eire Og
+- **172012** Rebel Og Mid Fe17 Division 1 Hurling Championship Shield Final — 3 matches, years [2022], e.g. Ballinora, Grenagh
+- **172013** Rebel Og Mid Fe17 Division 3 Hurling  Championship section 1 — 6 matches, years [2022], e.g. Castlelyons, Diarmuid O Murchu, St Vincents
+- **172014** Rebel Og Mid Fe17 Division 3 Hurling  Championship section 2 — 6 matches, years [2022], e.g. Ballygarvan, Brian Dillons, Bye
+- **172015** Rebel Og Mid Fe17 Division 3 Hurling Championship Shield Playoff Final — 3 matches, years [2022], e.g. Passage 1, Tracton
+- **172016** Rebel Og Mid Fe17 Division 3 Hurling  Championship Cup Playoff Final — 3 matches, years [2022], e.g. Brian Dillons, St Vincents
+- **172017** Rebel Og Mid Fe17 Division 1 Football Championship section 1 — 6 matches, years [2022], e.g. Aghabullogue, Donoughmore, Eire Og
+- **172018** Rebel Og Mid Fe17 Division 1 Football Championship section 2 — 6 matches, years [2022], e.g. Ballinora, Diarmuid O Murchu, Grenagh
+- **172019** Rebel Og Mid Fe17 Division 1 Football Championship Cup Playoffs — 3 matches, years [2022], e.g. Ballinora, Eire Og
+- **172020** Rebel Og Mid Fe17 Division 1 Football Championship Shield Playoffs — 3 matches, years [2022], e.g. Grenagh, Kinsale
+- **172021** Rebel Og Mid Fe17 Division 2 Football Championship section 1 — 6 matches, years [2022], e.g. Blarney, Courcey Rovers, Kilbrittain
+- **172022** Rebel Og Mid Fe17 Division 2 Football Championship section 2 — 6 matches, years [2022], e.g. Ballinhassig, Kilmurry, Passage 1
+- **172023** Rebel Og Mid Fe17 Division 2 Football Championship Cup Playoffs — 3 matches, years [2022], e.g. Kilmurry, Sliabh Rua 1, Whitechurch
+- **172024** Rebel Og Mid Fe17 Division 2 Football Championship Shield Playoffs — 3 matches, years [2022], e.g. Ballinhassig, Courcey Rovers, Passage 1
+- **172027** Rebel Og Mid Fe17 Division 3 Football Championship — 15 matches, years [2022], e.g. Ballygarvan, Brian Dillons, Castlelyons
+- **172028** Rebel Og Mid Fe17 Division 3 Football Championship Cup Final — 1 matches, years [2022], e.g. St Vincents
+- **172032** Rebel Og North Fe15 Division 1 Hurling Championship — 15 matches, years [2022], e.g. Ballyhea, Bye, Clyda Rovers
+- **172033** Rebel Og North Fe15 Division 1 Hurling Championship Cup Final — 1 matches, years [2022], e.g. Ballyhea
+- **172034** Rebel Og North Fe15 Division 1 Hurling Championship Shield Final — 1 matches, years [2022], e.g. Fermoy
+- **172035** Rebel Og North Fe15 Division 2 Hurling  Championship section 1 — 6 matches, years [2022], e.g. Ballygiblin, Charleville, Grenagh
+- **172036** Rebel Og North Fe15 Division 2 Hurling  Championship section 2 — 15 matches, years [2022], e.g. Bye, Croke Rovers, Kanturk
+- **172038** Rebel Og North Fe15 Division 2 Hurling  Championship Cup Final — 3 matches, years [2022], e.g. Grenagh, Millstreet
+- **172039** Rebel Og North Fe15 Division 2 Hurling  Championship Shield Final — 3 matches, years [2022], e.g. Charleville, Croke Rovers, St Kevins
+- **172042** Rebel Og North Fe15 Division 3 Hurling  Championship section 1 — 6 matches, years [2022], e.g. Banteer, Buttevant, Doneraile
+- **172044** Rebel Og North Fe15 Division 3 Hurling  Championship section 2 — 15 matches, years [2022], e.g. Ballycastle Gaels, Bye, Kildorrery
+- **172045** Rebel Og North Fe15 Division 3 Hurling  Championship Cup Final — 3 matches, years [2022], e.g. Ballycastle Gaels, Banteer/Lyre, St Dominics
+- **172046** Rebel Og North Fe15 Division 3 Hurling  Championship Shield Final — 3 matches, years [2022], e.g. Doneraile, Killavullen, Newmarket
+- **172047** Rebel Og North Fe17 Division 1 Hurling Championship — 15 matches, years [2022], e.g. Ballyhea, Bye, Charleville
+- **172048** Rebel Og North Fe17 Division 1 Hurling Championship Cup Final — 1 matches, years [2022], e.g. Charleville
+- **172049** Rebel Og North Fe17 Division 1 Hurling Championship Shield Final — 1 matches, years [2022], e.g. Ballyhea
+- **172050** Rebel Og North Fe17 Division 2 Hurling Championship section 1 — 6 matches, years [2022], e.g. Buttevant, Bye, Millstreet
+- **172051** Rebel Og North Fe17 Division 2 Hurling Championship section 2 — 6 matches, years [2022], e.g. Croke Rovers, Kanturk, Kilshannig
+- **172052** Rebel Og North Fe17 Division 2 Hurling Championship Cup Final — 3 matches, years [2022], e.g. Buttevant, Croke Rovers
+- **172053** Rebel Og North Fe17 Division 2 Hurling Championship Shield Final — 1 matches, years [2022], e.g. Kilshannig
+- **172054** Rebel Og North Fe17 Division 3 Hurling  Championship — 15 matches, years [2022], e.g. Ballycastle Gaels, Bye, Doneraile
+- **172055** Rebel Og North Fe17 Division 3 Hurling Championship  Cup Final — 1 matches, years [2022], e.g. St Dominics
+- **172056** Rebel Og North Fe17 Division 3 Hurling Championship Shield Final — 1 matches, years [2022], e.g. Ballycastle Gaels
+- **172057** Rebel Og North Fe17 Division 1 Football Championship — 15 matches, years [2022], e.g. Buttevant, Bye, Charleville
+- **172058** Rebel Og North Fe17 Division 1 Football Championship Cup Final — 1 matches, years [2022], e.g. Buttevant
+- **172059** Rebel Og North Fe17 Division 1 Football Championship Shield Final — 1 matches, years [2022], e.g. Duarigle Gaels
+- **172061** Rebel Og North Fe17 Division 2 Football Championship section 1 — 6 matches, years [2022], e.g. Ballyhea, Bye, Killavullen
+- **172062** Rebel Og North Fe17 Division 2 Football Championship section 2 — 6 matches, years [2022], e.g. Croke Rovers, Liscarroll/Churchtown Gaels, St Peters
+- **172064** Rebel Og North Fe17 Division 2 Football Championship Cup Final — 3 matches, years [2022], e.g. Croke Rovers, Liscarroll/Churchtown Gaels, St Dominics
+- **172065** Rebel Og North Fe17 Division 2 Football Championship Shield Final — 1 matches, years [2022], e.g. Ballyhea
+- **172067** Rebel Og North Fe17 Division 3 Football Championship section 1 — 6 matches, years [2022], e.g. BK Plunketts, Doneraile, Sliabh Luachra Gaels
+- **172068** Rebel Og North Fe17 Division 3 Football Championship section 2 — 6 matches, years [2022], e.g. Ballycastle Gaels, Dromtarriffe, Kildorrery
+- **172069** Rebel Og North Fe17 Division 3 Football Championship Cup  Final — 3 matches, years [2022], e.g. Dromtarriffe, Sliabh Luachra Gaels
+- **172070** Rebel Og North Fe17 Division 3 Football Championship Shield Final — 3 matches, years [2022], e.g. BK Plunketts, Kildorrery
+- **172074** U13B Hurling Championship — 15 matches, years [2022], e.g. Ballina Stephenites, Ballyhaunis, Beal Atha Bhearraigh
+- **172075** U13A Hurling Championship — 6 matches, years [2022], e.g. Castlebar Mitchels Hurling, Claremorris, Tuairín
+- **172076** South Tipp Intermediate Football KO Championship 2022 — 3 matches, years [2022], e.g. Father Sheehys, Gráinseach Mhóicléir Baile Uí Néill
+- **172077** West Prem Intermediate Hurling — 1 matches, years [2022], e.g. Sean Treacys Gaa Club
+- **172078** West Senior Hurling — 1 matches, years [2022], e.g. Éire Óg Anacarty/Donohill
+- **172079** West Intermediate Hurling — 3 matches, years [2022], e.g. Golden-Kilfeacle, KNOCKAVILLA DONASKEIGH KICKHAMS
+- **172080** West Senior football — 3 matches, years [2022], e.g. Arravale Rovers GAA Club, Fánaithe Carraig An Tobair
+- **172085** West Intermediate football — 3 matches, years [2022], e.g. Galtee Rovers/St Pecaun, Golden-Kilfeacle
+- **172089** Rebel Og East/North/Mid Fe14 Division 1 Hurling Championship Shield Final — 1 matches, years [2022], e.g. Bride Rovers
+- **172090** Rebel Og East Fe14 Division 2 Hurling Championship Shield Final — 1 matches, years [2022], e.g. Lisgoold
+- **172091** Rebel Og East/Mid Fe14 Division 3 Hurling Championship  Shield Final — 1 matches, years [2022], e.g. Cobh
+- **172110** Intermediate Hurling Championship 2022 — 14 matches, years [2022], e.g. Abbeydorney, Causeway, Kenmare Shamrocks
+- **172126** 2022 Senior Hurling League Knock Out — 3 matches, years [2022], e.g. Four Roads/Na Ceithre Boithre, St. Dominics
+- **172133** JJ Kavanagh & Sons Co. Minor Hurling Championship - Division 2 — 28 matches, years [2022], e.g. Clan na Gael, Clonea, Cois Bhride
+- **172134** JJ Kavanagh & Sons Co. Minor Hurling Championship - Division 4 — 15 matches, years [2022], e.g. Ardmore, Dungarvan, Kilrossanty
+- **172135** JJ Kavanagh & Sons Co. Minor Hurling Championship - Division 1 — 28 matches, years [2022], e.g. Abbeyside, Ballygunner, Brickey Rangers
+- **172136** JJ Kavanagh & Sons Co. Minor Hurling Championship - Division 3 — 28 matches, years [2022], e.g. An Ghaeltacht, Ballyduff Upper, Ballygunner
+- **172156** U21 Football Championship 2022 — 15 matches, years [2022], e.g. Austin Stacks, East Kerry, Gneeveguilla
+- **172169** Thurles Credit Union Junior B Hurling Championship Div1 — 15 matches, years [2022], e.g. Clonakenny, Druim agus Inse, Holycross/Ballycahill
+- **172171** Thurles Credit Union Junior A Hurling championship Div 1 — 6 matches, years [2022], e.g. Boherlahan Dualla, Loughmore - Castleiney, Moycarkey-Borris
+- **172172** Thurles Credit Union Junior B Hurling Championship Div 2 — 10 matches, years [2022], e.g. Gortnahoe-Glengoole, Killea, Moycarkey-Borris
+- **172173** Thurles Credit Union Junior C Hurling Championship — 8 matches, years [2022], e.g. Gortnahoe-Glengoole, Killea, Loughmore - Castleiney
+- **172174** Thurles Credit Union Junior A Hurling Championship Div 2 — 3 matches, years [2022], e.g. Holycross/Ballycahill, JK Brackens, Upperchurch-Drombane
+- **172176** South Tipp U17B Hurling League & Championship 2022 — 28 matches, years [2022], e.g. Ballingarry, Ballybacon/Newcastle Gaa Club, Ballypooreen/Skeheenawrinky
+- **172184** Go-Ahead Senior Championship Group A — 10 matches, years [2022], e.g. Clanna Gael Fontenoy, Cuala, Kilmacud Crokes
+- **172185** Go-Ahead Senior Championship Group B — 10 matches, years [2022], e.g. Ballyboden St Endas, Clontarf, Foxrock Cabinteely
+- **172186** Go-Ahead Intermediate Championship Group A — 10 matches, years [2022], e.g. Castleknock, Lucan Sarsfields, Parnells
+- **172187** Go-Ahead Intermediate Championship Group B — 10 matches, years [2022], e.g. Ballinteer St Johns, Clann Mhuire, Fingallians
+- **172188** Go-Ahead Junior A Championship Group A — 6 matches, years [2022], e.g. O Dwyers, Raheny, Scoil Ui Chonaill
+- **172189** Go-Ahead Junior A Championship Group B — 6 matches, years [2022], e.g. Ballyboden St Endas B, Clontarf B, Naomh Barrog
+- **172190** South Tipp U17B Hurling Championship 2022 — 36 matches, years [2022], e.g. Ballingarry, Ballypooreen/Skeheenawrinky, CATHAIL S CIOCAM
+- **172198** Go-Ahead Junior B Championship Group A — 6 matches, years [2022], e.g. Ballyboden St Endas C, Erins Isle, Foxrock Cabinteely B
+- **172199** Go-Ahead Junior B Championship Group B — 6 matches, years [2022], e.g. Ballyboughal, Kilmacud Crokes B, Na Fianna B
+- **172201** Alberta Regional Championship - U16 Boys — 8 matches, years [2022], e.g. Calgary Mavericks, Central Predators, Edmonton Gold
+- **172202** Alberta Regional Championship - U16 Girls — 8 matches, years [2022], e.g. Calgary Mavericks, Central Predators, Edmonton Gold
+- **172203** Alberta Regional Championship - U18 Boys — 8 matches, years [2022], e.g. Calgary Mavericks, Central Predators, Edmonton Gold
+- **172206** Alberta Regional Championship - U18 Girls — 8 matches, years [2022], e.g. Calgary Mavericks, Central Predators, Edmonton Gold
+- **172207** South Tipp U17A Hurling Championship 2022 — 28 matches, years [2022], e.g. CUMANN CILL NAILE CLG, Clerihan / Grangemockler- Ballyneale, Kilsheelan-Kilcash
+- **172231** Ulster Minor Club Championship — 8 matches, years [2022], e.g. An Charraig Mhor (Tyrone), Carryduff (Down), Clann Eireann (Armagh)
+- **172232** Hi B Restaurant / Bar North Senior Hurling Championship — 5 matches, years [2022], e.g. Borris-Ileigh, Kiladangan, Nenagh Éire Óg
+- **172233** Savoy Kitchens North Premier Intermediate Hurling Championship — 6 matches, years [2022], e.g. Burgess, Béal An Átha, Kiladangan
+- **172256** Rebel Og Coiste Fe14 Prem Second Teams Hurling Championship Final — 1 matches, years [2022], e.g. Sarsfields
+- **172260** Pettitts  Senior Hurling Championship Gp 2 — 15 matches, years [2022], e.g. Ferns St Aidans, Oylegate-Glenbrien, Rapparees(Hurling)
+- **172261** The Courtyard Ferns Intermediate Championship Gp 2 — 15 matches, years [2022], e.g. Ballygarrett (Hurling), Oulart-The Ballagh, St Brigid's Blackwater
+- **172262** Joyces Expert Wexford Intermediate A Hurling Championship Gp 2 — 15 matches, years [2022], e.g. Fr O`Regans Craanford, Geraldine O`Hanrahans, Monageer-Boolavogue
+- **172263** Pettitts  Senior Hurling Championship Gp 1 — 15 matches, years [2022], e.g. , Cloughbawn, Crossabeg-Ballymurn
+- **172264** The Courtyard Ferns Intermediate Championship Gp 1 — 15 matches, years [2022], e.g. Askamore (Hurling), HWH Bunclody/Tig Leath Slí Bun Clóidí, St Abban's Adamstown
+- **172265** Joyces Expert Wexford Intermediate A Hurling Championship Gp 1 — 15 matches, years [2022], e.g. , Liam Mellows, Rathgarogue-Cushinstown
+- **172267** Perrmanent TSB Junior Hurling Championship Gp 2 — 15 matches, years [2022], e.g. Davidstown Courtnacuddy GAA, Faythe Harriers, Ferns St Aidans
+- **172269** Permanent TSB Junior Hurling Championship Gp 1 — 15 matches, years [2022], e.g. Bannow-Ballymitty, CLG Naomh Pádraig, Glynn-Barntown
+- **172270** Rebel Og North Fe15 Division 3 Football Championship section 1 — 6 matches, years [2022], e.g. BK Plunketts, Banteer/Lyre, Buttevant
+- **172271** Rebel Og North Fe15 Division 3 Football Championship section 2 — 6 matches, years [2022], e.g. Ballycastle Gaels, Doneraile, Kildorrery
+- **172272** Rebel Og North Fe15 Division 2A Football Championship section 1 — 6 matches, years [2022], e.g. Charleville, Croke Rovers, Kanturk
+- **172274** Rebel Og North Fe15 Division 2A Football Championship section 2 — 6 matches, years [2022], e.g. Ballyhea, Dromtarriffe, Sliabh Luachra Gaels
+- **172275** Rebel Og North Fe15 Division 2B Football Championship — 15 matches, years [2022], e.g. Fermoy, Killavullen, Kilworth Araglen Og
+- **172276** Rebel Og North Fe15 Division 3 Football Championship Cup Final — 3 matches, years [2022], e.g. Ballycastle Gaels, Banteer/Lyre
+- **172277** Rebel Og North Fe15 Division 3 Football Championship Shield Final — 3 matches, years [2022], e.g. Newmarket, St Colmcilles
+- **172283** Kellys of Fantane North Intermediate Championship — 4 matches, years [2022], e.g. Ballinahinch, Borrisokane, Lorrha
+- **172291** Centenary Agri Mid Senior Hurling Championship — 6 matches, years [2022], e.g. Druim agus Inse, Holycross/Ballycahill, JK Brackens
+- **172296** BANDON CO-OP CARBERY JUNIOR A FOOTBALL CHAMPIONSHIP 2022 — 32 matches, years [2022], e.g. Argideen Rangers, Ballinascarthy, Bandon
+- **172297** North Tipp U19A Hurling Championship Group 2 — 3 matches, years [2022], e.g. Kiladangan, Roscrea, Toomevara
+- **172298** North Tipp U19B Hurling Championship Group 2 — 3 matches, years [2022], e.g. Borris-Ileigh, Borrisokane, Kilruane Mac Donaghs
+- **172299** North Tipp U19A Hurling Championship Group 1 — 3 matches, years [2022], e.g. Béal An Átha, Nenagh Éire Óg, Silvermines
+- **172300** North Tipp U19B Hurling Championship Group 1 — 4 matches, years [2022], e.g. Burgess, Lorrha, TULACH SHEASTA
+- **172301** North Tipp U19B Hurling Championship Group 3 — 3 matches, years [2022], e.g. Ballinahinch/Templederry GAA, Clonakenny/Moneygall, Portroe
+- **172302** BANDON CO-OP CARBERY JUNIOR B FOOTBALL CHAMPIONSHIP 2022 — 14 matches, years [2022], e.g. Bantry Blues, Clann na nGael, Diarmuid O Mathunas
+- **172306** Under - 17 Hurling Championship Group 1A — 23 matches, years [2022], e.g. Abbeyleix St Lazarians, Borris in Ossory/Kilcotton, Camross
+- **172308** Under - 17 Hurling Championship Group 2B — 28 matches, years [2022], e.g. Ballinakill Ballypickas, Na Fianna, Naomh Fiontáin Maighean Rátha
+- **172321** Kepak Junior F Championship — 6 matches, years [2022], e.g. Clann na nGael, Moylagh/St. Brigid's, St Colmcilles
+- **172322** Kepak Junior E Championship G1 — 6 matches, years [2022], e.g. Castletown, Moynalvey, St Patricks
+- **172323** Kepak Junior E Championship G2 — 6 matches, years [2022], e.g. Longwood, Slane, St Ultans
+- **172324** Kepak Junior D Championship G1 — 6 matches, years [2022], e.g. Bective, Dunderry, Na Fianna
+- **172325** Kepak Junior D Championship G2 — 6 matches, years [2022], e.g. Carnaross, Rathkenny, Ratoath
+- **172326** Kepak Junior C Championship G1 — 6 matches, years [2022], e.g. Drumbaragh, Navan OMahonys, St Colmcilles
+- **172327** Kepak Junior C Championship G2 — 6 matches, years [2022], e.g. Ballivor, Boardsmill, Donaghmore/Ashbourne
+- **172328** Kepak Junior B Championship G1 — 6 matches, years [2022], e.g. Kilbride, Seneschalstown, Trim
+- **172329** Kepak Junior B Championship G2 — 6 matches, years [2022], e.g. Blackhall Gaels, Clonard, Gaeil Colmcille
+- **172330** Kepak Junior A Championship G1 — 6 matches, years [2022], e.g. Duleek/Bellewstown, Moylagh/St. Brigid's, St Ultans
+- **172331** Kepak Junior A Championship G2 — 6 matches, years [2022], e.g. Dunsany, Dunshaughlin Royal Gaels, Moynalvey
+- **172336** Under- 17 'A' Football Championship Group 1A — 6 matches, years [2022], e.g. Gleann Uiseann, Mountmellick Parish Gaels, Portlaoise GAA
+- **172337** Under - 17 'B' Football Championship Group 2B — 6 matches, years [2022], e.g. Graiguecullen GAA, Mainistir Béal Atha an Róine/Ballyroan Abbey, Park Ratheniska
+- **172338** Under -17 'A' Football Championship Group 2A — 6 matches, years [2022], e.g. Baile Uí Laigheanáin/Ballylinan, Na Fianna Og, Portarlington
+- **172339** Under -17 'B' Football Championship Group 1B — 6 matches, years [2022], e.g. An Fraoch, Ballyfin CLG, O'Dempseys
+- **172340** Under-17 'C' Football Championship — 10 matches, years [2022], e.g. Camross, Crettyard/Spink, Mountmellick Parish Gaels
+- **172344** U19 Hurling Championship Premier Gp 1 — 6 matches, years [2022], e.g. Faythe Harriers, Glynn-Barntown, St Anne's Rathangan
+- **172345** U19 Hurling Championship Div 1 GP 1 — 6 matches, years [2022], e.g. Davidstown Courtnacuddy GAA, Oylegate-Glenbrien, St Brigid's Blackwater
+- **172346** U19 Hurling Championship Div 2 GP 1 — 6 matches, years [2022], e.g. Crossabeg-Ballymurn, OLI/St Fintans, Rathgarogue-Cushinstown
+- **172347** U19 Hurling Championship Div 3 — 10 matches, years [2022], e.g. Ballygarrett (Hurling), CLG Naomh Pádraig, Geraldine O`Hanrahans
+- **172348** U19 Hurling Championship Premier Gp 2 — 6 matches, years [2022], e.g. , Buffers Alley, Oulart-The Ballagh
+- **172349** U19 Hurling Championship Div 1 GP 2 — 6 matches, years [2022], e.g. Ferns St Aidans, HWH Bunclody/Tig Leath Slí Bun Clóidí, Rapparees(Hurling)
+- **172350** U19 Hurling Championship Div 2 GP 2 — 6 matches, years [2022], e.g. , Ballynastragh Gls, Bye
+- **172351** Go-Ahead Championship Senior 1 Group A — 6 matches, years [2022], e.g. Lucan Sarsfields, Naomh Jude, St Oliver Plunkett/Eoghan Ruadh
+- **172352** Go-Ahead Championship Senior 1 Group B — 6 matches, years [2022], e.g. Ballyboden St Endas, Castleknock, Kilmacud Crokes
+- **172353** Go-Ahead Championship Senior 2 Group A — 6 matches, years [2022], e.g. Ballinteer St Johns, Cuala, Faughs Celtic
+- **172354** Go-Ahead Championship Senior 2 Group B — 6 matches, years [2022], e.g. Erins Isle, Na Fianna B, Naomh Mearnog
+- **172355** Go-Ahead Championship Inter 1 Group A — 6 matches, years [2022], e.g. Ballyboden St Endas B, Naomh Brid, Naomh Fionnbarra
+- **172356** Go-Ahead Championship Inter 1 Group B — 6 matches, years [2022], e.g. Naomh Padraig, Naomh Peregrine, Raheny
+- **172357** Go-Ahead Championship Inter 2 Group A — 6 matches, years [2022], e.g. CBC/PORTOBELLO A, Castleknock B, Lucan Sarsfields B
+- **172358** Go-Ahead Championship Inter 2 Group B — 6 matches, years [2022], e.g. Ballinteer St Johns B, Kilmacud Crokes B, Naomh Olaf
+- **172371** SBC Senior Men Div 1 2022/2023 — 110 matches, years [2022, 2023], e.g. Boroughmuir Blaze, City Of Edinburgh, Dunfermline Reign
+- **172373** Kepak Intermediate Championship G1 — 6 matches, years [2022], e.g. Dee Rangers, Na Fianna, Skryne
+- **172374** Kepak Intermediate Championship G2 — 6 matches, years [2022], e.g. Clann na nGael, Ratoath, St Colmcilles
+- **172375** Kepak Senior Championship G1 — 6 matches, years [2022], e.g. Boardsmill, Navan OMahonys, Oldcastle
+- **172376** Kepak Senior Championship G2 — 6 matches, years [2022], e.g. Donaghmore/Ashbourne, Dunshaughlin Royal Gaels, Seneschalstown
+- **172377** FBD Insurance - County Senior Hurling Championship - Group 2 — 6 matches, years [2022], e.g. Borris-Ileigh, Druim agus Inse, Templederry Kenyons
+- **172378** FBD Insurance - County Senior Hurling Championship - Group 4 — 6 matches, years [2022], e.g. JK Brackens, Kiladangan, Éire Óg Anacarty/Donohill
+- **172379** FBD Insurance - Premier Intermediate Hurling Championship - Group 2 — 6 matches, years [2022], e.g. Kiladangan, Moyne/Templetuohy, Roscrea
+- **172380** FBD Insurance - Premier Intermediate Hurling Championship - Group 4 — 6 matches, years [2022], e.g. CASHEL KING CORMACS, Clonakenny, Na hEalai
+- **172381** FBD Insurance - County Intermediate Hurling Championship - Group 2 — 6 matches, years [2022], e.g. Ballinahinch, Borrisokane, KNOCKAVILLA DONASKEIGH KICKHAMS
+- **172382** FBD Insurance - County Intermediate Hurling Championship - Group 4 — 6 matches, years [2022], e.g. Boherlahan Dualla, Carrick Davins GAA Club, Golden-Kilfeacle
+- **172383** FBD Insurance - County Senior Hurling Championship - Group 1 — 6 matches, years [2022], e.g. CLONOULTY/ROSSMORE, Kilruane Mac Donaghs, Nenagh Éire Óg
+- **172384** FBD Insurance - County Senior Hurling Championship - Group 3 — 6 matches, years [2022], e.g. CATHAIL S CIOCAM, Holycross/Ballycahill, Toomevara
+- **172385** FBD Insurance - Premier Intermediate Hurling Championship - Group 1 — 6 matches, years [2022], e.g. Burgess, Sean Treacys Gaa Club, TULACH SHEASTA
+- **172386** FBD Insurance - Premier Intermediate Hurling Championship - Group 3 — 6 matches, years [2022], e.g. Béal An Átha, CUMANN CILL NAILE CLG, Thurles Sarsfields
+- **172387** FBD Insurance - County Intermediate Hurling Championship - Group 1 — 6 matches, years [2022], e.g. Ballingarry, Ballybacon Grange Gaa Club, Cappawhite G.A.A.
+- **172388** FBD Insurance - County Intermediate Hurling Championship - Group 3 — 6 matches, years [2022], e.g. Arravale Rovers GAA Club, Druim agus Inse, Shannon Rovers
+- **172404** Junior B Hurling Championship New Ross District Knockout — 7 matches, years [2022], e.g. Geraldine O`Hanrahans, Gusserane-O`Rahilly's, Horeswood G.A.A.Club
+- **172405** Under-15 Hurling Championship Phase 2 Group A — 15 matches, years [2022], e.g. Mountmellick Clonaslee St Manman's, Park Ratheniska-Timahoe, Portlaoise GAA
+- **172406** Under-15 Hurling Championship Phase 2 Group C — 10 matches, years [2022], e.g. Abbeyleix St Lazarians, Ballinakill Ballypickas, Ballyfin CLG
+- **172407** Under-15 Hurling Championship Phase 2 Group B — 15 matches, years [2022], e.g. Borris in Ossory Kilcotton, Camross, Castletown
+- **172418** Wexford People U17 Hurling Championship Division 2 — 20 matches, years [2022], e.g. Askamore-Kilrush, Davidstown Courtnacuddy GAA, HWH Bunclody/Tig Leath Slí Bun Clóidí
+- **172419** Wexford People U17 Hurling Championship Division 4 — 11 matches, years [2022], e.g. Ballygarrett (Hurling), CLG Naomh Pádraig, Clonross Gaels
+- **172420** Wexford People U17 Hurling Championship Premier  Division — 20 matches, years [2022], e.g. , Buffers Alley, Glynn-Barntown
+- **172421** Wexford People U17 Hurling Championship Division 1 — 20 matches, years [2022], e.g. , B.B O'Rahillys, Ballynastragh Gls
+- **172422** Wexford People U17 Hurling Championship Division 3 — 20 matches, years [2022], e.g. Ballyhogue, Cloughbawn, Crossabeg-Ballymurn
+- **172424** 2022 Wexford People U17 Football Championship Premier Division — 16 matches, years [2022], e.g. , Ballynastragh Gls, Glynn-Barntown
+- **172425** 2022 Wexford People U17 Football Championship Division 2 — 16 matches, years [2022], e.g. Askamore-Kilrush, Crossabeg-Ballymurn, Davidstown Courtnacuddy GAA
+- **172426** 2022 Wexford People U17 Football Championship Division 4 — 10 matches, years [2022], e.g. Ballygarrett-Réalt na Mara, CLG Naomh Pádraig, Fr O`Regans Craanford
+- **172427** 2022 Wexford People U17 Football Championship Division 1 — 16 matches, years [2022], e.g. B.B O'Rahillys, Ballyhogue, Castletown
+- **172428** 2022 Wexford People U17 Football Championship Division 3 — 16 matches, years [2022], e.g. Buffers Alley, Cloughbawn, Kilmore
+- **172429** FBD Insurance - County Senior Football Championship - Group 1 — 6 matches, years [2022], e.g. CUMANN CILL NAILE CLG, Cahir, Clonmel Commercials
+- **172430** FBD Insurance - County Senior Football Championship - Group 3 — 6 matches, years [2022], e.g. Aherlow, Ardfinnan GAA, Loughmore - Castleiney
+- **172431** FBD Insurance - County Intermediate Football Championship - Group 1 — 6 matches, years [2022], e.g. Father Sheehys, Galtee Rovers/St Pecaun, Golden-Kilfeacle
+- **172432** FBD Insurance - County Intermediate Football Championship - Group 3 — 6 matches, years [2022], e.g. Clonmel Commercials, Clonmel Og, Fíodh Árd/Fethard
+- **172433** FBD Insurance - County Senior Football Championship - Group 2 — 6 matches, years [2022], e.g. Druim agus Inse, Fánaithe Carraig An Tobair, Kilsheelan-Kilcash
+- **172434** FBD Insurance - County Senior Football Championship - Group 4 — 9 matches, years [2022], e.g. Arravale Rovers GAA Club, BALLYPOREEN CLONMEL OG, Éire Óg Anacarty/Donohill
+- **172435** FBD Insurance - County Intermediate Football Championship - Group 2 — 6 matches, years [2022], e.g. Borrisokane, Béal An Átha, Moyne/Templetuohy
+- **172438** FBD Insurance - County Intermediate Football Championship - Group 4 — 4 matches, years [2022], e.g. CLONOULTY/ROSSMORE, Loughmore - Castleiney
+- **172441** Senior A HC Group 1 — 15 matches, years [2022], e.g. Castlegar, Clarinbridge, Killimordaly
+- **172442** Senior B HC Group 1 — 15 matches, years [2022], e.g. Athenry, Beagh, Cumann Iománaíochta Mhaigh Cuilinn
+- **172443** Senior A HC Group 2 — 15 matches, years [2022], e.g. Cappataggle, Craughwell, Gort Inse Guaire
+- **172444** Senior B HC Group 2 — 15 matches, years [2022], e.g. Ahascragh Fohenagh, Ardrahan, Liam Mellows
+- **172447** West U17A Hurling Championship — 10 matches, years [2022], e.g. CASHEL KING CORMACS, Eire Og/SeanTreacys, Galtee Rovers/St Pecaun
+- **172449** West U17B Hurling Championship — 10 matches, years [2022], e.g. Arravale Rovers GAA Club, CLONOULTY/ROSSMORE, Cappawhite Gaels
+- **172454** Rebel Og North Fe15 Division 2A Football Championship cup playoff — 3 matches, years [2022], e.g. Dromtarriffe, St Kevins, St Peters
+- **172455** Rebel Og North Fe15 Division 2A Football Championship Shield Playoffs — 3 matches, years [2022], e.g. Kanturk, Sliabh Luachra Gaels
+- **172457** Rebel Og North Fe15 Division 2B Football Championship Cup Final — 1 matches, years [2022], e.g. Fermoy
+- **172458** Rebel Og North Fe15 Division 2B Football Championship Shield Final — 1 matches, years [2022], e.g. Liscarroll/Churchtown Gaels
+- **172469** South Tipp U/19 A Hurling Championship 2022 — 6 matches, years [2022], e.g. CATHAIL S CIOCAM, Kilsheelan-Kilcash, Na hEalai
+- **172470** U.20 Football Championship Division 3 Sec A — 6 matches, years [2022], e.g. Castlerea St Kevins, Kilbride, Kilglass Gaels/St Barrys
+- **172471** U.20 Football Championship Division 1 Sec A — 3 matches, years [2022], e.g. Clann na nGael, Pádraig Pearses, Roscommon Gaels
+- **172472** U.20 Football Championship Division1 Sec B — 3 matches, years [2022], e.g. Boyle, St Brigids, Strokestown
+- **172473** Senior Championship Section A — 6 matches, years [2022], e.g. Elphin, Michael Glaveys, Oran (Football)
+- **172475** Senior Championship Section C — 6 matches, years [2022], e.g. Pádraig Pearses, St Brigids, Strokestown
+- **172477** Intermediate Football Championship Section C — 6 matches, years [2022], e.g. Castlerea St Kevins, Clann na nGael, Eire Og
+- **172478** U.20 Football Championship Division 3 Sec B — 3 matches, years [2022], e.g. St Michael's, St. Faithleach's, Tulsk Lord Edwards
+- **172479** U.20 Football Championship Division 2 Sec B — 3 matches, years [2022], e.g. Kilmore/Shannon Gaels, Oran/St. Croan's, St. Dominics
+- **172480** U.20 Football Championship Division 2 Sec A — 6 matches, years [2022], e.g. Eire Óg/Michael Glaveys, Elphin-Ballinameen, St Aidan's
+- **172481** Senior Championship Section B — 6 matches, years [2022], e.g. Boyle, Clann na nGael, St. Faithleach's
+- **172482** Intermediate Football Championship Section A — 6 matches, years [2022], e.g. Creggs, Fuerty, Kilmore
+- **172483** Intermediate Football Championship Section B — 6 matches, years [2022], e.g. Shannon Gaels, St Aidan's, St Brigids
+- **172485** U13 Hurling Championship — 5 matches, years [2022], e.g. Ath\Tremane, Four Roads/Na Ceithre Boithre, Oran Hurling Club
+- **172495** Minor Hurling Championship 2022 — 11 matches, years [2022], e.g. Abbeydorney, Ballyduff, Ballyheigue
+- **172516** Mayo GAA Junior A Hurling Championship — 6 matches, years [2022], e.g. Ballina Stephenites, Moytura, Tuairín
+- **172517** Mayo GAA Senior Hurling Championship — 3 matches, years [2022], e.g. Ballyhaunis, Castlebar Mitchels Hurling, Tuairín
+- **172518** Junior B Championship Hurling — 3 matches, years [2022], e.g. Caiseal Gaels, Castlebar Mitchels Hurling, Claremorris
+- **172534** Reserve 'A' Football Championship Group 2 — 10 matches, years [2022], e.g. Ederney St Joseph's, Kinawley Brian Borus, Lisnaskea Emmetts
+- **172535** Reserve 'A' Football Championship Group 1 — 11 matches, years [2022], e.g. Belnaleck Art McMurroughs, Derrygonnelly Harps, Enniskillen Gaels
+- **172545** SBC Senior Men Div 2 2022/2023 — 63 matches, years [2022, 2023], e.g. Ayr Storm, Dundee Madsons, Glasgow Devils
+- **172547** Reserve 'B' Football Championship Group 2 — 6 matches, years [2022], e.g. Aghadrumsee St McCartans, Irvinestown St Molaises, Maguiresbridge St Mary's
+- **172548** Reserve 'B' Football Championship Group 1 — 10 matches, years [2022], e.g. Belcoo O`Rahilly's, Brookeboro Heber McMahons, Derrygonnelly Harps
+- **172550** Doran Oil Premier Intermediate Hurling Championship — 3 matches, years [2022], e.g. Gortnahoe-Glengoole, Moyne/Templetuohy
+- **172551** U19 Football Championship - Mid 1 — 8 matches, years [2022], e.g. Ballinhassig, Inniscarra, Kinsale
+- **172552** Women 7s Championship - Krakow — 29 matches, years [2022], e.g. Belgium, Czechia, France
+- **172553** Men 7s Championship - Krakow — 29 matches, years [2022], e.g. Belgium, Czechia, France
+- **172554** U19 Hurling Championship - Premier 1 — 8 matches, years [2022], e.g. Blackrock, Douglas, Glen Rovers
+- **172555** U19 Hurling Championship - Premier 2 — 9 matches, years [2022], e.g. Ballincollig, Blarney, Ibane Gaels
+- **172556** U19 Hurling Championship - West 1 — 6 matches, years [2022], e.g. Courcey Rovers, Newcestown, Owen Gaels
+- **172557** U19 Hurling Championship - West 2 — 7 matches, years [2022], e.g. Ahan Gaels, Donoughmore, Randal Og
+- **172558** U19 Hurling Championship - East 1 — 8 matches, years [2022], e.g. Bride Rovers, Carrigtwohill, Passage West
+- **172561** U19 Hurling Championship - East 2 — 6 matches, years [2022], e.g. Lisgoold, Mayfield, St Vincents
+- **172562** U19 Hurling Championship - Mid 1 — 6 matches, years [2022], e.g. Ballinhassig, Ballymartle, Carrigaline
+- **172563** U19 Hurling Championship - North 1 — 8 matches, years [2022], e.g. Ballygiblin, Ballyhea, Killavullen
+- **172564** U19 Hurling Championship - North 2 — 6 matches, years [2022], e.g. Buttevant, Clyda Rovers, Kildorrery
+- **172569** Division 2A Championship grp1 — 6 matches, years [2022], e.g. Eire Og B, Inch Rovers B, Kinsale B
+- **172570** Division 2A Championship grp2 — 6 matches, years [2022], e.g. Fermoy B, Glanmire B, Mourneabbey LGFA B
+- **172573** Division 2c Championship grp1 — 6 matches, years [2022], e.g. Bandon B, Donoughmore B, Douglas B
+- **172574** Division 2c Championship grp2 — 6 matches, years [2022], e.g. Carrigaline B, Mallow LGFA B, St. Finbarrs B
+- **172578** U19 Football Championship - Premier 1 — 9 matches, years [2022], e.g. Ballincollig, Beara, Castlehaven
+- **172579** U19 Football Championship - Premier 2 — 9 matches, years [2022], e.g. Aghada, Carrigaline, Eire Og
+- **172580** U19 Football Championship - West 1 — 8 matches, years [2022], e.g. Bantry Blues, Clonakilty, Owen Gaels
+- **172581** U19 Football Championship - West 2 — 8 matches, years [2022], e.g. Ahan Gaels, Caha Óg, Gabriel Rangers
+- **172582** U19 Football Championship - East 1 — 9 matches, years [2022], e.g. Carrigtwohill, Erins Own, Midleton
+- **172583** U19 Football Championship - East 2 — 7 matches, years [2022], e.g. Bride Rovers, Fr O Neills, St Nicks
+- **172584** U19 Football Championship - Mid 2 — 7 matches, years [2022], e.g. Canovee, Clondrohid, Macroom
+- **172585** U19 Football Championship - North 1 — 9 matches, years [2022], e.g. Buttevant, Clyda Rovers, Kilshannig
+- **172586** U19 Football Championship - North 2 — 3 matches, years [2022], e.g. Bk Plunketts, Liscarroll/Churchtown Gaels, St Dominics
+- **172587** U19 Football Championship - North 2 — 5 matches, years [2022], e.g. Bk Plunketts, Dromtarriffe, Liscarroll/Churchtown Gaels
+- **172591** CRU Senior Women Competitive — 7 matches, years [2022], e.g. Calgary Hornets RFC Yellow, Calgary Rams RFC SWC, Calgary Saints RFC Senior Women
+- **172592** CRU Senior Womens Developmental — 7 matches, years [2022], e.g. Calgary Canadian Irish AC Senior Women, Calgary Rams RFC SWD, Calgary Saracens RFC Senior Women
+- **172593** CRU Senior Women Recreational — 7 matches, years [2022], e.g. Calgary Canucks RC Senior Women, Calgary Hornets RFC Black, Foothills Lions RFC Senior Women
+- **172594** Under - 15 Football Championship Phase 2 Group 2B — 15 matches, years [2022], e.g. Mainistir Béal Atha an Róine/Ballyroan Abbey, Mountmellick Parish Gaels, O'Dempseys
+- **172595** Under - 15 Football Championship Phase 2 Group 2C 2 — 6 matches, years [2022], e.g. Colt Shanahoe, Crettyard/Spink, Graiguecullen GAA
+- **172596** Under - 15 Football Championship Phase 2 Group 2A — 15 matches, years [2022], e.g. Ballyfin Gaels, Gleann Uiseann, Na Fianna Og
+- **172597** Under -15 Football Championship Phase 2 Group 2C 1 — 27 matches, years [2022], e.g. An Fraoch, Baile Uí Laigheanáin/Ballylinan, Ballylinan
+- **172607** DUMMY CHAMPIONSHIP — 6 matches, years [2022], e.g. Ballinahinch, Borris-Ileigh, Borrisokane
+- **172622** Junior A Hurling Championship — 26 matches, years [2022], e.g. Carraig na bhFear, Carrigtwohill, Cobh
+- **172623** SBC Senior Women 2022/2023 — 96 matches, years [2022, 2023], e.g. Ayr Storm, Boroughmuir Blaze, City Of Edinburgh
+- **172642** U18 Boys 7s Championship - Zabki — 34 matches, years [2022], e.g. Belgium, Czechia, France
+- **172643** Senior Club Championship Group A — 6 matches, years [2022], e.g. Dingle, Kenmare Shamrocks, Na Gaeil
+- **172644** Intermediate Football Championship Group 1 — 6 matches, years [2022], e.g. Ballydonoghue, Beaufort, Currow
+- **172645** Intermediate Football Championship Group 3 — 6 matches, years [2022], e.g. An Ghaeltacht, Desmonds, Glenbeigh-Glencar
+- **172646** Junior Premier Football Championship Group 1 — 6 matches, years [2022], e.g. Churchill, Skellig Rangers, St Pats Blennerville
+- **172647** Junior Premier Football Championship Group 3 — 6 matches, years [2022], e.g. Ardfert, Ballymacelligott GAA, Keel
+- **172648** Junior Football Championship Group 1 — 6 matches, years [2022], e.g. Cromane, Moyvane, Renard
+- **172649** Junior Football Championship Group 3 — 6 matches, years [2022], e.g. Asdee, Beale, Firies
+- **172650** Minor Football Championship Group 1 — 6 matches, years [2022], e.g. East Kerry, North Kerry, Rathmore
+- **172651** Minor Football Championship Group 3 — 6 matches, years [2022], e.g. Austin Stacks, Dr. Crokes, Kenmare Shamrocks
+- **172652** Senior Club Championship Group B — 6 matches, years [2022], e.g. Austin Stacks, Dr. Crokes, Kerins O`Rahilly's
+- **172653** Intermediate Football Championship Group 2 — 6 matches, years [2022], e.g. Dromid Pearses, John Mitchels, Killarney Legion
+- **172654** Intermediate Football Championship Group 4 — 6 matches, years [2022], e.g. Glenflesk, Milltown /Castlemaine, Rathmore
+- **172655** Junior Premier Football Championship Group 2 — 6 matches, years [2022], e.g. Annascaul, Ballyduff, Brosna
+- **172656** Junior Premier Football Championship Group 4 — 6 matches, years [2022], e.g. Castlegregory, Fossa, Listowel Emmets
+- **172657** Junior Football Championship Group 2 — 6 matches, years [2022], e.g. Ballylongford, Cordal GAA Club, Lios Póil
+- **172658** Junior Football Championship Group 4 — 6 matches, years [2022], e.g. Duagh, Finuge, Kilgarvan
+- **172659** Minor Football Championship Group 2 — 6 matches, years [2022], e.g. Laune Rangers, Mid Kerry, South Kerry
+- **172663** U13 Division 4 Football Championship 2022 — 45 matches, years [2022], e.g. Boyle, Clann na nGael, Elphin-Ballinameen
+- **172664** U13 Division 3 Football Championship 2022 — 28 matches, years [2022], e.g. Castlerea St Kevins, Kilglass Gaels/St Barrys, Oran (Football)
+- **172665** U13 Division 1 Football Championship 2022 — 20 matches, years [2022], e.g. Clann na nGael, Pádraig Pearses, Roscommon Gaels
+- **172666** U13 Division 2 Football Championship 2022 — 21 matches, years [2022], e.g. Boyle, Eire Óg/Michael Glaveys, Elphin-Ballinameen
+- **172676** Division 2B Championship — 9 matches, years [2022], e.g. Aghada B, Bantry Blues B, Bishopstown B
+- **172680** U17 Division 3 Football Championship 2022 — 36 matches, years [2022], e.g. Castlerea St Kevins, Kilglass Gaels/St Barrys, St Michaels - St Ronans
+- **172681** U15 Division 1 Football Championship 2022 — 21 matches, years [2022], e.g. Castlerea St Kevins, Clann na nGael, Elphin-Ballinameen
+- **172682** U15 Division 2 Football Championship 2022 — 15 matches, years [2022], e.g. Eire Óg/Michael Glaveys, Kilbride, Kilglass Gaels/St Barrys
+- **172683** U17 Division 1 Football Championship 2022 — 15 matches, years [2022], e.g. Clann na nGael, Eire Óg/Michael Glaveys, Roscommon Gaels
+- **172684** U15 Division 4 Football Championship 2022 — 28 matches, years [2022], e.g. Clann na nGael, Kilglass Gaels/St Barrys, Kilmore/Shannon Gaels
+- **172685** U15 Division 3 Football Championship 2022 — 15 matches, years [2022], e.g. Boyle, St Aidan's, St. Dominics
+- **172686** U17 Division 2 Football Championship 2022 — 21 matches, years [2022], e.g. Boyle, Elphin-Ballinameen, Kilbride
+- **172695** JFC A Championship — 10 matches, years [2022], e.g. An Cheathrú Rua, Caltra, Glinsk
+- **172711** Under 14 A Championship Grp A — 6 matches, years [2022], e.g. Belmullet A, Charlestown, Knockmore A
+- **172712** Under 14 A Championship Grp B — 3 matches, years [2022], e.g. Claremorris A, Kilmoremoy A, MacHale Rovers
+- **172713** Under 14 B Championship Grp A — 6 matches, years [2022], e.g. Castlebar Mitchels A, Hollymount, Moy Davitts
+- **172714** Under 14 B Championship Grp B — 3 matches, years [2022], e.g. Aghamore, Carnacon, Parke/Keelogues/Crimlin
+- **172715** Under 14 C Championship Grp A — 6 matches, years [2022], e.g. Ballinrobe, Ballyhaunis, Kilmovee Shamocks
+- **172716** Under 14 C Championship Grp B — 6 matches, years [2022], e.g. Balla, Breaffy A, Kilmaine
+- **172717** Under 14 D Championship Grp A — 6 matches, years [2022], e.g. Achill, Breaffy B, Davitts
+- **172718** Under 14 D Championship Grp B — 6 matches, years [2022], e.g. Islandeady, Shrule/Glencorrib, The Neale
+- **172719** Under 14 E Championship Grp A — 6 matches, years [2022], e.g. Belmullet B, Kilmoremoy B, Knockmore B
+- **172720** Under 14 E Championship Grp B — 6 matches, years [2022], e.g. Castlebar Mitchels B, Cill Chomain, Kilmeena
+- **172721** Under 14 E Championship Grp C — 3 matches, years [2022], e.g. Burrishoole, Claremorris B, Kiltane
+- **172727** South Tipp U/19 A Football championship — 3 matches, years [2022], e.g. CATHAIL S CIOCAM, Clonmel Commercials, Kilsheelan-Kilcash
+- **172734** Connacht Gold U14 A Championship — 15 matches, years [2022], e.g. CT Gaels, Drumcliffe/RP, Eastern Harps
+- **172735** Connacht Gold U14 B Championship — 15 matches, years [2022], e.g. Ballisodare, Curry, St Farnans/St Patricks
+- **172736** Connacht Gold U14C Championship — 15 matches, years [2022], e.g. Calry/St Josephs, Coolera/Strandhill, Geevagh
+- **172741** Connacht Gold Minor A Championship — 6 matches, years [2022], e.g. CT Gaels, Drumcliffe/RP, Eoghan Rua
+- **172742** Connacht Gold Minor A2 Championship — 6 matches, years [2022], e.g. Calry/St Josephs, St Marys, St Molaise Gaels
+- **172743** Connacht Gold Minor B Championship — 6 matches, years [2022], e.g. Curry, Eastern Harps, Geevagh
+- **172744** Connacht Gold Minor C Championship — 6 matches, years [2022], e.g. Ballisodare, Owenmore Gaels, Shamrock Gaels
+- **172746** Connacht Gold U16 A Championship — 15 matches, years [2022], e.g. CT Gaels, Coolera/Strandhill, Curry
+- **172747** Connacht Gold U16 B Championship — 15 matches, years [2022], e.g. Drumcliffe/RP, Shamrock Gaels, St Molaise Gaels
+- **172749** Connacht Gold U16 C Championship — 15 matches, years [2022], e.g. Ballisodare, Calry/St Josephs, Geevagh
+- **172751** Connacht Gold Junior Championship — 10 matches, years [2022], e.g. CT Gaels, Drumcliffe/RP, Owenmore Gaels
+- **172753** Connacht Gold Junior B Championship — 15 matches, years [2022], e.g. Calry/St Josephs, Coolera/Strandhill, Curry
+- **172755** Connacht Gold Junior C Championship — 6 matches, years [2022], e.g. Drumcliffe/RP, St Johns, St Marys
+- **172758** Connacht Gold Senior Championship — 15 matches, years [2022], e.g. Eastern Harps, Eoghan Rua, Geevagh
+- **172772** Roadstone Intermediate Mid Hurling Championship — 1 matches, years [2022], e.g. Druim agus Inse
+- **172773** R.C.M TARMACADAM CARBERY JUNIOR A HURLING CHAMPIONSHIP 2022 — 24 matches, years [2022], e.g. Ballinascarthy, Bandon, Clonakilty
+- **172775** Jim & Anne Kennedy Junior A Football Championship Knockout — 4 matches, years [2022], e.g. Clonakenny, Gortnahoe-Glengoole, Thurles Sarsfields
+- **172776** R.C.M TARMACADAM CARBERY JUNIOR  B HURLING CHAMPIONSHIP 2022 — 12 matches, years [2022], e.g. Ballinascarthy, Bantry Blues, Gabriel Rangers
+- **172792** JFC B Championship — 7 matches, years [2022], e.g. An Spidéal, Claregalway, Cárna-Caiseal
+- **172807** Rebel Og Coiste Fe17 Premier 2 Football Championship section 2 — 10 matches, years [2022], e.g. Aghada, Beara, Carrigaline
+- **172808** SFC Section A — 15 matches, years [2022], e.g. Caulry, Coralstown-Kinnegad, Garrycastle G.A.A. Club
+- **172810** SFC Section B — 15 matches, years [2022], e.g. Athlone, Cill Liúcainne/Killucan, Cill Óige GAA
+- **172814** Senior B Hurling Championship 2022 — 15 matches, years [2022], e.g. Brownstown, Crookedwood, Delvin
+- **172815** Senior A Hurling Championship 2022 — 15 matches, years [2022], e.g. Castlepollard Hurling Club, Castletown Geoghegan/Baile Chaisleáin Mhic Eochag, Clonkill
+- **172816** IFC Section A — 15 matches, years [2022], e.g. Castledaly, Milltown, Milltownpass
+- **172818** IFC Section B — 15 matches, years [2022], e.g. Ballymore, Ballynacargy, Castletown-Finea-Coole-Whitehall
+- **172888** U13 G1 Mid Hurling Championship — 11 matches, years [2022], e.g. Boherlahan Dualla, Durlas Óg, Holycross/Ballycahill
+- **172889** U17A Mid Hurling Championship — 15 matches, years [2022], e.g. Boherlahan Dualla, Druim agus Inse, Durlas Óg
+- **172890** U15B Mid Hurling  Championship — 10 matches, years [2022], e.g. Boherlahan Dualla, Druim agus Inse, Moycarkey-Borris
+- **172891** U17B Mid Hurling Championship — 6 matches, years [2022], e.g. Gortnahoe-Glengoole, Moyne/Templetuohy, Upperchurch-Drombane
+- **172892** U15A Mid Hurling Championship — 6 matches, years [2022], e.g. Durlas Óg, Gortnahoe-Glengoole, Holycross/Ballycahill
+- **172906** Rebel Og Coiste Fe15 Division 4 Hurling Championship — 6 matches, years [2022], e.g. Ballincollig, Douglas, Midleton
+- **172907** Rebel Og Coiste Fe15 Division 4 Football Championship — 10 matches, years [2022], e.g. Aghada, Ballincollig, Douglas
+- **172913** Intermediate Hurling League — 1 matches, years [2022], e.g. Kilcoole
+- **172918** U18 Girls 7s Championship - Prague — 27 matches, years [2022], e.g. Belgium, Czechia, England
+- **172920** WBSC European Championship Qualifier 2022 — 6 matches, years [2022], e.g. Bulgaria, France, Ireland
+- **172931** Rebel Og Coiste Fe17 Div 4/5 Football Championship Group 1 — 6 matches, years [2022], e.g. Douglas, Erins Own, Nemo Rangers
+- **172932** Rebel Og Coiste Fe17 Div 4/5 Football Championship Group 2 — 3 matches, years [2022], e.g. Ballincollig, Bandon, Carrigaline
+- **172933** Rebel Og Coiste Fe17 Div 4/5 Hurling Championship — 15 matches, years [2022], e.g. Bandon, Douglas, Erins Own
+- **172945** The Rugby Championship — 7 matches, years [2022], e.g. Argentina, Australia, New Zealand
+- **172955** United Rugby Championship — 72 matches, years [2022, 2023], e.g. Benetton Treviso, Cardiff Blues, Connacht
+- **173007** Senior League Division 1A — 6 matches, years [2022], e.g. Hollymount, Kilmovee Shamrocks, Moy Davitts
+- **173008** BOI Senior League — 10 matches, years [2022], e.g. Ballina 1st XV, Buccaneers RFC 1st XV, Galway Corinthians 1st XV
+- **173010** Senior League Division 1B — 6 matches, years [2022], e.g. Burrishoole, Carnacon A, Castlebar Mitchels
+- **173012** Senior League Division 2A — 6 matches, years [2022], e.g. Charlestown, Davitts, Louisburgh
+- **173016** U13 G2 Mid Hurling Championship — 6 matches, years [2022], e.g. Druim agus Inse, Gortnahoe-Glengoole, Moyne/Templetuohy
+- **173017** U13 G3 Mid Hurling Championship — 10 matches, years [2022], e.g. Durlas Óg, JK Brackens, Loughmore - Castleiney
+- **173019** Senior League Division 2B — 6 matches, years [2022], e.g. Cill Chomain, Claremorris A, Kilmoremoy
+- **173020** Senior League Division 3A — 6 matches, years [2022], e.g. Breaffy, Kiltane, Parke/Keelogues/Crimlin
+- **173021** Senior League Division 3B — 6 matches, years [2022], e.g. Aghamore, Ballyhaunis, Kiltimagh
+- **173026** VGC Intermediate Football Championship G1 — 6 matches, years [2022], e.g. Eire Og, Garryowen, St Brendans
+- **173028** VGC Intermediate Football Championship G2 — 6 matches, years [2022], e.g. Harlesden Harps, Neasden Gaels, St Clarets
+- **173029** Toureen Group Junior Football Championship G1 — 3 matches, years [2022], e.g. Dulwich Harps, St Kiernans
+- **173030** Toureen Group Junior Football Championship G2 — 3 matches, years [2022], e.g. Tara, Tir Chonaill Gaels
+- **173031** McAleer & Rushe Senior Hurling Championship — 15 matches, years [2022], e.g. Brothers Pearse, Fr Murphys, Granuaile
+- **173032** WReilly Intermediate Hurling Championship — 10 matches, years [2022], e.g. Cú Chulainns, Fulham Irish, Kilburn Gaels
+- **173040** The Local Bar Western Junior C Hurling Championship Group 1 — 10 matches, years [2022], e.g. Ardmore, Ballysaggart, Colligan
+- **173041** The Local Bar Western Junior C Hurling Championship Group 2 — 10 matches, years [2022], e.g. Cappoquin, Clashmore/Kinsalebeg, Glen Rovers
+- **173043** Minor Hurling Championship Shield 2022 — 7 matches, years [2022], e.g. Ballyheigue, Kenmare/Kilgarvan, Lixnaw
+- **173055** Go-Ahead Junior E Championship Knock Out Stages — 3 matches, years [2022], e.g. St Brigids B, St Margarets, St Maurs B
+- **173096** Bon Secours Intermediate A Football Championship — 31 matches, years [2022], e.g. Adrigole, Aghabullogue, Ballinora
+- **173097** Bon Secours Premier Senior Football Championship — 25 matches, years [2022], e.g. Carbery, Carbery Rangers, Castlehaven
+- **173098** Bon Secours Senior A Football Championship — 24 matches, years [2022], e.g. Bandon, Bishopstown, Béal Átha'n Ghaorthaidh
+- **173099** Bon Secours Premier Intermediate Football Championship — 24 matches, years [2022], e.g. Aghada, Bantry Blues, Cill na Martra
+- **173100** Co-Op Superstores Premier Senior Hurling Championship — 25 matches, years [2022], e.g. Blackrock, Charleville, Douglas
+- **173101** Co-Op Superstores Senior A Hurling Championship — 24 matches, years [2022], e.g. Ballyhea, Blarney, Bride Rovers
+- **173102** Co-Op Superstores Premier Intermediate Hurling Championship — 25 matches, years [2022], e.g. Ballinhassig, Bandon, Carrigaline
+- **173103** Co-Op Superstores Intermediate A Hurling Championship — 24 matches, years [2022], e.g. Aghabullogue, Aghada, Cloughduv
+- **173104** Co-Op Superstores Premier Junior Hurling Championship — 24 matches, years [2022], e.g. Argideen Rangers, Ballygarvan, Ballygiblin
+- **173105** Junior B Hurling Championship Gorey Dist Knockout — 8 matches, years [2022], e.g. Askamore (Hurling), CLG Naomh Pádraig, Fr O`Regans Craanford
+- **173106** City Division Junior A Football Championship — 17 matches, years [2022], e.g. Bishopstown, Brian Dillons, Douglas
+- **173107** WBSC European Championship Qualifiers Final — 1 matches, years [2022], e.g. France
+- **173108** City Division Junior B Football Championship — 22 matches, years [2022], e.g. Ballyphehane, Bishopstown, Douglas B1
+- **173109** City Division Junior A Hurling Championship — 16 matches, years [2022], e.g. , Bishopstown, Blackrock
+- **173110** City Division Junior B Hurling Championship — 19 matches, years [2022], e.g. , Bishopstown, Blackrock
+- **173129** Junior B Hurling Championship Enniscorthy District Knockout — 3 matches, years [2022], e.g. HWH Bunclody/Tig Leath Slí Bun Clóidí, Rapparees(Hurling), Shamrocks GAA Club
+- **173162** Beamish Stout Munster Senior League-Senior Premier Division — 90 matches, years [2022, 2023], e.g. Avondale United, Blarney United, Carrigaline United
+- **173163** Beamish Stout Munster Senior League-Senior 1st Division — 91 matches, years [2022, 2023], e.g. Bandon, Douglas Hall, Everton
+- **173173** Junior Hurling Championship — 3 matches, years [2022], e.g. Erne Gaels Belleek, Lisbellaw St Patrick's, Lisnaskea Emmetts
+- **173174** The Local Bar Western Junior A Hurling Championship Group 1 — 3 matches, years [2022], e.g. Abbeyside, Colligan, Kilrossanty
+- **173175** The Local Bar Western Junior A  Hurling Championship Group 2 — 3 matches, years [2022], e.g. Ardmore, Geraldines, Tourin
+- **173176** Comeragh Oil Western Intermediate Hurling Championship Group 1 — 6 matches, years [2022], e.g. Ballyduff Upper, Brickey Rangers, Clashmore/Kinsalebeg
+- **173177** Comeragh Oil Western Intermediate Hurling Championship Group 3 — 6 matches, years [2022], e.g. An Rinn, Cappoquin, Sliabh gCua / St Mary's
+- **173178** Comeragh Oil Western Intermediate Hurling Championship Group 2 — 3 matches, years [2022], e.g. Ballinameela, Ballysaggart, Modeligo
+- **173187** Go-Ahead Junior C Championship Knock Out Stages — 3 matches, years [2022], e.g. Castleknock B, Garda/Westmanstown Gaels
+- **173189** Go-Ahead Junior D Championship Knock Out Stages — 3 matches, years [2022], e.g. St Patricks Donabate, St Sylvesters B
+- **173191** Go-Ahead Junior F Championship Knock Out Stages — 3 matches, years [2022], e.g. Clanna Gael Fontenoy B, Croi Ro Naofa, Na Gaeil Oga
+- **173193** Go-Ahead Junior G Championship Knockout Stages — 3 matches, years [2022], e.g. Round Towers Clondalkin, St Sylvesters C
+- **173195** Go-Ahead Junior H Championship Knock Out Stages — 3 matches, years [2022], e.g. Na Fianna D, Thomas Davis B
+- **173197** Go-Ahead Junior I Championship Knock Out Stages — 3 matches, years [2022], e.g. Castleknock C, St Peregrines B
+- **173199** Go-Ahead Junior J Championship Knock Out Stages — 3 matches, years [2022], e.g. St Kevin's Killian's, Templeogue Synge Street C
+- **173220** Corinthians Intermediate Division 1 Cup Final — 1 matches, years [2022], e.g. Corinthians 2022 - Intermediate City of Trybes
+- **173221** Corinthians Intermediate Division 1 3rd Place Final — 1 matches, years [2022], e.g. Corinthians 2022 - Intermediate Balls Deep
+- **173222** Corinthians Intermediate Division 1 5th Place Final — 1 matches, years [2022], e.g. Corinthians 2022 - Intermediate Tag Sanitiser
+- **173223** Corinthians Intermediate Division 2 Cup Final — 1 matches, years [2022], e.g. Corinthians 2022 - Intermediate Tag Me Gently
+- **173224** Corinthians Intermediate Division 2 3rd Place Final — 1 matches, years [2022], e.g. Corinthians 2022 - Intermediate Galway Mountain Rescue
+- **173225** Corinthians Intermediate Division 2 5th Place Final — 1 matches, years [2022], e.g. Corinthians 2022 - Intermediate No Woman No Try
+- **173226** Corinthians Intermediate Division 3 Cup Final — 1 matches, years [2022], e.g. Corinthians 2022 - Intermediate Impact Factor
+- **173227** Corinthians Intermediate Division 3 3rd Place Final — 1 matches, years [2022], e.g. Corinthians 2022 - Intermediate Scruff Halves
+- **173228** Corinthians Intermediate Division 3 5th Place Final — 1 matches, years [2022], e.g. Corinthians 2022 - Beginners MedTaggers
+- **173256** Panda U19 Hurling Championship Premier Div — 4 matches, years [2022], e.g. Buffers Alley, Faythe Harriers, Shelmaliers
+- **173257** Panda U19 Hurling Championship Div 3 — 1 matches, years [2022], e.g. Kilmore
+- **173258** Panda U19 Hurling Championship Div 2 — 3 matches, years [2022], e.g. Ballynastragh Gls, Crossabeg-Ballymurn
+- **173259** Panda U19 Hurling Championship Div 1 — 2 matches, years [2022], e.g. HWH Bunclody/Tig Leath Slí Bun Clóidí, Rapparees(Hurling)
+- **173260** Senior League - Division 1A — 3 matches, years [2022], e.g. Clontarf FC 1, Dublin University FC 1, Naas RFC 1
+- **173261** Senior League - Division 1B — 3 matches, years [2022], e.g. St. Mary’s College RFC 1, Terenure College RFC 1, University College Dublin Rugby 1
+- **173262** Senior League - Division 1C — 3 matches, years [2022], e.g. Lansdowne FC 1, Old Belvedere RFC 1, Old Wesley RFC 1
+- **173263** Senior League - Division 2A — 3 matches, years [2022], e.g. Blackrock College RFC 1, Enniscorthy RFC 1, Navan RFC 1
+- **173264** Senior League - Division 2B — 3 matches, years [2022], e.g. MU Barnhall RFC 1, Skerries RFC 1, Wanderers FC 1
+- **173265** Senior League - Division 2C — 3 matches, years [2022], e.g. Greystones RFC 1, Malahide RFC 1, Tullamore 1
+- **173270** Senior Championship 2022 Grp 1 — 10 matches, years [2022], e.g. Eire Og, Fermoy, Kinsale
+- **173272** Senior Championship 2022 Grp 2 — 10 matches, years [2022], e.g. Aghada, Bride Rovers, Clonakilty
+- **173273** Senior League Division 4A — 6 matches, years [2022], e.g. Achill, Claremorris B, Kilmaine
+- **173274** Senior League Division 4B — 6 matches, years [2022], e.g. Ballinrobe, Carnacon B, Tuar Mhic Éadaigh
+- **173275** Intermediate Championship 2022 grp 1 — 3 matches, years [2022], e.g. Bantry Blues, Glanmire, Rosscarbery
+- **173276** Senior League Division 5 — 6 matches, years [2022], e.g. Balla, Belmullet, Burrishoole B
+- **173277** Junior C Championship 2022 — 6 matches, years [2022], e.g. Ballinora, Erins Own, Mallow LGFA
+- **173278** Junior A Championship 2022 — 11 matches, years [2022], e.g. Beara, Dohenys, Douglas
+- **173281** Junior E Championship 2022 Grp 1 — 10 matches, years [2022], e.g. Ballincollig, Bandon, Clann na nGael
+- **173285** Junior E Championship 2022 Grp 2 — 10 matches, years [2022], e.g. Ballinhassig, Banteer LGFA, Cloyne
+- **173286** Junior F Championship 2022 Grp 1 — 15 matches, years [2022], e.g. Ballygarvan, Dripsey, Ilen Rovers
+- **173287** Junior F Championship 2022 Grp 2 — 10 matches, years [2022], e.g. Grenagh, Ibane Ladies, Keelnameela
+- **173294** The Local Bar Western Junior B Hurling Championship Group 1 — 6 matches, years [2022], e.g. Brickey Rangers, Dungarvan, Kilgobnet
+- **173295** The Local Bar Western Junior B Hurling Championship Group 2 — 6 matches, years [2022], e.g. Abbeyside, An Rinn, Fourmilewater
+- **173296** Radley Engineering Intermediate Football Championship Group 2 — 6 matches, years [2022], e.g. Ballinacourty, Ballinameela, Colligan
+- **173297** Radley Engineering Intermediate Football Championship Group 1 — 6 matches, years [2022], e.g. Ardmore, Modeligo, Sliabh gCua /St Mary's
+- **173298** Lawlors Hotel Junior A Football Championship Group 2 — 3 matches, years [2022], e.g. Ballyduff Upper, Lismore, Shamrocks
+- **173299** Lawlors Hotel Junior A Football Championship Group 1 — 3 matches, years [2022], e.g. Kilgobnet, Old Parish, Tallow
+- **173300** Lawlors Hotel Junior A Football Championship Group 3 — 3 matches, years [2022], e.g. Affane, Ballinacourty, Geraldines
+- **173302** Go Ahead U18 Championship Division 1 Group A — 6 matches, years [2022], e.g. Fingallians A, Lucan Sarsfields, Naomh Brid
+- **173303** Go Ahead U18 Championship Division 1 Group B — 6 matches, years [2022], e.g. Ballyboden St Endas, Castleknock, Cuala
+- **173304** Go Ahead U18 Championship Division 2 Group A — 6 matches, years [2022], e.g. Kilmacud Crokes, Na Fianna D, Raheny
+- **173305** Go Ahead U18 Championship Division 2 Group B — 6 matches, years [2022], e.g. Erins Isle, Naomh Maur, St Oliver Plunkett/Eoghan Ruadh A
+- **173306** Go Ahead U18 Championship Division 3 Group A — 6 matches, years [2022], e.g. Crumlin A, Good Counsel Liffey Gaels A, Naomh Olaf A
+- **173307** Go Ahead U18 Championship Division 3 Group B — 6 matches, years [2022], e.g. Ballinteer St Johns, Clontarf A, Skerries Harps
+- **173308** Go Ahead U18 Championship Division 4 Group A — 6 matches, years [2022], e.g. Kilmacud Crokes B, Naomh Mearnog, Naomh Peregrine A
+- **173309** Go Ahead U18 Championship Division 4 Group B — 6 matches, years [2022], e.g. Ballyboden St Endas B, Cumann Baire Caoimhin A, Naomh Jude B
+- **173310** Go Ahead U18 Championship Division 5 Group A — 6 matches, years [2022], e.g. Ballyboden St Endas C, Commercials A, Lucan Sarsfields B
+- **173311** Go Ahead U18 Championship Division 5 Group B — 6 matches, years [2022], e.g. Craobh Chiarain A, Cuala B, Naomh Olaf B
+- **173312** Joyces Expert Wexford Intermediate A Hurling Championship Knockout — 8 matches, years [2022], e.g. , Horeswood G.A.A.Club, Liam Mellows
+- **173313** The Courtyard Ferns Intermediate Championship Knockout — 8 matches, years [2022], e.g. Askamore (Hurling), Gusserane-O`Rahilly's, HWH Bunclody/Tig Leath Slí Bun Clóidí
+- **173314** Perrmanent TSB Junior Hurling Championship Knockout — 9 matches, years [2022], e.g. Bannow-Ballymitty, CLG Naomh Pádraig, Glynn-Barntown
+- **173322** Go Ahead Championship Junior 1 Group A — 6 matches, years [2022], e.g. Faughs Celtic B, Naomh Jude B, Raheny B
+- **173323** Go Ahead Championship Junior 1 Group B — 6 matches, years [2022], e.g. Crumlin A, Erins Isle B, Fingallians
+- **173324** Go Ahead Championship Junior 2 Group A — 6 matches, years [2022], e.g. Na Fianna C, Naomh Brid  B, Round Tower
+- **173325** Go Ahead Championship Junior 2 Group B — 6 matches, years [2022], e.g. Ballyboden St Endas C, Good Counsel Liffey Gaels, St Oliver Plunkett/Eoghan Ruadh
+- **173326** Go Ahead Championship Junior 3 Group A — 6 matches, years [2022], e.g. Kilmacud Crokes C, Lucan Sarsfields C, Naomh Jude C
+- **173327** Go Ahead Championship Junior 3 Group B — 6 matches, years [2022], e.g. Clontarf A, Cuala C, St Annes
+- **173328** Go Ahead Championship Junior 4 Group A — 6 matches, years [2022], e.g. Commercials A, Naomh Maur B, Naomh Mearnog B
+- **173329** Go Ahead Championship Junior 4 Group B — 6 matches, years [2022], e.g. Castleknock C, Faughs Celtic C, Lucan Sarsfields D
+- **173330** Go Ahead Championship Junior 5 Group A — 6 matches, years [2022], e.g. Kilmacud Crokes D, Na Fianna D, Thomas Davis B
+- **173331** Go Ahead Championship Junior 5 Group B — 6 matches, years [2022], e.g. Ballinteer St Johns C, Cuala C, St Brendans
+- **173332** Go Ahead Championship Junior 6 Group A — 6 matches, years [2022], e.g. Ballyboden St Endas D, Erins Isle C, Fingallians A
+- **173333** Go Ahead Championship Junior 6 Group B — 6 matches, years [2022], e.g. Cuala D, Lucan Sarsfields E, St Marks
+- **173335** Junior B Championship 2022 Grp 1 — 10 matches, years [2022], e.g. Bishopstown, Carrigaline, Courcey Rovers
+- **173336** Junior B Championship 2022 Grp 2 — 6 matches, years [2022], e.g. Dromtariffe LGFA, Funcheon Gaels, Midleton
+- **173337** Junior D Championship 2022 — 10 matches, years [2022], e.g. Lisgoold, Macroom, Muintir Gabriels
+- **173338** Junior G Championship 2022 — 21 matches, years [2022], e.g. Ballyphehane, Carrigtwohill, Glanworth LGFA
+- **173340** Pettitts  Senior Hurling Championship Knockout — 8 matches, years [2022], e.g. , Cloughbawn, Faythe Harriers
+- **173346** Minor A Championship Grp A — 6 matches, years [2022], e.g. Charlestown, Knockmore, Swinford Killasser
+- **173347** Minor A Championship Grp B — 6 matches, years [2022], e.g. Aghamore, Burrishoole, Claremorris
+- **173349** Minor B Championship Grp A — 6 matches, years [2022], e.g. Breaffy, Castlebar Mitchels, Kiltimagh
+- **173352** Minor B Championship Grp B — 6 matches, years [2022], e.g. Carnacon, MacHale Rovers, Moy Davitts
+- **173359** Senior Friendly — 4 matches, years [2022], e.g. Cork Constitution FC Presidents XV, Crosshaven/Munster Legends, Old Crescent RFC
+- **173364** Under-13 Hurling Championship Phase 2 B Competition Knockout — 6 matches, years [2022], e.g. Clonaslee St Manmans/Cluain na Slí Naomh Meanmain, Portarlington, Rathdowney Errill
+- **173379** Division 2B Championship Knockout — 7 matches, years [2022], e.g. Aghada B, Castlehaven B, Dohenys B
+- **173397** Under -17 'A' Football Championship Knockout — 8 matches, years [2022], e.g. Ballylinan, Gleann Uiseann, Mountmellick Parish Gaels
+- **173402** Junior A Championship SEC B — 6 matches, years [2022], e.g. Kilglass Gaels, Pádraig Pearses, Roscommon Gaels
+- **173403** Junior A Championship Sec C — 6 matches, years [2022], e.g. Naomh Bearrai, St Ronan's, St. Dominics
+- **173404** Junior A Championship- SEC A — 6 matches, years [2022], e.g. Ballinameen, Boyle, St Michael's
+- **173405** U16 Boys - Western Canada Championships — 10 matches, years [2022], e.g. BC Rugby Union Blue, BC Rugby Union Gold, Rugby Manitoba
+- **173408** U16 Girls - Western Canada Championships — 10 matches, years [2022], e.g. BC Rugby Union, Rugby Manitoba, Wolfpack
+- **173409** U18 Boys - Western Canada Championships — 14 matches, years [2022], e.g. BC Rugby Union Blue, BC Rugby Union Gold, Rugby Manitoba
+- **173410** U18 Girls - Western Canada Championships — 7 matches, years [2022], e.g. BC Rugby Union, Wolfpack
+- **173420** John J. Murphy East Junior C Hurling Championship Knockouts — 8 matches, years [2022], e.g. Ballyduff Lower, Clonea, Ferrybank
+- **173421** Minor C Championship Grp A — 6 matches, years [2022], e.g. Belmullet, Kilmeena, Kilmovee Shamrocks
+- **173422** Minor C Championship Grp B — 3 matches, years [2022], e.g. Balla, Ballyhaunis, Hollymount
+- **173423** Minor D Championship Grp A — 6 matches, years [2022], e.g. Ballinrobe, Kilmaine, Louisburgh
+- **173424** Minor D Championship Grp B — 3 matches, years [2022], e.g. Achill, Cill Chomain, Westport B
+- **173427** Ger Gavin U19B North Hurling Championship — 5 matches, years [2022], e.g. Borris-Ileigh, Clonakenny/Moneygall, Kilruane Mac Donaghs
+- **173428** Ger Gavin U19A North Hurling Championship — 5 matches, years [2022], e.g. Béal An Átha, Roscrea, Silvermines
+- **173437** Thurles Credit Union Junior A Hurling championship Knockout — 5 matches, years [2022], e.g. Holycross/Ballycahill, Moycarkey-Borris, Thurles Sarsfields
+- **173443** Gerry Kennedy Crash Repairs East Intermediate Hurling Championship Knockouts — 9 matches, years [2022], e.g. Ballyduff Lower, Ballygunner, Butlerstown GAA Club
+- **173456** Under 15 Championship Division 1 Group A — 6 matches, years [2022], e.g. Ballinteer St Johns A, Kilmacud Crokes A, Naomh Olaf
+- **173457** Under 15 Championship Division 1 Group B — 6 matches, years [2022], e.g. Ballyboden St Endas A, Clanna Gael Fontenoy, Lucan Sarsfields
+- **173458** Under 15 Championship Division 2 Group A — 6 matches, years [2022], e.g. Fingallians, Na Fianna A, Raheny A
+- **173459** Under 15 Championship Division 2 Group B — 6 matches, years [2022], e.g. Clontarf A, Scoil Ui Chonaill, St Brigids A
+- **173460** Under 15 Championship Division 3 Group A — 6 matches, years [2022], e.g. Erins Isle, O Dwyers, Skerries Harps
+- **173461** Under 15 Championship Division 3 Group B — 6 matches, years [2022], e.g. Castleknock A, Erin Go Bragh, Round Towers Lusk
+- **173462** Under 15 Championship Division 4 Group A — 6 matches, years [2022], e.g. Ballyboden St Endas B, Cuala A, Ranelagh Gaels
+- **173463** Under 15 Championship Division 4 Group B — 6 matches, years [2022], e.g. Round Towers Clondalkin, St Finians Swords, St Vincents
+- **173464** Under 15 Championship Division 5 Group A — 6 matches, years [2022], e.g. Craobh Chiaran, Kilmacud Crokes B, St Patricks Donabate
+- **173465** Under 15 Championship Division 5 Group B — 6 matches, years [2022], e.g. Naomh Mearnog, Parnells, St Annes
+- **173466** Under 15 Championship Division 6 Group A — 6 matches, years [2022], e.g. Ballinteer St Johns B, St Marys Saggart, St Patricks Palmerstown
+- **173467** Under 15 Championship Division 6 Group B — 6 matches, years [2022], e.g. Fingal Ravens, Garda/Westmanstown Gaels, Lucan Sarsfields B
+- **173468** Under 15 Championship Division 7 Group A — 6 matches, years [2022], e.g. Beann Eadair, Kilmacud Crokes C, Naomh Olaf B
+- **173469** Under 15 Championship Division 7 Group B — 6 matches, years [2022], e.g. Fingallians B, Na Dubhgall, St Finians Newcastle
+- **173470** Under 15 Championship Division 8 — 15 matches, years [2022], e.g. Clontarf B, Na Fianna B, O Dwyers B
+- **173471** Under 15 Championship Division 9 — 15 matches, years [2022], e.g. Cuala B, Good Counsel/Liffey Gaels, Naomh Barrog B
+- **173472** Under 15 Championship Division 10 Group A — 6 matches, years [2022], e.g. Ballinteer St Johns C, Ballyboden St Endas C, Erins Isle B
+- **173473** Under 15 Championship Division 10 Group B — 3 matches, years [2022], e.g. Castleknock B, Na Fianna C, Thomas Davis B
+- **173474** John J. Murphy East Junior B Hurling Championship Knockouts — 6 matches, years [2022], e.g. Ballygunner, De La Salle, Dunhill
+- **173475** Under 18 Championship Division 1 Group A — 6 matches, years [2022], e.g. Ballyboden St Endas A, Beann Eadair, Lucan Sarsfields
+- **173476** Under 18 Championship Division 1 Group B — 6 matches, years [2022], e.g. Clontarf A, Kilmacud Crokes A, St Brigids A
+- **173477** Under 18 Championship Division 2 Group A — 6 matches, years [2022], e.g. Cuala A, Erins Isle, Na Fianna A
+- **173478** Under 18 Championship Division 2 Group B — 6 matches, years [2022], e.g. Ballinteer St Johns A, Fingallians, Foxrock Cabinteely A
+- **173480** Under 18 Championship Division 3 Group A — 6 matches, years [2022], e.g. Castleknock A, Skerries Harps, St Maurs
+- **173481** Under 18 Championship Division 3 Group B — 6 matches, years [2022], e.g. Garda/Westmanstown Gaels, Raheny A, St Judes
+- **173482** Under 18 Championship Division 4 Group A — 6 matches, years [2022], e.g. Crumlin, Garristown, Na Fianna B
+- **173483** Under 18 Championship Division 4 Group B — 3 matches, years [2022], e.g. Ballyboden St Endas B, Naomh Olaf, Parnells
+- **173484** Under 18 Championship Division 5 Group A — 6 matches, years [2022], e.g. Clontarf B, Naomh Mearnog, Round Towers Clondalkin
+- **173485** Under 18 Championship Division 5 Group B — 6 matches, years [2022], e.g. O Tooles, Scoil Ui Chonaill, St Finians Swords
+- **173486** Under 18 Championship Division 6 Group A — 6 matches, years [2022], e.g. Ballymun Kickhams, Fingal Ravens, Man O War
+- **173487** Under 18 Championship Division 6 Group B — 6 matches, years [2022], e.g. Cuala B, Kilmacud Crokes B, Na Fianna C
+- **173488** Under 18 Championship Division 7 Group A — 6 matches, years [2022], e.g. Fingallians B, Robert Emmets, St James Gaels / An Caislean
+- **173489** Under 18 Championship Division 7 Group B — 6 matches, years [2022], e.g. Clanna Gael Fontenoy, Lucan Sarsfields B, St Margarets
+- **173491** Under 18 Championship Division 8 Group A — 6 matches, years [2022], e.g. Craobh Chiaran, O Dwyers, St Vincents B
+- **173492** Under 18 Championship Division 8 Group B — 6 matches, years [2022], e.g. Beann Eadair B, Erin Go Bragh, Lucan Sarsfields C
+- **173493** Under 18 Championship Division 9 Group A — 6 matches, years [2022], e.g. Kilmacud Crokes C, Naomh Olaf B, Skerries Harps B
+- **173495** Under 18 Championship Division 9 Group B — 6 matches, years [2022], e.g. Ballinteer St Johns B, Shankill, St Monicas
+- **173497** Under 18 Championship Division 10 Group A — 6 matches, years [2022], e.g. Ballyboden St Endas C, Na Fianna D, Raheny C
+- **173500** Under 18 Championship Division 10 Group B — 6 matches, years [2022], e.g. Ballyboden St Endas D, Clontarf C, Good Counsel/Liffey Gaels
+- **173503** Under 14 Championship Division 1 Group A — 6 matches, years [2022], e.g. Clanna Gael Fontenoy, Clontarf A, Naomh Mearnog
+- **173504** Under 14 Championship Division 1 Group B — 6 matches, years [2022], e.g. Ballyboden St Endas A, Kilmacud Crokes A, Lucan Sarsfields
+- **173505** Under 14 Championship Division 2 Group A — 6 matches, years [2022], e.g. Fingallians, Naomh Olaf, St Maurs
+- **173506** Under 14 Championship Division 2 Group B — 6 matches, years [2022], e.g. Ballinteer St Johns A, Na Fianna A, Round Towers Clondalkin
+- **173507** Under 14 Championship Division 3 Group A — 6 matches, years [2022], e.g. Garda/Westmanstown Gaels, Geraldine P Morans, Kilmacud Crokes B
+- **173508** Under 14 Championship Division 3 Group B — 6 matches, years [2022], e.g. Castleknock A, Cuala A, St Judes
+- **173509** Under 14 Championship Division 4 Group A — 6 matches, years [2022], e.g. Ballyboden St Endas B, Clanna Gael Fontenoy B, Erins Isle
+- **173510** Under 14 Championship Division 4 Group B — 6 matches, years [2022], e.g. Beann Eadair, O Dwyers, Raheny A
+- **173511** Under 14 Championship Division 5 Group A — 6 matches, years [2022], e.g. Foxrock Cabinteely A, Lucan Sarsfields B, Na Fianna B
+- **173512** Under 14 Championship Division 5 Group B — 6 matches, years [2022], e.g. Crumlin, Skerries Harps, St Annes
+- **173514** Under 14 Championship Division 6 — 15 matches, years [2022], e.g. Naomh Fionnbarra, O Tooles, Ranelagh Gaels
+- **173516** Under 14 Championship Division 7 Group A — 6 matches, years [2022], e.g. Ballinteer St Johns B, Round Towers Clondalkin B, St Oliver Plunkett ER
+- **173517** Under 14 Championship Division 7 Group B — 6 matches, years [2022], e.g. Ballymun Kickhams, Castleknock B, Garristown
+- **173518** Under 14 Championship Division 8 Group A — 6 matches, years [2022], e.g. Fingallians B, Man O War, Naomh Olaf B
+- **173519** Under 14 Championship Division 8 Group B — 6 matches, years [2022], e.g. Clanna Gael Fontenoy C, Naomh Mearnog B, Skerries Harps B
+- **173520** Under 14 Championship Division 9 Group A — 6 matches, years [2022], e.g. Ballyboden St Endas C, Castleknock C, Innisfails
+- **173521** Under 14 Championship Division 9 Group B — 6 matches, years [2022], e.g. Ballinteer St Johns C, Beann Eadair B, Cuala B
+- **173522** Under 14 Championship Division 10 Group A — 6 matches, years [2022], e.g. Garda/Westmanstown Gaels, Lucan Sarsfields C, Na Fianna C
+- **173523** Under 14 Championship Division 10 Group B — 6 matches, years [2022], e.g. Clontarf C, Kilmacud Crokes C, Na Fianna D
+- **173524** Under 16 Championship Division 1 Group A — 6 matches, years [2022], e.g. Fingallians, Na Fianna A, St Judes
+- **173525** Under 16 Championship Division 1 Group B — 6 matches, years [2022], e.g. Ballyboden St Endas A, Cuala A, Kilmacud Crokes A
+- **173526** Under 16 Championship Division 2 Group A — 6 matches, years [2022], e.g. Ballinteer St Johns A, Lucan Sarsfields, St Patricks Donabate
+- **173527** Under 16 Championship Division 2 Group B — 6 matches, years [2022], e.g. Clontarf A, Round Towers Clondalkin, St Peters
+- **173528** Under 16 Championship Division 3 Group A — 6 matches, years [2022], e.g. Beann Eadair, Naomh Olaf, St Maurs
+- **173529** Under 16 Championship Division 3 Group B — 6 matches, years [2022], e.g. Castleknock A, Clanna Gael Fontenoy, Foxrock Cabinteely A
+- **173530** Under 16 Championship Division 4 Group A — 6 matches, years [2022], e.g. Garristown, O Tooles, St Annes
+- **173531** Under 16 Championship Division 4 Group B — 6 matches, years [2022], e.g. Ballymun Kickhams, Erin Go Bragh, O Dwyers
+- **173532** Gerry Kennedy Crash Repairs East Junior A Hurling Championship Knockouts — 7 matches, years [2022], e.g. Ballygunner, Mt. Sion, Passage
+- **173533** Under 16 Championship Division 5 Group A — 6 matches, years [2022], e.g. Fingal Ravens, St Brigids A, St Finians Swords
+- **173534** Under 16 Championship Division 5 Group B — 6 matches, years [2022], e.g. Ballinteer St Johns B, Parnells, Raheny A
+- **173535** Under 16 Championship Division 6 Group A — 6 matches, years [2022], e.g. Clontarf B, Erins Isle, Na Fianna B
+- **173536** Junior B Football Championship Grp 1 — 6 matches, years [2022], e.g. Bray Emmets, Eiré Óg Greystones, Newtown GAA
+- **173537** Under 16 Championship Division 6 Group B — 6 matches, years [2022], e.g. Man O War, Robert Emmets, Round Towers Clondalkin B
+- **173539** Junior B Football Championship Grp 2 — 6 matches, years [2022], e.g. An Tóchar, Avoca, Cill Bhride
+- **173540** Junior B Football Championship Grp 4 — 3 matches, years [2022], e.g. Baltinglass, Emmet Carn An Bhua, Tinahely/Tig na hEille
+- **173541** Junior B Football Championship Grp 3 — 6 matches, years [2022], e.g. Abhainn Dála, Hollywood, Newcastle
+- **173542** Under 16 Championship Division 7 Group A — 6 matches, years [2022], e.g. Ballyboden St Endas B, Beann Eadair B, Fingallians B
+- **173543** Under 16 Championship Division 7 Group B — 3 matches, years [2022], e.g. Croi Ro Naofa, Kilmacud Crokes B, Lucan Sarsfields B
+- **173544** Under 16 Championship Division 8 — 15 matches, years [2022], e.g. Ballyboden St Endas C, Ballyfermot De La Salle, Cuala B
+- **173561** Watch Centre North Junior B Hurling Championship Knock Out — 6 matches, years [2022], e.g. Béal An Átha, Kiladangan, Lorrha
+- **173567** Permanent TSB Junior B Hurling Championship — 7 matches, years [2022], e.g. , Geraldine O`Hanrahans, Glynn-Barntown
+- **173572** City Division Junior C Football Championship — 6 matches, years [2022], e.g. Ballinure, Bishopstown, St Finbarrs
+- **173574** Senior Football Championship — 1 matches, years [2022], e.g. St Patrick's GAA Club Wicklow
+- **173575** Senior Football Championship — 1 matches, years [2022], e.g. Arklow Geraldines-Ballymoney/Na nGearaltaigh-Baile
+- **173577** Senior Football Championship — 1 matches, years [2022], e.g. Baltinglass
+- **173578** Senior Football Championship — 1 matches, years [2022], e.g. Rathnew
+- **173593** Intermediate Football Championship — 1 matches, years [2022], e.g. Valleymount
+- **173594** Intermediate Football Championship — 1 matches, years [2022], e.g. Ballymanus
+- **173595** Intermediate Football Championship — 1 matches, years [2022], e.g. Coolkenno
+- **173596** Intermediate Football Championship — 1 matches, years [2022], e.g. Hollywood
+- **173597** Division 2A Championship Knockout — 5 matches, years [2022], e.g. Eire Og B, Inch Rovers B, Mourneabbey LGFA B
+- **173598** Mayo GAA U15 Hurling Championship 2022 — 10 matches, years [2022], e.g. Castlebar Mitchels Hurling, Claremorris, St Ciarans
+- **173599** Mayo GAA U17 Hurling Championship 2022 — 10 matches, years [2022], e.g. Castlebar Mitchels Hurling, Claremorris, St Ciarans
+- **173620** Division 2C Championship Knockout — 5 matches, years [2022], e.g. Carrigaline B, Donoughmore B, Douglas B
+- **173623** Reserve Football Championship Group 2 — 10 matches, years [2022], e.g. Fulham Irish, Parnells, Round Towers
+- **173624** Reserve Football Championship Group 1 — 5 matches, years [2022], e.g. North London Shamrocks, St Josephs, St Kiernans
+- **173625** Under -17 'B' Championship Knockout — 8 matches, years [2022], e.g. Ballyfin CLG, Graiguecullen GAA, Mainistir Béal Atha an Róine/Ballyroan Abbey
+- **173633** Beamish Stout Munster Senior League-Junior Premier Division — 91 matches, years [2022, 2023], e.g. Avondale United, Blarney United, Carrigaline United
+- **173634** Beamish Stout Munster Senior League-Junior 1st Division — 90 matches, years [2022, 2023], e.g. Carrigaline United, Cobh Wanderers, Everton
+- **173635** Under-13 Hurling Championship Phase 2 A Competition Knockout — 5 matches, years [2022], e.g. Borris in Ossory/Kilcotton, Camross, Castletown
+- **173636** Under-13 Hurling Championship Phase 2 A1 Competition Knockout — 5 matches, years [2022], e.g. Abbeyleix St Lazarians, Clough-Ballacolla, Park Ratheniska-Timahoe
+- **173637** Under -13 Football Championship Phase 2 Knockout A Competition — 5 matches, years [2022], e.g. Ballyfin CLG, Ballyroan Abbey, Crettyard/Spink
+- **173638** Junior B Football Championship Knockout — 8 matches, years [2022], e.g. Camross, Emo, Errill
+- **173639** Under -13 Football Championship Phase 2 Knockout A1 Competition — 5 matches, years [2022], e.g. Mountmellick, Park Ratheniska, Portarlington
+- **173666** Junior C Football Championship Knockout — 7 matches, years [2022], e.g. Courtwood, Naomh Fiontáin Maighean Rátha, O'Dempseys
+- **173734** Minor Football Championship S/Finals — 2 matches, years [2022], e.g. Kenmare Shamrocks, Mid Kerry
+- **173735** Minor Football Championship Qtr Finals — 4 matches, years [2022], e.g. East Kerry, Kenmare Shamrocks, Mid Kerry
+- **173736** South Tipp U13D Hurling Championship 2022 — 9 matches, years [2022], e.g. Ballingarry, Ballybacon Grange Gaa Club, CATHAIL S CIOCAM
+- **173739** Senior League Div 1 Shield Final — 3 matches, years [2022], e.g. Castlebar Mitchels, Moy Davitts
+- **173740** Senior League Div 2 Cup Final — 3 matches, years [2022], e.g. Claremorris A, Louisburgh, Swinford Killasser
+- **173741** Senior League Div 1 Cup Final — 3 matches, years [2022], e.g. Burrishoole, Westport A
+- **173742** Senior League Div 2 Shield Final — 3 matches, years [2022], e.g. Charlestown, Kilmoremoy
+- **173743** Senior League Divsion 5 Final — 3 matches, years [2022], e.g. Balla, Belmullet, Burrishoole B
+- **173744** Senior League Div 3 Cup Final — 3 matches, years [2022], e.g. Ballyhaunis, St Brigids
+- **173745** Senior League Div 3 Shield Final — 3 matches, years [2022], e.g. Aghamore, Kiltane
+- **173746** Senior League Div 4 Cup Final — 3 matches, years [2022], e.g. Kilmeena, Tuar Mhic Éadaigh, Westport B
+- **173747** Senior League Div 4 Shield Final — 3 matches, years [2022], e.g. Ballinrobe, Carnacon B
+- **173749** Senior Football Championship — 1 matches, years [2022], e.g. Tinahely/Tig na hEille
+- **173750** Senior Football Championship — 1 matches, years [2022], e.g. Donard/Glen
+- **173751** Senior Football Championship — 1 matches, years [2022], e.g. Rathnew
+- **173752** Senior Football Championship — 1 matches, years [2022], e.g. Naomh Teagain/Kiltegan
+- **173753** Leinster Senior Club Championship Finals — 2 matches, years [2022], e.g. Birr (Offaly), St Vincents (Dublin)
+- **173754** Leinster Intermediate Club Championship Finals — 4 matches, years [2022], e.g. James Stephens (Kilkenny), Naas (Kildare), Oylegate-Glenbrien (Wexford)
+- **173756** Leinster Junior A Club Championship Finals — 4 matches, years [2022], e.g. Maynooth (Kildare), Meath 2, St Sinchills (Offaly)
+- **173757** Leinster Junior B Club Championship Finals — 2 matches, years [2022], e.g. Delvin (Westmeath), St Brides (Louth)
+- **173797** LSSB Senior League — 28 matches, years [2022], e.g. Drogheda Grammar, East Glendalough, Kilkenny College
+- **173810** Munster Senior Clubs League - North — 20 matches, years [2022, 2023], e.g. Garryowen FC, Nenagh Ormond RFC, Old Crescent RFC
+- **173823** Under -13 Football Championship Phase 2 Knockout B Competition — 5 matches, years [2022], e.g. Ballylinan, Camross, Graiguecullen GAA
+- **173851** Intermediate Football Championship — 1 matches, years [2022], e.g. Ballymanus
+- **173852** Intermediate Football Championship — 1 matches, years [2022], e.g. Annacurra GAA Club
+- **173853** Intermediate Football Championship — 1 matches, years [2022], e.g. Emmet Carn An Bhua
+- **173854** Intermediate Football Championship — 1 matches, years [2022], e.g. Eiré Óg Greystones
+- **173883** Under 17 A Hurling Championship Group 1 — 6 matches, years [2022], e.g. Ballyboden St Endas, Erins Isle, Faughs
+- **173887** Under 17 A Hurling Championship Group 2 — 6 matches, years [2022], e.g. Ballinteer St Johns, Cuala, Kilmacud Crokes
+- **173890** Under 17 B Hurling Championship Group 1 — 6 matches, years [2022], e.g. Kevins, Naomh Barrog, Round Towers (C)
+- **173892** Under 17 B Hurling Championship Group 2 — 6 matches, years [2022], e.g. Commercials, Na Fianna, St Brigids
+- **173893** Under 17 B Hurling Championship Group 3 — 6 matches, years [2022], e.g. Castleknock, Fingallians, O' Tooles
+- **173894** Under 17 C Hurling Championship Group 1 — 15 matches, years [2022], e.g. Bye, Kilmacud Crokes, Naomh Olaf
+- **173895** Under 17 C Hurling Championship Group 2 — 6 matches, years [2022], e.g. Bohernabreena St Columbas, Naomh Mearnog, Skerries Harps
+- **173897** Under 17 C Hurling Championship Group 3 — 6 matches, years [2022], e.g. Beann Eadair, Good Counsel Liffey Gaels, Raheny
+- **173898** Under 17 D Hurling Championship Group 1 — 6 matches, years [2022], e.g. Bye, Clontarf, Erins Isle
+- **173899** Under 17 D Hurling Championship Group 2 — 6 matches, years [2022], e.g. Ballyboden St Endas, Bye, Cuala
+- **173901** Under 17 A Football Championship Group 1 — 6 matches, years [2022], e.g. Erins Isle, Lucan Sarsfields, St Judes
+- **173902** Under 17 A Football Championship Group 2 — 6 matches, years [2022], e.g. Clontarf, Kilmacud Crokes, St Patricks (D)
+- **173904** Under 17 A Football Championship Group 3 — 6 matches, years [2022], e.g. Ballyboden St Endas, Cuala, Raheny
+- **173907** Junior A Football Championship — 1 matches, years [2022], e.g. Blessington
+- **173908** Junior A Football Championship — 1 matches, years [2022], e.g. Eachdruim Uí Bhroin
+- **173909** Junior A Football Championship — 1 matches, years [2022], e.g. Laragh
+- **173910** Junior A Football Championship — 1 matches, years [2022], e.g. Arklow Geraldines-Ballymoney/Na nGearaltaigh-Baile
+- **173911** U15D Championship 2022 — 20 matches, years [2022], e.g. Ballintubber, Bohola Moy Davitts, Breaffy
+- **173912** U15 E Championship Group 1 2022 — 28 matches, years [2022], e.g. Ardmoy, Ballaghaderreen, Hollymount-Carramore
+- **173913** U15 G Championship 2022 — 19 matches, years [2022], e.g. Achill, Bonniconlon, Castlebar Mitchels
+- **173914** U17 B Championship 2022 — 19 matches, years [2022], e.g. Aghamore, Ballina Stephenites, Breaffy
+- **173915** U17 E Championship 2022 — 13 matches, years [2022], e.g. Ardnaree, Ballintubber, Burrishoole
+- **173916** U17 D Championship 2022 — 25 matches, years [2022], e.g. Ballaghaderreen, Béal an Mhuirthead, Carras
+- **173917** U17 G Championship 2022 — 8 matches, years [2022], e.g. Cill Chomain, Islandeady, Louisburgh
+- **173918** U13 Championship 2022 Group 1 - A — 8 matches, years [2022], e.g. Balla, Ballinrobe, Ballintubber
+- **173919** U13 Championship 2022 - Group 2 A — 7 matches, years [2022], e.g. Ballaghaderreen, Charlestown Sarsfields, Claremorris
+- **173920** U13 Championship 2022 - Group 3 A — 6 matches, years [2022], e.g. Mayo Gaels, Naomh Padraig, Swinford
+- **173921** U13 Championship 2022 - Group 4 A — 6 matches, years [2022], e.g. Aghamore, Carras, Hollymount-Carramore
+- **173922** U13 Championship 2022 - Group 5 — 8 matches, years [2022], e.g. Achill, Islandeady, Kilmeena
+- **173923** U15C Championship 2022 — 13 matches, years [2022], e.g. Balla, Kiltimagh, Knockmore
+- **173924** U15E Championship Group 2 2022 — 15 matches, years [2022], e.g. Charlestown Sarsfields, Cill Chomain, Hollymount-Carramore
+- **173925** U17 A Championship 2022 — 20 matches, years [2022], e.g. Bohola Moy Davitts, Castlebar Mitchels, Claremorris
+- **173926** U17 C Championship 2022 — 20 matches, years [2022], e.g. Balla, Ballinrobe, Crossmolina Deel Rovers
+- **173927** U17 F Championship 2022 — 13 matches, years [2022], e.g. Achill, Ardmoy MacHales, Bonniconlon
+- **173928** U13 Championship 2022 - Group 1 B — 11 matches, years [2022], e.g. Balla, Ballintubber, Castlebar Mitchels
+- **173929** U13 Championship 2022 - Group 2 B — 6 matches, years [2022], e.g. Ardmoy, Ballina Stephenites, Breaffy
+- **173930** U13 Championship 2022 - Group 3 B — 6 matches, years [2022], e.g. Ardnaree, Bohola Moy Davitts, Burrishoole
+- **173931** U13 Championship 2022 - Group 4 B — 6 matches, years [2022], e.g. Bonniconlon, Cill Chomain, Kiltimagh
+- **173932** U13 Championship 2022 - Group 6 — 4 matches, years [2022], e.g. Davitts, Erris St. Pats, Kilmovee Shamrocks
+- **173940** Under 17 B Football Championship Group 1 — 15 matches, years [2022], e.g. Bye, Castleknock, Fingallians
+- **173943** Under 17 B Football Championship Group 2 — 6 matches, years [2022], e.g. Ballinteer St Johns, Fingal Ravens, St Marys S
+- **173946** Under 17 C Football Championship Group 1 — 6 matches, years [2022], e.g. Bye, Round Towers (C), St Brigids
+- **173947** Under 17 C Football Championship Group 2 — 6 matches, years [2022], e.g. Beann Eadair, Clanna Gael Fontenoy, Naomh Olaf
+- **173948** Under 17 C Football Championship Group 3 — 6 matches, years [2022], e.g. Clontarf, Naomh Mearnog, St Peregrines
+- **173949** Under 17 C Football Championship Group 4 — 6 matches, years [2022], e.g. Lucan Sarsfields, Naomh Barrog, O' Tooles
+- **173951** Under 17 D Football Championship Group 1 — 6 matches, years [2022], e.g. St Agnes, St James Gaels An Caislean, St Maurs
+- **173953** Under 17 D Football Championship Group 2 — 6 matches, years [2022], e.g. Ballinteer St Johns, Ballyboden St Endas, Na Fianna
+- **173954** Under 17 D Football Championship Group 3 — 6 matches, years [2022], e.g. Cuala, Kilmacud Crokes, St Oliver Plunketts ER
+- **173956** Under 17 D Football Championship Group 4 — 6 matches, years [2022], e.g. Erins Isle, Good Counsel / Liffey Gaels, Ranelagh Gaels
+- **173960** U15A Championship Group 1 2022 — 24 matches, years [2022], e.g. Aghamore, Ardnaree, Ballinrobe
+- **173961** U15A Championship Group 2 2022 — 15 matches, years [2022], e.g. Ardnaree, Ballina Stephenites, Béal an Mhuirthead
+- **173964** Bank of Ireland Munster Senior Challenge Cup — 15 matches, years [2022, 2023], e.g. Bruff RFC, Cashel RFC, Clonmel RFC
+- **173969** Senior Championship Grp A — 6 matches, years [2022], e.g. Castlebar Mitchels, Kilmovee Shamrocks, Knockmore
+- **173970** Senior Championship Grp B — 6 matches, years [2022], e.g. Burrishoole A, Carnacon A, Hollymount
+- **173973** JJ Kavanagh & Sons Co. Minor Hurling Championship - Division 4 KO — 3 matches, years [2022], e.g. Dungarvan, St Oliver's, St Saviour's
+- **173989** Wexford People U17 Hurling Championship Division  4 Group A — 4 matches, years [2022], e.g. Ballygarrett (Hurling), OLI/St Fintans, St Abban's Adamstown
+- **173990** Wexford People U17 Hurling Championship Division 4 Group B — 1 matches, years [2022], e.g. St Abban's Adamstown
+- **173991** Comeragh Oil Western Intermediate Hurling Championship Knockout — 7 matches, years [2022], e.g. An Rinn, Ballinameela, Ballysaggart
+- **173992** WBSC U18 European Baseball Championship Group A 2022 — 15 matches, years [2022], e.g. Austria U18, France U18, Great Britain U18
+- **173993** WBSC U18 European Baseball Championship Group B 2022 — 15 matches, years [2022], e.g. Belgium U18, Czech Republic U18, Germany U18
+- **174007** Womens Intermediate Cup — 1 matches, years [2022], e.g. London St George 1XV
+- **174008** Mens Intermediate Cup — 2 matches, years [2022], e.g. Guelph RFC 1XV, Niagara Wasps 1XV
+- **174009** 2022 Senior Hurling Championship Knock Out — 5 matches, years [2022], e.g. Four Roads/Na Ceithre Boithre, Oran Hurling Club, Pádraig Pearses
+- **174014** The Local Bar Western Junior C Hurling Championship Knockout — 5 matches, years [2022], e.g. Ardmore, Ballysaggart, Glen Rovers
+- **174015** The Local Bar Western Junior A Hurling Championship Knockout — 5 matches, years [2022], e.g. Abbeyside, Ardmore, Colligan
+- **174017** Ross Oil Junior A Football Championship 2022 Playoffs — 7 matches, years [2022], e.g. Aghinagh, Canovee, Inniscarra
+- **174023** Reserve 'B' Football Championship — 5 matches, years [2022], e.g. Belcoo O`Rahilly's, Devenish St Mary's, Irvinestown St Molaises
+- **174024** Reserve 'A' Football Championship — 5 matches, years [2022], e.g. Derrygonnelly Harps, Enniskillen Gaels, Kinawley Brian Borus
+- **174026** Junior C Football Championship Grp 1 — 6 matches, years [2022], e.g. Annacurra GAA Club, Arklow Geraldines-Ballymoney/Na nGearaltaigh-Baile, Donard/Glen
+- **174027** Senior Hurling Championship Semi Finals — 2 matches, years [2022], e.g. Bray Emmets, Glenealy
+- **174028** Junior C Football Championship Grp 2 — 6 matches, years [2022], e.g. An Tóchar, Ath na Fuinseoige, Blessington
+- **174029** Junior D Football Championship GRP 2 — 6 matches, years [2022], e.g. Ballymanus, Stratford-Grangecon, Tinahely/Tig na hEille
+- **174030** Junior D Football Championship Grp 1 — 6 matches, years [2022], e.g. Avoca, Barndarrig, Eachdruim Uí Bhroin
+- **174047** Deise in Dublin Co. U13 Hurling Championship Division 2 — 7 matches, years [2022], e.g. An Ghaeltacht, Naomh Brid/Cappoquin, Portlaw
+- **174048** Deise in Dublin Co. U13 Hurling Championship Division 1 — 7 matches, years [2022], e.g. Ballygunner, De La Salle, Mt. Sion
+- **174049** Intermediate Hurling Championship SF — 2 matches, years [2022], e.g. Bray Emmets, Western Gaels
+- **174056** Rebel Og Coiste Fe17 Div 5 Football Championship Playoffs — 3 matches, years [2022], e.g. Bandon, Nemo Rangers
+- **174057** Rebel Og Coiste Fe17 Div 4 Football Championship Playoffs — 3 matches, years [2022], e.g. Carrigaline, Valley Rovers
+- **174059** Junior B Football Championship Knockout — 8 matches, years [2022], e.g. Coralstown-Kinnegad, St Mary's Rochfortbridge, Tubberclair
+- **174066** Deise in Dublin Co. U13 Hurling Championship Division 3 — 6 matches, years [2022], e.g. Micheal MacCraith Tramore, Passage, St Mary's Juvenile
+- **174067** Deise in Dublin Co. U13 Hurling Championship Division 4 — 6 matches, years [2022], e.g. Abbeyside, Ballygunner, Clashmore/Kinsalebeg
+- **174068** JJ Kavanagh & Sons Snr Hurl Championship - KO / County Final — 14 matches, years [2022], e.g. Abbeyside, Ballygunner, Clonea
+- **174069** Amber Springs & Ashdown Park Hotels Intermediate Football Championship Gp A — 15 matches, years [2022], e.g. , Horeswood G.A.A.Club, Rathgarogue-Cushinstown
+- **174070** Enniscorthy Farm Systems Junior Football Championship Gp A — 15 matches, years [2022], e.g. Monageer-Boolavogue, Na Sairséalaigh/Sarsfields, Our Lady's Island
+- **174071** Enniscorthy Farm Systems Junior A Football Championship Gp A — 15 matches, years [2022], e.g. Buffers Alley, Clongeen, Ferns St Aidans
+- **174072** Dominic Smith Expert Electrical Senior Football Championship Gp A — 15 matches, years [2022], e.g. Crossabeg-Ballymurn, Gusserane-O`Rahilly's, Kilanerin
+- **174073** Amber Springs & Ashdown Park Hotels Intermediate Football Championship Gp B — 15 matches, years [2022], e.g. Ballyhogue, Bannow-Ballymitty, Clongeen
+- **174074** Enniscorthy Farm Systems Junior Football Championship Gp B — 15 matches, years [2022], e.g. Castletown, Gusserane-O`Rahilly's, Kilanerin
+- **174075** Enniscorthy Farm Systems Junior A Football Championship Gp B — 15 matches, years [2022], e.g. Ballyhogue, Davidstown Courtnacuddy GAA, Glynn-Barntown
+- **174076** Dominic Smith Expert Electrical Senior Football Championship Gp B — 15 matches, years [2022], e.g. Castletown, Glynn-Barntown, HWH Bunclody/Tig Leath Slí Bun Clóidí
+- **174081** VGC Intermediate Football Championship KNOCK-OUT — 3 matches, years [2022], e.g. Garryowen, Parnells
+- **174082** Toureen Group Junior Football Championship — 3 matches, years [2022], e.g. Dulwich Harps, Wandsworth Gaels
+- **174083** McAleer & Rushe Senior Football Championship Group 1 — 6 matches, years [2022], e.g. Fulham Irish, North London Shamrocks, Tir Chonaill Gaels
+- **174084** McAleer & Rushe Senior Football Championship Group 2 — 6 matches, years [2022], e.g. Kingdom - Kerry Gaels, Round Towers, St Kiernans
+- **174087** Munster Senior Clubs League - South — 12 matches, years [2022, 2023], e.g. Cashel RFC, Cork Constitution FC, Highfield RFC
+- **174094** Ballylough Milling J B 2 Football Championship Final — 1 matches, years [2022], e.g. Buttevant
+- **174096** U16 Football F Championship — 28 matches, years [2022], e.g. Ballyboden St Endas D, Castleknock C, Cuala C
+- **174097** U16 Hurling C Championship — 28 matches, years [2022], e.g. Ballyboden St Endas B, Castleknock B, Clanna Gael Fontenoy
+- **174098** U16 Hurling D Championship — 28 matches, years [2022], e.g. Bye, Cuala B, Faughs B
+- **174104** U16 Hurling A Championship Grp.1 — 6 matches, years [2022], e.g. Castleknock A, Faughs A, Kilmacud Crokes
+- **174105** U16 Hurling A Championship Grp.2 — 6 matches, years [2022], e.g. Ballyboden St Endas A, Clontarf A, Craobh Chiarain
+- **174106** U16 Hurling A Championship Grp.3 — 6 matches, years [2022], e.g. Ballinteer St Johns, St Judes, St Oliver Plunkett ER
+- **174109** U12 Boys Championship — 56 matches, years [2022, 2023], e.g. Arra Rovers, Birdhill, Borrisokane
+- **174111** Minor Football Championship Final — 2 matches, years [2022], e.g. Mid Kerry, North Kerry
+- **174119** U16 Boys Championship — 28 matches, years [2022, 2023], e.g. Ballymackey, Birdhill, Clodiagh Rangers
+- **174150** U16 Hurling B Championship Grp.1 — 6 matches, years [2022], e.g. Cuala A, O Tooles, Thomas Davis
+- **174151** U16 Hurling B Championship Grp.2 — 6 matches, years [2022], e.g. Bohernabreena St Columbas, Na Fianna A, Parnells
+- **174152** U16 Hurling B Championship Grp.3 — 6 matches, years [2022], e.g. Fingallians, Ros-Lusca, St Marks
+- **174154** U16 Football A Championship Grp.1 — 7 matches, years [2022], e.g. Ballinteer St Johns A, Clontarf A, Na Fianna A
+- **174155** U16 Football A Championship Grp.2 — 6 matches, years [2022], e.g. Ballyboden St Endas A, Erins Isle A, Fingal Ravens
+- **174156** U16 Football A Championship Grp.3 — 6 matches, years [2022], e.g. Castleknock A, Kilmacud Crokes A, St Judes A
+- **174157** U16 Football B Championship Grp.1 — 6 matches, years [2022], e.g. Beann Eadair, Cuala A, Naomh Mearnog
+- **174158** U16 Football B Championship Grp.2 — 6 matches, years [2022], e.g. Naomh Barrog, Parnells, Round Towers (C)
+- **174159** U16 Football B Championship Grp.3 — 6 matches, years [2022], e.g. Fingallians A, Garda Westmanstown Gaels, St Brigids
+- **174160** U16 Football C Championship Grp.1 — 6 matches, years [2022], e.g. Ballyboden St Endas B, Ballymun Kickhams, St Marks
+- **174161** U16 Football C Championship Grp.2 — 6 matches, years [2022], e.g. Clanna Gael Fontenoy, Craobh Chiarain, O Tooles
+- **174162** U16 Football C Championship Grp.3 — 6 matches, years [2022], e.g. Raheny, Skerries Harps, St Marys S
+- **174163** U16 Football D Championship Grp.1 — 6 matches, years [2022], e.g. Naomh Fionnbarra, O Dwyers A, Scoil Ui Chonaill
+- **174164** U16 Football D Championship Grp.2 — 6 matches, years [2022], e.g. Kilmacud Crokes B, Lucan Sarsfields B, Round Towers (L)
+- **174165** U16 Football D Championship Grp.3 — 6 matches, years [2022], e.g. Castleknock B, Man O War, Naomh Olaf
+- **174166** U16 Football E Championship Grp.1 — 6 matches, years [2022], e.g. Ballinteer St Johns B, Croi Ro Naofa, St Agnes (Crumlin Robert Emmets)
+- **174167** U16 Football E Championship Grp.2 — 6 matches, years [2022], e.g. Clontarf B, Cuala B, St Finians (N)
+- **174168** U16 Football E Championship Grp.3 — 6 matches, years [2022], e.g. Ballyboden St Endas C, Fingallians B, Na Fianna B
+- **174169** Intermediate Championship 2022 grp 2 — 6 matches, years [2022], e.g. Abhainn Dalla LGFA, Araglen Desmonds Buí LGFA, Castlehaven
+- **174175** TSS&DL U12 Boys Tipperary Cup Championship — 5 matches, years [2022], e.g. Clonmel Celtic A, Peake Villa, Slievenamon Celtic
+- **174178** TSS&DL U12 Girls Tipperary Cup Championship — 4 matches, years [2022], e.g. Cahir Park, Cashel Town B
+- **174180** TSS&DL U13 Boys Tipperary Cup Championship — 3 matches, years [2022], e.g. Bansha Celtic A, Donohill, Peake Villa
+- **174183** TSSDL U14 Girls Tipperary Cup Championship — 5 matches, years [2022], e.g. Cahir Park, Clonmel Town B, Peake Villa A
+- **174185** TSS&DL U14 Boys Tipperary Cup Championship — 6 matches, years [2022], e.g. Bansha Celtic A, Cahir Park B, Clonmel Celtic
+- **174187** TSSDL U15 Boys Tipperary Cup Championship — 3 matches, years [2022], e.g. Clonmel Celtic A, Moyglass A, Peake Villa
+- **174190** TSSDL U16 Boys Tipperary Cup Championship — 3 matches, years [2022], e.g. Peake Villa, Slievenamon Celtic
+- **174199** We Are Dublin Championship U16 Division 1 Group A — 6 matches, years [2022], e.g. Ballyboden St Endas, Fingallians A, Kilmacud Crokes
+- **174200** We Are Dublin Championship U16 Division 1 Group B — 6 matches, years [2022], e.g. Clontarf A, Faughs Celtic, Lucan Sarsfields
+- **174201** We Are Dublin Championship U16 Division 2 Group A — 6 matches, years [2022], e.g. Erins Isle, Naomh Maur, Naomh Olaf A
+- **174202** We Are Dublin Championship U16 Division 2 Group B — 6 matches, years [2022], e.g. Cuala, Naomh Brid, St Annes A
+- **174203** We Are Dublin Championship U16 Division 3 Group A — 6 matches, years [2022], e.g. Castleknock, Raheny, St Oliver Plunkett/Eoghan Ruadh A
+- **174204** We Are Dublin Championship U16 Division 3 Group B — 6 matches, years [2022], e.g. Commercials A, Skerries Harps, Whitehall Colmcille A
+- **174205** We are Dublin Championship U16 Division 4 Group A — 6 matches, years [2022], e.g. Clanna Gael Fontenoy A, Kilmacud Crokes B, St Finians A
+- **174206** We Are Dublin Championship U16 Division 4 Group B — 6 matches, years [2022], e.g. Clontarf B, Cuala B, Erin Go Bragh A
+- **174207** We Are Dublin Championship U16 Division 5 Group A — 6 matches, years [2022], e.g. Ballyboden St Endas B, Beann Eadair, O Tooles A
+- **174208** We Are Dublin Championship U16 Division 5 Group B — 6 matches, years [2022], e.g. Ballinteer St Johns, Erins Isle B, Na Fianna B
+- **174209** We Are Dublin Championship U15 Division 1 Group A — 6 matches, years [2022], e.g. Ballinteer St Johns, Kilmacud Crokes, Lucan Sarsfields
+- **174210** We Are Dublin Championship U15 Division 1 Group B — 6 matches, years [2022], e.g. Ballyboden St Endas, Commercials A, Faughs Celtic
+- **174211** We Are Dublin Championship U15 Division 2 Group A — 6 matches, years [2022], e.g. Clontarf A, Na Fianna D, Naomh Jude A
+- **174212** We Are Dublin Championship U15 Division 2 Group B — 6 matches, years [2022], e.g. Cuala, Naomh Brid, Raheny
+- **174213** We Are Dublin Championship u15 Division 3 Group A — 6 matches, years [2022], e.g. Naomh Maur, Naomh Padraig A, St Finians A
+- **174214** We Are Dublin Championship U15 Division 3 Group B — 6 matches, years [2022], e.g. Castleknock, Cumann Baire Caoimhin A, Good Counsel Liffey Gaels A
+- **174215** We Are Dublin Championship U15 Division 4 Group A — 6 matches, years [2022], e.g. Craobh Chiarain A, Erin Go Bragh A, Lucan Sarsfields B
+- **174216** We Are Dublin Championship U15 Division 4 Group B — 6 matches, years [2022], e.g. Ballyboden St Endas B, Fingallians A, Westmanstown A
+- **174217** We Are Dublin Championship U15 Division 5 Group A — 6 matches, years [2022], e.g. Na Fianna B, Naomh Olaf A, Round Tower A
+- **174218** We Are Dublin Championship U15 Division 5 Group B — 6 matches, years [2022], e.g. Kilmacud Crokes B, Naomh Barrog B, Raheny
+- **174219** We Are Dublin Championship U15 Division 6 — 15 matches, years [2022], e.g. Ballinteer St Johns B, Ballyboden St Endas C, Clontarf A
+- **174220** We Are Dublin Championship U14 Division 1 Group A — 6 matches, years [2022], e.g. Kilmacud Crokes, Lucan Sarsfields, Na Fianna D
+- **174221** We Are Dublin Championship U14 Division 2 Group A — 6 matches, years [2022], e.g. Castleknock, Faughs Celtic, Round Tower A
+- **174222** We Are Dublin Championship U14 Division 1 Group B — 6 matches, years [2022], e.g. Ballinteer St Johns, Ballyboden St Endas, Naomh Brid
+- **174223** We Are Dublin Championship U14 Division 2 Group B — 6 matches, years [2022], e.g. Clontarf A, Cuala, Naomh Jude A
+- **174225** We Are Dublin Championship U14 Division 3 Group A — 6 matches, years [2022], e.g. Commercials A, Crumlin A, Erins Isle
+- **174226** We Are Dublin Championship U14 Division 3 Group B — 6 matches, years [2022], e.g. Fingallians A, Naomh Maur, Raheny
+- **174227** We Are Dublin Championship U14 Division 4 Group A — 6 matches, years [2022], e.g. Beann Eadair, Scoil Ui Chonaill A, Trinity Gaels A
+- **174228** We Are Dublin Championship U14 Division 4 Group B — 6 matches, years [2022], e.g. Ballyboden St Endas, Skerries Harps, St Marks A
+- **174229** We Are Dublin Championship U14 Division 5 Group A — 6 matches, years [2022], e.g. Clontarf B, Lucan Sarsfields B, Na Fianna B
+- **174230** We Are Dublin Championship U14 Division 5 Group B — 6 matches, years [2022], e.g. Ballinteer St Johns B, Naomh Fionnbarra A, St Finians A
+- **174232** We Are Dublin Championship U14 Division 6 Group A — 6 matches, years [2022], e.g. Castleknock B, Naomh Brid  B, Naomh Jude B
+- **174233** We Are Dublin Championship U14 Division 6 Group B — 6 matches, years [2022], e.g. Cuala B, Na Fianna C, Setanta A
+- **174234** Junior C Hurling Championship Knockout — 7 matches, years [2022], e.g. Baile na Coille CLG, Borris in Ossory Kilcotton, Camross
+- **174235** JJ Kavanagh & Sons Co. Minor Hurling Championship - Division 3 KO — 3 matches, years [2022], e.g. Ballyduff Upper, Ferrybank
+- **174236** JJ Kavanagh & Sons Co. Minor Hurling Championship - Division 1 KO — 6 matches, years [2022], e.g. Abbeyside, Ballygunner, De La Salle
+- **174237** JJ Kavanagh & Sons Co. Minor Hurling Championship - Division 2 KO — 3 matches, years [2022], e.g. Clan na Gael, Port Cladach / Baile Uí Dhuibh
+- **174238** We Are Dublin Championship U13 Division 1 Group A — 6 matches, years [2022], e.g. Ballyboden St Endas, Cuala, Kilmacud Crokes
+- **174239** We Are Dublin Championship U13 Division 1 Group B — 6 matches, years [2022], e.g. Ballinteer St Johns, Clontarf A, Faughs Celtic
+- **174240** We Are Dublin Championship U13 Division 2 Group A — 6 matches, years [2022], e.g. Castleknock, Na Fianna D, Naomh Brid
+- **174241** We Are Dublin Championship U13 Division 2 Group B — 6 matches, years [2022], e.g. Erin Go Bragh A, Erins Isle, Naomh Olaf A
+- **174242** We Are Dublin Championship U13 Division 3 Group A — 6 matches, years [2022], e.g. Fingallians A, Naomh Jude A, O Dwyers A
+- **174243** We Are Dublin Championship U13 Division 3 Group B — 6 matches, years [2022], e.g. Cumann Baire Caoimhin A, Naomh Mearnog, Raheny
+- **174244** We Are Dublin Championship U13 Division 4 Group A — 6 matches, years [2022], e.g. Good Counsel Liffey Gaels A, Naomh Maur, St Sylvesters A
+- **174245** We Are Dublin Championship U13 Division 4 Group B — 6 matches, years [2022], e.g. Commercials A, Naomh Barrog, Naomh Peregrine A
+- **174246** We Are Dublin Championship U13 Division 5 Group A — 6 matches, years [2022], e.g. Clanna Gael Fontenoy A, Cuala B, Naomh Mearnog B
+- **174247** We Are Dublin Championship U13 Division 5 Group B — 6 matches, years [2022], e.g. Ballyboden St Endas B, Castleknock B, Naomh Padraig A
+- **174248** We Are Dublin Championship U13 Division 6 Group A — 6 matches, years [2022], e.g. Ballinteer St Johns B, Na Fianna B, Round Tower B
+- **174249** We Are Dublin Championship U13 Division 6 Group B — 6 matches, years [2022], e.g. Faughs Celtic B, Lucan Sarsfields B, Na Gaeil Oga A
+- **174250** We Are Dublin Championship U13 Division 7 Group A — 6 matches, years [2022], e.g. Erins Isle B, Kilmacud Crokes B, Skerries Harps B
+- **174251** We Are Dublin Championship U13 Division 7 Group B — 6 matches, years [2022], e.g. Clontarf B, St Finians A, Trinity Gaels A
+- **174252** We Are Dublin Championship U13 Division 8 Group A — 6 matches, years [2022], e.g. Ballyboden St Endas C, Lucan Sarsfields C, Na Fianna C
+- **174253** We Are Dublin Championship U13 Division 8 Group B — 6 matches, years [2022], e.g. Ballinteer St Johns, Erin Go Bragh B, Shankill B
+- **174254** Under 19 A Hurling Championship Group 1 — 6 matches, years [2022], e.g. Cuala, Lucan Sarsfields, Na Fianna
+- **174255** Under 19 A Hurling Championship Group 2 — 6 matches, years [2022], e.g. Ballyboden St Endas, Kilmacud Crokes, Naomh Barrog
+- **174256** Under 19 B Hurling Championship Group 1 — 6 matches, years [2022], e.g. Ballyboden St Endas, Commercials, Faughs
+- **174257** Under 19 B Hurling Championship Group 2 — 6 matches, years [2022], e.g. Ballinteer St Johns, Castleknock, Fingallians
+- **174259** Under 19 C Hurling Championship Group 1 — 6 matches, years [2022], e.g. Craobh Chiarain, Lucan Sarsfields, Na Fianna
+- **174283** Under 19 A Football Championship Group 1 — 6 matches, years [2022], e.g. Ballyboden St Endas, Cuala, Kilmacud Crokes
+- **174285** Under 19 A Football Championship Group 2 — 6 matches, years [2022], e.g. Ballinteer St Johns, Clontarf, Lucan Sarsfields
+- **174290** Under 19 B Football Championship Group 2 — 6 matches, years [2022], e.g. Ballymun Kickhams, Naomh Barrog, St Vincents
+- **174294** Junior Hurling Championship Knockout — 4 matches, years [2022], e.g. Borris in Ossory/Kilcotton, Camross, Park Ratheniska-Timahoe
+- **174295** Intermediate Hurling Championship Knockout — 6 matches, years [2022], e.g. Ballypickas/Baile Piocas, Clough-Ballacolla, Colt Shanahoe
+- **174296** Junior B Hurling Championship Knockout — 7 matches, years [2022], e.g. Baile na Coille CLG, Castletown, Clough-Ballacolla
+- **174297** Premier Intermediate Hurling Championship Knockout — 6 matches, years [2022], e.g. Abbeyleix St Lazarians, Ballyfin CLG, Clonaslee St Manmans/Cluain na Slí Naomh Meanmain
+- **174298** Senior Hurling Championship Knockout — 6 matches, years [2022], e.g. Baile na Coille CLG, Camross, Clough-Ballacolla
+- **174299** Under 19 C Football Championship Group 1 — 6 matches, years [2022], e.g. Round Towers Lusk, St Annes, St Judes
+- **174300** Under 19 C Football Championship Group 2 — 6 matches, years [2022], e.g. Ballyboden St Endas, Clanna Gael Fontenoy, O' Dwyers
+- **174301** Under 19 C Football Championship Group 3 — 6 matches, years [2022], e.g. Erins Isle, Naomh Olaf, St Marys S
+- **174302** Under 19 C Football Championship Group 4 — 6 matches, years [2022], e.g. Fingallians, Lucan Sarsfields, Parnells
+- **174304** Under 19 D Football Championship Group 2 — 6 matches, years [2022], e.g. Beann Eadair, Cuala, Erin Go Bragh
+- **174305** Under 19 D Football Championship Group 3 — 15 matches, years [2022], e.g. Bye, Craobh Chiarain, Geraldine P. Morans
+- **174313** Under 19 D Hurling Championship — 6 matches, years [2022], e.g. Clanna Gael Fontenoy, Kevins, Kilmacud Crokes
+- **174314** B Championship Cup — 7 matches, years [2022], e.g. Ballyduff, Ballymacelligott GAA, Churchill
+- **174315** D Championship Cup — 7 matches, years [2022], e.g. Beaufort, Duagh, Kerins O`Rahilly's
+- **174316** A Championship Cup — 7 matches, years [2022], e.g. Austin Stacks, Keel/Listry, Kenmare Shamrocks
+- **174317** C Championship Cup — 7 matches, years [2022], e.g. An Ghaeltacht, Annascaul/Lispole/Dingle, Desmonds
+- **174318** E Championship Cup — 7 matches, years [2022], e.g. Castlegregory, Dromid/Waterville, Fossa
+- **174328** Jim & Anne Kennedy Junior B Football Championship Knockout — 3 matches, years [2022], e.g. Boherlahan Dualla, Upperchurch-Drombane
+- **174347** Senior C Football — 16 matches, years [2022, 2023], e.g. Beara Community School, Boherbue Community School, Carraig Ui Leighin GC
+- **174348** 2022 Enniscorthy Guardian Hurling Championship D3 Knockout Stages — 9 matches, years [2022], e.g. Askamore (Hurling), Fr O`Regans Craanford, Monageer-Boolavogue
+- **174349** 2022 Enniscorthy Guardian Hurling Championship D5 Knockout Stages — 8 matches, years [2022], e.g. CLG Naomh Pádraig, Kilmore, OLI/St Fintans
+- **174351** 2022 Enniscorthy Guardian Hurling Championship D2 Knockout Stages — 7 matches, years [2022], e.g. Ballynastragh Gls, Faythe Harriers, Oylegate-Glenbrien
+- **174352** 2022 Enniscorthy Guardian Hurling Championship D4 Knockout Stages — 7 matches, years [2022], e.g. Crossabeg-Ballymurn, Davidstown Courtnacuddy GAA, Gusserane-O`Rahilly's
+- **174353** 2022 Enniscorthy Guardian Hurling Championship D5 Knockout Stages — 2 matches, years [2022], e.g. Ferns St Aidans, Shamrocks GAA Club
+- **174355** Ulster Rugby Womens Championship — 36 matches, years [2022], e.g. Ballynahinch RFC Women, Carrickfergus RFC Women, Cooke RFC Women 2
+- **174359** U13 Second Team Championship 2022 — 6 matches, years [2022], e.g. Ballina Stephenites, Castlebar Mitchels, St. Patricks
+- **174360** U13 Championship Group 1 — 6 matches, years [2022], e.g. Balla, Ballinrobe, Ballintubber
+- **174361** U15 11 a side Championship 2022 — 20 matches, years [2022], e.g. Aghamore, Ballina Stephenites, Ballinrobe
+- **174363** WBSC U18 European Baseball Championship Ranking 2022 — 8 matches, years [2022], e.g. Austria U18, Belgium U18, France U18
+- **174364** WBSC U18 European Baseball Championship Playoffs 2022 — 4 matches, years [2022], e.g. Czech Republic U18, Spain U18
+- **174372** Senior C Hurling — 12 matches, years [2022, 2023], e.g. Carraig Ui Leighin GC, Carrigaline Community School, Carrigtwohill Community College
+- **174373** Senior D Hurling 1 — 7 matches, years [2022, 2023], e.g. Boherbue Community School, Coláiste Daibhéid (Cork City), Schull Community College
+- **174400** The Local Bar Western Junior B Hurling Championship Knock Out — 3 matches, years [2022], e.g. Dungarvan, Tallow
+- **174401** U14A County Championship — 7 matches, years [2022], e.g. Donoughmore, Eire Og, Glanmire
+- **174402** U14 B County Championship — 7 matches, years [2022], e.g. Ballincollig, Bride Rovers, Ilen Rovers
+- **174403** U14C County Championship — 7 matches, years [2022], e.g. Bishopstown, Castlehaven, Delanys
+- **174406** U14 D County Championship — 7 matches, years [2022], e.g. Aghada, Ballinhassig, Courcey Rovers
+- **174407** U14A2 County Championship — 6 matches, years [2022], e.g. Banteer LGFA, Douglas, Nemo Rangers
+- **174408** U14B2 County Championship — 7 matches, years [2022], e.g. Ballinora, Bantry Blues, Glanworth LGFA
+- **174409** U14C2 County Championship — 6 matches, years [2022], e.g. Ballycastle LGFA, Ballygarvan, Mitchelstown LGFA
+- **174410** U14D2 County Championship — 6 matches, years [2022], e.g. Carrigaline, Gabriel Rangers, Lisgoold
+- **174411** U14D3 County Championship — 5 matches, years [2022], e.g. Grenagh, Shamrocks LGFA, St Colmans
+- **174412** U16A County Championship — 7 matches, years [2022], e.g. Erins Own, Glanmire, Ilen Rovers
+- **174413** U16B County Championship — 7 matches, years [2022], e.g. Aghada, Ballinora, Naomh Aban
+- **174414** U16C County Championship — 7 matches, years [2022], e.g. Ballinhassig, Glanworth LGFA, St Michaels
+- **174415** U16D County Championship — 7 matches, years [2022], e.g. Araglen Desmonds Buí LGFA, Bantry Blues, Donoughmore
+- **174416** U16A2 County Championship — 6 matches, years [2022], e.g. Bandon, Midleton, Nemo Rangers
+- **174419** U16D2 County Championship — 5 matches, years [2022], e.g. Bishopstown, Carrigtwohill, Castlemagner LGFA
+- **174420** U16D3 County Championship — 3 matches, years [2022], e.g. Mayfield, Muintir Bhaire, St. Finbarrs
+- **174457** Intermediate Football Championship Relegation Semi Finals — 2 matches, years [2022], e.g. Glenbeigh-Glencar, St Mary's
+- **174458** Senor Club Championship Semi Finals — 2 matches, years [2022], e.g. Spa, Templenoe
+- **174459** Intermediate Football Championship Quarter Finals — 4 matches, years [2022], e.g. An Ghaeltacht, Beaufort, Killarney Legion
+- **174460** Westville Hotel Senior Football League Division 1 — 1 matches, years [2022], e.g. Erne Gaels Belleek
+- **174461** Crust & Crumb Senior Football League Division 2 — 1 matches, years [2022], e.g. Belcoo O`Rahilly's
+- **174463** Junior Premier Football Championship Quarter Finals — 4 matches, years [2022], e.g. Annascaul, Ballymacelligott GAA, Listry
+- **174464** Junior Football Championship Quarter Finals — 4 matches, years [2022], e.g. Cordal GAA Club, Firies, Knocknagoshel
+- **174465** Junior Premier Football Championship Relegation Semi Finals — 2 matches, years [2022], e.g. Castlegregory, St Michael's-Foilmore
+- **174470** South Tipp U13C Hurling Championship 2022 — 8 matches, years [2022], e.g. Ballybacon Grange Gaa Club, Fíodh Árd/Fethard, Gráinseach Mhóicléir Baile Uí Néill
+- **174473** Senior Leagues Relegation Finals — 4 matches, years [2022], e.g. Achill, Breaffy, Cill Chomain
+- **174479** Junior A Football Championship — 1 matches, years [2022], e.g. Cnoc an Eanaigh
+- **174480** Junior A Football Championship — 1 matches, years [2022], e.g. Eachdruim Uí Bhroin
+- **174481** Senior Football Championship — 1 matches, years [2022], e.g. Rathnew
+- **174482** Junior A Football Championship — 1 matches, years [2022], e.g. Arklow Geraldines-Ballymoney/Na nGearaltaigh-Baile
+- **174483** Senior Football Championship — 1 matches, years [2022], e.g. An Tóchar
+- **174486** Junior A Hurling Championship — 1 matches, years [2022], e.g. St Patrick's GAA Club Wicklow
+- **174487** Junior C Hurling Championship — 1 matches, years [2022], e.g. Arklow Rock Parnell
+- **174488** Junior A Hurling Championship — 1 matches, years [2022], e.g. Eachdruim Uí Bhroin
+- **174489** Junior C Hurling Championship — 1 matches, years [2022], e.g. Abhainn Dála
+- **174491** Intermediate Football Championship — 1 matches, years [2022], e.g. Annacurra GAA Club
+- **174492** Senior Football Championship — 1 matches, years [2022], e.g. Abhainn Dála
+- **174493** Senior Football Championship — 1 matches, years [2022], e.g. Arklow Geraldines-Ballymoney/Na nGearaltaigh-Baile
+- **174494** Intermediate Football Championship — 1 matches, years [2022], e.g. Hollywood
+- **174495** Intermediate Football Championship — 1 matches, years [2022], e.g. Emmet Carn An Bhua
+- **174496** Intermediate Football Championship — 1 matches, years [2022], e.g. Coolkenno
+- **174509** U-16 A Championship Grp 1 — 6 matches, years [2022], e.g. Burrishoole, Claremorris A, Kilmoremoy A
+- **174520** U14 Girls Championship — 28 matches, years [2022, 2023], e.g. Ardcroney, Birdhill, Holycross
+- **174529** U-16 A Championship Grp 2 — 6 matches, years [2022], e.g. Parke/Keelogues/Crimlin, St Brigids, The Neale
+- **174531** U-16 B Championship Grp 1 — 6 matches, years [2022], e.g. Balla, Castlebar Mitchels, Kilmovee Shamrocks
+- **174534** U-16 B Championship Grp 2 — 6 matches, years [2022], e.g. Aghamore, Charlestown, Kilmeena
+- **174536** U-16 C Championship Grp 1 — 3 matches, years [2022], e.g. Belmullet, Tuar Mhic Éadaigh, Westport B
+- **174537** U-16 C Championship Grp 2 — 6 matches, years [2022], e.g. Ballyhaunis, Breaffy, Carnacon
+- **174538** North Junior C Hurling Championship Group 1 — 6 matches, years [2022], e.g. Ballinahinch, Borris-Ileigh, Béal An Átha
+- **174539** North Junior C Hurling Championship Group 2 — 6 matches, years [2022], e.g. Kiladangan, Kilruane Mac Donaghs, Roscrea
+- **174540** U-16 D Championship Grp 1 — 6 matches, years [2022], e.g. Achill, Ballinrobe, Claremorris B
+- **174541** U-16 D Championship Grp 2 — 6 matches, years [2022], e.g. Davitts, Islandeady, Kiltane
+- **174542** U-16 D Championship Grp 3 — 3 matches, years [2022], e.g. Hollymount, Kilmaine, Kilmoremoy B
+- **174547** Junior B Football Championship 2022 — 5 matches, years [2022], e.g. Ballinhassig, Ballygarvan, Carrigaline
+- **174548** Junior B Hurling Championship 2022 — 7 matches, years [2022], e.g. Ballinhassig, Ballymartle, Carrigaline
+- **174577** Beamish Stout Munster Senior League-Junior 2nd Division — 110 matches, years [2022, 2023], e.g. Avondale United A, Ballincollig, Ballinhassig
+- **174578** Beamish Stout Munster Senior League-Junior 3rd Division — 132 matches, years [2022, 2023], e.g. Bandon, Blarney Utd A, Castleview
+- **174579** Beamish Stout Munster Senior League-Floodlit League-1 Round, Top 4 play-off for title — 66 matches, years [2022, 2023], e.g. Ballincollig, Carrigtwohill Utd, Cobh Wanderers
+- **174582** Shreelawn Oil Junior C Hurling Championship — 8 matches, years [2022], e.g. Ballygiblin, Ballyhooly, Buttevant
+- **174585** Junior Football Championship Knockout — 8 matches, years [2022], e.g. Graiguecullen GAA, Kilcavan, Killeshin
+- **174676** Go-Ahead Junior A Championship Knock Out Stages — 3 matches, years [2022], e.g. O Dwyers, Templeogue Synge Street
+- **174678** FBD Insurance - County U/19 A Hurling Championship — 5 matches, years [2022], e.g. Holycross/Ballycahill, Roscrea
+- **174679** FBD Insurance - County U/19 B Hurling Championship — 5 matches, years [2022], e.g. Borris-Ileigh, Cappawhite Gaels, Upperchurch-Drombane
+- **174683** U13 G1 Mid Hurling Championship — 3 matches, years [2022], e.g. Durlas Óg, Holycross/Ballycahill, JK Brackens
+- **174684** U13 G3 Mid Hurling Championship — 4 matches, years [2022], e.g. Durlas Óg, JK Brackens, Loughmore - Castleiney
+- **174689** Under 19 B Football Championship Group 1 — 15 matches, years [2022], e.g. Bye, Castleknock, Kilmacud Crokes
+- **174690** Under 19 D Football Championship Group 1 — 15 matches, years [2022], e.g. Ballinteer St Johns, Castleknock, Fingallians
+- **174694** Under 19 C Hurling Championship Group 2 — 15 matches, years [2022], e.g. Bye, Clontarf, Cuala
+- **174708** Rebel Og Coiste Fe17 Premier 2 Hurling Championship playoffs — 6 matches, years [2022], e.g. Aghada, Erins Own, Killeagh
+- **174719** Senior Cup — 6 matches, years [2022, 2023], e.g. Clontarf FC 1, Dublin University FC 1, Lansdowne FC 1
+- **174727** Senior Men Exhbition — 34 matches, years [2022, 2023], e.g. Axemen Rugby Club, Axemen Rugby Club 2, BC Rugby Union Open Men
+- **174728** Senior Women Exhbition — 51 matches, years [2022, 2023], e.g. Abbotsford RFC, BC Bears, BC Rugby Union Blue
+- **174729** Rebel Og Coiste Fe15 Division 4 Hurling Championship Playoffs — 3 matches, years [2022], e.g. Midleton, Sarsfields
+- **174760** Western Hygiene Supplies Championship — 132 matches, years [2022, 2023], e.g. Colemanstown Utd, Corrib Rangers, Craughwell United
+- **174778** U14 Boys Championship — 42 matches, years [2022, 2023], e.g. Bearna Na Forbacha, Cregmore/Claregalway, Kinvara Utd
+- **174781** U16 Boys Championship — 30 matches, years [2022, 2023], e.g. Colemanstown Utd, Colga, Cregmore/Claregalway
+- **174791** U18 Championship Boys — 35 matches, years [2022, 2023], e.g. Athenry, Bearna Na Forbacha, Cois Fharraige
+- **174799** Boys Schools U19 Limerick City Senior Cup — 6 matches, years [2022], e.g. Ardscoil Ris, Castletroy College, Crescent College Comprehensive
+- **174803** Rebel Og North Fe17 Division 2 Football Championship Shield Final Replay — 1 matches, years [2022], e.g. Ballyhea
+- **174821** SFC Group 3 — 6 matches, years [2022], e.g. Austin Stacks, Mid Kerry, Na Gaeil
+- **174822** Senor Club Championship Final — 2 matches, years [2022], e.g. Templenoe
+- **174823** SFC Group 2 — 6 matches, years [2022], e.g. Dingle, East Kerry, Kerins O`Rahilly's
+- **174824** SFC Group 4 — 6 matches, years [2022], e.g. Feale Rangers, South Kerry, St Brendan's Board
+- **174829** Mayo GAA Senior Hurling Championship — 1 matches, years [2022], e.g. Tuairín
+- **174846** U21 Hurling Championship 2022 — 7 matches, years [2022], e.g. Abbeydorney, Ballyduff, Crotta O`Neill's
+- **174847** Senior Football Knockout 2022 — 5 matches, years [2022], e.g. Caulry, Coralstown-Kinnegad, St Loman's Mullingar
+- **174856** Junior A Football Championship — 1 matches, years [2022], e.g. Arklow Geraldines-Ballymoney/Na nGearaltaigh-Baile
+- **174857** Junior A Football Championship — 1 matches, years [2022], e.g. Baltinglass
+- **174866** MJK Oil Ltd Junior A Hurling Championship Playoffs 2022 — 5 matches, years [2022], e.g. Ballinora, Eire Og, Grenagh
+- **174869** U13 Boys Championship — 57 matches, years [2022, 2023], e.g. Athenry, Bearna Na Forbacha, Cregmore/Claregalway
+- **174870** Junior Hurling Championship 2022 — 8 matches, years [2022], e.g. Dr. Crokes, Duagh, Kenmare Shamrocks
+- **174872** Junior B Football Championship — 1 matches, years [2022], e.g. An Tóchar
+- **174873** Junior A Football Championship — 1 matches, years [2022], e.g. Blessington
+- **174874** Junior A Football Championship — 1 matches, years [2022], e.g. Aughrim
+- **174900** U15 Boys Championship — 56 matches, years [2022, 2023], e.g. Bearna Na Forbacha, Colga, Knocknacarra B
+- **174912** U17 Boys Championship — 30 matches, years [2022, 2023], e.g. Bearna Na Forbacha, Corrib Celtic, Galway Hibs
+- **174919** Ladies Championship — 42 matches, years [2022, 2023], e.g. Athenry, Dynamo Blues, Kiltullagh
+- **174921** Intermediate Championship Grp A — 6 matches, years [2022], e.g. Charlestown, Cill Chomain, Davitts
+- **174922** Intermediate Championship Grp B — 10 matches, years [2022], e.g. Claremorris A, Kilmoremoy, Kiltimagh
+- **174924** Junior A Championship Grp A — 6 matches, years [2022], e.g. Ballyhaunis, Kiltane, Parke/Keelogues/Crimlin
+- **174925** Junior A Championship Grp B — 3 matches, years [2022], e.g. Aghamore, Breaffy, The Neale
+- **174926** Junior B Championship Grp A — 6 matches, years [2022], e.g. Achill, Ballinrobe, Claremorris B
+- **174927** Junior B Championship Grp B — 6 matches, years [2022], e.g. Burrishoole B, Béal an Mhuirthead, Shrule/Glencorrib
+- **174928** Junior B Championship Grp C — 6 matches, years [2022], e.g. Balla, Carnacon B, Kilmeena
+- **174934** Junior C1 Hurling Championship K/O — 9 matches, years [2022], e.g. An Spidéal, Annaghdown, Ardrahan
+- **174935** South Tipp U17A Hurling Championship 2022 — 8 matches, years [2022], e.g. CUMANN CILL NAILE CLG, Clerihan / Grangemockler- Ballyneale, Knockmealdown Gaels
+- **174937** South Tipp U13B Hurling Championship 2022 — 12 matches, years [2022], e.g. Ballingarry, Ballylooby/Castlegrace, Ballypooreen/Skeheenawrinky
+- **174941** South Tipp U15B Hurling Championship 2022 — 11 matches, years [2022], e.g. Ballybacon Grange Gaa Club, Ballypooreen/Skeheenawrinky, CATHAIL S CIOCAM
+- **174942** South Tipp U17B Hurling Championship 2022 — 11 matches, years [2022], e.g. Ballingarry, Ballybacon/Newcastle Gaa Club, CATHAIL S CIOCAM
+- **174943** South Tipp U13A Hurling Championship 2022 — 3 matches, years [2022], e.g. Moyle Rovers, Na hEalai, St Mary's Hurling Club Clonmel
+- **174944** South Tipp U15A Hurling Championship 2022 — 7 matches, years [2022], e.g. Ballingarry, Fíodh Árd/Fethard, Na hEalai
+- **174971** GFA U12 Girls Championship — 30 matches, years [2022, 2023], e.g. Athenry, Colga B, Corrib Celtic
+- **174977** Under-15 Hurling Championship B Competition Knockout — 4 matches, years [2022], e.g. Abbeyleix St Lazarians, Ballinakill Ballypickas, Ballyfin CLG
+- **174978** Under-15 Hurling Championship A Competition Knockout — 5 matches, years [2022], e.g. Castletown, Clough-Ballacolla, Portlaoise GAA
+- **174979** Under-15 Hurling Championship A1 Competition Knockout — 6 matches, years [2022], e.g. Borris in Ossory Kilcotton, Mountmellick Clonaslee St Manman's, Naomh Fiontáin Maighean Rátha
+- **174980** U17A Mid Hurling Championship — 5 matches, years [2022], e.g. Durlas Óg, Holycross/Ballycahill, JK Brackens
+- **174981** Under - 17 'C' Football Championship — 2 matches, years [2022], e.g. Mountmellick Parish Gaels, The Harps
+- **174990** GFA U13 Girls Championship — 42 matches, years [2022, 2023], e.g. Athenry, Bearna Na Forbacha, Corrib Celtic
+- **175000** 2022 Enniscorthy Guardian Hurling Championship D5 Knockout Stages — 7 matches, years [2022], e.g. , Ferns St Aidans, HWH Bunclody/Tig Leath Slí Bun Clóidí
+- **175009** Go Ahead Championship Senior Playoffs — 2 matches, years [2022], e.g. Castleknock, Erins Isle
+- **175010** Go Ahead Championship Inter Playoffs — 2 matches, years [2022], e.g. Ballinteer St Johns B, Naomh Padraig
+- **175012** Go Ahead Championship U18 Playoffs — 5 matches, years [2022], e.g. Ballyboden St Endas B, Raheny, Skerries Harps
+- **175014** Go Ahead Championship Senior 1 Semi Finals — 4 matches, years [2022], e.g. Castleknock, Lucan Sarsfields, Na Fianna
+- **175015** Go Ahead Championship Senior 2 Semi Finals — 4 matches, years [2022], e.g. Ballinteer St Johns, Erins Isle, Good Counsel Liffey Gaels
+- **175016** Go Ahead Championship Inter 1 Semi finals — 4 matches, years [2022], e.g. Naomh Brid, Naomh Peregrine, Raheny
+- **175017** Go Ahead Championship Inter 2 Semi Finals — 4 matches, years [2022], e.g. Ballinteer St Johns B, Castleknock B, Lucan Sarsfields B
+- **175018** Go Ahead Championship Junior 1 Semi Finals — 4 matches, years [2022], e.g. Crumlin A, Faughs Celtic B, Fingallians
+- **175019** Go Ahead Championship Junior 2 Semi Finals — 3 matches, years [2022], e.g. Good Counsel Liffey Gaels, Na Fianna C, Whitehall Colmcille B
+- **175020** Go Ahead Championship Junior 3 Semi Finals — 3 matches, years [2022], e.g. Lucan Sarsfields C, Naomh Jude C, St Annes
+- **175021** Go Ahead Championship Junior 4 Semi Finals — 4 matches, years [2022], e.g. Lucan Sarsfields D, Naomh Maur B, Naomh Peregrine B
+- **175022** Go Ahead Championship Junior 5 Semi Finals — 2 matches, years [2022], e.g. Cuala C, Kilmacud Crokes D
+- **175023** Go Ahead Championship Junior 6 Semi Finals — 4 matches, years [2022], e.g. Erins Isle C, Fingallians A, Lucan Sarsfields E
+- **175025** Pinergy Boys Schools U19 Munster Senior Cup Group A — 10 matches, years [2022], e.g. Ardscoil Ris, Bandon Grammar School, Munster CSP
+- **175026** Pinergy Boys Schools U19 Munster Senior Cup Group B — 10 matches, years [2022], e.g. Castletroy College, Christian Brothers Cork, Crescent College Comprehensive
+- **175031** GFA U17 Girls Championship — 18 matches, years [2022, 2023], e.g. Colemanstown Utd, Colga, Craughwell United
+- **175035** LM Intermediate Cup — 19 matches, years [2022, 2023], e.g. Bray 2nd, Dublin University 2nd, Glenanne 3rd
+- **175040** Beamish Stout Munster Senior League Senior 2nd division - 1 Round (Split league thereafter) — 105 matches, years [1999, 2022, 2023], e.g. Ballinhassig, Buttevant, Carrigtwohill Utd
+- **175047** Go-Ahead Junior B Championship Knock Out Stages — 3 matches, years [2022], e.g. Ballyboughal, Erins Isle, Kilmacud Crokes B
+- **175057** Go Ahead U18 Championship Semi Finals Division 1 — 2 matches, years [2022], e.g. Ballyboden St Endas, Lucan Sarsfields
+- **175058** Go Ahead U18 Championship Semi Finals Division 2 — 2 matches, years [2022], e.g. Kilmacud Crokes, St Oliver Plunkett/Eoghan Ruadh
+- **175059** Go Ahead U18 Championship Semi Finals Division 3 — 3 matches, years [2022], e.g. Clontarf A, Crumlin A, Naomh Olaf
+- **175060** Go Ahead U18 Championship Semi Finals Division 4 — 3 matches, years [2022], e.g. Kilmacud Crokes B, Naomh Jude B, Naomh Peregrine
+- **175061** Go Ahead U18 Championship Semi Finals Division 5 — 2 matches, years [2022], e.g. Cuala B, Lucan Sarsfields B
+- **175062** Go Ahead Championship Senior 1 Final — 3 matches, years [2022], e.g. Na Fianna, St Oliver Plunkett/Eoghan Ruadh
+- **175063** Go Ahead Championship Senior 2 Final — 3 matches, years [2022], e.g. Ballinteer St Johns, Ballinteer St Johns B, Good Counsel Liffey Gaels
+- **175064** Go Ahead Championship Inter 1 Final — 2 matches, years [2022], e.g. Naomh Brid, Naomh Peregrine
+- **175065** Go Ahead Championship Inter 2 Final — 3 matches, years [2022], e.g. Castleknock, Naomh Olaf
+- **175066** Go Ahead Championship Junior 1 Final — 2 matches, years [2022], e.g. Fingallians, Thomas Davis
+- **175067** Go Ahead Championship Junior 2 Final — 1 matches, years [2022], e.g. Good Counsel Liffey Gaels
+- **175068** Go Ahead Championship Junior 3 Final — 2 matches, years [2022], e.g. Naomh Jude C, St Annes
+- **175069** Go Ahead Championship Junior 4 Final — 3 matches, years [2022], e.g. Commercials A, Lucan Sarsfields D, Setanta
+- **175070** Go Ahead Championship Junior 5 Final — 2 matches, years [2022], e.g. Cuala C, St Vincents A
+- **175071** Go Ahead Championship Junior 6 Final — 2 matches, years [2022], e.g. Cuala C, Erins Isle C
+- **175072** Go Ahead U18 Championship Division 1 Final — 1 matches, years [2022], e.g. Ballyboden St Endas
+- **175073** Go Ahead U18 Championship Division 2 Final — 1 matches, years [2022], e.g. Naomh Maur
+- **175074** Go Ahead U18 Championship Division 4 Final — 1 matches, years [2022], e.g. Kilmacud Crokes B
+- **175075** Go Ahead U18 Championship Division 3 Final — 1 matches, years [2022], e.g. Clontarf A
+- **175076** Go Ahead U18 Championship Division 5 Final — 1 matches, years [2022], e.g. Commercials A
+- **175078** U13 G2 Mid Hurling Championship — 2 matches, years [2022], e.g. Druim agus Inse, Gortnahoe-Glengoole
+- **175083** GFA U15 Girls Championship — 30 matches, years [2022, 2023], e.g. Colga, Cregmore/Claregalway, Kilshanvey Utd
+- **175111** IFC Group B — 6 matches, years [2022], e.g. Irvinestown St Molaises, Lisnaskea Emmetts, St Patrick's Donagh
+- **175112** SFC Group A — 6 matches, years [2022], e.g. Belnaleck Art McMurroughs, Derrygonnelly Harps, Erne Gaels Belleek
+- **175113** SFC Group B — 6 matches, years [2022], e.g. Ederney St Joseph's, Enniskillen Gaels, Kinawley Brian Borus
+- **175115** IFC Group A — 6 matches, years [2022], e.g. Belcoo O`Rahilly's, Derrylin O Connells, Devenish St Mary's
+- **175137** Junior B Football Championship — 1 matches, years [2022], e.g. Eiré Óg Greystones
+- **175138** Junior B Football Championship — 1 matches, years [2022], e.g. Baltinglass
+- **175139** Junior B Football Championship — 1 matches, years [2022], e.g. Hollywood
+- **175144** U15 B Mid Hurling Championship — 4 matches, years [2022], e.g. Boherlahan Dualla, Druim agus Inse, Moycarkey-Borris
+- **175166** Intermediate Hurling Knockout — 4 matches, years [2022], e.g. Castletown Geoghegan/Baile Chaisleáin Mhic Eochag, Ringtown
+- **175175** Intermediate Championship Knockout — 10 matches, years [2022], e.g. An Spidéal, Castlegar, Clarinbridge
+- **175176** Senior Football Championship — 1 matches, years [2022], e.g. An Tóchar
+- **175177** Senior Football Championship — 1 matches, years [2022], e.g. Arklow Geraldines-Ballymoney/Na nGearaltaigh-Baile
+- **175183** Junior B Football Championship Gorey District Knockout — 5 matches, years [2022], e.g. , CLG Naomh Pádraig, Fr O`Regans Craanford
+- **175189** Go Ahead Junior 6 South All County Football Championship — 4 matches, years [2022], e.g. Kilmacud Crokes, St Annes, St Brigids
+- **175190** Go Ahead Junior 6 North All County Football Championship — 4 matches, years [2022], e.g. Erins Isle, O' Dwyers, Raheny
+- **175195** JJ Kavanagh & Sons Co. Minor Football Championship - Division 1 — 15 matches, years [2022], e.g. Ballinacourty, Brickey Rangers, Clan na Gael
+- **175196** JJ Kavanagh & Sons Co. Minor Football Championship - Division 3 — 28 matches, years [2022], e.g. An Ghaeltacht, Ardmore, Ballyduff Upper
+- **175197** JJ Kavanagh & Sons Co. Minor Football Championship - Division 2 — 15 matches, years [2022], e.g. Clashmore/Kinsalebeg, De La Salle, Micheal MacCraith Tramore
+- **175198** JJ Kavanagh & Sons Co. Minor Football Championship - Division 4 — 28 matches, years [2022], e.g. Dungarvan, Erins Own, Kilrossanty
+- **175200** GFA U14 Girls Championship — 31 matches, years [2022, 2023], e.g. Bearna Na Forbacha, Cregmore/Claregalway, East Galway Utd
+- **175207** A Championship Shield — 3 matches, years [2022], e.g. Ardfert, Kenmare Shamrocks, Kilcummin
+- **175208** B Championship Shield — 3 matches, years [2022], e.g. Ballyduff, Ballymacelligott GAA
+- **175209** C Championship Shield — 3 matches, years [2022], e.g. Annascaul/Lispole/Dingle, Firies, St Michael's-Foilmore
+- **175210** D Championship Shield — 3 matches, years [2022], e.g. Duagh, Renard - St. Mary's
+- **175211** E Championship Shield — 3 matches, years [2022], e.g. Knocknagoshel/Brosna, Na Gaeil
+- **175212** Go Ahead Junior 5 All County Football Championship — 6 matches, years [2022], e.g. Ballyboden St Endas, Clann Mhuire, Good Counsel / Liffey Gaels
+- **175213** Go Ahead Junior 3 All County Football Championship — 4 matches, years [2022], e.g. Ballyboughal, Clontarf, Naomh Olaf
+- **175214** Go Ahead Junior 2 All County Football Championship — 6 matches, years [2022], e.g. Fingal Ravens, Naomh Mearnog, Round Towers Lusk
+- **175215** Go Ahead Junior 1 All County Football Championship — 6 matches, years [2022], e.g. Ballinteer St Johns, Ballyboden St Endas, Castleknock
+- **175216** Go Ahead Junior 1 Club Football Championship — 7 matches, years [2022], e.g. Crumlin, Garristown, O' Dwyers
+- **175217** Go Ahead Intermediate All County Football Championship — 7 matches, years [2022], e.g. Cuala, Kilmacud Crokes, Lucan Sarsfields
+- **175218** Go Ahead Intermediate Club Football Championship — 6 matches, years [2022], e.g. Fingal Ravens, Naomh Fionnbarra, O' Tooles
+- **175219** Go Ahead Senior 2 Club Football Championship — 6 matches, years [2022], e.g. Parnells, St Annes, St Maurs
+- **175220** Go Ahead Senior 1 Club Football Championship — 6 matches, years [2022], e.g. Ballyboden St Endas, Castleknock, Clontarf
+- **175227** JJ Kavanagh & Sons Co. Intermediate Hurling Final — 1 matches, years [2022], e.g. Ballygunner
+- **175229** FBD Insurance - Premier Intermediate Hurling Championship — 9 matches, years [2022], e.g. Burgess, CASHEL KING CORMACS, Clonakenny
+- **175230** FBD Insurance - County Senior Hurling Championship — 10 matches, years [2022], e.g. CLONOULTY/ROSSMORE, Druim agus Inse, JK Brackens
+- **175231** FBD Insurance - County Intermediate Hurling Championship — 11 matches, years [2022], e.g. Borrisokane, Cappawhite G.A.A., Druim agus Inse
+- **175232** FBD Insurance - County Senior Football Championship — 7 matches, years [2022], e.g. Clonmel Commercials, JK Brackens, Loughmore - Castleiney
+- **175233** FBD Insurance - County Intermediate Football Championship — 7 matches, years [2022], e.g. Béal An Átha, CATHAIL S CIOCAM, Fíodh Árd/Fethard
+- **175240** Junior C Championship Knockout — 5 matches, years [2022], e.g. Erins Own, Mallow LGFA, St Michaels
+- **175242** U12 Boys Championship - Green — 30 matches, years [2022, 2023], e.g. Corofin Utd, Cregmore/Claregalway Green, Knocknacarra Green
+- **175243** Intermediate Relegation Final — 1 matches, years [2022], e.g. Bantry Blues
+- **175250** FBD Insurance - Senior Hurling Relegation — 3 matches, years [2022], e.g. Moycarkey-Borris, Templederry Kenyons, Éire Óg Anacarty/Donohill
+- **175259** Senior B — 3 matches, years [2022], e.g. Clonmel Commercials, Templemore
+- **175302** Intermediate Football Championship — 1 matches, years [2022], e.g. Annacurra GAA Club
+- **175303** Junior A Hurling Championship — 1 matches, years [2022], e.g. Eachdruim Uí Bhroin
+- **175304** U17B Mid Hurling Championship — 2 matches, years [2022], e.g. Gortnahoe-Glengoole, Moyne/Templetuohy
+- **175305** Junior A Football Championship — 1 matches, years [2022], e.g. Ath na Fuinseoige
+- **175306** Intermediate Football Championship — 1 matches, years [2022], e.g. Kilcoole
+- **175307** Junior A Football Championship — 1 matches, years [2022], e.g. Eachdruim Uí Bhroin
+- **175316** Junior B Hurling Championship — 1 matches, years [2022], e.g. Bray Emmets
+- **175317** Junior D Hurling Championship — 1 matches, years [2022], e.g. Arklow Rock Parnell
+- **175318** Junior C Hurling Championship — 1 matches, years [2022], e.g. Abhainn Dála
+- **175324** U21 Championship — 36 matches, years [2022, 2023], e.g. Bearna Na Forbacha, Corrib Celtic, Craughwell United
+- **175329** Intermediate Football Ch Relegation — 6 matches, years [2022], e.g. Barndarrig, Kilmacanogue, Stratford-Grangecon
+- **175342** Go-Ahead Senior Championship Knock Out Stages — 3 matches, years [2022], e.g. Kilmacud Crokes, Na Fianna
+- **175343** Go-Ahead Senior Shield Knock Out Stages — 3 matches, years [2022], e.g. Foxrock Cabinteely, St Brigids
+- **175344** Go-Ahead Senior Championship Relegation Final — 1 matches, years [2022], e.g. Clanna Gael Fontenoy
+- **175345** Go-Ahead Intermediate Championship Knock Out Stages — 3 matches, years [2022], e.g. Fingallians, Parnells
+- **175346** Go-Ahead Intermediate Shield Knock Out Stages — 3 matches, years [2022], e.g. Skerries Harps, St Maurs
+- **175347** Go-Ahead Intermediate Championship Relegation Final — 1 matches, years [2022], e.g. St Judes
+- **175361** Schools Senior A League — 22 matches, years [2022], e.g. CBS Roscommon, Colaiste Iognaid, Garbally College
+- **175369** 2022 Enniscorthy Guardian U15 Hurling Championship Division 4 — 3 matches, years [2022], e.g. Ballygarrett-Réalt na Mara, Horeswood G.A.A.Club, Rósban Gaels
+- **175370** 2022 Enniscorthy Guardian U15 Hurling Championship Division 3 — 5 matches, years [2022], e.g. Fr O`Regans Craanford, St Brigid's Blackwater
+- **175371** 2022 Enniscorthy Guardian U15 Hurling Championship Division 2 — 3 matches, years [2022], e.g. , Bannow-Ballymitty
+- **175372** JJ Kavanagh & Sons Co. Junior B Football Championship - Group B — 6 matches, years [2022], e.g. An Rinn, Brickey Rangers, Clashmore/Kinsalebeg
+- **175373** JJ Kavanagh & Sons Co. Junior B Football Championship - Group A — 6 matches, years [2022], e.g. Gaultier, Rathgormack, St Saviour's
+- **175385** Senior B Hurling Knockout — 3 matches, years [2022], e.g. Brownstown, Delvin, St Oliver Plunkett's H.C.
+- **175386** Senior A Hurling Knockout — 2 matches, years [2022], e.g. Castletown Geoghegan/Baile Chaisleáin Mhic Eochag, Clonkill
+- **175408** U15A Mid Hurling Championship — 3 matches, years [2022], e.g. Durlas Óg, Holycross/Ballycahill
+- **175425** Under-17 Hurling Championship 2B Knockout — 3 matches, years [2022], e.g. Park Ratheniska-Timahoe, Portlaoise GAA
+- **175426** Under-17 Hurling Championship 1A Knockout — 3 matches, years [2022], e.g. Clough-Ballacolla, The Harps
+- **175427** Whizzy Internet Intermediate A football Championship Gp A — 15 matches, years [2022], e.g. CLG Naomh Pádraig, Cloughbawn, Fr O`Regans Craanford
+- **175428** Whizzy Internet Intermediate A football Championship Gp B — 15 matches, years [2022], e.g. Kilmore, Kilrush, Naomh Eanna
+- **175437** Senior League - Division 1A - Section A — 10 matches, years [2022], e.g. CBC Monkstown, CUS, Gonzaga College
+- **175438** Senior League - Division 1A - Section B — 10 matches, years [2022], e.g. Cistercian College Roscrea, Kilkenny College, Newbridge College
+- **175454** U17 Division 1 Football Championship Knock Out 2022 — 3 matches, years [2022], e.g. Roscommon Gaels, St. Dominics
+- **175455** Junior Football Championship — 7 matches, years [2022], e.g. Athenry, Claregalway, Clifden
+- **175456** Bank of Ireland Munster Senior Challenge Plate — 6 matches, years [2022, 2023], e.g. Dolphin RFC, Midleton RFC, Sundays Well RFC
+- **175462** Senior League - Division 1 Playoffs — 3 matches, years [2022], e.g. Clontarf FC 1, Lansdowne FC 1
+- **175463** Senior League - Division 2 Playoffs — 3 matches, years [2022], e.g. Greystones RFC 1, MU Barnhall RFC 1, Wanderers FC 1
+- **175470** Intermediate Relegation — 8 matches, years [2022], e.g. Cumann Peil Mhaigh Cuilinn, Headford, St. Gabriels
+- **175472** Kepak Senior Championship QTR Final — 2 matches, years [2022], e.g. Donaghmore/Ashbourne, Navan OMahonys
+- **175479** Junior C football Championship QF — 2 matches, years [2022], e.g. Annacurra GAA Club, Blessington
+- **175480** Junior B Football Championship QF — 4 matches, years [2022], e.g. Abhainn Dála, Avoca, Bray Emmets
+- **175481** Junior D Football Championship QF — 2 matches, years [2022], e.g. Barndarrig, Valleymount
+- **175490** Junior 1 Hurling Championship — 4 matches, years [2022], e.g. Ballygar, Cumann Peile Bhearna Na Forbacha, Micheal Breathnach
+- **175514** Kepak Inter Championship QTR  Final — 2 matches, years [2022], e.g. Na Fianna, St Michaels
+- **175515** Go Ahead Junior H Hurling Championship Quarter-final — 4 matches, years [2022], e.g. Fingallians, Naomh Barrog, St Annes
+- **175516** Go Ahead Junior G Hurling Championship Quarter Final — 4 matches, years [2022], e.g. Lucan Sarsfields, Na Fianna, Portobello
+- **175517** Go Ahead Junior G Hurling Championship Relegation Playoff — 2 matches, years [2022], e.g. Clontarf, St Judes
+- **175518** Kepak JNR A Championship QTR Final — 2 matches, years [2022], e.g. St Patricks, Walterstown
+- **175519** Go Ahead Junior F Hurling Championship Quarter Final — 4 matches, years [2022], e.g. Castleknock, O' Tooles, St Sylvesters
+- **175520** Go Ahead Junior F Hurling Championship Relegation Playoff — 2 matches, years [2022], e.g. Kilmacud Crokes, Realt Dearg
+- **175521** Kepak JNR B Championship QTR Final — 2 matches, years [2022], e.g. Gaeil Colmcille, Kilbride
+- **175522** Kepak JNR D Championship QTR Final — 2 matches, years [2022], e.g. Bective, Rathkenny
+- **175523** Kepak JNR E Championship QTR Final — 2 matches, years [2022], e.g. Longwood, St Patricks B
+- **175526** Go Ahead Junior E Hurling Championship Quarter final — 4 matches, years [2022], e.g. Castleknock, Clanna Gael Fontenoy, Commercials
+- **175528** Go Ahead Junior E Hurling Championship Relegation — 2 matches, years [2022], e.g. Erin Go Bragh, Na Fianna
+- **175530** Munster Senior Clubs League 2C — 20 matches, years [2022, 2023], e.g. Bruff RFC, Clonmel RFC, Dolphin RFC
+- **175536** Go Ahead Junior D Hurling Championship Quarter Final — 4 matches, years [2022], e.g. Clontarf, Naomh Barrog, St Brigids
+- **175539** Go Ahead Junior D Hurling Championship Relegation — 2 matches, years [2022], e.g. Round Towers (C), Setanta
+- **175540** Go Ahead Junior C Hurling Championship Quarter Final — 4 matches, years [2022], e.g. Na Fianna, Na Gaeil Oga, Thomas Davis
+- **175541** Under -15 Football Championship A Competition Knockout — 5 matches, years [2022], e.g. Mountmellick Parish Gaels, Portarlington, Portlaoise GAA
+- **175542** Under -15 Football Championship A1 Competition Knockout — 5 matches, years [2022], e.g. Ballyfin Gaels, Gleann Uiseann, Mainistir Béal Atha an Róine/Ballyroan Abbey
+- **175544** U15 Division 2 Football Championship Knock Out 2022 — 3 matches, years [2022], e.g. Oran/St. Croan's, St. Ciarans
+- **175546** Go Ahead Junior C Hurling Championship Relegation — 2 matches, years [2022], e.g. Erins Isle, Faughs
+- **175548** Go Ahead Junior B Hurling Championship Quarter Final — 4 matches, years [2022], e.g. Castleknock, Craobh Chiarain, Lucan Sarsfields
+- **175550** Go Ahead Junior B Hurling Championship Relegation — 2 matches, years [2022], e.g. Ballyboden St Endas, Raheny
+- **175551** Go Ahead Junior A Hurling Championship Quarter Final — 4 matches, years [2022], e.g. Commercials, Good Counsel / Liffey Gaels, Lucan Sarsfields
+- **175553** Go Ahead Junior A Hurling Championship Relegation — 2 matches, years [2022], e.g. St Marks, St Vincents
+- **175554** Go Ahead Intermediate Hurling Championship Quarter Final — 2 matches, years [2022], e.g. Naomh Mearnog, St Maurs
+- **175558** Go Ahead Intermediate Hurling Championship Relegation — 2 matches, years [2022], e.g. Clanna Gael Fontenoy, St Vincents
+- **175560** Go Ahead Senior 3 Hurling Championship Quarter Final — 2 matches, years [2022], e.g. Naomh Barrog, Naomh Olaf
+- **175561** Go Ahead Senior 3 Hurling Championship Relegation — 2 matches, years [2022], e.g. Cuala, Kilmacud Crokes
+- **175562** Go Ahead Senior 2 Hurling Championship Quarter Final — 2 matches, years [2022], e.g. Castleknock, Kilmacud Crokes
+- **175565** Go Ahead Senior 2 Hurling Championship Relegation — 2 matches, years [2022], e.g. Naomh Fionnbarra, Thomas Davis
+- **175567** Go Ahead Senior 1 Hurling Championship Quarter Final — 2 matches, years [2022], e.g. Ballyboden St Endas, St Vincents
+- **175568** Go Ahead Senior 1 Hurling Championship Relegation — 2 matches, years [2022], e.g. St Brigids, St Oliver Plunketts ER
+- **175616** Under 18 Championship Division 2 Knock Out Stages — 3 matches, years [2022], e.g. Cuala A, Fingallians
+- **175618** Under 18 Championship Division 3 Knock Out Stages — 3 matches, years [2022], e.g. Garda/Westmanstown Gaels, Raheny A, Skerries Harps
+- **175622** Under 18 Championship Division 1 Knock Out Stages — 3 matches, years [2022], e.g. Ballyboden St Endas A, Kilmacud Crokes A
+- **175625** Under 18 Championship Division 5 Knock Out Stages — 3 matches, years [2022], e.g. Round Towers Clondalkin, Whitehall Colmcille
+- **175627** Under 18 Championship Division 6 Knock Out Stages — 3 matches, years [2022], e.g. Cuala B, Man O War
+- **175629** Under 18 Championship Division 7 Knock Out Stages — 3 matches, years [2022], e.g. Clanna Gael Fontenoy, Robert Emmets
+- **175631** Under 18 Championship Division 8 Knock Out Stages — 3 matches, years [2022], e.g. Erin Go Bragh, O Dwyers
+- **175633** Under 18 Championship Division 10 Knock Out Stages — 3 matches, years [2022], e.g. Ballyboden St Endas C, Good Counsel/Liffey Gaels
+- **175636** Senior Championship Knockout — 3 matches, years [2022], e.g. Aghada, Eire Og
+- **175637** Intermediate Championship Knockout — 3 matches, years [2022], e.g. Castlehaven, Glanmire
+- **175639** Intermediate Hurling Championship — 1 matches, years [2022], e.g. Bray Emmets
+- **175640** Senior Hurling Championship — 1 matches, years [2022], e.g. Bray Emmets
+- **175641** U20 Hurling Championship Group A — 6 matches, years [2022], e.g. Borris in Ossory Kilcotton, Camross, Clough-Ballacolla
+- **175642** U20 B Hurling Championship Group A — 6 matches, years [2022], e.g. Clonaslee St Manmans/Cluain na Slí Naomh Meanmain, Naomh Fiontáin Maighean Rátha, Park Ratheniska-Timahoe
+- **175643** U20 B Hurling Championship Group B — 6 matches, years [2022], e.g. Ballinakill Ballypickas, Castletown, Na Fianna
+- **175644** U20 Hurling Championship Group B — 3 matches, years [2022], e.g. Abbeyleix St Lazarians, Raheen Parish Gaels, The Harps
+- **175645** U20 Football Championship Group B — 6 matches, years [2022], e.g. Emo Courtwood, Mainistir Béal Atha an Róine/Ballyroan Abbey, Mountmellick Parish Gaels
+- **175646** U20 B Football Championship Group B — 15 matches, years [2022], e.g. An Fraoch, Baile Uí Laigheanáin/Ballylinan, Ballyfin Gaels
+- **175647** U20 Football Championship Group A — 6 matches, years [2022], e.g. Graiguecullen GAA, Portlaoise GAA, St Joseph's
+- **175648** U20 B Football Championship Group A — 15 matches, years [2022], e.g. Crettyard/Spink, Gleann Uiseann, Na Fianna Og
+- **175658** Rebel Og Coiste Fe17 Div 4 Hurling Championship Final — 1 matches, years [2022], e.g. Douglas
+- **175660** Rebel Og Coiste Fe17 Div 5 Hurling Championship Final — 1 matches, years [2022], e.g. Erins Own
+- **175672** Intermediate Knockout — 7 matches, years [2022], e.g. Corofin, Dunmore MacHales, Glenamaddy
+- **175678** FBD Insurance - County Junior A Hurling Championship — 7 matches, years [2022], e.g. Gráinseach Mhóicléir Baile Uí Néill, Lattin-Cullen, Moyle Rovers
+- **175679** FBD Insurance - Premier Intermediate Hurling - Relegation — 3 matches, years [2022], e.g. Béal An Átha, Kiladangan, Na hEalai
+- **175681** 2022 AIB Leinster Club Junior Hurling Championship — 3 matches, years [2022], e.g. Horeswood G.A.A.Club
+- **175682** FBD Insurance -  Intermediate Hurling - Relegation — 3 matches, years [2022], e.g. Ballinahinch, Shannon Rovers
+- **175692** U17 Division 2 Football Championship Knock Out 2022 — 5 matches, years [2022], e.g. Oran/St. Croan's, Pádraig Pearses
+- **175693** Kepak JNR C Championship  QTR Final — 2 matches, years [2022], e.g. Navan OMahonys, Simonstown
+- **175698** Rebel Og Coiste Fe17 Premier 2 Football Championship Challenge Cup Playoffs — 3 matches, years [2022], e.g. Beara, Kilshannig
+- **175703** Rebel Og Coiste Fe15 Premier 2 Hurling Championship Challenge Cup Quarter Finals — 2 matches, years [2022], e.g. Ballinora, Valley Rovers
+- **175705** 2022 Wexford People U17 Football Championship Premier Division — 3 matches, years [2022], e.g. , Shelmaliers, St Martin's GAA Club
+- **175706** 2022 Wexford People U17 Football Championship Division 1 Cup — 3 matches, years [2022], e.g. HWH Bunclody/Tig Leath Slí Bun Clóidí, Oylegate-Glenbrien, Starlights
+- **175707** 2022 Wexford People U17 Football Championship  Division 4 Cup — 3 matches, years [2022], e.g. CLG Naomh Pádraig, St Abban's Adamstown
+- **175708** 2022 Wexford People U17 Football Championship  Division 3 Shield — 3 matches, years [2022], e.g. Rathgarogue-Cushinstown, Taghmon-Camross
+- **175709** 2022 Wexford People U17 Football Championship Division 2 Cup — 3 matches, years [2022], e.g. Ferns St Aidans, St Brigid's Blackwater, St Joseph's
+- **175724** Senior League Division 1B - Pool A — 10 matches, years [2022], e.g. Skerries Community College, St Fintans High School, St Patricks Classical School Navan
+- **175725** Senior League Division 1B - Pool B — 10 matches, years [2022], e.g. Ardscoil na Trionoide, Gorey Community School, St Andrews College
+- **175728** Ulster Senior Cup — 5 matches, years [2022, 2023], e.g. Bonagee United, Cappry Rovers, Finn Harps 21
+- **175730** U13 Division 1 Football Championship Knock Out 2022 — 3 matches, years [2022], e.g. Clann na nGael, Roscommon Gaels, St Brigids
+- **175743** Wexford People U17 Hurling Championship Premier Division Cup — 3 matches, years [2022], e.g. Glynn-Barntown, Shelmaliers, St Anne's Rathangan
+- **175744** Wexford People U17 Hurling Championship Premier Division Shield — 3 matches, years [2022], e.g. , St Martin's GAA Club
+- **175745** Wexford People U17 Hurling Championship Division 3 Cup — 3 matches, years [2022], e.g. Ballyhogue, Crossabeg-Ballymurn
+- **175746** Wexford People U17 Hurling Championship Division 2 Shield — 3 matches, years [2022], e.g. St James', St Mary's Rosslare
+- **175747** Wexford People U17 Hurling Championship Division 2 Cup — 3 matches, years [2022], e.g. Askamore (Hurling), Davidstown Courtnacuddy GAA
+- **175748** Wexford People U17 Hurling Championship Division 1 Cup — 3 matches, years [2022], e.g. Ballynastragh Gls, Rathnure (Hurling)
+- **175749** Wexford People U17 Hurling Championship Division 3 Shield — 3 matches, years [2022], e.g. Cloughbawn, Kilmore
+- **175750** Wexford People U17 Hurling Championship Division 1 Shield — 3 matches, years [2022], e.g. B.B O'Rahillys, Monageer-Boolavogue
+- **175751** Rebel Og Coiste Fe15 Premier 1 Football Championship Final — 1 matches, years [2022], e.g. Ballincollig
+- **175755** U13 Division 3 Football Championship Knock Out 2022 — 4 matches, years [2022], e.g. Oran (Football), Strokestown
+- **175756** Tony Kirwan Plant Hire East Intermediate Football Championship Knockouts — 9 matches, years [2022], e.g. Bunmahon, De La Salle, Gaultier
+- **175758** U19 A Football Championship — 5 matches, years [2022], e.g. Claregalway, Corofin, Oranmore-Maree
+- **175759** U19 B Football Championship — 9 matches, years [2022], e.g. An Spidéal, Kilconly, Kilkerrin/Clonberne/Killererin
+- **175760** Rebel Og North Fe17 Division 3 Hurling Championship  Cup Final Replay — 1 matches, years [2022], e.g. Kildorrery
+- **175761** Under 18 Championship Division 4 Knock Out Stages — 3 matches, years [2022], e.g. Crumlin, Parnells
+- **175768** Mayo GAA Junior A Hurling Championship — 1 matches, years [2022], e.g. Westport GAA
+- **175785** U15 Division 1 Football Championship Knock Out 2022 — 3 matches, years [2022], e.g. Castlerea St Kevins, Kilmore/Shannon Gaels, Roscommon Gaels
+- **175792** IFC Playoff — 1 matches, years [2022], e.g. Kilbride
+- **175793** Senior Championship Play off — 1 matches, years [2022], e.g. St. Faithleach's
+- **175794** Intermediate Championship Relegation Playoff — 2 matches, years [2022], e.g. Clann na nGael, Shannon Gaels
+- **175800** Go Ahead Senior 1 Football Championship Semifinal — 2 matches, years [2022], e.g. Ballyboden St Endas, Kilmacud Crokes
+- **175801** Go Ahead Senior 2 Club Football Championship Semi Final — 2 matches, years [2022], e.g. St Brigids, St Vincents
+- **175802** Go Ahead Intermediate Club Football Championship SemiFinal — 2 matches, years [2022], e.g. Fingal Ravens, Naomh Fionnbarra
+- **175806** Go Ahead Junior 1 All County Football Championship Semi Final — 2 matches, years [2022], e.g. Castleknock, Na Fianna
+- **175807** Go Ahead Junior 2 All County Football Championship Semi Final — 2 matches, years [2022], e.g. Fingal Ravens, St Oliver Plunketts ER
+- **175812** Go Ahead Junior 3 All County Football Championship SemiFinal — 2 matches, years [2022], e.g. Naomh Olaf, Templeogue Synge St
+- **175813** Go Ahead Junior 5 All County Football Championship SemiFinal — 2 matches, years [2022], e.g. Lucan Sarsfields, St Judes
+- **175814** Go Ahead Junior 6 North All County Football Championship S/f — 2 matches, years [2022], e.g. Raheny, Whitehall Colmcille
+- **175815** Go Ahead Junior 6 South All County Football Championship Semi Final — 2 matches, years [2022], e.g. St Brigids, Templeogue Synge St
+- **175818** Kepak Senior Championship Semi-Final & Final — 3 matches, years [2022], e.g. Dunshaughlin Royal Gaels, St. Peter's Dunboyne
+- **175820** Kepak Intermediate Championship Semi-Final & Final — 3 matches, years [2022], e.g. Skryne, St Colmcilles
+- **175821** BOI Senior Cup — 4 matches, years [2022, 2023], e.g. Buccaneers RFC 1st XV, Galwegians RFC 1st XV, Sligo Rugby 1st XV
+- **175823** Kepak Junior A Championship Semi-Final & Final — 3 matches, years [2022], e.g. Moynalvey, St Ultans
+- **175824** Kepak Junior B Championship Semi-Final & Final — 3 matches, years [2022], e.g. St. Peter's Dunboyne, Trim
+- **175826** U13 Division 2 Football Championship Knock Out 2022 — 4 matches, years [2022], e.g. Boyle, Eire Óg/Michael Glaveys, Kilbride
+- **175827** Kepak Junior C Championship Semi-Final & Final — 3 matches, years [2022], e.g. Ballivor, St Colmcilles, Trim
+- **175828** Kepak Junior D Championship Semi-Final & Final — 3 matches, years [2022], e.g. Na Fianna, Skryne
+- **175829** Kepak Junior E Championship Semi-Final & Final — 3 matches, years [2022], e.g. Longwood, St Ultans, Walterstown
+- **175832** Senior A Football — 10 matches, years [2022, 2023], e.g. Clonakilty Community College, Colaiste Choilm, Colaiste Chriost Ri
+- **175833** Senior D Football — 10 matches, years [2022, 2023], e.g. Carrignafoy Community School (Cobh), Coláiste Daibhéid (Cork City), Schull Community College
+- **175835** Junior Premier Football Championship Relegation Final — 1 matches, years [2022], e.g. Waterville
+- **175838** Senior B Championsip — 5 matches, years [2022], e.g. Clonakilty, Fermoy, Kinsale
+- **175848** Under 18 Championship Division 9 Knock Out Stages — 2 matches, years [2022], e.g. Naomh Olaf B, St Oliver Plunkett ER B
+- **175871** Senior B Football — 11 matches, years [2022, 2023], e.g. Ballincollig Community School, Coachford College, Coláiste Treasa, Kanturk
+- **175886** Under 15 D Football Championship Section A — 4 matches, years [2022], e.g. Blessington, Tomnafinogue
+- **175887** Under 13 A Football Championship — 5 matches, years [2022], e.g. An Tóchar, Arklow Geraldines-Ballymoney/Na nGearaltaigh-Baile, Blessington
+- **175888** Under 15 D Football Championship Section B — 4 matches, years [2022], e.g. Eiré Óg Greystones, Michael Dwyers, St Nicholas'
+- **175935** U13 Division 4 Football Championship Knock Out 2022 — 5 matches, years [2022], e.g. Clann na nGael, Pádraig Pearses, Roscommon Gaels
+- **175936** U15 Division 3 Football Championship Knock Out 2022 — 4 matches, years [2022], e.g. Boyle, St. Dominics, Strokestown
+- **175948** Minor B Football Championship Finals 2022 — 4 matches, years [2022], e.g. Michael Dwyers, Rathnew
+- **175949** Rebel Og Coiste Fe17 Premier 2 Hurling Championship Final — 1 matches, years [2022], e.g. Erins Own
+- **175952** U17 C Football Championship — 11 matches, years [2022], e.g. An Cheathrú Rua, Caltra, Carna-Caiseal/Na Piarsaigh
+- **175954** Rebel Og Coiste Fe15 Premier 2 Hurling Championship Challenge Cup Playoffs — 3 matches, years [2022], e.g. Aghada, Bishopstown
+- **175958** Rebel Og North FE 15 Div 2 Football County Championship Qualifier Final — 1 matches, years [2022], e.g. Croke Rovers
+- **175979** Irish Senior Cup Men — 23 matches, years [2022, 2023], e.g. Annadale, Avoca, Banbridge
+- **175987** BANDON CO-OP CARBERY JUNIOR C/DFOOTBALL CHAMPIONSHIP 2022 — 23 matches, years [2022], e.g. Argideen Rangers, Ballinascarthy, Barryroe
+- **175988** Senior Relegation Final — 1 matches, years [2022], e.g. Inch Rovers
+- **175995** Irish Senior Cup Women — 21 matches, years [2022, 2023], e.g. Avoca, Banbridge, Belfast Harlequins
+- **175998** U19 C Football Championship — 4 matches, years [2022], e.g. Ballinasloe, Carna-Caiseal/Na Piarsaigh, St. Gabriels
+- **176020** FBD Insurance - County Junior A Football Championship — 7 matches, years [2022], e.g. Ballingarry, Kiladangan, Sean Treacys Gaa Club
+- **176021** FBD Insurance - Senior Football Relegation — 1 matches, years [2022], e.g. Aherlow
+- **176030** West U17A Football Championship — 11 matches, years [2022, 2023], e.g. Arravale Rovers GAA Club, CASHEL KING CORMACS, Galtee Rovers/St Pecaun
+- **176045** Under 15 Championship Division 1 Knock Out Stages — 3 matches, years [2022], e.g. Kilmacud Crokes A, Lucan Sarsfields
+- **176047** Under 15 Championship Division 2 Knock Out Stages — 3 matches, years [2022], e.g. Fingallians, Scoil Ui Chonaill, St Maurs
+- **176049** Under 15 Championship Division 3 Knock Out Stages — 3 matches, years [2022], e.g. Erin Go Bragh, St Judes
+- **176051** Enniscorthy Farm Systems Junior A Football Championship Knockout — 7 matches, years [2022], e.g. Buffers Alley, Ferns St Aidans, Rathgarogue-Cushinstown
+- **176052** Whizzy Internet Intermediate A football Championship Knockout — 8 matches, years [2022], e.g. CLG Naomh Pádraig, Cloughbawn, Fr O`Regans Craanford
+- **176056** Under 15 Championship Division 4 Knock Out Stages — 3 matches, years [2022], e.g. Cuala A, St Vincents
+- **176058** Under 15 Championship Division 5 Knock Out Stages — 3 matches, years [2022], e.g. St Annes, St Peregrines
+- **176060** Under 15 Championship Division 6 Knock Out Stages — 3 matches, years [2022], e.g. Fingal Ravens, St Patricks Palmerstown
+- **176061** Under 15 Championship Shield 6 Knock Out Stages — 3 matches, years [2022], e.g. Lucan Sarsfields, St Marys Saggart
+- **176063** Under 15 Championship Division 10 Knock Out Stages — 3 matches, years [2022], e.g. Ballyboden St Endas C, Castleknock B
+- **176066** Junior D Football Championship — 1 matches, years [2022], e.g. Eiré Óg Greystones
+- **176067** Junior D Football Championship — 1 matches, years [2022], e.g. Barndarrig
+- **176068** Junior A championship--- Quarter Final — 4 matches, years [2022], e.g. Kilglass Gaels, Roscommon Gaels, St Michael's
+- **176069** Senior Championship Quarter Final — 5 matches, years [2022], e.g. Boyle, Oran (Football), Roscommon Gaels
+- **176074** Tony Kirwan Plant Hire East Junior A Football Championship Knockouts — 5 matches, years [2022], e.g. Butlerstown GAA Club, Fenor, St Molleran's
+- **176076** Mayo SFC Finals 2022 — 7 matches, years [2022], e.g. Ballina Stephenites, Breaffy, Castlebar Mitchels
+- **176077** Mayo SFC Relegation 2022 — 3 matches, years [2022], e.g. Ballaghaderreen, Davitts, The Neale
+- **176079** Mayo IFC Finals 2022 — 7 matches, years [2022], e.g. Ballinrobe, Ballyhaunis, Hollymount-Carramore
+- **176080** Mayo IFC Relegation 2022 — 3 matches, years [2022], e.g. Ardnaree, Lahardane
+- **176081** Junior C Football Championship — 1 matches, years [2022], e.g. Ath na Fuinseoige
+- **176082** Junior C Football Championship — 1 matches, years [2022], e.g. Annacurra GAA Club
+- **176083** Rebel Og North Fe17 Division 1 Football Championship Shield Final Replay — 1 matches, years [2022], e.g. Duarigle Gaels
+- **176084** Junior B Football Championship — 1 matches, years [2022], e.g. Bray Emmets
+- **176085** Junior B Football Championship — 1 matches, years [2022], e.g. Baltinglass
+- **176088** Under 13 C Football Championship Finals — 3 matches, years [2022], e.g. Ath na Fuinseoige, Aughrim, Emmet Carn An Bhua
+- **176090** Under 13 E Football Championship Finals — 3 matches, years [2022], e.g. Abhainn Dála, Eiré Óg Greystones, Stratford-Grangecon
+- **176091** Under 13 D Football Championship Finals — 5 matches, years [2022], e.g. Blessington, Bray Emmets, Eiré Óg Greystones
+- **176094** Senior FC Knockout Stages — 9 matches, years [2022], e.g. An Spidéal, Annaghdown, Caherlistrane
+- **176101** Mannok SFC — 6 matches, years [2022], e.g. Derrygonnelly Harps, Ederney St Joseph's, Enniskillen Gaels
+- **176102** Kevin Courtney Garage & Car Sales Intermediate Football Championship — 6 matches, years [2022], e.g. Belcoo O`Rahilly's, Derrylin O Connells, Devenish St Mary's
+- **176103** Dominic Smith Expert Electrical Senior Football Championship  Knockout — 8 matches, years [2022], e.g. Castletown, Gusserane-O`Rahilly's, Kilanerin
+- **176104** Enniscorthy Farm Systems Junior Football Championship Knockout — 8 matches, years [2022], e.g. Monageer-Boolavogue, Na Sairséalaigh/Sarsfields, Our Lady's Island
+- **176105** Amber Springs & Ashdown Park Hotels Intermediate Football Championship Knockout — 8 matches, years [2022], e.g. , Horeswood G.A.A.Club, Rathgarogue-Cushinstown
+- **176112** Rebel Og Coiste Fé17 Division 1 Hurling County Championship — 3 matches, years [2022], e.g. Bandon, Charleville, Eire Og
+- **176114** Under - 15 Football Championship B Competition — 5 matches, years [2022], e.g. An Fraoch, Baile Uí Laigheanáin/Ballylinan, Ballylinan
+- **176116** Rebel Og Coiste Fé17 Division 2 Hurling County Championship — 3 matches, years [2022], e.g. Bye, Ibane Gaels, Millstreet
+- **176117** Rebel Og Coiste Fé17 Division 3 Hurling County Championship — 3 matches, years [2022], e.g. Tracton, Western Gaels
+- **176118** Go Ahead Junior H Hurling Championship Semi final — 2 matches, years [2022], e.g. St Annes, St James Gaels An Caislean
+- **176119** Rebel Og Coiste Fé17 Division 1 Football County Championship — 3 matches, years [2022], e.g. Eire Og, Killeagh
+- **176121** Rebel Og Coiste Fé17 Division 2 Football County Championship — 3 matches, years [2022], e.g. Kilmurry, Mayfield
+- **176123** Rebel Og Coiste Fé15 Division 1 Hurling County Championship — 3 matches, years [2022], e.g. Ballyhea, Clonakilty
+- **176124** Rebel Og Coiste Fé15 Division 2 Hurling County Championship Final — 3 matches, years [2022], e.g. Kinsale, Millstreet, Watergrasshill
+- **176125** Rebel Og Coiste Fé15 Division 3 Hurling County Championship — 3 matches, years [2022], e.g. Ballycastle Gaels, Bye, Kilbree/Kilmeen
+- **176127** Go Ahead Junior G Hurling Championship Semi Final — 2 matches, years [2022], e.g. Lucan Sarsfields, Portobello
+- **176128** Rebel Og Coiste Fé15 Division 2 Football County Championship — 3 matches, years [2022], e.g. Castlehaven, Fermoy
+- **176129** Rebel Og Coiste Fé15 Division 3 Football County Championship — 3 matches, years [2022], e.g. Ballygarvan, Urhan
+- **176130** Go Ahead Junior F Hurling Championship Semi Finals — 2 matches, years [2022], e.g. St Vincents, Whitehall Colmcille
+- **176131** Go Ahead Junior E Hurling Championship Semi Final — 2 matches, years [2022], e.g. Castleknock, Fingallians
+- **176132** Go Ahead Junior D Hurling Championship Semi Final — 2 matches, years [2022], e.g. Naomh Barrog, Naomh Mearnog
+- **176136** Go Ahead Junior C Hurling Championship Semi Final — 2 matches, years [2022], e.g. Na Fianna, Wild Geese
+- **176140** Go Ahead Junior B Hurling Championship Semi Final — 2 matches, years [2022], e.g. Craobh Chiarain, Lucan Sarsfields
+- **176142** Senior Hurling Championship — 1 matches, years [2022], e.g. Bray Emmets
+- **176143** Junior A Football Championship — 1 matches, years [2022], e.g. Blessington
+- **176144** Senior Football Championship — 1 matches, years [2022], e.g. Baltinglass
+- **176145** Intermediate Football Championship — 1 matches, years [2022], e.g. Annacurra GAA Club
+- **176146** Go Ahead Junior A Hurling Championship Semi Final — 2 matches, years [2022], e.g. Commercials, Lucan Sarsfields
+- **176167** Go Ahead Intermediate Hurling Championship Semi Final — 2 matches, years [2022], e.g. Fingallians, St Sylvesters
+- **176169** Go Ahead Senior 3 Hurling Championship Semi Final — 2 matches, years [2022], e.g. Erins Isle, Raheny
+- **176174** Go Ahead Senior 2 Hurling Championship Semi Final — 2 matches, years [2022], e.g. Faughs, Whitehall Colmcille
+- **176175** Go Ahead Senior 1 Hurling Championship Semi Final — 2 matches, years [2022], e.g. Cuala, Kilmacud Crokes
+- **176188** IFC Quarter finals — 4 matches, years [2022], e.g. Eire Og, Fuerty, St. Croans
+- **176190** Solar 2 Power U14 Hurling Championship - Division 2A — 8 matches, years [2022], e.g. Ballygunner, Portlaw / Ballyduff, Sacred Heart
+- **176191** Solar 2 Power U14 Hurling Championship - Division 3 — 5 matches, years [2022], e.g. Ballyduff Upper, Ballygunner, Cois Bhride
+- **176192** Solar 2 Power U14 Hurling Championship - Division 4 — 5 matches, years [2022], e.g. An Ghaeltacht, Ardmore, Cappoquin
+- **176193** Solar 2 Power U14 Hurling Championship - Division 1 — 5 matches, years [2022], e.g. Ballygunner, De La Salle, Lismore
+- **176194** Solar 2 Power U14 Hurling Championship - Division 2B — 5 matches, years [2022], e.g. Abbeyside, Clonea, Dungarvan
+- **176196** SFC Qtr Finals — 4 matches, years [2022], e.g. Dr. Crokes, East Kerry, Feale Rangers
+- **176201** Under 14 Championship Division 1 Knock Out Stages — 3 matches, years [2022], e.g. Lucan Sarsfields, Naomh Mearnog
+- **176203** Under 14 Championship Division 2 Knock Out Stages — 3 matches, years [2022], e.g. Na Fianna A, St Maurs
+- **176205** Under 14 Championship Division 3 Knock Out Stages — 3 matches, years [2022], e.g. Castleknock A, Cuala A, Garda/Westmanstown Gaels
+- **176207** Under 14 Championship Division 8 Knock Out Stages — 3 matches, years [2022], e.g. Clanna Gael Fontenoy C, Man O War
+- **176209** Under 14 Championship Division 9 Knock Out Stages — 3 matches, years [2022], e.g. St Judes B, St Kevin's Killian's
+- **176211** Under 14 Championship Division 10 Knock Out Stages — 3 matches, years [2022], e.g. Kilmacud Crokes C, Lucan Sarsfields C
+- **176221** Eddie O'Donnell Monumental Works East U-20 B Hurling Championship — 5 matches, years [2022], e.g. Clan na Gael, Clonea, Portlaw / Ballyduff
+- **176222** Eddie O'Donnell Monumental Works East U-20 A Hurling Championship — 3 matches, years [2022], e.g. Ballygunner, De La Salle
+- **176223** Whites Bar East U-20 C Hurling Championship — 3 matches, years [2022], e.g. Ballygunner, Erins Own
+- **176224** Whites Bar East U-20 B Football Championship — 5 matches, years [2022], e.g. Clan na Gael, Portlaw / Ballyduff, St. Marys Juvenile
+- **176228** SG Senior Premier — 72 matches, years [2022, 2023], e.g. Alexandra College, Holy Child Killiney, Kilkenny College 1
+- **176230** SG Senior 1A — 20 matches, years [2022, 2023], e.g. Loreto Balbriggan, Loreto Stephens Green, Mount Sackville
+- **176231** SG Senior 1B — 36 matches, years [2022, 2023], e.g. Dominican Wicklow, Donabate CC, Drogheda Grammar
+- **176233** Under 16 Championship Division 1 Knock Out Stages — 3 matches, years [2022], e.g. Ballyboden St Endas A, St Judes
+- **176236** Under 16 Championship Division 2 Knock Out Stages — 3 matches, years [2022], e.g. Clontarf A, Lucan Sarsfields
+- **176241** Under 16 Championship Division 5 Knock Out Stages — 3 matches, years [2022], e.g. Parnells, St Finians Swords
+- **176258** Under 16 Championship Division 6 Knock Out Stages — 3 matches, years [2022], e.g. Man O War, Na Fianna B
+- **176260** Under 16 Championship Division 7 Knock Out Stages — 3 matches, years [2022], e.g. Ballyboden St Endas B, Kilmacud Crokes B
+- **176262** Under 14 Championship Division 7 Knock Out Stages — 3 matches, years [2022], e.g. St Finians Swords, Wanderers
+- **176288** Rebel Og Mid Fe17 Div 3 Football Championship Shield Final — 1 matches, years [2022], e.g. Tracton
+- **176290** Senior B Hurling Championship — 1 matches, years [2022], e.g. Árdscoil Rís North Circular Limerick
+- **176291** U15 Division 4 Football Championship Knock Out 2022 — 3 matches, years [2022], e.g. Kilglass Gaels/St Barrys, Kilmore/Shannon Gaels, Roscommon Gaels
+- **176296** Under 14 Championship Division 5 Knock Out Stages — 3 matches, years [2022], e.g. Foxrock Cabinteely A, Skerries Harps, Trinity Gaels
+- **176300** Senior Hurling Shield — 2 matches, years [2022], e.g. Gaelcholaiste Luimnigh, Hazelwood College Dromcollogher
+- **176302** Senior Hurling Shield — 1 matches, years [2022], e.g. Newport CollegeÂ
+- **176304** Kerry Petroleum Novice Club Football Championship — 8 matches, years [2022], e.g. Ballylongford, Beale, Clounmacon
+- **176313** Under 15 Championship Division 7 Knock Out Stages — 3 matches, years [2022], e.g. Beann Eadair, St Finians Newcastle
+- **176321** U17 Division 3 Football Championship Knock Out 2022 — 5 matches, years [2022], e.g. Castlerea St Kevins, St. Faithleach's, Strokestown
+- **176373** FBD County Junior B Hurling Championship — 7 matches, years [2022], e.g. Cahir, Cleireacháin, Druim agus Inse
+- **176382** SG Senior 2 — 36 matches, years [2022, 2023], e.g. Alexandra College 2, Holy Child Killiney 2, Loreto Beaufort 2
+- **176383** SG Senior 3 — 85 matches, years [2022, 2023], e.g. Alexandra College 3, Holy Child Killiney 3, Loreto Beaufort 3
+- **176386** SG Senior 4 — 80 matches, years [2022, 2023], e.g. Alexandra College 4, Dundalk Grammar 2, Holy Child Killiney 4
+- **176397** Senior Championship Knockout — 15 matches, years [2022], e.g. Ardrahan, Cappataggle, Clarinbridge
+- **176400** Senior Championship Final — 3 matches, years [2022], e.g. Burrishoole A, Carnacon A, Westport A
+- **176401** Senior Shield Championship Final — 3 matches, years [2022], e.g. Castlebar Mitchels, Hollymount
+- **176402** John J. Murphy East Junior C Football Championship Knockouts — 7 matches, years [2022], e.g. Erins Own, Gaultier, Portlaw
+- **176403** Junior A Championship Final — 3 matches, years [2022], e.g. Aghamore, Ballyhaunis
+- **176404** Minor A Football Championship Finals 2022 — 7 matches, years [2022], e.g. Arklow Geraldines-Ballymoney/Na nGearaltaigh-Baile, Aughrim, Baltinglass
+- **176405** McAleer & Rushe Senior Football Championship KNOCK OUT — 3 matches, years [2022], e.g. Fulham Irish, St Kiernans
+- **176406** McAleer & Rushe Senior Hurling Championship KNOCKOUT — 3 matches, years [2022], e.g. Brothers Pearse, St Gabriels
+- **176412** Junior A championship Semi Final — 2 matches, years [2022], e.g. Ballinameen, Pádraig Pearses
+- **176413** Intermediate Football Championship Semi final — 2 matches, years [2022], e.g. Fuerty, St. Croans
+- **176414** Senior Championship Semi Finals — 2 matches, years [2022], e.g. Roscommon Gaels, St Brigids
+- **176417** Lawlors Hotel Junior A Football Championship Knockout — 5 matches, years [2022], e.g. Affane, Geraldines, Old Parish
+- **176418** Senior 2nds League Division 1 - Group A — 28 matches, years [2022, 2023], e.g. Belvedere College S1, Blackrock College, CBC Monkstown
+- **176420** Senior 2nds League Division 1 - Group B — 28 matches, years [2022, 2023], e.g. Cistercian College Roscrea, Clongowes Wood College, Kilkenny College
+- **176431** JJ Kavanagh & Sons Co. Minor Football Championship - Division 2 KO — 5 matches, years [2022], e.g. De La Salle, Micheal MacCraith Tramore, St Patrick's
+- **176437** JJ Kavanagh & Sons Co. Senior Football Championship - Knockout — 13 matches, years [2022], e.g. An Rinn, Ballinacourty, Clashmore/Kinsalebeg
+- **176438** JJ Kavanagh & Sons Co. Minor Football Championship - Division 1 KO — 3 matches, years [2022], e.g. Ballinacourty, Gaultier, Rathgormack
+- **176440** U17 A Football Championship — 10 matches, years [2022], e.g. Claregalway, Cumann Peil Mhaigh Cuilinn, Dunmore MacHales
+- **176441** U17 B Football Championship — 7 matches, years [2022], e.g. Cumann Peile Bhearna Na Forbacha, Kinvara, Micheal Breathnach
+- **176443** Schools Senior Girls League — 39 matches, years [2022, 2023], e.g. Ballinrobe CS, Colaiste Bhaile Chlair, Colaiste Einde
+- **176449** Rebel Og Coiste Fe15 Division 4 Football Championship Final — 1 matches, years [2022], e.g. Ballincollig
+- **176455** Schools Senior B League — 18 matches, years [2022, 2023], e.g. Athlone CC, Colaiste Einde, Pres Athenry
+- **176456** Schools Senior C League — 12 matches, years [2022, 2023], e.g. Abbey CC, Calasanctius Oranmore, Colaiste Bhaile Chlair
+- **176458** North Tipp Junior C Hurling Championship — 3 matches, years [2022], e.g. Roscrea, Toomevara
+- **176460** Junior C Football Championship — 1 matches, years [2022], e.g. Blessington
+- **176461** Under 17 D Hurling Championship Semi Final — 1 matches, years [2022], e.g. Ballyboden St Endas
+- **176463** Under 17 B Hurling Championship Quarter Final — 4 matches, years [2022], e.g. Na Fianna, Naomh Barrog, Round Towers (C)
+- **176464** Under 17 A Hurling Championship Semi Final — 2 matches, years [2022], e.g. Ballyboden St Endas, Kilmacud Crokes
+- **176465** Go Ahead Junior 6 All County Football Championship South Final — 1 matches, years [2022], e.g. St Finians (N)
+- **176466** Go Ahead Junior 6 All County Football Championship North Final — 1 matches, years [2022], e.g. St Margarets
+- **176467** Go Ahead Junior 5 All County Football Championship Final — 1 matches, years [2022], e.g. Lucan Sarsfields
+- **176468** Go Ahead Junior 3 All County Football Championship Final — 1 matches, years [2022], e.g. Castleknock
+- **176469** Bon Secours Junior A Football Championship — 7 matches, years [2022], e.g. Cobh, Kilmurry, Kinsale
+- **176470** Junior D Football Championship — 1 matches, years [2022], e.g. Eiré Óg Greystones
+- **176472** Go Ahead Junior 2 All County Football Championship Final — 1 matches, years [2022], e.g. Fingal Ravens
+- **176473** Go Ahead Junior 1 All County Football Championship Final — 1 matches, years [2022], e.g. Na Fianna
+- **176474** Go Ahead Junior 1 Club Football Championship Semifinal — 2 matches, years [2022], e.g. Garristown, St Finians (S)
+- **176475** Go Ahead Intermediate All County Football Championship S/f — 2 matches, years [2022], e.g. Lucan Sarsfields, St Vincents
+- **176476** Go Ahead Intermediate Club Football Championship Final — 1 matches, years [2022], e.g. Fingal Ravens
+- **176477** Go Ahead Senior 2 Club Football Championship Final — 1 matches, years [2022], e.g. St Sylvesters
+- **176478** Go Ahead Senior 1 Club Football Championship Final — 1 matches, years [2022], e.g. Kilmacud Crokes
+- **176480** Go Ahead Junior 4 All County Football Championship Q/f — 4 matches, years [2022], e.g. Kilmacud Crokes, Naomh Fionnbarra, Parnells
+- **176497** Senior C Football Competition — 1 matches, years [2022], e.g. Scoil Na mBraithre` Rathluirc
+- **176498** Senior B Football Neil McDonnell Cup — 1 matches, years [2022], e.g. Salesian Secondary College Pallaskenry
+- **176503** Under 16 Championship Division 4 Knock Out Stages — 3 matches, years [2022], e.g. Erin Go Bragh, O Tooles
+- **176509** JJ Kavanagh & Sons Co. Junior B Football Championship - Knockout — 3 matches, years [2022], e.g. An Rinn, Stradbally
+- **176523** 2022 AIB Leinster Club Junior Hurling Championship — 2 matches, years [2022], e.g. Burren Rangers Hurling and Camogie Club, Commercials
+- **176524** 2022 AIB Leinster Club Junior Hurling Championship — 2 matches, years [2022], e.g. Gaeil Cluain Geis, Ringtown
+- **176531** Gleeson Quarries Senior Football Championship — 5 matches, years [2022], e.g. Druim agus Inse, JK Brackens, Loughmore - Castleiney
+- **176540** We Are Dublin Championship U13 Semi Finals — 16 matches, years [2022], e.g. Ballinteer St Johns B, Ballyboden St Endas B, Ballyboden St Endas C
+- **176541** We Are Dublin Championship U13 Finals — 9 matches, years [2022], e.g. Ballyboden St Endas C, Clontarf A, Faughs Celtic
+- **176542** We Are Dublin Championship U13 Shield Semi Finals — 15 matches, years [2022], e.g. Castleknock, Commercials A, Cuala
+- **176543** We Ae Dublin Championship U13 Shield Finals — 10 matches, years [2022], e.g. Ballyboden St Endas, Clanna Gael Fontenoy A, Erins Isle
+- **176544** We Are Dublin Championship U14 Semi Finals — 12 matches, years [2022], e.g. Ballinteer St Johns, Ballyboden St Endas, Clontarf A
+- **176545** We Are Dublin Championship U14 Finals — 6 matches, years [2022], e.g. Clontarf A, Fingallians A, Lucan Sarsfields
+- **176546** We Are Dublin Championship U14 Shield Semi Finals — 9 matches, years [2022], e.g. Erins Isle, Na Fianna D, Naomh Brid
+- **176547** We Are Dublin Championship U14 Shield Finals — 10 matches, years [2022], e.g. Castleknock B, Naomh Brid, Naomh Mearnog
+- **176548** U12 Girls Championship — 29 matches, years [2022, 2023], e.g. Borrisokane, Cloughjordan, Moneygall
+- **176549** We Are Dublin Championship U15 Semi Finals — 10 matches, years [2022], e.g. Ballyboden St Endas, Castleknock, Cuala
+- **176550** We Are Dublin Championship U15 Finals — 6 matches, years [2022], e.g. Ballyboden St Endas, Ballyboden St Endas B, Cuala
+- **176551** We Are Dublin Championship U15 Shield Semi Finals — 8 matches, years [2022], e.g. Erin Go Bragh A, Faughs Celtic, Naomh Jude A
+- **176552** We Are Dublin Championship U15 Shield Finals — 6 matches, years [2022], e.g. Ballinteer St Johns, Naomh Jude A, Naomh Padraig A
+- **176553** We Are Dublin Championship U16 Semi Finals — 11 matches, years [2022], e.g. Ballinteer St Johns, Ballyboden St Endas, Clontarf A
+- **176554** We Are Dublin Championship U16 Finals — 5 matches, years [2022], e.g. Commercials A, Naomh Jude A, Round Tower A
+- **176555** We Are Dublin Championship U16 Shield Semi Finals — 9 matches, years [2022], e.g. Beann Eadair, Clontarf A, Cuala B
+- **176556** We Are Dublin Championship U16 Shield Finals — 6 matches, years [2022], e.g. Ballyboden St Endas B, Clontarf A, Kilmacud Crokes
+- **176561** Under 13 A Hurling Championship — 2 matches, years [2022], e.g. Bray Emmets, Emmet Carn An Bhua
+- **176562** Under 16 Championship Division 3 Knock Out Stages — 3 matches, years [2022], e.g. Beann Eadair, Clanna Gael Fontenoy, Foxrock Cabinteely A
+- **176574** Munster Construction U21A Football Championship — 6 matches, years [2022], e.g. Holycross/Ballycahill, Moycarkey-Borris, Thurles Sarsfields
+- **176575** Munster Construction U21B Football Championship — 3 matches, years [2022], e.g. Boherlahan Dualla, Gortnahoe-Glengoole, Moyne/Templetuohy
+- **176579** U16 Hurling A Championship KO Games — 5 matches, years [2022], e.g. Ballyboden St Endas A, Kilmacud Crokes, St Judes
+- **176581** U16 Hurling B Championship KO Games — 5 matches, years [2022], e.g. Cuala A, Fingallians, Na Fianna A
+- **176594** Hibernian Hotel U21A Hurling Championship — 3 matches, years [2022], e.g. Charleville, Fermoy, Newtownshandrum
+- **176598** Country Clean U21 B Hurling Championship — 4 matches, years [2022], e.g. Ballygiblin, Ballyhea, Clyda Rovers
+- **176599** Transeuro U21 C Hurling Championship — 5 matches, years [2022, 2023], e.g. Ballycastle Gaels, Buttevant, Kildorrery
+- **176600** Junior B Championship Group A — 10 matches, years [2022], e.g. Castlerea St Kevins, Pádraig Pearses, St Aidan's
+- **176601** Junior B championship Group B — 11 matches, years [2022], e.g. Elphin, Kilmore, St Brigids
+- **176602** Junior B Championship Group D — 6 matches, years [2022], e.g. Clann na nGael, Fuerty, Kilbride
+- **176603** Junior B championship Group C — 6 matches, years [2022], e.g. Eire Og, Kilglass Gaels, Michael Glaveys
+- **176606** Enniscorthy Farm Systems Junior B Championship — 7 matches, years [2022], e.g. , Oulart-The Ballagh, Rathnure (Hurling)
+- **176622** SG Senior Cup — 31 matches, years [2022, 2023], e.g. Alexandra College, Drogheda Grammar, East Glendalough
+- **176624** Galway Post Primary Senior B Football Championship — 6 matches, years [2022], e.g. Colaiste Iognaid, Coláiste Einde, Presentation College Headford
+- **176625** Galway Post Primary Senior A Football Championship — 6 matches, years [2022], e.g. Colaiste Bhaile Chlair, Dunmore Community School, Garbally College Ballinasloe
+- **176626** FBD Insurance - County Junior B Football Championship — 7 matches, years [2022], e.g. Boherlahan Dualla, Cappawhite G.A.A., Gráinseach Mhóicléir Baile Uí Néill
+- **176635** Intermediate Football Championship Final — 1 matches, years [2022], e.g. Eire Og
+- **176663** Radley Engineering Intermediate Football Championship Knock out — 4 matches, years [2022], e.g. Ballinameela, Colligan Emmetts, Modeligo
+- **176665** SFC S-Finals — 2 matches, years [2022], e.g. Dingle, Mid Kerry
+- **176666** Senor Club Championship Relegation Play-off — 1 matches, years [2022], e.g. Kenmare Shamrocks
+- **176667** Senior Football Relegation Group — 6 matches, years [2022], e.g. An Cheathrú Rua, Monivea-Abbey, Oughterard
+- **176668** Junior A championship Final — 2 matches, years [2022], e.g. St Ronan's
+- **176669** Senior Championship Final — 1 matches, years [2022], e.g. Boyle
+- **176683** Under 14 Championship Division 4 Knock Out Stages — 3 matches, years [2022], e.g. Beann Eadair, St Peters
+- **176686** 2022 AIB Leinster Club Junior Hurling Championship — 2 matches, years [2022], e.g. Kilcoole, St Fechins
+- **176688** Junior B Football Championship — 1 matches, years [2022], e.g. Bray Emmets
+- **176693** Under 17 D Football Championship Quarter Final — 4 matches, years [2022], e.g. Good Counsel / Liffey Gaels, Kilmacud Crokes, St Marks
+- **176696** Under 17 C Football Championship Quarter Final — 4 matches, years [2022], e.g. Clanna Gael Fontenoy, Naomh Barrog, Naomh Mearnog
+- **176698** Under 17 A Football Championship Quarter Final — 4 matches, years [2022], e.g. Ballyboden St Endas, Kilmacud Crokes, Lucan Sarsfields
+- **176699** Go Ahead Junior H Hurling Championship Final — 1 matches, years [2022], e.g. St Annes
+- **176700** Go Ahead Junior G Hurling Championship Final — 1 matches, years [2022], e.g. Thomas Davis
+- **176701** Go Ahead Junior E Hurling Championship Final — 1 matches, years [2022], e.g. Fingallians
+- **176702** Go Ahead Junior F Hurling Championship Final — 1 matches, years [2022], e.g. St Vincents
+- **176703** Go Ahead Junior D Hurling Championship Final — 1 matches, years [2022], e.g. Round Towers Lusk
+- **176704** Go Ahead Junior C Hurling Championship Final — 1 matches, years [2022], e.g. Whitehall Colmcille
+- **176705** Go Ahead Junior B Hurling Championship Final — 1 matches, years [2022], e.g. Faughs
+- **176706** Go Ahead Junior A Hurling Championship Final — 1 matches, years [2022], e.g. Commercials
+- **176709** Go Ahead Intermediate Hurling Championship Final — 1 matches, years [2022], e.g. Naomh Mearnog
+- **176710** Go Ahead Senior 3 Hurling Championship Final — 1 matches, years [2022], e.g. Clontarf
+- **176711** Go Ahead Senior 2 Hurling Championship Final — 1 matches, years [2022], e.g. Faughs
+- **176713** Go Ahead Senior 1 Hurling Championship Final — 1 matches, years [2022], e.g. Kilmacud Crokes
+- **176723** Minor C Football Championship — 2 matches, years [2022], e.g. Kilcoole, Michael Hogan
+- **176734** CLONA MILK CARBERY UNDER 21A FOOTBALL CHAMPIONSHIP 2022 — 6 matches, years [2022], e.g. Carbery Rangers, Castlehaven, Dohenys
+- **176735** CLONA MILK CARBERY UNDER 21B FOOTBALL CHAMPIONSHIP 2022 — 7 matches, years [2022], e.g. Ahan Gaels, Bandon, Gabriel Rangers
+- **176736** CLONA MILK CARBERY UNDER 21C FOOTBALL CHAMPIONSHIP 2022 — 4 matches, years [2022], e.g. Dunmanus Gaels, Kilmacabea, Randal Og
+- **176756** Under 15 A Football Championship Finals — 3 matches, years [2022], e.g. An Tóchar, Arklow Geraldines-Ballymoney/Na nGearaltaigh-Baile, Tomnafinogue
+- **176757** Under 15 B Football Championship — 3 matches, years [2022], e.g. Annacurra GAA Club, Bray Emmets, Michael Dwyers
+- **176758** R.C.M TARMACADAM CARBERY JUNIOR  C HURLING CHAMPIONSHIP 2022 — 2 matches, years [2022], e.g. Argideen Rangers, Kilbrittain
+- **176762** HE Senior Hurling League Division 1 Group 1B — 3 matches, years [2022], e.g. SETU Waterford, University College Cork
+- **176765** HE Senior Hurling League Division 2 Group 2C — 3 matches, years [2022], e.g. Cork Colleges of FET, SETU Waterford
+- **176766** HE Senior Hurling League Division 2 Group 2D — 3 matches, years [2022], e.g. MTU Kerry, University of Galway
+- **176769** HE Senior HL Division 3 Group 3D — 3 matches, years [2022], e.g. ATU Connemara, ATU Donegal, ATU Sligo
+- **176770** HE Senior HL Division 1 Group 1A — 8 matches, years [2022], e.g. ATU Galway, Mary Immaculate College Limerick, N.U.I Galway
+- **176771** HE Senior HL Division 2 Group 2D — 2 matches, years [2022], e.g. Mary Immaculate College Limerick, University of Limerick
+- **176772** HE Senior Hurling League Division 3 Group 3D — 2 matches, years [2022], e.g. ATU Donegal, TUS Midlands
+- **176773** HE Senior Hurling League Division 2 Group 2A — 3 matches, years [2022], e.g. DCU Dóchas Éireann, Mary Immaculate College Thurles
+- **176775** HE Senior Football League Division 2 Group 2A — 2 matches, years [2022], e.g. SETU Waterford, TUS Midwest
+- **176776** HE Senior Football League Division 1 Group 1B — 3 matches, years [2022], e.g. MTU Kerry, University College Cork
+- **176778** HE Senior Football Intermediate League Group D — 3 matches, years [2022], e.g. MTU Kerry, University College Cork
+- **176780** HE Senior Football Intermediate League Group C — 5 matches, years [2022], e.g. ATU Sligo, Maynooth University, N.U.I Galway
+- **176782** HE Senior Football League Division 1 Group 1D — 5 matches, years [2022], e.g. ATU Galway, ATU Sligo, Maynooth University
+- **176783** HE Senior Football League Division 4 Group 4A — 5 matches, years [2022], e.g. ATU Connemara, ATU Galway, Mary Immaculate College Thurles
+- **176785** HE Senior Football League Division 2 Group 2B — 3 matches, years [2022], e.g. DkIT, TUS Midlands
+- **176787** HE Senior Football League Division 4 Group 4A — 1 matches, years [2022], e.g. SETU Carlow
+- **176788** NNI Senior 1 — 42 matches, years [2022, 2023], e.g. Banbridge 1, Donaghadee 1, Kingsway 3
+- **176789** NNI Senior 2 — 56 matches, years [2022, 2023], e.g. Antrim Ladies 1, Bangor 1, Belfast Ladies 3
+- **176790** NNI Senior 3 — 42 matches, years [2022, 2023], e.g. Bangor 2, Crumlin 3, Donaghadee 2
+- **176791** NNI Senior 4 — 72 matches, years [2022, 2023], e.g. Antrim Ladies 2, Crumlin 4, Dromore 2
+- **176792** NNI Senior 5 — 42 matches, years [2022, 2023], e.g. Bangor 3, Crumlin 5, Donaghadee 3
+- **176797** Rebel Og Coiste Fé17 Division 3 Football County Championship — 3 matches, years [2022], e.g. Castletownbere, Sliabh Luachra Gaels
+- **176808** FBD Insurance - County U/19 B Football Championship — 3 matches, years [2022], e.g. Boherlahan Dualla, Fíodh Árd/Fethard
+- **176812** U16 Football A Championship KO Games — 5 matches, years [2022, 2023], e.g. Ballyboden St Endas A, Castleknock A, Kilmacud Crokes A
+- **176813** U16 Football B Championship KO Games — 5 matches, years [2022], e.g. Beann Eadair, Garda Westmanstown Gaels, St Patricks (D)
+- **176815** U16 Football C Championship KO Games — 5 matches, years [2022], e.g. Ballymun Kickhams, Clanna Gael Fontenoy, Raheny
+- **176816** U16 Football D Championship KO Games — 5 matches, years [2022], e.g. Castleknock B, Man O War, St Vincents B
+- **176817** U16 Football E Championship KO Games — 5 matches, years [2022], e.g. Ballyboden St Endas C, Na Fianna B, St Patricks (P)
+- **176819** Rebel Og Coiste Fé15 Division 1 Football County Championship — 3 matches, years [2022], e.g. Carbery Rangers, Youghal
+- **176827** Boys Senior — 42 matches, years [2022, 2023], e.g. Ashton, C.of.I, Catholic Institute 1
+- **176838** Rebel Og Mid Fe15 Division 2 Football Championship Cup Playoffs — 2 matches, years [2022], e.g. Courcey Rovers, Erins Own
+- **176839** Rebel Og Mid Fe15 Division 2 Football Championship Shield Playoffs — 3 matches, years [2022], e.g. St Vincents, Tracton
+- **176848** Junior B Championship Final — 3 matches, years [2022], e.g. Kilmeena, Tuar Mhic Éadaigh
+- **176850** Intermediate Championship Final — 3 matches, years [2022], e.g. Charlestown, MacHale Rovers
+- **176851** Intermediate Shield Championship Final — 3 matches, years [2022], e.g. Davitts, Kilmoremoy
+- **176852** Junior A Shield Championship Final — 1 matches, years [2022], e.g. Parke/Keelogues/Crimlin
+- **176853** Junior B Shield Championship Final — 3 matches, years [2022], e.g. Carnacon B, Claremorris B
+- **176854** FBD Insurance - County U/19 A Football Championship — 3 matches, years [2022], e.g. Béal An Átha, Clonmel Commercials, Thurles Sarsfields
+- **176871** Rebel Og Coiste Fé 17 Division 1 Hurling County Championship Final Replay — 1 matches, years [2022], e.g. Charleville
+- **176888** Rebel Og North Fe16 Division 2 Hurling Championship — 3 matches, years [2022], e.g. Ballygiblin, Croke Rovers, Millstreet
+- **176889** Junior Premier Football Championship Semi Finals — 2 matches, years [2022], e.g. Ardfert, Listry
+- **176890** Intermediate Football Championship Relegation Final — 1 matches, years [2022], e.g. Dromid Pearses
+- **176891** Junior Football Championship Semi Finals — 2 matches, years [2022], e.g. Cordal GAA Club, Firies
+- **176892** Intermediate Football Championship Semi Finals — 2 matches, years [2022], e.g. An Ghaeltacht, Beaufort
+- **176893** Rebel Og North Fe16 Division 1 Football Championship — 6 matches, years [2022], e.g. Ballinora, Kilshannig, St Colmcilles
+- **176894** Rebel Og North Fe16 Division 2 Football Championship — 5 matches, years [2022], e.g. Blarney, Douglas 2, Fermoy
+- **176895** Rebel Og North Fe16 Division 3 Football Championship — 3 matches, years [2022], e.g. Castlelyons, Dromtarriffe
+- **176899** Co-op Superstores Junior B Hurling Championship0 — 6 matches, years [2022], e.g. Ballyhea, Bride Rovers, Inniscarra
+- **176900** Senior League - Division 2A - North Midlands — 10 matches, years [2022, 2023], e.g. Ardee CS, Moyne CS, Salesian College
+- **176904** Senior League - Division 2A - North East — 10 matches, years [2022, 2023], e.g. Drogheda Grammar, Dundalk Grammar, Gormanston College
+- **176907** Senior League - Division 2A - South East — 6 matches, years [2022, 2023], e.g. CBS Enniscorthy - St Marys, East Glendalough, Good Counsel College
+- **176908** Senior League - Division 2A - South Midlands — 6 matches, years [2022, 2023], e.g. Patricians Newbridge, Pres Carlow, Presentation De La Salle Bagenalstown
+- **176909** JJ Kavanagh & Sons Co. Minor Football Championship - Division 3 KO — 3 matches, years [2022], e.g. Ballyduff Upper, Cois Bhride
+- **176910** JJ Kavanagh & Sons Co. Minor Football Championship - Division 4 KO — 3 matches, years [2022], e.g. St Molleran's, St Saviour's
+- **176911** Go Ahead Junior 1 Club Football Championship Final — 1 matches, years [2022], e.g. Garristown
+- **176920** Under 17 A Hurling Championship Final — 1 matches, years [2022], e.g. Lucan Sarsfields
+- **176921** Under 17 B Hurling Championship Semi Final — 2 matches, years [2022], e.g. Naomh Barrog, St Vincents
+- **176922** Under 17 D Hurling Championship Semi Final — 1 matches, years [2022], e.g. Lucan Sarsfields
+- **176923** under 19 A Hurling Championship Semi Final — 2 matches, years [2022], e.g. Kilmacud Crokes, Lucan Sarsfields
+- **176924** Under 19 B Hurling Championship Semi Final — 2 matches, years [2022], e.g. Commercials, St Vincents
+- **176925** Under 19 D Hurling Championship Final — 1 matches, years [2022], e.g. Clanna Gael Fontenoy
+- **176933** Rebel Og Mid Fe16 Div 1 Hurling Championship Final — 3 matches, years [2022], e.g. Blackrock, Blarney, Donoughmore
+- **176934** Rebel Og Mid Fe16 Div 2 Hurling Championship Final — 3 matches, years [2022], e.g. Ballygarvan, Sliabh Rua
+- **176938** Rebel Og Coiste Fe16 Premier 1 Hurling Championship — 7 matches, years [2022], e.g. Aghada, Ballincollig, Glen Rovers
+- **176939** Rebel Og Coiste Fe16 Premier 1 Football Championship — 7 matches, years [2022], e.g. Ballincollig, Douglas, Glanmire
+- **176940** Rebel Og Coiste Fe16 Premier 2 Football Championship — 7 matches, years [2022], e.g. Beara, Castlehaven, Na Piarsaigh
+- **176941** Rebel Og Coiste Fe16 Premier 2 Hurling Championship PL Rd 1 — 1 matches, years [2022], e.g. Na Piarsaigh
+- **176943** Rebel Og East Fe16 Div 1 Hurling Championship Final — 7 matches, years [2022], e.g. Bride Rovers, Kiltha Og, St Catherines
+- **176944** Go Ahead Junior 4 All County Football Championship S/f — 2 matches, years [2022], e.g. Kilmacud Crokes, St Sylvesters
+- **176945** Tramore CLG Sponsored Co. Under 14 Football Championship - Division 2 — 6 matches, years [2022], e.g. Ballinacourty, Micheal MacCraith Tramore, Naomh Brid
+- **176946** Tramore CLG Sponsored Co. Under 14 Football Championship - Division 1 — 7 matches, years [2022], e.g. Clan na Gael, Dungarvan, Rathgormack
+- **176947** Tramore CLG Sponsored Co. Under 14 Football Championship - Division 4 — 3 matches, years [2022], e.g. An Ghaeltacht, Ballyduff Upper, Kilrossanty
+- **176948** Tramore CLG Sponsored Co. Under 14 Football Championship - Division 3 — 6 matches, years [2022], e.g. Ardmore, Ballinacourty, Clashmore/Kinsalebeg
+- **176949** Junior B Championship Quarter Final — 4 matches, years [2022], e.g. Castlerea St Kevins, Oran (Football), St Brigids
+- **176954** Under 21 F Football Championship — 8 matches, years [2022], e.g. Ballinteer St Johns, Ballyboden St Endas, Kilmacud Crokes
+- **176955** Under 21 E Football Championship — 7 matches, years [2022], e.g. Clanna Gael Fontenoy, Naomh Fionnbarra, St Annes
+- **176956** Under 21 D Football Championship — 7 matches, years [2022], e.g. Fingal Ravens, O' Dwyers, Parnells
+- **176957** Under 21 C Football Championship — 7 matches, years [2022], e.g. Erins Isle, Fingallians, Naomh Olaf
+- **176958** under 21 B Football Championship — 7 matches, years [2022], e.g. Ballymun Kickhams, Castleknock, Lucan Sarsfields
+- **176959** Under 21 A Football Championship — 7 matches, years [2022], e.g. Ballinteer St Johns, Ballyboden St Endas, Skerries Harps
+- **176964** Rebel Og East Fe16 Div 2 Hurling Championship Rd 1 — 1 matches, years [2022], e.g. Fr O Neills
+- **176965** Under 21 A Hurling Championship — 7 matches, years [2022], e.g. Ballyboden St Endas, Cuala, Kilmacud Crokes
+- **176966** Rebel Og East Fe16 Div 2 Hurling Championship final — 7 matches, years [2022], e.g. Cobh, Erins Own, Lisgoold
+- **176972** Under 21 B Hurling Championship — 7 matches, years [2022], e.g. Ballinteer St Johns, Castleknock, Commercials
+- **176973** Rebel Og East Fe16 Div 3 Hurling Championship Final — 7 matches, years [2022], e.g. Castlelyons, Crosshaven, Douglas 2
+- **176974** Under 21 C Hurling Championship — 8 matches, years [2022], e.g. Craobh Chiarain, Erins Isle, Naomh Mearnog
+- **176975** Under 21 D Hurling Championship — 7 matches, years [2022], e.g. Na Fianna, Naomh Olaf, O' Tooles
+- **176976** Rebel Og East Fe16 Div 1 Football Championship Final — 3 matches, years [2022], e.g. Aghada, Carrigaline, Youghal
+- **176977** Rebel Og East Fe16 Div 2 Football Championship final — 7 matches, years [2022], e.g. Bride Rovers, Glenville, Kiltha Og
+- **176980** Under 21 E Hurling Championship — 7 matches, years [2022], e.g. Bye, Clanna Gael Fontenoy, Good Counsel / Liffey Gaels
+- **176982** Rebel Og Mid Fe16 Div 2 Football Championship — 7 matches, years [2022], e.g. Ballinhassig, Ballygarvan, Carbery Rangers
+- **176985** Slevins Coaches Junior A Hurling Championship KO — 3 matches, years [2022], e.g. Castletown Geoghegan/Baile Chaisleáin Mhic Eochag, Clonkill
+- **176991** Senior B Hurling (1) — 13 matches, years [2022, 2023], e.g. Clonakilty Community College, Coachford College, Colaiste Choilm
+- **176994** U19 C Football Championship — 6 matches, years [2022], e.g. Emmet Carn An Bhua, Kilcoole, Pearse Gaels
+- **176997** Connacht GAA PPS Senior D Hurling Championsip 2022/23- Group 2 — 9 matches, years [2022, 2023], e.g. Ballyhaunis Community School, Coláiste Iascaigh, Jesus & Mary Secondary Enniscrone
+- **176998** Connacht GAA PPS Senior D Hurling Championsip 2022/23- Group 1 — 3 matches, years [2022, 2023], e.g. Roscommon Community College, St Colmans, Claremorris
+- **176999** Connacht GAA PPS Senior C Hurling Championsip 2022/23- Group 2 — 10 matches, years [2022, 2023], e.g. Clarin College, Coláiste Mhuire Ballygar, Roscommon CBS
+- **177000** Connacht GAA PPS Senior B Hurling Championsip 2022/23- Group 2 — 3 matches, years [2022, 2023], e.g. Calasanctius College Oranmore, Holy Rosary College Mountbellew, Seamount Colleges Kinvara
+- **177001** Connacht GAA PPS Senior D Hurling Championsip 2022/23- Group 1 — 3 matches, years [2022, 2023], e.g. Colaiste Chroi Mhuire Spiddal, Mercy College Woodford
+- **177002** Connacht GAA PPS Senior A Hurling Championsip 2022/23- Round Robin — 10 matches, years [2022, 2023], e.g. Colaiste Bhaile Chlair, Gort Community School, Presentation College Athenry
+- **177003** Connacht GAA PPS Senior B Hurling Championsip 2022/23- Group 1 — 3 matches, years [2022, 2023], e.g. Garbally College Ballinasloe, Portumna Community School, St. Cuans Castleblakeney
+- **177004** Connacht GAA PPS Senior C Hurling Championsip 2022/23- Group 1 — 6 matches, years [2022, 2023], e.g. Colaiste na Coiribhe, Coláiste Einde, Presentation College Headford
+- **177005** Connacht GAA PPS Senior D Football Championsip 2022/23- Group 7 — 3 matches, years [2022], e.g. Castlerea Community School, St Joseph`s, Charlestown
+- **177006** Connacht GAA PPS Senior A Football Championsip 2022/23- Group 2 — 5 matches, years [2022, 2023], e.g. Ballinrobe Community School, St Colmans, Claremorris, St. Jarlath`s College Tuam
+- **177007** Connacht GAA PPS Senior B Football Championsip 2022/23- Group 2 — 5 matches, years [2022, 2023], e.g. St. Louis Community School, St. Muredach`s College, St. Nathy`s College Ballaghaderreen
+- **177008** Connacht GAA PPS Senior C Football Championsip 2022/23- Group 6 — 3 matches, years [2022, 2023], e.g. Balla Secondary School, Gortnor Abbey Crossmolina, Sancta Muire Louisburgh
+- **177009** Connacht GAA PPS Senior D Football Championsip 2022/23- Group 3 — 3 matches, years [2022], e.g. Colaiste Muire Tuar Mhic Eadaigh, Colaiste Phobail Acla, Davitt College
+- **177010** Connacht GAA PPS Senior A Football Championsip 2022/23- Group 1 — 5 matches, years [2022, 2023], e.g. Colaiste Bhaile Chlair, Rice College Westport, St Geralds, Castlebar
+- **177012** Connacht GAA PPS Senior C Football Championsip 2022/23- Group 5 — 3 matches, years [2022, 2023], e.g. Ballyhaunis Community School, Glenamaddy Community School, St. Joseph`s College Foxford
+- **177013** Connacht GAA PPS Senior D Football Championsip 2022/23- Group 2 — 3 matches, years [2022], e.g. Jesus & Mary Secondary Enniscrone, Scoil Mhuire & Phadraic Swinford, St. Tiernans
+- **177014** Connacht GAA PPS Senior D Football Championsip 2022/23- Group 6 — 3 matches, years [2022], e.g. Our Lady`s College Belmullet, St Brendans Belmullet, St. Patricks College
+- **177015** Connacht GAA PPS Senior D Football Championsip 2022/23- Group 4 — 3 matches, years [2022, 2023], e.g. Colaiste Chroi Mhuire Spiddal, Scoil Chuimsitheach Chiarain An Cheathru Rua, Seamount Colleges Kinvara
+- **177016** Connacht GAA PPS Senior D Football Championsip 2022/23- Group 5 — 6 matches, years [2022], e.g. Clarin College, St. Brigid’s College, St. Cuans Castleblakeney
+- **177017** Connacht GAA PPS Senior A Football Championsip 2022/23- Group 2 — 1 matches, years [2022], e.g. St. Joseph`s College Galway
+- **177018** Connacht GAA PPS Senior B Football Championsip 2022/23- Group 1 — 5 matches, years [2022], e.g. Calasanctius College Oranmore, Presentation College Headford, Roscommon CBS
+- **177020** Connacht GAA PPS Senior C Football Championsip 2022/23- Group 3 — 3 matches, years [2022, 2023], e.g. Colaiste Einde Galway City, Colaiste na Coiribhe, St. Paul`s College Oughterard
+- **177021** Connacht GAA PPS Senior D Football Championsip 2022/23- Group 7 — 2 matches, years [2022], e.g. Coláiste Mhuire Ballygar, Roscommon Community College
+- **177023** Connacht GAA PPS Senior B Football Championsip 2022/23- Group 3 — 3 matches, years [2022], e.g. Garbally College Ballinasloe, Presentation College Athenry, St. Attractas Community School Tubbercurry
+- **177024** Connacht GAA PPS Senior C Football Championsip 2022/23- Group 4 — 3 matches, years [2022], e.g. Coláiste Iognáid S.J, Dunmore Community School, Holy Rosary College Mountbellew
+- **177025** Connacht GAA PPS Senior D Football Championsip 2022/23- Group 7 — 1 matches, years [2022], e.g. Roscommon Community College
+- **177026** Connacht GAA PPS Senior B Football Championsip 2022/23- Group 2 — 1 matches, years [2022], e.g. Carrick-on-Shannon Community School
+- **177028** Connacht GAA PPS Senior C Football Championsip 2022/23- Group 2 — 3 matches, years [2022], e.g. Abbey Community College Boyle, Mohill Community College, St Aloysius College (Athlone)
+- **177029** Connacht GAA PPS Senior B Football Championsip 2022/23- Group 1 — 1 matches, years [2022], e.g. Roscommon CBS
+- **177037** Rebel Og West Fe 16 Div 1 Football Championship — 3 matches, years [2022], e.g. Kilmichael, O Donovan Rossa
+- **177038** Rebel Og West Fe 16 Div 3 Football Championship — 3 matches, years [2022], e.g. Aghabullogue, Beal Athan Ghaorthaidh, Muintir Bhaire
+- **177039** Rebel Og West Fe 16 Div 1 Hurling Championship — 4 matches, years [2022], e.g. Ballinora, Bandon, Valley Rovers
+- **177082** AIB Thurles Mid Intermediate Football 2022 — 3 matches, years [2022], e.g. Loughmore - Castleiney, Moyne/Templetuohy
+- **177085** Under 15 Championship Division 9 Final — 1 matches, years [2022], e.g. St James Gaels / An Caislean
+- **177088** Connacht GAA Club Intermediate Hurling Championship 2022 — 2 matches, years [2022], e.g. Killimor, Tuairín
+- **177089** Connacht GAA Club IFC 2022 — 2 matches, years [2022], e.g. St Molaise Gaels, St. Dominic's G.A.A. Club
+- **177101** Rebel Og Coiste Fe15 Division 1 Hurling County Championship Replay — 1 matches, years [2022], e.g. Ballyhea
+- **177102** Under 16 Championship Division 8 Final — 1 matches, years [2022], e.g. Ballyboden St Endas C
+- **177105** Kearney Catering U20 B Football Championship — 4 matches, years [2022], e.g. Brickey Rangers, Clashmore/Kinsalebeg, Stradbally
+- **177106** The Park Hotel U20 C Football Championship — 3 matches, years [2022], e.g. Ardmore, Ballyduff Upper, Dungarvan
+- **177125** Bons Secours JB Football Championship — 7 matches, years [2022], e.g. Ballygarvan, Ballyphehane, Blarney
+- **177128** Co-op Superstores JA Hurling Championship — 7 matches, years [2022], e.g. Ballinascarthy, Ballinora, Erins Own
+- **177129** Go Ahead Junior 1 Club Football Championship Final Replay — 1 matches, years [2022], e.g. Garristown
+- **177130** Go Ahead Intermediate Hurling Championship Final Replay — 1 matches, years [2022], e.g. Naomh Mearnog
+- **177131** Go Ahead Senior 2 Hurling Championship Final Replay — 1 matches, years [2022], e.g. Faughs
+- **177132** Slevins Coaches Junior B Hurling Championship KO — 5 matches, years [2022], e.g. Crookedwood, Ringtown
+- **177136** Go Ahead Intermediate All County Football Championship Final — 1 matches, years [2022], e.g. Ballyboden St Endas
+- **177141** Under 17 A Football Championship Semifinal — 2 matches, years [2022], e.g. Kilmacud Crokes, Lucan Sarsfields
+- **177142** Under 17 C Football Championship Semi Final — 2 matches, years [2022], e.g. Naomh Mearnog, St Peters
+- **177143** Under 17 D Football Championship Semi Final — 2 matches, years [2022], e.g. St Maurs, St Oliver Plunketts ER
+- **177145** JJ Kavanagh & Sons Co. Intermediate Football Final — 1 matches, years [2022], e.g. Roanmore
+- **177146** 2022 Ulster GAA Football Junior Club Championship — 2 matches, years [2022], e.g. Drumlane, Newtownbutler First Fermanaghs
+- **177147** Panda U19 Football Championship Premier Gp B — 6 matches, years [2022], e.g. Glynn-Barntown, Na Sairséalaigh/Sarsfields, St Anne's Rathangan
+- **177148** Panda U19 Football Championship Div 1 Gp B — 6 matches, years [2022], e.g. OLI/St Fintans, St Brigid's Blackwater, St Martin's GAA Club
+- **177149** Panda U19 Football Championship Div 2 Gp B and C — 9 matches, years [2022], e.g. Bannow-Ballymitty, Crossabeg-Ballymurn, Gusserane-O`Rahilly's
+- **177150** Panda U19 Football Championship Premier Gp A — 6 matches, years [2022], e.g. , Ballynastragh Gls, Buffers Alley
+- **177151** Panda U19 Football Championship Div 1 Gp A — 6 matches, years [2022], e.g. Castletown, Ferns St Aidans, HWH Bunclody/Tig Leath Slí Bun Clóidí
+- **177152** Panda U19 Football Championship Div 2 Gp A — 6 matches, years [2022], e.g. , Davidstown Courtnacuddy GAA, Fr O`Regans Craanford
+- **177160** U21 Premier Hurling Championship — 3 matches, years [2022], e.g. Ballincollig, Blarney
+- **177161** U21 B Hurling Championship 13 a side 2022 — 3 matches, years [2022], e.g. Grenagh 2, Western Gaels
+- **177171** U17 B Championship 2022 — 7 matches, years [2022], e.g. Aghadrumsee St McCartans, Derrylin O Connells, Lisnaskea Emmetts
+- **177172** U17 A Championship 2022 — 9 matches, years [2022], e.g. Cleenish, Derrygonnelly Harps, Irvinestown St Molaises
+- **177184** Rebel Og Mid Fe15 Division 2 Football Championship Shield Final — 1 matches, years [2022], e.g. St Vincents
+- **177187** 2022 Ulster GAA Hurling Intermediate Club Championship — 1 matches, years [2022], e.g. An Charraig Mhór Éire Óg
+- **177188** 2022 Ulster GAA Football Intermediate Club Championship — 1 matches, years [2022], e.g. Devenish St Mary's
+- **177193** Connacht GAA Club Intermediate Hurling Championship 2022 — 1 matches, years [2022], e.g. Four Roads/Na Ceithre Boithre
+- **177233** SFC Final — 1 matches, years [2022], e.g. Mid Kerry
+- **177234** 2022 Ulster GAA Football Senior Club Championship — 2 matches, years [2022], e.g. Enniskillen Gaels
+- **177235** Rebel Og Coiste Fe16 Premier 2 Hurling Championship — 7 matches, years [2022], e.g. Bishopstown, Carrigtwohill, Kilworth Araglen Og
+- **177236** Connacht GAA Club Intermediate Football Championship 2022 — 1 matches, years [2022], e.g. Ballyhaunis
+- **177238** Connacht GAA Club Junior Football Championship 2022 — 1 matches, years [2022], e.g. Islandeady
+- **177240** Connacht GAA Club Intermediate Football Championship 2022 — 1 matches, years [2022], e.g. St. Dominic's G.A.A. Club
+- **177241** Connacht GAA Club Junior Football Championship 2022 — 1 matches, years [2022], e.g. St Ronan's
+- **177242** U20 B Hurling Championship Knockout — 4 matches, years [2022], e.g. Castletown, Clonaslee St Manmans/Cluain na Slí Naomh Meanmain, Na Fianna
+- **177244** U20 Hurling Championship Knockout — 3 matches, years [2022], e.g. Abbeyleix St Lazarians, Rathdowney Errill, The Harps
+- **177276** Go Ahead Junior 2 Club Football Championship Semi Final — 2 matches, years [2022], e.g. Beann Eadair, Wanderers
+- **177277** JJ Kavanagh & Sons Co. Under 20 A Football Championship — 5 matches, years [2022], e.g. Ballinacourty, Gaultier
+- **177279** Under 15 Championship Division 8 Final — 1 matches, years [2022], e.g. St Marks
+- **177282** Bons Secours U19 B Football Championship — 3 matches, years [2022], e.g. Ahan Gaels, Canovee, St Nicks
+- **177283** Under 17 C Hurling Championship Q/f — 4 matches, years [2022], e.g. Beann Eadair, Kilmacud Crokes, Naomh Mearnog
+- **177284** under 19 A Football Championship Semi Final — 2 matches, years [2022], e.g. Ballyboden St Endas, Na Fianna
+- **177285** Under 19 C Football Championship Quarter Final — 4 matches, years [2022], e.g. Erins Isle, O' Dwyers, St Maurs
+- **177286** U21 Championship Division 1 Group A — 6 matches, years [2022], e.g. Ballinteer St Johns, Kilmacud Crokes, Na Fianna
+- **177287** U21 Championship Division 2 Group A — 6 matches, years [2022], e.g. Erins Isle, Naomh Mearnog, Raheny
+- **177288** U21 Championship Division 3 Group A — 6 matches, years [2022], e.g. Faughs Celtic, Lucan Sarsfields B, Naomh Olaf
+- **177289** U21Championship Division 4 Group A — 6 matches, years [2022], e.g. Castleknock B, Clontarf A, Na Fianna C
+- **177290** Divisional Senior Football Championship Final — 1 matches, years [2022], e.g. West Ros
+- **177291** Connacht GAA Club SFC — 2 matches, years [2022], e.g. Cumann Peil Mhaigh Cuilinn
+- **177294** U21 Championship Division 1 Group B — 6 matches, years [2022], e.g. Ballyboden St Endas, Lucan Sarsfields, Naomh Jude
+- **177295** U21 Championship Division 2 Group B — 6 matches, years [2022], e.g. Castleknock, Cuala, St Oliver Plunkett/Eoghan Ruadh
+- **177296** U21 Championship Division 3 Group B — 6 matches, years [2022], e.g. Ballyboden St Endas B, Kilmacud Crokes B, Na Fianna B
+- **177297** U21 Championship Division 4 Group B — 6 matches, years [2022], e.g. CBC/PORTOBELLO A, Lucan Sarsfields C, Naomh Mearnog B
+- **177301** 2022 Rugby Europe U20 XV Championship — 12 matches, years [2022], e.g. Belgium, Germany, Netherlands
+- **177302** U21 A Hurling Championship 2022 — 1 matches, years [2022], e.g. Aghabullogue
+- **177310** Under 14 Championship Division 6 Final — 1 matches, years [2022], e.g. St Brigids B
+- **177311** Under 14 Championship Division 6 Shield Final — 1 matches, years [2022], e.g. O Tooles
+- **177313** Junior B Football Championship Semi-Final — 1 matches, years [2022], e.g. Ballyphehane
+- **177323** Junior B championship Final — 1 matches, years [2022], e.g. Tulsk Lord Edwards
+- **177324** Connacht GAA Club Senior Football Championship 2022 — 1 matches, years [2022], e.g. Moycullen
+- **177328** Sean Byrne Western U20 A hurling Championship — 3 matches, years [2022], e.g. Abbeyside, Fourmilewater
+- **177330** The Morrissey Family Western U20 B Hurling Championship — 6 matches, years [2022], e.g. An Ghaeltacht, Brickey Rangers, Kilrossanty
+- **177331** The Park Hotel Western U20 C Hurling Championship — 5 matches, years [2022], e.g. Ardmore, Ballyduff Upper, Dungarvan
+- **177332** Junior Premier Football Championship Final — 1 matches, years [2022], e.g. Fossa
+- **177333** Junior Football Championship Final — 1 matches, years [2022], e.g. Firies
+- **177334** Intermediate Football Championship Final — 1 matches, years [2022], e.g. Rathmore
+- **177338** U20 Football Championship Knockout — 3 matches, years [2022], e.g. Graiguecullen GAA, Mainistir Béal Atha an Róine/Ballyroan Abbey
+- **177341** Go Ahead Junior 2 Club Football Championship Final — 1 matches, years [2022], e.g. Beann Eadair
+- **177342** Go Ahead Junior 4 All County Football Championship Final — 1 matches, years [2022], e.g. St Sylvesters
+- **177343** under 19 A Hurling Championship Final — 1 matches, years [2022], e.g. Lucan Sarsfields
+- **177344** Under 19 B Hurling Championship Final — 1 matches, years [2022], e.g. St Vincents
+- **177345** Under 17 B Hurling Championship Final — 1 matches, years [2022], e.g. Naomh Barrog
+- **177363** U19 Co-op Superstores B Hurling Championship — 2 matches, years [2022], e.g. Clyda Rovers, Randal Og
+- **177412** McMullen Cup (Senior) — 25 matches, years [2022, 2023], e.g. De La Salle Churchtown, Good Counsel College, Mount Temple
+- **177418** HE Senior Hurling League Division 2 Knockout — 1 matches, years [2022], e.g. University College Cork
+- **177437** HE Senior Football League Division 4 Knockout — 3 matches, years [2022], e.g. DCU Dóchas Éireann, Mary Immaculate College Thurles
+- **177450** HE Senior Football League Division 2 Knockout — 2 matches, years [2022], e.g. Mary Immaculate College Limerick, TUS Midlands
+- **177455** Boys Schools U19 Senior Cup Qualifier — 2 matches, years [2022], e.g. High School CBS-Clonmel, Villiers School
+- **177456** HE Senior Hurling League Division 1 Knockout — 2 matches, years [2022], e.g. Mary Immaculate College Limerick, SETU Waterford
+- **177458** HE Senior Hurling League Division 3 Knockout — 1 matches, years [2022], e.g. University College Dublin
+- **177459** HE Senior Hurling League Division 2 Knockout — 2 matches, years [2022], e.g. Mary Immaculate College Thurles
+- **177460** HE Senior Football Intermediate League Knockout — 2 matches, years [2022], e.g. N.U.I Galway
+- **177470** Under 19 C Hurling Championship SemiFinal — 2 matches, years [2022], e.g. Clontarf, Craobh Chiarain
+- **177471** Under 17 B Football Championship Semi Final — 2 matches, years [2022], e.g. Fingal Ravens, Skerries Harps
+- **177472** Under 17 A Football Championship Final — 1 matches, years [2022], e.g. Lucan Sarsfields
+- **177474** Under 17 C Football Championship Final — 1 matches, years [2022], e.g. Naomh Mearnog
+- **177475** Under 17 D Football Championship Final — 1 matches, years [2022], e.g. St Oliver Plunketts ER
+- **177476** HE Senior Football League Division 1 Knockout — 1 matches, years [2022], e.g. University of Limerick
+- **177477** Under 17 D Hurling Championship Final — 2 matches, years [2022], e.g. Lucan Sarsfields
+- **177493** LSSB Senior League RD2 — 28 matches, years [2022, 2023], e.g. Drogheda Grammar, East Glendalough, Kilkenny College
+- **177496** HE Senior Football League Division 4 Knockout — 1 matches, years [2022], e.g. DCU Dóchas Éireann
+- **177500** Bons Secours U19 A Football Championship — 3 matches, years [2022], e.g. Kinsale, Owen Gaels, St Colmcilles
+- **177516** under 19 A Football Championship Final — 1 matches, years [2022], e.g. Ballyboden St Endas
+- **177520** SG Senior Plate — 14 matches, years [2022, 2023], e.g. Alexandra College, Loreto Dalkey, Mount Sackville
+- **177533** North U21A Hurling Championship Knockout — 3 matches, years [2022], e.g. Borris-Ileigh, Nenagh Éire Óg
+- **177535** U20 B Football Championship Knockout — 3 matches, years [2022], e.g. Crettyard/Spink, Na Fianna Og, Rosenallis
+- **177536** Panda U19 Football Championship  Div 2 — 8 matches, years [2022, 2023], e.g. , Crossabeg-Ballymurn, Fr O`Regans Craanford
+- **177537** Panda U19 Football Championship Div 1 — 6 matches, years [2022], e.g. Castletown, OLI/St Fintans, St Martin's GAA Club
+- **177538** Panda U19 Football Championship Premier Div — 6 matches, years [2022], e.g. , Glynn-Barntown, Shelmaliers
+- **177539** Under 17 B Football Championship Final — 1 matches, years [2022], e.g. Skerries Harps
+- **177540** Under 19 B Football Championship Semi Final — 2 matches, years [2022], e.g. Raheny, St Patricks (D)
+- **177541** Under 19 C Football Championship Semi Final — 2 matches, years [2022], e.g. Erins Isle, O' Dwyers
+- **177542** Under 19 D Football Championship Quarter Final — 4 matches, years [2022], e.g. Erin Go Bragh, Na Fianna, St Sylvesters
+- **177543** Under 17 C Hurling Championship Semi Final — 2 matches, years [2022], e.g. Beann Eadair, Kilmacud Crokes
+- **177547** Co-Op Superstores U19 A Hurling Championship — 3 matches, years [2022], e.g. Ballinhassig, Bride Rovers
+- **177548** U21 Championship Semi Finals — 8 matches, years [2022], e.g. Castleknock, Erins Isle, Kilmacud Crokes
+- **177549** U21 Championship Finals — 4 matches, years [2022], e.g. Ballyboden St Endas B, Castleknock, Lucan Sarsfields
+- **177563** HE Senior Hurling League Division 1 Knockout — 2 matches, years [2022], e.g. Mary Immaculate College Limerick, N.U.I Galway
+- **177564** Under 19 C Football Championship — 1 matches, years [2022], e.g. Pearse Gaels
+- **177565** Under 19 C Football Championship — 1 matches, years [2022], e.g. Emmet Carn An Bhua
+- **177579** Senior League - Division 1A - Playoffs — 7 matches, years [2022], e.g. Cistercian College Roscrea, Gonzaga College, Kilkenny College
+- **177581** Under 19 C Football Championship — 1 matches, years [2022], e.g. Emmet Carn An Bhua
+- **177582** Under 19 C Football Championship — 1 matches, years [2022], e.g. Pearse Gaels
+- **177599** JJ Kavanagh & Sons Co. Under 20 B Football Championship — 1 matches, years [2022], e.g. Roanmore
+- **177604** Under 19 D Football Championship Semi Final — 2 matches, years [2022], e.g. Erin Go Bragh, St Sylvesters
+- **177605** Under 17 C Hurling Championship Final — 1 matches, years [2022], e.g. Beann Eadair
+- **177606** Under 19 C Hurling Championship Final — 1 matches, years [2022], e.g. Erins Isle
+- **177607** Under 19 B Football Championship Final — 1 matches, years [2022], e.g. Ballymun Kickhams
+- **177608** Under 19 C Football Championship Final — 1 matches, years [2022], e.g. St Sylvesters
+- **177611** Under 19B Football Championship — 1 matches, years [2022], e.g. Rathnew
+- **177612** Under 19 A Football Championship — 1 matches, years [2022], e.g. Eiré Óg Greystones
+- **177613** Under 19B Football Championship — 1 matches, years [2022], e.g. Michael Dwyers
+- **177614** Under 19 C Football Championship — 1 matches, years [2022], e.g. Emmet Carn An Bhua
+- **177615** Under 19 A Football Championship — 1 matches, years [2022], e.g. Blessington
+- **177636** Senior League Division 1B - Playoffs — 3 matches, years [2022], e.g. St Andrews College, St Fintans High School
+- **177670** JJ Kavanagh & Sons Co. Under 20 C Hurling Championship — 1 matches, years [2022], e.g. Cois Bhride
+- **177681** Under 19 D Football Championship Final — 1 matches, years [2022], e.g. Templeogue Synge St
+- **177686** Under 19 A Football Championship — 1 matches, years [2022], e.g. An Tóchar
+- **177687** Under 19 B Football Championship — 1 matches, years [2022], e.g. Michael Dwyers
+- **177688** North U21B Hurling Championship Knockout — 5 matches, years [2022], e.g. Burgess, Clonakenny/Moneygall, LORRHA ROVERS
+- **177697** AIB GAA Hurling All-Ireland Senior Club Championship — 1 matches, years [2022], e.g. Ballyhale Shamrocks
+- **177698** AIB GAA Hurling All-Ireland Intermediate Club Championship — 2 matches, years [2022, 2023], e.g. Monaleen, Tuairín
+- **177717** Senior Development Shield Final (Div 3A) — 1 matches, years [2022], e.g. St Marys-Edenderry
+- **177722** AIB GAA Hurling All-Ireland Intermediate Club Championship — 1 matches, years [2022], e.g. Bray Emmets
+- **177723** AIB GAA Hurling All-Ireland Junior Club Championship — 1 matches, years [2022], e.g. Horeswood G.A.A.Club
+- **177728** Anne McInerney Cup Final (Senior Development) — 1 matches, years [2022], e.g. Ardgillan College
+- **177775** Co-Op Superstores Senior A HC — 23 matches, years [2022, 2023], e.g. All 1st - 1, All 1st - 2, All 1st - 3
+
+## Every 2022 page found, named
+
+- 172559 (John West Feile Peil na nOg Division 1 Group 1 (2)
+- 177625 (unnamed) (1)
+- 174392 16A Hurling (4)
+- 174393 16B Hurling (11)
+- 174394 16C Hurling (15)
+- 174395 16D Hurling (7)
+- 169183 1st X8 1 League Playoff (3)
+- 169220 1st X8 1 Shield Playoff (3)
+- 169214 1st X8 2 League Playoff (3)
+- 169221 1st X8 2 Shield Playoff (3)
+- 169216 1st X8 3 League Playoff (3)
+- 169222 1st X8 3 Shield Playoff (3)
+- 169358 1st X8 4 League Playoff (3)
+- 169217 1st X8 5 League Playoff (3)
+- 169223 1st X8 5 Shield Playoff (3)
+- 169218 1st X8 6 League Playoff (3)
+- 169224 1st X8 6 Shield Playoff (3)
+- 169219 1st X8 7 League Playoff (3)
+- 169225 1st X8 7 Shield Playoff (3)
+- 176493 1st Year B Hurling Competition (2)
+- 176494 1st Year C Hurling Competition (1)
+- 173691 2005s (A) Div (72)
+- 173692 2005s (B) Div (90)
+- 173693 2005s (C) Div (56)
+- 173687 2006s (A) Div (110)
+- 173688 2006s (B) Div (156)
+- 173689 2006s (C) Div (156)
+- 173690 2006s (D) Div (240)
+- 173683 2007s (A) Div (110)
+- 173684 2007s (B) Div (42)
+- 173685 2007s (C) Div (156)
+- 173686 2007s (D) Div (156)
+- 173679 2008s (A) Div (132)
+- 173680 2008s (B) Div (132)
+- 173681 2008s (C) Div (72)
+- 173682 2008s (D) Div (182)
+- 173675 2009s (A) Div (90)
+- 173676 2009s (B) Div (90)
+- 173677 2009s (C) Div (72)
+- 173678 2009s (D) Div (110)
+- 173670 2010s (A) Div (90)
+- 173671 2010s (B) Div (132)
+- 173672 2010s (C) Div (110)
+- 173673 2010s (D) Div (182)
+- 173674 2010s (E) Div (132)
+- 177092 2011s Black Div (186)
+- 177090 2011s White Div (139)
+- 175681 2022 AIB Leinster Club Junior Hurling Championship (3)
+- 176523 2022 AIB Leinster Club Junior Hurling Championship (2)
+- 176524 2022 AIB Leinster Club Junior Hurling Championship (2)
+- 176686 2022 AIB Leinster Club Junior Hurling Championship (2)
+- 177616 2022 Age Grade BC Finals (4)
+- 175673 2022 Age-Grade 7s Jamborees (91)
+- 176270 2022 Age-Grade U14 Boys - Island (18)
+- 176281 2022 Age-Grade U14 Boys - Mainland (22)
+- 176273 2022 Age-Grade U14 Girls - Island (23)
+- 176278 2022 Age-Grade U14 Girls - Mainland (14)
+- 176283 2022 Age-Grade U16 Boys - Eastern Mainland (20)
+- 176269 2022 Age-Grade U16 Boys - Island (12)
+- 176280 2022 Age-Grade U16 Boys - Western Mainland (20)
+- 176274 2022 Age-Grade U16 Girls - Island (22)
+- 176277 2022 Age-Grade U16 Girls - Mainland (14)
+- 176282 2022 Age-Grade U18 Boys - Eastern Mainland (18)
+- 176268 2022 Age-Grade U18 Boys - Island (19)
+- 176279 2022 Age-Grade U18 Boys - Western Mainland (22)
+- 176275 2022 Age-Grade U18 Girls - Island (16)
+- 176276 2022 Age-Grade U18 Girls - Mainland (14)
+- 173042 2022 CuChulainn Cup Division 1 (3)
+- 173058 2022 CuChulainn Cup Division 2 (2)
+- 173059 2022 CuChulainn Cup Division 2 (1)
+- 173060 2022 CuChulainn Cup Division 2 (1)
+- 172796 2022 CuChulainn Cup Division 3 (4)
+- 169035 2022 D1 (A) Forth Mountain U17 Football Tournament (6)
+- 169265 2022 D1 (A) Sliabh Coillte New Ross Standard U17 Hurling Tournament (6)
+- 169270 2022 D1 (B) Sliabh Coillte New Ross Standard  U17 Hurling Tournament (6)
+- 169266 2022 D1 (C) Sliabh Coillte New Ross Standard  U17 Hurling Tournament (6)
+- 169271 2022 D1 (D) Sliabh Coillte New Ross Standard U17 Hurling Tournament (6)
+- 169036 2022 D1 Forth Mountain U17 Football Tournament (6)
+- 169041 2022 D1 Forth Mountain U17 Football Tournament (6)
+- 169267 2022 D2 (A) Croghan Gorey Guardian Hurling Tournament (6)
+- 169272 2022 D2 (B) Croghan Gorey Guardian Hurling Tournament (6)
+- 169268 2022 D2 (C) Croghan Gorey Guardian Hurling Tournament (6)
+- 169273 2022 D2 (D) Croghan Gorey Guardian Hurling Tournament (6)
+- 169037 2022 D2 Blackstairs Enniscorthy Guardian Football Tournament (6)
+- 169038 2022 D2 Blackstairs Enniscorthy Guardian Football Tournament (6)
+- 169042 2022 D2 Blackstairs Enniscorthy Guardian Football Tournament (7)
+- 169043 2022 D2 Blackstairs Enniscorthy Guardian Football Tournament (6)
+- 169269 2022 D3 Lacken Hill New Ross Standard U17 Hurling Tournament (10)
+- 169039 2022 D3 Tara Hill Gorey Guardian U17 Football Tournament (10)
+- 170228 2022 Div 1 Finals NORTH KERRY LEAGUE SPONSORED BY MIG LISTOWEL (2)
+- 170229 2022 Div 2 Final NORTH KERRY LEAGUE SPONSORED BY MIG LISTOWEL (1)
+- 174351 2022 Enniscorthy Guardian Hurling Championship D2 Knockout Stages (7)
+- 174348 2022 Enniscorthy Guardian Hurling Championship D3 Knockout Stages (9)
+- 174352 2022 Enniscorthy Guardian Hurling Championship D4 Knockout Stages (7)
+- 174349 2022 Enniscorthy Guardian Hurling Championship D5 Knockout Stages (8)
+- 174353 2022 Enniscorthy Guardian Hurling Championship D5 Knockout Stages (2)
+- 175000 2022 Enniscorthy Guardian Hurling Championship D5 Knockout Stages (7)
+- 174350 2022 Enniscorthy Guardian Hurling Chapionship D1 Knockout Stages (3)
+- 175371 2022 Enniscorthy Guardian U15 Hurling Championship Division 2 (3)
+- 175370 2022 Enniscorthy Guardian U15 Hurling Championship Division 3 (5)
+- 175369 2022 Enniscorthy Guardian U15 Hurling Championship Division 4 (3)
+- 170148 2022 Enniscorthy Guardian U15 Hurling Div 1 (28)
+- 170146 2022 Enniscorthy Guardian U15 Hurling Div 2 (28)
+- 170149 2022 Enniscorthy Guardian U15 Hurling Div 3 (28)
+- 170147 2022 Enniscorthy Guardian U15 Hurling Div 4 (28)
+- 170150 2022 Enniscorthy Guardian U15 Hurling Div 5 Group A (15 Aside) (10)
+- 170165 2022 Enniscorthy Guardian U15 Hurling Div 5 Group B (13Aside) (12)
+- 173035 2022 FUTURES LEAGUE : JL (18)
+- 173005 2022 FUTURES LEAGUE : OPENS (25)
+- 173057 2022 FUTURES LEAGUE : SL (19)
+- 175099 2022 Fall 7s Series (68)
+- 174733 2022 Fall Cup (7)
+- 169851 2022 Feile na Gael Tipperary Div 1 Grp 1 (9)
+- 169845 2022 Feile na Gael Tipperary Div 1 Grp 2 (6)
+- 170516 2022 Feile na Gael Tipperary Div 1 KO (3)
+- 169852 2022 Feile na Gael Tipperary Div 2 Grp 1 (9)
+- 169846 2022 Feile na Gael Tipperary Div 2 Grp 2 (6)
+- 170513 2022 Feile na Gael Tipperary Div 2 KO (3)
+- 169850 2022 Feile na Gael Tipperary Div 3 Grp 1 (6)
+- 169853 2022 Feile na Gael Tipperary Div 3 Grp 2 (6)
+- 170515 2022 Feile na Gael Tipperary Div 3 KO (3)
+- 169855 2022 Feile na Gael Tipperary Div 4 Grp 1 (6)
+- 169847 2022 Feile na Gael Tipperary Div 4 Grp 2 (6)
+- 170511 2022 Feile na Gael Tipperary Div 4 KO (3)
+- 169848 2022 Feile na Gael Tipperary Div 5 Grp 1 (6)
+- 169854 2022 Feile na Gael Tipperary Div 5 Grp 2 (6)
+- 170510 2022 Feile na Gael Tipperary Div 5 KO (3)
+- 169849 2022 Feile na Gael Tipperary Div 6 Grp 1 (16)
+- 169856 2022 Feile na Gael Tipperary Div 6 Grp 2 (9)
+- 170504 2022 Feile na Gael Tipperary Div 6 KO (3)
+- 169843 2022 Feile na Gael Tipperary Div 8 Grp 1 (9)
+- 169857 2022 Feile na Gael Tipperary Div 8 Grp 2 (9)
+- 170512 2022 Feile na Gael Tipperary Div 8 KO (3)
+- 169844 2022 Feile na nGael Tipperary Div 7 Grp 1 (3)
+- 169858 2022 Feile na nGael Tipperary Div 7 Grp 2 (3)
+- 170514 2022 Feile na nGael Tipperary Div 7 KO (3)
+- 175039 2022 Gee Gage Cup (4)
+- 170220 2022 Gorey Guardian U15 Football D1 (28)
+- 173986 2022 Gorey Guardian U15 Football D1 Knockout (4)
+- 170218 2022 Gorey Guardian U15 Football D2 (28)
+- 173983 2022 Gorey Guardian U15 Football D2 Knockout (7)
+- 174686 2022 Gorey Guardian U15 Football D2 Knockout (3)
+- 170221 2022 Gorey Guardian U15 Football D3 (28)
+- 173987 2022 Gorey Guardian U15 Football D3 Knockout (8)
+- 174688 2022 Gorey Guardian U15 Football D3 Knockout (3)
+- 170219 2022 Gorey Guardian U15 Football D4 (28)
+- 173984 2022 Gorey Guardian U15 Football D4 Knockout (7)
+- 174687 2022 Gorey Guardian U15 Football D4 Knockout (2)
+- 170222 2022 Gorey Guardian U15 Football D5 Grp A (20)
+- 173988 2022 Gorey Guardian U15 Football D5 Knockout (7)
+- 174685 2022 Gorey Guardian U15 Football D5 Knockout (5)
+- 170403 2022 Gorey Guardian U15 Football Group B (12)
+- 169055 2022 Junior Hurling Championship (6)
+- 169054 2022 Junior Hurling Championship Group B (3)
+- 171142 2022 Junior Hurling Championship Knock Out (3)
+- 176345 2022 Kamloops 7s U14 Boys (18)
+- 176346 2022 Kamloops 7s U14 Girls (21)
+- 176343 2022 Kamloops 7s U16 Boys (24)
+- 176344 2022 Kamloops 7s U16 Girls (53)
+- 176341 2022 Kamloops 7s U18 Boys (41)
+- 176342 2022 Kamloops 7s U18 Girls (58)
+- 174732 2022 McCormick Cup (10)
+- 177503 2022 McKechnie Cup (5)
+- 176177 2022 Men's Interbranch (2)
+- 171600 2022 Mens M-League (46)
+- 171599 2022 Mens Premier (23)
+- 170095 2022 Minor League MP60 State Championships (16)
+- 172937 2022 NK Junior League Div 3 Sponsored by McCarthy Insurance Group (15)
+- 172939 2022 NK Junior League Div 4B Sponsored by McCarthy Insurance Listowel (15)
+- 172938 2022 NK Junior League Div 4a Sponsored by McCarthy Insurance Group (15)
+- 170400 2022 New Ross Standard U13 Football Championship Div 5 Group B15 Aside (12)
+- 170397 2022 New Ross Standard U13 Football Division 1 (28)
+- 173713 2022 New Ross Standard U13 Football Division 1 Knockout (3)
+- 170401 2022 New Ross Standard U13 Football Division 2 (28)
+- 173716 2022 New Ross Standard U13 Football Division 2 Knockout (8)
+- 175335 2022 New Ross Standard U13 Football Division 2 Knockout (2)
+- 170398 2022 New Ross Standard U13 Football Division 3 (28)
+- 173714 2022 New Ross Standard U13 Football Division 3 Knockout (9)
+- 175334 2022 New Ross Standard U13 Football Division 3 Knockout (2)
+- 170402 2022 New Ross Standard U13 Football Division 4 (28)
+- 173717 2022 New Ross Standard U13 Football Division 4 Knockout (8)
+- 175333 2022 New Ross Standard U13 Football Division 4 Knockout (1)
+- 170399 2022 New Ross Standard U13 Football Division 5 Group A (13 Aside) (28)
+- 173715 2022 New Ross Standard U13 Football Division 5 Knockout (7)
+- 173718 2022 New Ross Standard U13 Football Division 5 Knockout (11)
+- 175332 2022 New Ross Standard U13 Football Division 5 Knockout (3)
+- 170393 2022 New Ross Standard U13 Hurling D1 (28)
+- 170390 2022 New Ross Standard U13 Hurling D2 (28)
+- 170394 2022 New Ross Standard U13 Hurling D3 (28)
+- 170391 2022 New Ross Standard U13 Hurling D4 (28)
+- 170392 2022 New Ross Standard U13 Hurling D5 Group B  (15 Aside) (10)
+- 170395 2022 New Ross Standard U13 Hurling D5 Grp A (13 Aside) (15)
+- 173709 2022 New Ross Standard U13 Hurling Division 1 Knockout (3)
+- 173710 2022 New Ross Standard U13 Hurling Division 2 Knockout (9)
+- 175086 2022 New Ross Standard U13 Hurling Division 2 Knockout (1)
+- 173707 2022 New Ross Standard U13 Hurling Division 3 Knockout (9)
+- 175085 2022 New Ross Standard U13 Hurling Division 3 Knockout (1)
+- 173711 2022 New Ross Standard U13 Hurling Division 4 Knockout (9)
+- 175088 2022 New Ross Standard U13 Hurling Division 4 Knockout (1)
+- 173708 2022 New Ross Standard U13 Hurling Division 5 Knockout (8)
+- 173712 2022 New Ross Standard U13 Hurling Division 5 Knockout (9)
+- 175087 2022 New Ross Standard U13 Hurling Division 5 Knockout (4)
+- 171310 2022 North Kerry Division 2 Minor League (15)
+- 171307 2022 North Kerry Minor Division 1 League (6)
+- 170724 2022 Peil na nOg  Tipperary Div 3 FB Grp 1 (16)
+- 170820 2022 Peil na nOg  Tipperary Div 4 FB KO (3)
+- 170717 2022 Peil na nOg 2022 Tournament Div 1 FB Grp 2 (6)
+- 170718 2022 Peil na nOg Tipperary Div 1 FB Grp 1 (6)
+- 170712 2022 Peil na nOg Tipperary Div 2 FB Grp 1 (3)
+- 170825 2022 Peil na nOg Tipperary Div 2 FB KO (3)
+- 170826 2022 Peil na nOg Tipperary Div 3 FB KO (1)
+- 170713 2022 Peil na nOg Tipperary Div 4 FB Grp 1 (9)
+- 170711 2022 Peil na nOg Tipperary Div 4 FB Grp 2 (9)
+- 170720 2022 Peil na nOg Tipperary Div 5 FB Grp 1 (3)
+- 170714 2022 Peil na nOg Tipperary Div 5 FB Grp 2 (3)
+- 170823 2022 Peil na nOg Tipperary Div 5 FB KO (3)
+- 170721 2022 Peil na nOg Tipperary Div 6 FB Grp 1 (3)
+- 170715 2022 Peil na nOg Tipperary Div 6 FB Grp 2 (3)
+- 170822 2022 Peil na nOg Tipperary Div 6 FB KO (3)
+- 170716 2022 Peil na nOg Tipperary Div 8 FB Grp 1 (15)
+- 170723 2022 Peil na nOg Tipperary Div 8 FB Grp 2 (12)
+- 170831 2022 Peil na nOg Tipperary Div 8 FB KO (3)
+- 170719 2022 Peil na nOg Tipperary FB Div 2 Grp 2 (3)
+- 170824 2022 Peil na nOg Tipperary FB KO (3)
+- 170722 2022 Peil na nOgl Tipperary Div 7 FB (6)
+- 170821 2022 Peil na nOgl Tipperary Div 7 FB KO (1)
+- 170566 2022 QLD MASTERS (17)
+- 171580 2022 Regular Season - Mens D1 (15)
+- 171799 2022 Regular Season - Mens D2 (55)
+- 171583 2022 Regular Season - Womens D1 (13)
+- 171800 2022 Regular Season - Womens D2 (19)
+- 169554 2022 Rugby Europe Men XV Development (3)
+- 177301 2022 Rugby Europe U20 XV Championship (12)
+- 175348 2022 Saratoga Cup (14)
+- 170581 2022 Senior Hurling Championship (15)
+- 174009 2022 Senior Hurling Championship Knock Out (5)
+- 170580 2022 Senior Hurling League Group A (6)
+- 170582 2022 Senior Hurling League Group B (3)
+- 172126 2022 Senior Hurling League Knock Out (3)
+- 169286 2022 South Island Hockey 5s CPL Men (14)
+- 169250 2022 South Island Hockey 5s CPL Women (15)
+- 169253 2022 South Island Hockey 5s Division 1 Men (15)
+- 169252 2022 South Island Hockey 5s Division 1 Women (15)
+- 169121 2022 Twilight Adult Social Hockey NHS Competitive Finals (5)
+- 169134 2022 Twilight Adult Social Hockey NHS Novice Final (15)
+- 170579 2022 U21 Hurling Championship (4)
+- 177188 2022 Ulster GAA Football Intermediate Club Championship (1)
+- 177146 2022 Ulster GAA Football Junior Club Championship (2)
+- 177234 2022 Ulster GAA Football Senior Club Championship (2)
+- 168748 2022 Ulster GAA Football Senior League (3)
+- 177187 2022 Ulster GAA Hurling Intermediate Club Championship (1)
+- 175708 2022 Wexford People U17 Football Championship  Division 3 Shield (3)
+- 175707 2022 Wexford People U17 Football Championship  Division 4 Cup (3)
+- 172427 2022 Wexford People U17 Football Championship Division 1 (16)
+- 175706 2022 Wexford People U17 Football Championship Division 1 Cup (3)
+- 172425 2022 Wexford People U17 Football Championship Division 2 (16)
+- 175709 2022 Wexford People U17 Football Championship Division 2 Cup (3)
+- 172428 2022 Wexford People U17 Football Championship Division 3 (16)
+- 172426 2022 Wexford People U17 Football Championship Division 4 (10)
+- 172424 2022 Wexford People U17 Football Championship Premier Division (16)
+- 175705 2022 Wexford People U17 Football Championship Premier Division (3)
+- 176176 2022 Womens Interbranch (2)
+- 171601 2022 Womens W-League (34)
+- 175895 2022/2023 Rugby Europe Men XV Conference 1 North (10)
+- 175896 2022/2023 Rugby Europe Men XV Conference 1 South (10)
+- 175898 2022/2023 Rugby Europe Men XV Conference 2 North (6)
+- 175910 2022/2023 Rugby Europe Men XV Conference 2 South (6)
+- 175891 2022/2023 Rugby Europe Men XV Trophy (10)
+- 175893 2022/2023 Rugby Europe Women XV Trophy (10)
+- 168779 3Dental D1 League (28)
+- 171768 3Dental D1 League Play Offs (7)
+- 168771 3Dental D2 League (28)
+- 171770 3Dental D2 League Play Offs (6)
+- 168778 3Dental D3A League (30)
+- 171769 3Dental D3A League Play Offs (6)
+- 168772 3Dental D3B League (29)
+- 171771 3Dental D3B League Play Offs (6)
+- 168763 3Dental D4A League (45)
+- 172255 3Dental D4A League Play Offs (6)
+- 168774 3Dental D4B League (29)
+- 172365 3Dental D4B League Play Offs (6)
+- 172165 442 Teamwear DAWFL Division 1 (132)
+- 172466 442 Teamwear DAWFL Division 2 (90)
+- 172164 442 Teamwear DAWFL Premier Division (132)
+- 172467 442 Teamwear Reserve Division 1 (132)
+- 172468 442 Teamwear Reserve Division 2 (156)
+- 169227 6th Class Boys League Playoff (5)
+- 169228 6th Class Boys Shield Playoff (5)
+- 168865 6th X8 1 League Playoff (3)
+- 169238 6th X8 2 League Playoff (3)
+- 168871 6th X8 2 Shield Playoff (3)
+- 168868 6th X8 3 League Playoff (3)
+- 168872 6th X8 3 Shield Playoff (3)
+- 168866 6th X8 4 League Playoff (3)
+- 168873 6th X8 4 Shield Playoff (3)
+- 168869 6th X8 5 League Playoff (4)
+- 168874 6th X8 5 Shield Playoff (3)
+- 168870 6th X8 6 League Playoff (3)
+- 169239 6th X8 6 Shield Playoff (3)
+- 168867 6th X8 7 League Playoff (3)
+- 168875 6th X8 7 Shield Playoff (3)
+- 169141 7S Men-Hommes (41)
+- 176251 7S Men-Hommes (47)
+- 169142 7S Women-Femmes (31)
+- 176254 7S Women-Femmes (38)
+- 170348 7s Tournaments (17)
+- 177572 7s U16 (30)
+- 169449 A (15)
+- 171118 A (15)
+- 175052 A (6)
+- 174316 A Championship Cup (7)
+- 175207 A Championship Shield (3)
+- 172960 A Interpros (7)
+- 172568 ACFL Div 1A Knockout (1)
+- 172544 ACFL Division 1B Knockout (1)
+- 172566 ACFL Division 2 Knockout (1)
+- 172567 ACFL Division 3A Knockout (3)
+- 172537 ACFL Division 3B Knockout (3)
+- 172292 ACFL Division 4 Knockout (3)
+- 170980 ACFL Division 5 Knockout (8)
+- 172191 ACHL Division 1A Knockout (3)
+- 172159 ACHL Division 1B Knockout (3)
+- 172160 ACHL Division 2 Knockout (3)
+- 172290 ACHL Division 3 Knockout (3)
+- 172289 ACHL Division 4 Knockout (3)
+- 171767 ACHL Division 5 Knockout (3)
+- 170166 ADAM MANGAN - Kilclonfert Cup - Group 1 (3)
+- 177699 AIB All-Ireland SHC (1)
+- 177698 AIB GAA Hurling All-Ireland Intermediate Club Championship (2)
+- 177722 AIB GAA Hurling All-Ireland Intermediate Club Championship (1)
+- 177723 AIB GAA Hurling All-Ireland Junior Club Championship (1)
+- 177697 AIB GAA Hurling All-Ireland Senior Club Championship (1)
+- 177082 AIB Thurles Mid Intermediate Football 2022 (3)
+- 170138 AIL Provincial Playoff Final (1)
+- 173608 Adam Mangan Kilclonfert Cup (2)
+- 170144 Adam Mangan Kilclonfert Cup Group 1 (3)
+- 173607 Adam Mangan Offaly Cup (2)
+- 170145 Adam Mangan Offaly Cup Group 1 (3)
+- 172140 Adult Div 1 Knock Out (3)
+- 172142 Adult Div 2 Knock Out (3)
+- 172143 Adult Div 3 Knock Out (3)
+- 172144 Adult Div 4 Knock Out (3)
+- 173351 Adult Friendlies - Mens (12)
+- 169662 Adult League Fixtures 2022 Division 1 (15)
+- 169671 Adult League Fixtures 2022 Division 10 (12)
+- 169663 Adult League Fixtures 2022 Division 2 (21)
+- 169664 Adult League Fixtures 2022 Division 3 (15)
+- 169665 Adult League Fixtures 2022 Division 4 (15)
+- 169666 Adult League Fixtures 2022 Division 5 (10)
+- 169667 Adult League Fixtures 2022 Division 6 (15)
+- 169668 Adult League Fixtures 2022 Division 7 (15)
+- 169669 Adult League Fixtures 2022 Division 8 (15)
+- 169670 Adult League Fixtures 2022 Division 9 (15)
+- 174726 Age-Grade Boys Exhibition (17)
+- 168864 Albert O Connell Cup (Metro J2) (13)
+- 171324 Alberta Cup 2022 (47)
+- 172201 Alberta Regional Championship - U16 Boys (8)
+- 172202 Alberta Regional Championship - U16 Girls (8)
+- 172203 Alberta Regional Championship - U18 Boys (8)
+- 172206 Alberta Regional Championship - U18 Girls (8)
+- 170991 Alberta Womens Premier (19)
+- 169369 All Club League Group 1 (3)
+- 169370 All Club League Group 2 (3)
+- 169371 All Club League Group 3 (3)
+- 169372 All Club League Group 4 (3)
+- 169374 All Club League Group 5 (10)
+- 171659 All County Football League - Division 1 Final (1)
+- 171658 All County Football League - Division 2 Final (1)
+- 169160 All County Football League - Division 3 (10)
+- 171392 All County Football League - Division 3 Final (1)
+- 172139 All County Football League - Division 4 Final (1)
+- 172137 All County Football League - Division 5 Final (1)
+- 172138 All County Football League - Division 6 Final (1)
+- 171391 All County Football League - Division 7 Final (1)
+- 171647 All County Hurling League - Division 1 KO (1)
+- 169099 All County Hurling League - Division 10 (10)
+- 171648 All County Hurling League - Division 10 KO (1)
+- 172132 All County Hurling League - Division 3 KO (1)
+- 172282 All County Hurling League - Division 4 KO (1)
+- 172279 All County Hurling League - Division 5 KO (1)
+- 169084 All County Hurling League - Division 6 (15)
+- 172278 All County Hurling League - Division 6 KO (1)
+- 169083 All County Hurling League - Division 7 (15)
+- 172281 All County Hurling League - Division 7 KO (1)
+- 169100 All County Hurling League - Division 8 (15)
+- 172280 All County Hurling League - Division 8 KO (1)
+- 169098 All County Hurling League - Division 9 (10)
+- 171765 All County Hurling League - Division 9 KO (1)
+- 169882 All County U12 F Division 1 (15)
+- 169880 All County U12 F Division 2 Group A (11)
+- 169883 All County U12 F Division 2 Group B (10)
+- 177137 All Ireland Schoolboys (30)
+- 177196 All Ireland Schoolboys (24)
+- 169516 All Ireland Schoolboys Championship (6)
+- 168738 Allianz Football League Roinn 1 (7)
+- 169812 Allianz Football League Roinn 1 (1)
+- 169467 Allianz Hurling League Roinn 2A (1)
+- 174069 Amber Springs & Ashdown Park Hotels Intermediate Football Championship Gp A (15)
+- 174073 Amber Springs & Ashdown Park Hotels Intermediate Football Championship Gp B (15)
+- 176105 Amber Springs & Ashdown Park Hotels Intermediate Football Championship Knockout (8)
+- 170444 Amsterdam Sevens (1)
+- 168959 Anderson Cup (Provincial J3) (14)
+- 169259 Anne McInerney Cup Final (Senior Development) (1)
+- 177728 Anne McInerney Cup Final (Senior Development) (1)
+- 169757 Armagh Senior Hurling League 2022 (5)
+- 172919 Ashbourne International Tournament 2022 (6)
+- 172925 Ashbourne International Tournament Playoffs 2022 (2)
+- 173803 Athy RFC Bowl Final (1)
+- 173601 Athy RFC Bowl Semi Finals (2)
+- 173801 Athy RFC Cup Final (1)
+- 173600 Athy RFC Cup Semi Finals (2)
+- 172794 Athy RFC Group A (6)
+- 172795 Athy RFC Group B (6)
+- 173802 Athy RFC Plate Final (1)
+- 173804 Athy RFC Shield Final (1)
+- 171091 Autumn Nations Series (3)
+- 174314 B Championship Cup (7)
+- 175208 B Championship Shield (3)
+- 169730 B McCaffrey & Sons Erne Cup Division 1 (90)
+- 172528 B McCaffrey & Sons Erne Cup Division 1 Final (1)
+- 169733 B McCaffrey & Sons Erne Cup Division 2 (45)
+- 172527 B McCaffrey & Sons Erne Cup Division 2 Final (1)
+- 172296 BANDON CO-OP CARBERY JUNIOR A FOOTBALL CHAMPIONSHIP 2022 (32)
+- 172302 BANDON CO-OP CARBERY JUNIOR B FOOTBALL CHAMPIONSHIP 2022 (14)
+- 175987 BANDON CO-OP CARBERY JUNIOR C/DFOOTBALL CHAMPIONSHIP 2022 (23)
+- 170748 BC Bears Prepeation (1)
+- 173156 BMC Cup Donegal Group A (6)
+- 173157 BMC Cup Donegal Group B (6)
+- 173158 BMC Cup Gweedore Group A (6)
+- 173159 BMC Cup Gweedore Group B (7)
+- 173154 BMC Cup LK Area Group A (6)
+- 173155 BMC Cup LK Area Group B (7)
+- 173160 BMC Cup Lifford Group A (6)
+- 173161 BMC Cup Lifford Group B (3)
+- 176096 BOI Cawley Cup Knockout Stages (6)
+- 173009 BOI Cawley Cup Pool A (6)
+- 173011 BOI Cawley Cup Pool B (6)
+- 176715 BOI Connacht Womens League (25)
+- 176098 BOI Curley Cup Knockout Stages (12)
+- 173036 BOI Curley Cup Pool A (6)
+- 173037 BOI Curley Cup Pool B (6)
+- 173038 BOI Curley Cup Pool C (6)
+- 173039 BOI Curley Cup Pool D (6)
+- 175008 BOI Invitational Cup (15)
+- 173205 BOI J1A League (34)
+- 173411 BOI J1B League (32)
+- 173412 BOI J1C League (34)
+- 175258 BOI J2 10 a Side Cup (6)
+- 175257 BOI J2 15 a Side Cup (6)
+- 176733 BOI J2 League (18)
+- 177532 BOI J2A league (17)
+- 177534 BOI J2B League (17)
+- 175821 BOI Senior Cup (4)
+- 173008 BOI Senior League (10)
+- 174862 BOI U13 Boys Fixtures - Non-competitive (146)
+- 174911 BOI U14 Boys Fixtures (95)
+- 174698 BOI U14 Girls Fixtures - Non Competitive (83)
+- 174757 BOI U15 Boys Fixtures (115)
+- 174915 BOI U16 Boys Fixtures (86)
+- 174888 BOI U16 Girls Fixtures (55)
+- 174864 BOI U17 Boys Fixtures (62)
+- 174894 BOI U18 Girls Fixtures (71)
+- 174918 BOI U18.5 Boys Fixtures (62)
+- 174580 BOI U20 Qualifiers (6)
+- 169092 Ballincollig Cr Un Junior B Football Championship 2022 (11)
+- 174094 Ballylough Milling J B 2 Football Championship Final (1)
+- 169171 Ballylough Milling JB2 F C Group One (6)
+- 172192 Ballylough Milling JB2 F C Group Two (3)
+- 177638 Bank of Ireland Boys Clubs U16 Bowl Group 1 (15)
+- 177641 Bank of Ireland Boys Clubs U16 Bowl Group 2 (15)
+- 176019 Bank of Ireland Boys Clubs U16 Conf 1 (16)
+- 176018 Bank of Ireland Boys Clubs U16 Conf 2 (15)
+- 176022 Bank of Ireland Boys Clubs U16 Conf 3 (15)
+- 176044 Bank of Ireland Boys Clubs U16 Conf 4 (15)
+- 176037 Bank of Ireland Boys Clubs U16 Conf 5 (15)
+- 176095 Bank of Ireland Boys Clubs U16 Conf 6 (15)
+- 176035 Bank of Ireland Boys Clubs U16 Conf 7 (15)
+- 177610 Bank of Ireland Boys Clubs U16 Phase 1 Play-off (1)
+- 177643 Bank of Ireland Boys Clubs U16 Plate Group 1 (15)
+- 177651 Bank of Ireland Boys Clubs U16 Plate Group 2 (16)
+- 177650 Bank of Ireland Boys Clubs U16 Plate Group 3 (15)
+- 177631 Bank of Ireland Boys Clubs U18.5 Bowl Group 1 (15)
+- 177632 Bank of Ireland Boys Clubs U18.5 Bowl Group 2 (10)
+- 176002 Bank of Ireland Boys Clubs U18.5 Conf 1 (23)
+- 176012 Bank of Ireland Boys Clubs U18.5 Conf 2 (15)
+- 176013 Bank of Ireland Boys Clubs U18.5 Conf 3 (21)
+- 176014 Bank of Ireland Boys Clubs U18.5 Conf 4 (21)
+- 176016 Bank of Ireland Boys Clubs U18.5 Conf 5 (15)
+- 176017 Bank of Ireland Boys Clubs U18.5 Conf 6 (28)
+- 177626 Bank of Ireland Boys Clubs U18.5 Cup Group 1 (15)
+- 177627 Bank of Ireland Boys Clubs U18.5 Cup Group 2 (15)
+- 177628 Bank of Ireland Boys Clubs U18.5 Plate Group 1 (15)
+- 177629 Bank of Ireland Boys Clubs U18.5 Plate Group 2 (15)
+- 176242 Bank of Ireland Girls Clubs U16 Conf 1 (15)
+- 176244 Bank of Ireland Girls Clubs U16 Conf 2 (21)
+- 176245 Bank of Ireland Girls Clubs U16 Conf 3 (15)
+- 176247 Bank of Ireland Girls Clubs U18.5 Conf 1 (15)
+- 176248 Bank of Ireland Girls Clubs U18.5 Conf 2 (21)
+- 173964 Bank of Ireland Munster Senior Challenge Cup (15)
+- 175456 Bank of Ireland Munster Senior Challenge Plate (6)
+- 174589 Barrett Cup (10)
+- 169834 Baseball Ireland A League 2022 (42)
+- 175788 Baseball Ireland A League Playoffs 2022 (5)
+- 169839 Baseball Ireland B League 2022 (117)
+- 175789 Baseball Ireland B League Playoffs 2022 (8)
+- 170108 Baseball Ireland Cadet League 2022 (18)
+- 170115 Baseball Ireland Little League 2022 (46)
+- 175040 Beamish Stout Munster Senior League Senior 2nd division - 1 Round (Split league thereafter) (105)
+- 174579 Beamish Stout Munster Senior League-Floodlit League-1 Round, Top 4 play-off for title (66)
+- 173634 Beamish Stout Munster Senior League-Junior 1st Division (90)
+- 174577 Beamish Stout Munster Senior League-Junior 2nd Division (110)
+- 174578 Beamish Stout Munster Senior League-Junior 3rd Division (132)
+- 173633 Beamish Stout Munster Senior League-Junior Premier Division (91)
+- 173163 Beamish Stout Munster Senior League-Senior 1st Division (91)
+- 173162 Beamish Stout Munster Senior League-Senior Premier Division (90)
+- 170346 Big Sky Boys (36)
+- 170347 Big Sky Girls (25)
+- 177223 Billy Allen Memorial Shield (34)
+- 177655 Billy Coffey U18 Mens National Cup 22/23 (7)
+- 170886 Blackstairs Enniscorthy Guardian 2022 U17 Division 2 Football Tournament Cup (7)
+- 170884 Blackstairs Enniscorthy Guardian 2022 U17 Division 2 Football Tournament Shield (6)
+- 172228 Blackstairs Enniscorthy Guardian 2022 U17 Division 2 Football Tournament Shield (1)
+- 172229 Blackstairs Enniscorthy Guardian 2022 U17 Division Football Tournament Cup (1)
+- 169675 Blue Card Testing (1)
+- 173096 Bon Secours Intermediate A Football Championship (31)
+- 176469 Bon Secours Junior A Football Championship (7)
+- 173099 Bon Secours Premier Intermediate Football Championship (24)
+- 173097 Bon Secours Premier Senior Football Championship (25)
+- 171519 Bon Secours Premier Senior Football Championship - Divisions/Colleges (10)
+- 173098 Bon Secours Senior A Football Championship (24)
+- 177125 Bons Secours JB Football Championship (7)
+- 177500 Bons Secours U19 A Football Championship (3)
+- 177282 Bons Secours U19 B Football Championship (3)
+- 176366 Boys Club/School U14 Friendly (8)
+- 175121 Boys Club/School U15 Friendly (7)
+- 173664 Boys Club/School U16 Friendly (17)
+- 173363 Boys Club/School U17 Friendly (2)
+- 173088 Boys Club/School U18 Friendly (2)
+- 173362 Boys Club/School U19 Friendly (9)
+- 176482 Boys Clubs U13 East Munster League (21)
+- 173436 Boys Clubs U13 Friendly (50)
+- 175141 Boys Clubs U13 North Munster Development League (31)
+- 177416 Boys Clubs U13 North Munster League Section 1 (10)
+- 177415 Boys Clubs U13 North Munster League Section 2 (16)
+- 177701 Boys Clubs U13 South Munster League 2nd Phase Group Red (55)
+- 176375 Boys Clubs U13 South Munster League Group A Phase 1 (6)
+- 176376 Boys Clubs U13 South Munster League Group B Phase 1 (6)
+- 176377 Boys Clubs U13 South Munster League Group C Phase 1 (10)
+- 176378 Boys Clubs U13 South Munster League Group D Phase 1 (10)
+- 176435 Boys Clubs U14 East Munster League Group 1 (10)
+- 176436 Boys Clubs U14 East Munster League Group 2 (10)
+- 173438 Boys Clubs U14 Friendly (75)
+- 175145 Boys Clubs U14 North Munster League Section 1 (42)
+- 175143 Boys Clubs U14 North Munster League Section 2 (30)
+- 176039 Boys Clubs U14 South Munster League Group A Phase 1 (6)
+- 176042 Boys Clubs U14 South Munster League Group B Phase 1 (10)
+- 176040 Boys Clubs U14 South Munster League Group C Phase 1 (6)
+- 176041 Boys Clubs U14 South Munster League Group D Phase 1 (6)
+- 176043 Boys Clubs U14 South Munster League Group E Phase 1 (6)
+- 177653 Boys Clubs U14 South Munster League Phase 2 Group A (21)
+- 177654 Boys Clubs U14 South Munster League Phase 2 Group B (15)
+- 177652 Boys Clubs U14 South Munster League Phase 2 Group C (28)
+- 177602 Boys Clubs U14 South Munster League Play-off (2)
+- 176031 Boys Clubs U14 West Munster League (56)
+- 176446 Boys Clubs U15 East Munster Development League (10)
+- 173439 Boys Clubs U15 Friendly (30)
+- 177329 Boys Clubs U15 North Munster League Finals (4)
+- 175146 Boys Clubs U15 North Munster League Section 1 (12)
+- 175170 Boys Clubs U15 North Munster League Section 2 (12)
+- 173440 Boys Clubs U16 Friendly (76)
+- 176731 Boys Clubs U16 North Munster League (7)
+- 175450 Boys Clubs U16 South Munster League Group A (6)
+- 175446 Boys Clubs U16 South Munster League Group B (6)
+- 175453 Boys Clubs U16 South Munster League Group C (6)
+- 175451 Boys Clubs U16 South Munster League Group D (3)
+- 175452 Boys Clubs U16 South Munster League Group E (3)
+- 173066 Boys Clubs U17 Friendly (3)
+- 177553 Boys Clubs U17 Inter-County (18)
+- 173429 Boys Clubs U18.5 Friendly (65)
+- 176732 Boys Clubs U18.5 North Munster League (11)
+- 175423 Boys Clubs U18.5 South Munster League Group A (6)
+- 175424 Boys Clubs U18.5 South Munster League Group B (5)
+- 175443 Boys Clubs U18.5 South Munster League Group C (6)
+- 175444 Boys Clubs U18.5 South Munster League Group D (3)
+- 175445 Boys Clubs U18.5 South Munster League Group E (6)
+- 177788 Boys Clubs U19 Friendly (1)
+- 176832 Boys Junior Group 1 (29)
+- 176833 Boys Junior Group 2 (28)
+- 169246 Boys Junior Play Offs (3)
+- 172829 Boys NL U14 East West (10)
+- 173794 Boys NL U14 North South (10)
+- 171023 Boys NL U14 Playoff (6)
+- 172827 Boys NL U16 (40)
+- 169673 Boys NL U16 Playoff (7)
+- 175122 Boys Schools U14 Friendly (165)
+- 174801 Boys Schools U15 Friendly (63)
+- 174795 Boys Schools U15 McCarthy Cup A (34)
+- 174796 Boys Schools U15 McCarthy Cup B (28)
+- 175201 Boys Schools U15 McCarthy Cup B - Pathway 2 (12)
+- 176053 Boys Schools U15 McCarthy Cup C (48)
+- 173786 Boys Schools U16 Friendly (76)
+- 177452 Boys Schools U16 Giles Shield (8)
+- 177454 Boys Schools U16 Junior Cup Qualifier (1)
+- 177209 Boys Schools U16 Kidney Cup (4)
+- 175787 Boys Schools U16 King Cup (16)
+- 174800 Boys Schools U16 Limerick City Junior Cup (7)
+- 175203 Boys Schools U16 Mungret Shield (20)
+- 175027 Boys Schools U16 Munster Junior Cup Group A (10)
+- 175028 Boys Schools U16 Munster Junior Cup Group B (10)
+- 173430 Boys Schools U17 Friendly (6)
+- 174798 Boys Schools U18 Bowen Series (15)
+- 174797 Boys Schools U18 Bowen Shield (18)
+- 173426 Boys Schools U18 Friendly (11)
+- 174475 Boys Schools U19 Friendly (63)
+- 174799 Boys Schools U19 Limerick City Senior Cup (6)
+- 175202 Boys Schools U19 Mungret Cup (19)
+- 175786 Boys Schools U19 O Brien Cup (18)
+- 177453 Boys Schools U19 O Gorman Cup (9)
+- 177455 Boys Schools U19 Senior Cup Qualifier (2)
+- 176827 Boys Senior (42)
+- 169241 Boys Senior Playoffs (3)
+- 173968 Boys U16 Interpros (6)
+- 173971 Boys U18 Interpros (6)
+- 168719 Brendan O Shea Cup (15)
+- 168734 Brendan O Shea Shield (14)
+- 173145 Brian McCormick Sports & Premier (90)
+- 175851 Bronx Cup (1)
+- 175854 Brooklyn Cup (1)
+- 171655 Buccaneers RFC - Competitive (15)
+- 171656 Buccaneers RFC - Social (15)
+- 173181 Buccaneers RFC Competitive Cup 5/6 1st Leg (1)
+- 173355 Buccaneers RFC Competitive Cup 5/6 2nd Leg (1)
+- 173353 Buccaneers RFC Competitive Cup Final (1)
+- 173180 Buccaneers RFC Competitive Cup Semi-Final (2)
+- 173354 Buccaneers RFC Competitive Plate Final (1)
+- 173183 Buccaneers RFC Social Cup 5/6 1st Leg (1)
+- 173358 Buccaneers RFC Social Cup 5/6 2nd Leg (1)
+- 173356 Buccaneers RFC Social Cup Final (1)
+- 173182 Buccaneers RFC Social Cup Semi-Final (2)
+- 173357 Buccaneers RFC Social Plate Final (1)
+- 170415 Buccaneers U19 10s Tournament (3)
+- 174317 C Championship Cup (7)
+- 175209 C Championship Shield (3)
+- 174557 C Finals (1)
+- 175374 CB U12 League (97)
+- 175366 CB U14A League (21)
+- 175367 CB U14B League (50)
+- 175368 CB U14C League (28)
+- 175363 CB U16A League (21)
+- 175365 CB U16B League (50)
+- 174551 CEGEP Féminin (18)
+- 174552 CEGEP Masculin (18)
+- 175576 CG 1ST YR 1 (45)
+- 175578 CG 1ST YR 2 (45)
+- 175580 CG 1ST YR 3 POOL 1 (21)
+- 175581 CG 1ST YR 3 POOL 2 (28)
+- 175583 CG 1ST YR 4 (28)
+- 175585 CG 1ST YR 5 (28)
+- 175586 CG 1ST YR 6 (36)
+- 175588 CG 1ST YR 7 (45)
+- 175589 CG 1ST YR 8 (21)
+- 175591 CG 6th Class 1 (28)
+- 175592 CG 6th Class 2 (45)
+- 175594 CG 6th Class 3 (45)
+- 175595 CG 6th Class 4 (45)
+- 175596 CG 6th Class 5 (45)
+- 175597 CG 6th Class 6 (45)
+- 175598 CG 6th Class 7 (45)
+- 175599 CG 6th Class 8 (46)
+- 175485 CG Inter Division 1 (55)
+- 175486 CG Inter Division 2 (45)
+- 175535 CG Inter Division 3 P1 (20)
+- 175613 CG Inter Division 3 P2 (30)
+- 175538 CG Inter Division 4 (36)
+- 175543 CG Inter Division 5 P1 (37)
+- 175545 CG Inter Division 5 P2 (37)
+- 175547 CG Inter Division 6 (55)
+- 175549 CG Inter Division 7 (55)
+- 175555 CG Inter Division 8 (28)
+- 175563 CG Minor 1 (36)
+- 175566 CG Minor 2 (36)
+- 175569 CG Minor 3 (36)
+- 175570 CG Minor 4 (28)
+- 175571 CG Minor 5 (36)
+- 175573 CG Minor 6 (28)
+- 175574 CG Minor 7 (20)
+- 175483 CG U18 Division 1 (22)
+- 175484 CG U18 Division 2 (14)
+- 170073 CHSAA Jr Boys (19)
+- 170191 CHSAA Sr Boys Div 1 (27)
+- 170192 CHSAA Sr Boys Div2 (34)
+- 170194 CHSAA Sr Girls Div 1 (18)
+- 176734 CLONA MILK CARBERY UNDER 21A FOOTBALL CHAMPIONSHIP 2022 (6)
+- 169539 CLONA MILK CARBERY UNDER 21A HURLING CHAMPIONSHIP 2022 (7)
+- 176735 CLONA MILK CARBERY UNDER 21B FOOTBALL CHAMPIONSHIP 2022 (7)
+- 169540 CLONA MILK CARBERY UNDER 21B HURLING CHAMPIONSHIP 2022 (3)
+- 176736 CLONA MILK CARBERY UNDER 21C FOOTBALL CHAMPIONSHIP 2022 (4)
+- 170116 CLONA MILK CARBERY UNDER 21C HURLING CHAMPIONSHIP 2022 (5)
+- 169396 CM Signs Cahill Cup Knockout (6)
+- 170915 CRU 10s - Mens Comp (12)
+- 170916 CRU 10s - Mens Dev (12)
+- 170921 CRU 10s - Mens Rec (7)
+- 170922 CRU 10s - Womens Comp (16)
+- 170923 CRU 10s - Womens Dev (10)
+- 171329 CRU MEN DEV (33)
+- 171303 CRU MEN REC (43)
+- 172591 CRU Senior Women Competitive (7)
+- 172593 CRU Senior Women Recreational (7)
+- 172592 CRU Senior Womens Developmental (7)
+- 170911 CRU U13 Boys (47)
+- 170912 CRU U13 Girls (37)
+- 170913 CRU U15 Boys (41)
+- 170914 CRU U15 Girls (42)
+- 172803 CRU U16 Boys (29)
+- 172802 CRU U16 Girls (31)
+- 172805 CRU U18 Boys (27)
+- 172804 CRU U18 Girls (30)
+- 171330 CRU WOMEN A (15)
+- 171509 CRU WOMEN B (14)
+- 168805 CVF Bradford U7 Spring Friendlies (29)
+- 170127 CVF Middlesex U10 - 9 v 9 Friendlies (86)
+- 169243 CVF U10 Championship Competition Knockout (6)
+- 170106 CVF U10 Championship Finals (6)
+- 169247 CVF U10 Premier Competition Knockout (4)
+- 170107 CVF U10 Premier Finals (6)
+- 169530 CVF U7 Premier Competition Final (1)
+- 169525 CVF U8 Championship Competition Knockout (1)
+- 170103 CVF U8 Championship Finals (1)
+- 169240 CVF U8 Premier Competition Knockout (2)
+- 170102 CVF U8 Premier Finals (1)
+- 169215 CVF U9 Championship Competition Knockout (5)
+- 170105 CVF U9 Championship Finals (3)
+- 169213 CVF U9 Premier Competition Knockout (4)
+- 170104 CVF U9 Premier Finals (3)
+- 168762 Cahill Cup (6)
+- 174643 Cahill Cup (11)
+- 172370 Canada West 2022 (14)
+- 177159 Carrigdhoun U21 Hurling Cup (14)
+- 175337 Cascadia Masters Rugby Union (51)
+- 176526 Cavanaghs Of Fermoy Div Three Hurling League Knockout (3)
+- 171620 Cavanaghs of Fermoy Div1 FL Semi Finals (2)
+- 170016 Celtic Challenge Group 4 (5)
+- 170015 Celtic Challenge Group 7 (3)
+- 171085 Cental U17 Division 1 Hurling (3)
+- 172291 Centenary Agri Mid Senior Hurling Championship (6)
+- 168898 Centenary Cup Group 1 (6)
+- 168899 Centenary Cup Group 2 (3)
+- 170344 Central Alberta HS Boys (5)
+- 170345 Central Alberta HS Girls (17)
+- 171190 Central Interior Ruby Union (12)
+- 174867 Chairmans Cup - Men (14)
+- 177183 Chilean Cup 2022 (6)
+- 177274 Chilean Plate 2022 (3)
+- 173106 City Division Junior A Football Championship (17)
+- 173109 City Division Junior A Hurling Championship (16)
+- 173108 City Division Junior B Football Championship (22)
+- 172588 City Division Junior B Football League  Final (3)
+- 173110 City Division Junior B Hurling Championship (19)
+- 172732 City Division Junior B Hurling League Final (3)
+- 173572 City Division Junior C Football Championship (6)
+- 168851 City Division Junior C Football League (16)
+- 172162 Clontarf FC Tag 2022 - Division 1 (15)
+- 173082 Clontarf FC Tag 2022 - Division 1 Bowl Final (1)
+- 173080 Clontarf FC Tag 2022 - Division 1 Cup Final (1)
+- 173081 Clontarf FC Tag 2022 - Division 1 Plate Final (1)
+- 172163 Clontarf FC Tag 2022 - Division 2 (12)
+- 173083 Clontarf FC Tag 2022 - Division 2 Cup Final (1)
+- 173084 Clontarf FC Tag 2022 - Division 2 Plate Final (1)
+- 176800 Club Academy Merit Table (25)
+- 175500 Club Academy U21 (4)
+- 169429 Club Deise U13 Football Div 1 (21)
+- 169434 Club Deise U13 Football Div 2&3 Group A (28)
+- 169409 Club Deise U13 Football Div 2&3 Group B (28)
+- 169433 Club Deise U13 Football Div 4 (15)
+- 170998 Club Deise U13 Football Division 1 Plate Final (1)
+- 170983 Club Deise U13 Football Division 1 Semi Finals (2)
+- 170872 Club Deise U13 Football Division 2 Quarter Finals (3)
+- 171003 Club Deise U13 Football Division 2 Semi Finals (2)
+- 170871 Club Deise U13 Football Division 3 Quarter Finals (3)
+- 171002 Club Deise U13 Football Division 3 Semi Finals (2)
+- 170870 Club Deise U13 Football Division 4 Semi Finals (2)
+- 171147 Club Deise U13 Football Knockoiut Division 2 (1)
+- 171149 Club Deise U13 Football Knockout Division 1 (1)
+- 171148 Club Deise U13 Football Knockout Division 3 (1)
+- 171150 Club Deise U13 Football Knockout Division 4 (1)
+- 170981 Club Deise U13 Football Plate Final (1)
+- 168854 Club Deise U15 Football Div 2&3 Group A (21)
+- 168856 Club Deise U15 Football Div 4 (28)
+- 168855 Club Deise U15 Football Div2&3 Group B (28)
+- 170589 Club Deise U15 Football Division 1 (21)
+- 170894 Club Deise U15 Football Division 1 Final (1)
+- 170895 Club Deise U15 Football Division 1 Plate Final (1)
+- 170803 Club Deise U15 Football Division 1 Plate Semi Final (2)
+- 171069 Club Deise U15 Football Division 2 Final (1)
+- 170802 Club Deise U15 Football Division 2 Quarter Finals (4)
+- 170891 Club Deise U15 Football Division 2 Semi Finals (2)
+- 170896 Club Deise U15 Football Division 3 Final (1)
+- 170814 Club Deise U15 Football Division 3 Semi Finals (2)
+- 170815 Club Deise U15 Football Division 4 Cup Semi Finals (2)
+- 170892 Club Deise U15 Football Division 4 Final (1)
+- 170893 Club Deise U15 Football Division 4 Plate Final (1)
+- 170813 Club Deise U15 Football Division 4 Plate Semi Finals (2)
+- 170804 Club Deise U15 Football division 1 (2)
+- 169731 Club Players' Competition 1A (10)
+- 169734 Club Players' Competition 1B (10)
+- 169732 Club Players' Competition 2A (10)
+- 169735 Club Players' Competition 2B (10)
+- 177618 Cnt bng U17A FB 2022 (7)
+- 177617 Cnt bng U17B FB 2022 (7)
+- 173103 Co-Op Superstores Intermediate A Hurling Championship (24)
+- 173102 Co-Op Superstores Premier Intermediate Hurling Championship (25)
+- 173104 Co-Op Superstores Premier Junior Hurling Championship (24)
+- 173100 Co-Op Superstores Premier Senior Hurling Championship (25)
+- 177775 Co-Op Superstores Senior A HC (23)
+- 173101 Co-Op Superstores Senior A Hurling Championship (24)
+- 177547 Co-Op Superstores U19 A Hurling Championship (3)
+- 177128 Co-op Superstores JA Hurling Championship (7)
+- 176899 Co-op Superstores Junior B Hurling Championship0 (6)
+- 171518 Co-op Superstores Premier Senior Hurling Championship - Divisions/Colleges (10)
+- 170971 Co. Minor Football League - Group A (6)
+- 170970 Co. Minor Football League - Group B (6)
+- 170972 Co. Minor Football League - Group C (15)
+- 171651 Co. Minor Hurling League - Group A (10)
+- 171649 Co. Minor Hurling League - Group B (10)
+- 171652 Co. Minor Hurling League - Group C (6)
+- 171650 Co. Minor Hurling League - Group D (10)
+- 170936 Coghan Gorey Guardian 2022 Division 2 U17 Hurling Tournament Shield (7)
+- 170938 Coghan Gorey Guardian 2022 U17 Division 2 Hurling Tournament Cup (7)
+- 175691 Coiste na nOg U13 A Hurling 2022 (3)
+- 175690 Coiste na nOg U13 B Hurling 2022 (3)
+- 176055 Coiste na nOg U13 C Hurling  Replay 2022 (1)
+- 174490 Coiste na nOg U17C Hurling Knockout (1)
+- 174188 Colin Flynn U16 Memorial Cup (2)
+- 173880 Colm O'Shea Cup (J1) (3)
+- 173176 Comeragh Oil Western Intermediate Hurling Championship Group 1 (6)
+- 173178 Comeragh Oil Western Intermediate Hurling Championship Group 2 (3)
+- 173177 Comeragh Oil Western Intermediate Hurling Championship Group 3 (6)
+- 173991 Comeragh Oil Western Intermediate Hurling Championship Knockout (7)
+- 173994 Confined North East Area U13 League Section A (6)
+- 173995 Confined North East Area U13 League Section B (10)
+- 173996 Confined North East Area U14 League Section A (6)
+- 173997 Confined North East Area U14 League Section B (10)
+- 173998 Confined North East Area U15 League Section A (6)
+- 173999 Confined North East Area U15 League Section B (6)
+- 174000 Confined North East Area U16 League Section A (6)
+- 174001 Confined North East Area U16 League Section B (6)
+- 174002 Confined North East Area U17 League (10)
+- 174004 Confined North East Area U18 League Section A (6)
+- 174005 Confined North East Area U18 League Section B (6)
+- 175248 Connacht Cup U12 Boys (29)
+- 175471 Connacht Cup U12 Boys (53)
+- 175351 Connacht Cup U12 Girls (16)
+- 175349 Connacht Cup U14 Boys (33)
+- 175469 Connacht Cup U14 Boys (49)
+- 175352 Connacht Cup U14 Girls (18)
+- 175350 Connacht Cup U16 Boys (26)
+- 175447 Connacht Cup U16 Boys (38)
+- 175353 Connacht Cup U16 Girls (15)
+- 176627 Connacht Cup U18 Boys (24)
+- 174563 Connacht Cup Under 12 (64)
+- 174564 Connacht Cup Under 14 (63)
+- 174565 Connacht Cup Under 16 (53)
+- 177089 Connacht GAA Club IFC 2022 (2)
+- 177236 Connacht GAA Club Intermediate Football Championship 2022 (1)
+- 177240 Connacht GAA Club Intermediate Football Championship 2022 (1)
+- 177088 Connacht GAA Club Intermediate Hurling Championship 2022 (2)
+- 177193 Connacht GAA Club Intermediate Hurling Championship 2022 (1)
+- 177239 Connacht GAA Club JFC 2022 (2)
+- 177238 Connacht GAA Club Junior Football Championship 2022 (1)
+- 177241 Connacht GAA Club Junior Football Championship 2022 (1)
+- 177347 Connacht GAA Club Junior HC 2022 (1)
+- 177291 Connacht GAA Club SFC (2)
+- 177324 Connacht GAA Club Senior Football Championship 2022 (1)
+- 168758 Connacht GAA HE JFC (3)
+- 169249 Connacht GAA HE JFC (1)
+- 168773 Connacht GAA PPS 1st Year B FC (3)
+- 168757 Connacht GAA PPS 1st Year C FC (13)
+- 168777 Connacht GAA PPS 1st Year D FC (3)
+- 168780 Connacht GAA PPS Junior A FC (3)
+- 168765 Connacht GAA PPS Junior C FC (11)
+- 168755 Connacht GAA PPS Junior D FC (7)
+- 169687 Connacht GAA PPS Juvenile A FC (2)
+- 168781 Connacht GAA PPS Juvenile B FC (5)
+- 168767 Connacht GAA PPS Juvenile C FC (15)
+- 168759 Connacht GAA PPS Juvenile D FC (5)
+- 168764 Connacht GAA PPS Senior A FC (2)
+- 177010 Connacht GAA PPS Senior A Football Championsip 2022/23- Group 1 (5)
+- 177006 Connacht GAA PPS Senior A Football Championsip 2022/23- Group 2 (5)
+- 177017 Connacht GAA PPS Senior A Football Championsip 2022/23- Group 2 (1)
+- 177002 Connacht GAA PPS Senior A Hurling Championsip 2022/23- Round Robin (10)
+- 177018 Connacht GAA PPS Senior B Football Championsip 2022/23- Group 1 (5)
+- 177029 Connacht GAA PPS Senior B Football Championsip 2022/23- Group 1 (1)
+- 177007 Connacht GAA PPS Senior B Football Championsip 2022/23- Group 2 (5)
+- 177026 Connacht GAA PPS Senior B Football Championsip 2022/23- Group 2 (1)
+- 177023 Connacht GAA PPS Senior B Football Championsip 2022/23- Group 3 (3)
+- 177003 Connacht GAA PPS Senior B Hurling Championsip 2022/23- Group 1 (3)
+- 177000 Connacht GAA PPS Senior B Hurling Championsip 2022/23- Group 2 (3)
+- 177028 Connacht GAA PPS Senior C Football Championsip 2022/23- Group 2 (3)
+- 177020 Connacht GAA PPS Senior C Football Championsip 2022/23- Group 3 (3)
+- 177024 Connacht GAA PPS Senior C Football Championsip 2022/23- Group 4 (3)
+- 177012 Connacht GAA PPS Senior C Football Championsip 2022/23- Group 5 (3)
+- 177008 Connacht GAA PPS Senior C Football Championsip 2022/23- Group 6 (3)
+- 177004 Connacht GAA PPS Senior C Hurling Championsip 2022/23- Group 1 (6)
+- 176999 Connacht GAA PPS Senior C Hurling Championsip 2022/23- Group 2 (10)
+- 177013 Connacht GAA PPS Senior D Football Championsip 2022/23- Group 2 (3)
+- 177009 Connacht GAA PPS Senior D Football Championsip 2022/23- Group 3 (3)
+- 177015 Connacht GAA PPS Senior D Football Championsip 2022/23- Group 4 (3)
+- 177016 Connacht GAA PPS Senior D Football Championsip 2022/23- Group 5 (6)
+- 177014 Connacht GAA PPS Senior D Football Championsip 2022/23- Group 6 (3)
+- 177005 Connacht GAA PPS Senior D Football Championsip 2022/23- Group 7 (3)
+- 177021 Connacht GAA PPS Senior D Football Championsip 2022/23- Group 7 (2)
+- 177025 Connacht GAA PPS Senior D Football Championsip 2022/23- Group 7 (1)
+- 176998 Connacht GAA PPS Senior D Hurling Championsip 2022/23- Group 1 (3)
+- 177001 Connacht GAA PPS Senior D Hurling Championsip 2022/23- Group 1 (3)
+- 176997 Connacht GAA PPS Senior D Hurling Championsip 2022/23- Group 2 (9)
+- 168770 Connacht GAA PPS Senior E FC (2)
+- 168715 Connacht GAA Post Primary Schools 1st Year B Football Championship 2022 (2)
+- 168812 Connacht GAA Post Primary Schools 1st Year B Football Championship 2022 (2)
+- 168821 Connacht GAA Post Primary Schools 1st Year C Football Championship 2022 (1)
+- 168817 Connacht GAA Post Primary Schools 1st Year D Football Championship 2022 (2)
+- 168826 Connacht GAA Post Primary Schools Junior C Football Championship 2022 (1)
+- 168700 Connacht GAA Post Primary Schools Junior D Football Championship 2022 (8)
+- 168815 Connacht GAA Post Primary Schools Junior D Football Championship 2022 (2)
+- 168713 Connacht GAA Post Primary Schools Junior E Football Championship 2022 (1)
+- 168820 Connacht GAA Post Primary Schools Junior E Football Championship 2022 (4)
+- 168702 Connacht GAA Post Primary Schools Juvenile B Football Championship 2022 (2)
+- 168827 Connacht GAA Post Primary Schools Juvenile B Football Championship 2022 (2)
+- 168810 Connacht GAA Post Primary Schools Juvenile C Football Championship 2022 (3)
+- 168703 Connacht GAA Post Primary Schools Senior E Football Championship 2022 (1)
+- 168811 Connacht GAA Post Primary Schools Senior E Football Championship 2022 (2)
+- 169365 Connacht Gold Division 1 League (10)
+- 169366 Connacht Gold Division 2 League (15)
+- 169367 Connacht Gold Division 3 League (15)
+- 169368 Connacht Gold Division 4 League (21)
+- 172753 Connacht Gold Junior B Championship (15)
+- 172755 Connacht Gold Junior C Championship (6)
+- 172751 Connacht Gold Junior Championship (10)
+- 172741 Connacht Gold Minor A Championship (6)
+- 172742 Connacht Gold Minor A2 Championship (6)
+- 172743 Connacht Gold Minor B Championship (6)
+- 172744 Connacht Gold Minor C Championship (6)
+- 172758 Connacht Gold Senior Championship (15)
+- 172734 Connacht Gold U14 A Championship (15)
+- 172735 Connacht Gold U14 B Championship (15)
+- 172736 Connacht Gold U14C Championship (15)
+- 172746 Connacht Gold U16 A Championship (15)
+- 172747 Connacht Gold U16 B Championship (15)
+- 172749 Connacht Gold U16 C Championship (15)
+- 176398 Connacht Junior Cup (76)
+- 169301 Connacht LGFA Minor Championship (10)
+- 169303 Connacht LGFA U16 Championship (10)
+- 170026 Connacht Schools 7s Festival (4)
+- 177079 Connacht Shield U12 Boys (33)
+- 177124 Connacht Shield U12 Boys (23)
+- 176883 Connacht Shield U12 Girls (8)
+- 177083 Connacht Shield U14 Boys (34)
+- 177126 Connacht Shield U14 Boys (20)
+- 176884 Connacht Shield U14 Girls (6)
+- 177084 Connacht Shield U16 Boys (15)
+- 177133 Connacht Shield U16 Boys (12)
+- 176885 Connacht Shield U16 Girls (6)
+- 176844 Connacht Shield Under 12 (27)
+- 176845 Connacht Shield Under 14 (30)
+- 176846 Connacht Shield Under 16 (23)
+- 171749 Corinthians Advanced League (15)
+- 173218 Corinthians Advanced League 3rd Place Final (1)
+- 173219 Corinthians Advanced League 5th Place Final (1)
+- 173217 Corinthians Advanced League Cup Final (1)
+- 171165 Corinthians Beginner Grading 2022 (71)
+- 172153 Corinthians Christmas Parties Friendlies (36)
+- 171750 Corinthians Intermediate Division 1 (15)
+- 173221 Corinthians Intermediate Division 1 3rd Place Final (1)
+- 173222 Corinthians Intermediate Division 1 5th Place Final (1)
+- 173220 Corinthians Intermediate Division 1 Cup Final (1)
+- 171751 Corinthians Intermediate Division 2 (15)
+- 173224 Corinthians Intermediate Division 2 3rd Place Final (1)
+- 173225 Corinthians Intermediate Division 2 5th Place Final (1)
+- 173223 Corinthians Intermediate Division 2 Cup Final (1)
+- 171752 Corinthians Intermediate Division 3 (15)
+- 173227 Corinthians Intermediate Division 3 3rd Place Final (1)
+- 173228 Corinthians Intermediate Division 3 5th Place Final (1)
+- 173226 Corinthians Intermediate Division 3 Cup Final (1)
+- 171170 Corinthians Intermediate Grading 2022 (36)
+- 171753 Corinthians Social Division 1 (15)
+- 173230 Corinthians Social Division 1 3rd Place Final (1)
+- 173231 Corinthians Social Division 1 5th Place Final (1)
+- 173229 Corinthians Social Division 1 Cup Final (1)
+- 171754 Corinthians Social Division 2 (15)
+- 173233 Corinthians Social Division 2 3rd Place Final (1)
+- 173234 Corinthians Social Division 2 5th Place Final (1)
+- 173232 Corinthians Social Division 2 Cup Final (1)
+- 171755 Corinthians Social Division 3 (15)
+- 173236 Corinthians Social Division 3 3rd Place Final (1)
+- 173237 Corinthians Social Division 3 5th Place Final (1)
+- 173235 Corinthians Social Division 3 Cup Final (1)
+- 171756 Corinthians Social Division 4 (15)
+- 173239 Corinthians Social Division 4 3rd Place Final (1)
+- 173253 Corinthians Social Division 4 5th Place (1)
+- 173238 Corinthians Social Division 4 Cup Final (1)
+- 171757 Corinthians Social Division 5 (15)
+- 173242 Corinthians Social Division 5 3rd Place Final (1)
+- 173243 Corinthians Social Division 5 5th Place Final (1)
+- 173241 Corinthians Social Division 5 Cup Final (1)
+- 171758 Corinthians Social Division 6 (15)
+- 173245 Corinthians Social Division 6 3rd Place Final (1)
+- 173246 Corinthians Social Division 6 5th Place Final (1)
+- 173244 Corinthians Social Division 6 Cup Final (1)
+- 171759 Corinthians Social Division 7 (15)
+- 173248 Corinthians Social Division 7 3rd Place Final (1)
+- 173249 Corinthians Social Division 7 5th Place Final (1)
+- 173247 Corinthians Social Division 7 Cup Final (1)
+- 171760 Corinthians Social Division 8 (15)
+- 173251 Corinthians Social Division 8 3rd Place Final (1)
+- 173252 Corinthians Social Division 8 5th Place Final (1)
+- 173250 Corinthians Social Division 8 Cup Final (1)
+- 169048 Cork County U21A (3)
+- 169537 Cork County U21B (11)
+- 169536 Cork County U21C (16)
+- 169526 Cork County U21D (8)
+- 172576 Cork Credit Unions Division 1 FL Play Offs (3)
+- 172577 Cork Credit Unions Division 2 FL Play Offs (3)
+- 172200 Cork Credit Unions Division 3 FL Play Offs (9)
+- 170774 Corn John Scott (1)
+- 177577 Corn Risteard Ui Mhathuna (19 C H)  KO (2)
+- 177578 Corn Risteard Ui Mhathuna (19 C H)  KO (3)
+- 171146 Corn Tom Hogan (1)
+- 176598 Country Clean U21 B Hurling Championship (4)
+- 175763 County  Minor U17 A Hurling 2022 (7)
+- 175780 County  Minor U17 B Hurling 2022 (7)
+- 170060 County PPs U/17 C Hurling (1)
+- 176387 County U15 A Hurling 2022 (3)
+- 176530 County U15 B Hurling 2022 (3)
+- 170701 Crosco Cup (6)
+- 171498 Crust & Crumb Senior Football League Division 2 (45)
+- 174461 Crust & Crumb Senior Football League Division 2 (1)
+- 170009 CuChulainn Cup Div 1 Group D (5)
+- 170021 CuChulainn Cup Div 1 Group D (4)
+- 170000 CuChulainn Cup Div 2 Group A (3)
+- 170004 CuChulainn Cup Div 2 Group B (10)
+- 170018 CuChulainn Cup Div 2 Group C (7)
+- 170012 CuChulainn Cup Div 2 Group E (5)
+- 170010 CuChulainn Cup Div 3 Group A (3)
+- 170013 CuChulainn Cup Div 3 Group B (6)
+- 169062 Cusack Cup 2022 (10)
+- 174315 D Championship Cup (7)
+- 175210 D Championship Shield (3)
+- 169040 D1(B) Forth Mountain U17 Football Tournament (6)
+- 170455 DLGFA Feile Division 1 Group A (6)
+- 170456 DLGFA Feile Division 1 Group B (6)
+- 170659 DLGFA Feile Division 1 Knock Out Stages (3)
+- 170471 DLGFA Feile Division 10 (10)
+- 170668 DLGFA Feile Division 10 Knock Out Stages (3)
+- 170472 DLGFA Feile Division 11 (10)
+- 170670 DLGFA Feile Division 11 Knock Out Stages (3)
+- 170457 DLGFA Feile Division 2 Group A (6)
+- 170458 DLGFA Feile Division 2 Group B (6)
+- 170660 DLGFA Feile Division 2 Knock Out Stages (3)
+- 170536 DLGFA Feile Division 3 Group A (6)
+- 170537 DLGFA Feile Division 3 Group B (6)
+- 170661 DLGFA Feile Division 3 Knock Out Stages (3)
+- 170459 DLGFA Feile Division 4 Group A (6)
+- 170460 DLGFA Feile Division 4 Group B (6)
+- 170662 DLGFA Feile Division 4 Knock Out Stages (3)
+- 170461 DLGFA Feile Division 5 Group A (6)
+- 170462 DLGFA Feile Division 5 Group B (6)
+- 170663 DLGFA Feile Division 5 Knock Out Stages (3)
+- 170463 DLGFA Feile Division 6 Group A (6)
+- 170464 DLGFA Feile Division 6 Group B (6)
+- 170664 DLGFA Feile Division 6 Knock Out Stages (3)
+- 170465 DLGFA Feile Division 7 Group A (6)
+- 170466 DLGFA Feile Division 7 Group B (6)
+- 170665 DLGFA Feile Division 7 Knock Out Stages (3)
+- 170467 DLGFA Feile Division 8 Group A (6)
+- 170468 DLGFA Feile Division 8 Group B (6)
+- 170666 DLGFA Feile Division 8 Knock Out Stages (3)
+- 170469 DLGFA Feile Division 9 Group A (6)
+- 170470 DLGFA Feile Division 9 Group B (6)
+- 170667 DLGFA Feile Division 9 Knock Out Stages (3)
+- 169077 DUBLINER CHEESE CARBERY BEARA DIVISION 3 FOOTBALL LEAGUE 2022 (21)
+- 169321 DUBLINER CHEESE CARBERY BEARA DIVISION 5 FOOTBALL LEAGUE 2022 (37)
+- 170117 DUBLINER CHEESE CARBERY DIVISION 3 HURLING LEAGUE 2022 (28)
+- 172607 DUMMY CHAMPIONSHIP (6)
+- 171464 Danske Bank 2XV Cup (29)
+- 177726 Danske Bank 2XV Schools Trophy (10)
+- 171465 Danske Bank 3XV Cup (21)
+- 177423 Danske Bank 7s Girls (9)
+- 171369 Danske Bank Medallion Shield (38)
+- 175653 Danske Bank Schools Bowl Qualifying (12)
+- 171363 Danske Bank Schools Cup (45)
+- 175650 Danske Bank Schools U16 Cup (13)
+- 175652 Danske Bank Schools U16 Plate (4)
+- 175657 Danske Bank Schools U16 Shield (2)
+- 172205 Deise Og U11 Hurling Division 1 (20)
+- 172212 Deise Og U11 Hurling Division 2 (28)
+- 172209 Deise Og U11 Hurling Division 3 (21)
+- 172213 Deise Og U11 Hurling Division 4 (21)
+- 172310 Deise Og U11 Hurling Division 4 (21)
+- 172204 Deise Og U11 Hurling Division 5 (21)
+- 172214 Deise Og U11 Hurling Division 5 (27)
+- 171960 Deise Og U12 Hurling Division 1 (21)
+- 171959 Deise Og U12 Hurling Division 2 (15)
+- 171961 Deise Og U12 Hurling Division 3 (36)
+- 172072 Deise Og U12 Hurling Division 4 (15)
+- 172071 Deise Og U12 Hurling Division 5 (15)
+- 174048 Deise in Dublin Co. U13 Hurling Championship Division 1 (7)
+- 174047 Deise in Dublin Co. U13 Hurling Championship Division 2 (7)
+- 174066 Deise in Dublin Co. U13 Hurling Championship Division 3 (6)
+- 174067 Deise in Dublin Co. U13 Hurling Championship Division 4 (6)
+- 175192 Deise in Dublin Co. U15 Hurling Division 1 Cup (3)
+- 175204 Deise in Dublin Co. U15 Hurling Division 1 Plate (3)
+- 175677 Deise in Dublin Co. U15 Hurling Division 4 KO - Cup & Plate (4)
+- 175194 Deise in Dublin Co.U15 Hurling Division 2 Cup (7)
+- 175193 Deise in Dublin Co.U15 Hurling Division 3 Cup (7)
+- 171145 Deise in Dublin U13 Hurling Division 1 (28)
+- 171153 Deise in Dublin U13 Hurling Division 2&3 Group A (28)
+- 171154 Deise in Dublin U13 Hurling Division 4 (28)
+- 171155 Deise in Dublin U13 Hurling division 2&3 Group B (28)
+- 170979 Deise in Dublin U15 Hurling Division 1 (28)
+- 170984 Deise in Dublin U15 Hurling Division 2&3 Group A (28)
+- 170986 Deise in Dublin U15 Hurling Division 2&3 Group B (28)
+- 170988 Deise in Dublin U15 Hurling Division 4 (36)
+- 175767 Deise in Dublin U15 Hurling Division 4 Knockout (2)
+- 176842 Deloitte Womens Junior Cup (16)
+- 177293 Deloitte Womens Junior Shield (8)
+- 176298 Demo Competition (3)
+- 174013 Dennis S. Nash Charity Shield (1)
+- 177111 Dev League  A (9)
+- 177112 Dev League B (4)
+- 177113 Dev League C (10)
+- 173872 Development (6)
+- 175151 Development League 1A (16)
+- 175152 Development League 1B (18)
+- 175153 Development League 1C (14)
+- 168950 Developmental League Division 1 (12)
+- 168951 Developmental League Division 2 (12)
+- 168949 Developmental League Division 3 (17)
+- 168952 Developmental League Division 4 (12)
+- 168953 Developmental League Division 5 (12)
+- 168954 Developmental League Division 6 (17)
+- 176506 Dick Allen Cup 2022 (3)
+- 169704 Div 1 - Jun B Hurling League (17)
+- 168750 Div 1 Football League 2022 (56)
+- 171274 Div 1 Hurling League (1)
+- 168996 Div 1 Hurling League Group A (15)
+- 168997 Div 1 Hurling League Group B (15)
+- 168752 Div 1A Football League 2022 (56)
+- 168751 Div 2 Football League 2022 (66)
+- 168998 Div 2 Hurling League Group A (15)
+- 168999 Div 2 Hurling League Group B (15)
+- 171240 Div 2 Hurling League Knock out (2)
+- 169703 Div 2 Junior B Hurling League (14)
+- 168753 Div 3 Football League 2022 (55)
+- 171275 Div 3 Hurling League (2)
+- 169000 Div 3 Hurling League Group A (15)
+- 169001 Div 3 Hurling League Group B (14)
+- 169186 Div 3 Hurling League Group C (15)
+- 170109 Div 5 East Football League (30)
+- 173538 Div 5 Football Semi Finals (2)
+- 170113 Div 5 South Football League (43)
+- 170114 Div 5 West Football League (20)
+- 168726 Div A Corn Aodan Ui Chonchuir (9)
+- 168741 Div B (9)
+- 168728 Div C (7)
+- 171736 Division 1 (O'Rourke Cup ) QF (7)
+- 171735 Division 1 (O'Rourke Cup ) Relegation Playoff (2)
+- 169021 Division 1 (O'Rourke Cup ) Section A (15)
+- 169026 Division 1 (O'Rourke Cup ) Section B (15)
+- 173089 Division 1 - Mercer League (182)
+- 172687 Division 2 (O'Gara  Cup ) Final (1)
+- 169020 Division 2 (O'Gara Cup ) (45)
+- 173090 Division 2 - Enda Love Cup (72)
+- 170093 Division 2 League Cup (9)
+- 171205 Division 2 Shield (1)
+- 173597 Division 2A Championship Knockout (5)
+- 172569 Division 2A Championship grp1 (6)
+- 172570 Division 2A Championship grp2 (6)
+- 172676 Division 2B Championship (9)
+- 173379 Division 2B Championship Knockout (7)
+- 173620 Division 2C Championship Knockout (5)
+- 172573 Division 2c Championship grp1 (6)
+- 172574 Division 2c Championship grp2 (6)
+- 173091 Division 3 - Brendan Keogh Memorial Cup (72)
+- 169382 Division 3 Hurling League Group B (1)
+- 170506 Division 3 League Cup (8)
+- 169025 Division 3 Tansey Cup (45)
+- 172533 Division 3 Tansey Cup Final (1)
+- 172258 Division 4 Final (1)
+- 170112 Division 4 Football (56)
+- 171157 Division 4 Quarter Finals (4)
+- 171495 Division 4 Relegation Playoff (3)
+- 169024 Division 4 Section A (15)
+- 169019 Division 4 Section B (15)
+- 171536 Division 4 Semi final (2)
+- 172257 Division 5 Final (1)
+- 171158 Division 5 Quarter final (2)
+- 169023 Division 5 Section A (15)
+- 169018 Division 5 Section B (15)
+- 169022 Division 5 Section C (15)
+- 171159 Division 5 Semi final (2)
+- 177290 Divisional Senior Football Championship Final (1)
+- 176103 Dominic Smith Expert Electrical Senior Football Championship  Knockout (8)
+- 174072 Dominic Smith Expert Electrical Senior Football Championship Gp A (15)
+- 174076 Dominic Smith Expert Electrical Senior Football Championship Gp B (15)
+- 177551 Donal & Rose Younge Mid U21 A Hurling (4)
+- 173147 Donegal Physiotherapy & Performance Centre D2 (90)
+- 172550 Doran Oil Premier Intermediate Hurling Championship (3)
+- 177413 Duff Cup (Junior) (25)
+- 177502 Dunbar Keg 2022 (5)
+- 170928 Développement F (13)
+- 173455 Développement Féminin - Séries (2)
+- 174318 E Championship Cup (7)
+- 175211 E Championship Shield (3)
+- 173015 EAST KERRY JUNIOR LEAGUE DIXISON 1. (3)
+- 173014 EAST KERRY JUNIOR LEAGUE DIXISON 2 (4)
+- 171500 EBS Mortages Wexford ACFL Div 1 Final (1)
+- 171662 EBS Mortages Wexford ACFL Div 2 Final (1)
+- 171664 EBS Mortages Wexford ACFL Div 3  Final (1)
+- 171663 EBS Mortages Wexford ACFL Div 4  Final (1)
+- 171665 EBS Mortages Wexford ACFL Div 5  Final (1)
+- 168802 EBS Mortages Wexford All County Football League Div 1 (36)
+- 168806 EBS Mortages Wexford All County Football League Div 2 (36)
+- 168803 EBS Mortages Wexford All County Football League Div 3 (36)
+- 168801 EBS Mortages Wexford All County Football League Div 4 (36)
+- 168804 EBS Mortages Wexford All County Football League Div 5 (36)
+- 171828 EEW All County Hurling League Div 1 Final (1)
+- 171826 EEW All County Hurling League Div 2 Final (1)
+- 171829 EEW All County Hurling League Div 3 Final (1)
+- 171827 EEW All County Hurling League Div 4 Final (1)
+- 171830 EEW All County Hurling League Div 5 Final (1)
+- 171297 EORU Men D1 (31)
+- 171299 EORU Men D2 (19)
+- 170585 EORU Old Boys (13)
+- 171326 EORU Womens League (21)
+- 172962 EPCR Challenge Cup (13)
+- 171215 EPCR Challenge Cup Final (1)
+- 170569 EPCR Challenge Cup Quarter Finals (1)
+- 171042 EPCR European Challenge Cup Semi Finals (2)
+- 171030 EPCR European Champions Cup Semi Final (1)
+- 170567 EPCR Heineken Champions Cup Quarter Finals (2)
+- 171300 ERU E2 (48)
+- 171327 ERU EW2 (44)
+- 172410 ERU Exhibition (3)
+- 173168 ERU Masters (6)
+- 171196 ERU U13 Boys 13s (41)
+- 171197 ERU U13 Girls 10s (59)
+- 171328 ERU U13 Girls 13s (4)
+- 171199 ERU U15 Boys 15s (32)
+- 171198 ERU U15 Girls 15s (41)
+- 172779 ERU U17 Boys (24)
+- 172778 ERU U17 Girls (14)
+- 172781 ERU U19 Boys (11)
+- 172780 ERU U19 Girls (21)
+- 170425 EYHL 2 2022/23 play off Men (1)
+- 169334 EYHL Champions Trophy Men (5)
+- 169335 EYHL Champions Trophy Women (5)
+- 173694 EYHL Division 2 Men Pool A (20)
+- 173695 EYHL Division 2 Men Pool B (20)
+- 169336 EYHL Division 2 Mens Finals (5)
+- 173696 EYHL Division 2 Women Pool A (20)
+- 173699 EYHL Division 2 Women Pool B (20)
+- 173667 EYHL Men (90)
+- 173669 EYHL Women (90)
+- 170678 East Mayo Centenary Cup Final 2022 (1)
+- 171660 East Mayo JFC A Final 2022 (1)
+- 171661 East Mayo JFC B Final 2022 (1)
+- 171121 East Mayo JFC B Group 2 (3)
+- 171119 East Mayo JFCB Group 1 (3)
+- 171120 East Mayo Junior A Championship (3)
+- 170329 East Mayo U12 Group 1 League 2022 (6)
+- 170332 East Mayo U12 Group 2 League 2022 (10)
+- 170330 East Mayo U12 Group 3 League 2022 (6)
+- 170672 East Mayo U14A Championship Knockout 2022 (1)
+- 168709 East Mayo U14B Championship 2022 (12)
+- 170673 East Mayo U14B Championship Knockout 2022 (1)
+- 168705 East Mayo U16B Championship 2022 (15)
+- 170422 East Mayo U16B Championship Knockout  2022 (1)
+- 169832 East Mayo U18A Championship Knockout  2022 (1)
+- 169833 East Mayo U18B Championship Knockout  2022 (1)
+- 169860 East U11 Gaelic Football Division 1 (21)
+- 169863 East U11 Gaelic Football Division 2 (15)
+- 170576 East kerry senior League Div 1. (4)
+- 176222 Eddie O'Donnell Monumental Works East U-20 A Hurling Championship (3)
+- 176221 Eddie O'Donnell Monumental Works East U-20 B Hurling Championship (5)
+- 170596 Edmonton Metro SNG Girls (53)
+- 170595 Edmonton Metro SNR Boys (46)
+- 170747 EirGrid GAA Football All-Ireland U20 Championship (1)
+- 170424 EirGrid GAA Football Under 20 Munster Championship (2)
+- 171746 Electric Ireland GAA Football All-Ireland Minor Championship (2)
+- 168749 Electric Ireland HE GAA Corn Comhairle Ardoideachais Finals (1)
+- 168840 Electric Ireland HE GAA Corn Comhairle Ardoideachais Finals (3)
+- 168799 Electric Ireland HE GAA Fresher 2 Football Championship Group B (2)
+- 168740 Electric Ireland HE GAA Fresher 2 Football Championship Group C (1)
+- 168800 Electric Ireland HE GAA Intermediate Football Championship (1)
+- 168723 Electric Ireland HE GAA Sigerson Cup (4)
+- 168798 Electric Ireland HE GAA Trench Cup Finals (4)
+- 170982 Electric Ireland Munster GAA Football Minor Championship (2)
+- 169917 Electric Ireland Munster GAA Hurling Minor Championship (2)
+- 170643 Electric Ireland Munster Minor Hurling Championship (1)
+- 170757 Emerging Senior Women Interpro (1)
+- 172959 Emirates Dubai 7s (1)
+- 172934 Energia AIL Junior Cup (16)
+- 172948 Energia All Ireland League 1A 22/23 (90)
+- 172949 Energia All Ireland League 1B 22/23 (90)
+- 172946 Energia All Ireland League 2A 22/23 (90)
+- 172950 Energia All Ireland League 2B 22/23 (90)
+- 172947 Energia All Ireland League 2C 22/23 (90)
+- 173413 Energia Womens AIL League (38)
+- 174071 Enniscorthy Farm Systems Junior A Football Championship Gp A (15)
+- 174075 Enniscorthy Farm Systems Junior A Football Championship Gp B (15)
+- 176051 Enniscorthy Farm Systems Junior A Football Championship Knockout (7)
+- 176606 Enniscorthy Farm Systems Junior B Championship (7)
+- 174070 Enniscorthy Farm Systems Junior Football Championship Gp A (15)
+- 174074 Enniscorthy Farm Systems Junior Football Championship Gp B (15)
+- 176104 Enniscorthy Farm Systems Junior Football Championship Knockout (8)
+- 173343 Excellence A - Men-Hommes (56)
+- 171637 Excellence A Play off - Men-Hommes (3)
+- 170869 Exhibition Calgary (9)
+- 173847 Exhibition Junior (1)
+- 170781 Exhibition Matches SR Men (4)
+- 172141 Exhibition Regional (5)
+- 175133 FAI Junior Cup (33)
+- 175160 FAI Junior Cup (13)
+- 175165 FAI U17 Cup Boys (16)
+- 169538 FAI Women U17 Cup (2)
+- 175164 FAI Youth Cup U18 (18)
+- 176373 FBD County Junior B Hurling Championship (7)
+- 171323 FBD Hurling League - Division 5 (2)
+- 175682 FBD Insurance -  Intermediate Hurling - Relegation (3)
+- 168831 FBD Insurance - County Football League - Division 1 - Group 1 (15)
+- 168830 FBD Insurance - County Football League - Division 1 - Group 2 (15)
+- 171529 FBD Insurance - County Football League - Division 2 (3)
+- 168902 FBD Insurance - County Football League - Division 2  - Group Rounds (15)
+- 170934 FBD Insurance - County Football League - Division 3 (3)
+- 168903 FBD Insurance - County Football League - Division 3 - Group 1 (6)
+- 168904 FBD Insurance - County Football League - Division 3 - Group 2 (6)
+- 171415 FBD Insurance - County Football League Div 1 (3)
+- 171320 FBD Insurance - County Hurling League - Div 4 (3)
+- 171321 FBD Insurance - County Hurling League - Division 1 (3)
+- 171322 FBD Insurance - County Hurling League - Division 2 (3)
+- 171156 FBD Insurance - County Hurling League - Division 3 (4)
+- 169821 FBD Insurance - County Hurling League - Division 5 - Group 1 (15)
+- 169823 FBD Insurance - County Hurling League - Division 5 - Group 2 (10)
+- 169824 FBD Insurance - County Hurling League - Division 5 - Group 3 (15)
+- 170933 FBD Insurance - County Hurling League - Division 6 (3)
+- 169822 FBD Insurance - County Hurling League - Division 6 - Group 1 (6)
+- 169825 FBD Insurance - County Hurling League - Division 6 - Group 2 (6)
+- 175233 FBD Insurance - County Intermediate Football Championship (7)
+- 172431 FBD Insurance - County Intermediate Football Championship - Group 1 (6)
+- 172435 FBD Insurance - County Intermediate Football Championship - Group 2 (6)
+- 172432 FBD Insurance - County Intermediate Football Championship - Group 3 (6)
+- 172438 FBD Insurance - County Intermediate Football Championship - Group 4 (4)
+- 175231 FBD Insurance - County Intermediate Hurling Championship (11)
+- 172387 FBD Insurance - County Intermediate Hurling Championship - Group 1 (6)
+- 172381 FBD Insurance - County Intermediate Hurling Championship - Group 2 (6)
+- 172388 FBD Insurance - County Intermediate Hurling Championship - Group 3 (6)
+- 172382 FBD Insurance - County Intermediate Hurling Championship - Group 4 (6)
+- 176020 FBD Insurance - County Junior A Football Championship (7)
+- 175678 FBD Insurance - County Junior A Hurling Championship (7)
+- 176626 FBD Insurance - County Junior B Football Championship (7)
+- 175232 FBD Insurance - County Senior Football Championship (7)
+- 172429 FBD Insurance - County Senior Football Championship - Group 1 (6)
+- 172433 FBD Insurance - County Senior Football Championship - Group 2 (6)
+- 172430 FBD Insurance - County Senior Football Championship - Group 3 (6)
+- 172434 FBD Insurance - County Senior Football Championship - Group 4 (9)
+- 175230 FBD Insurance - County Senior Hurling Championship (10)
+- 172383 FBD Insurance - County Senior Hurling Championship - Group 1 (6)
+- 172377 FBD Insurance - County Senior Hurling Championship - Group 2 (6)
+- 172384 FBD Insurance - County Senior Hurling Championship - Group 3 (6)
+- 172378 FBD Insurance - County Senior Hurling Championship - Group 4 (6)
+- 176854 FBD Insurance - County U/19 A Football Championship (3)
+- 174678 FBD Insurance - County U/19 A Hurling Championship (5)
+- 176808 FBD Insurance - County U/19 B Football Championship (3)
+- 174679 FBD Insurance - County U/19 B Hurling Championship (5)
+- 175679 FBD Insurance - Premier Intermediate Hurling - Relegation (3)
+- 175229 FBD Insurance - Premier Intermediate Hurling Championship (9)
+- 172385 FBD Insurance - Premier Intermediate Hurling Championship - Group 1 (6)
+- 172379 FBD Insurance - Premier Intermediate Hurling Championship - Group 2 (6)
+- 172386 FBD Insurance - Premier Intermediate Hurling Championship - Group 3 (6)
+- 172380 FBD Insurance - Premier Intermediate Hurling Championship - Group 4 (6)
+- 176021 FBD Insurance - Senior Football Relegation (1)
+- 175250 FBD Insurance - Senior Hurling Relegation (3)
+- 175234 FBD Insurance - Tom Cusack Cup (7)
+- 173882 FSR Cup-Coupe FSR (13)
+- 169510 Father Godfrey Plate Final (Junior) (1)
+- 170603 Feile A 2022 Group 1 (3)
+- 170607 Feile A 2022 Group 2 (3)
+- 170604 Feile C 2022 Group 1 (3)
+- 170608 Feile C 2022 Group 2 (3)
+- 170605 Feile C 2022 Group 3 (7)
+- 170834 Feile Division 2 Final 2022 (3)
+- 169068 Feile Football Div 1 (6)
+- 169069 Feile Football Div 2 (12)
+- 169067 Feile Football Div 3 (7)
+- 169070 Feile Football Div 4 (7)
+- 172705 Feile Peil na nOg D1 (2)
+- 172560 Feile Peil na nOg D1 G3 (2)
+- 172501 Feile na nGael Div 1 (1)
+- 172315 Feile na nGael Div 1 Group 3 (2)
+- 175850 Fermanagh Hurling U15 A final (1)
+- 175852 Fermanagh Hurling U15 B final (1)
+- 175855 Fermanagh Hurling U17 Final (1)
+- 172722 Finan Cup (1)
+- 172723 Finan Cup (1)
+- 172900 Finan Cup (1)
+- 172522 Finnegan Cup (1)
+- 172523 Finnegan Cup (1)
+- 172797 Finnegan Cup (1)
+- 169176 Fitzgerald Hurleys JB1 Hurling (1)
+- 170025 Flanders Open Rugby Festival (2)
+- 170096 Flex League (32)
+- 170885 Forth Mountain Wexford People 2022 U17 Division 1 Football Tournament Shield (6)
+- 170887 Forth Mountain Wexford People 2022 u17 Division 1 Football Tournament Cup (7)
+- 169981 Frank Kelly Memorial League (17)
+- 169260 Fraser McMullen Cup (7)
+- 173758 Friendly Fixtures (145)
+- 175656 Fé 13 C3 Division 5 Football League Cup Quarter-Finals (2)
+- 171535 GAA Football All-Ireland Senior Championship (3)
+- 171741 GAA Hurling All-Ireland Senior Championship (1)
+- 175991 GBL : D1 : 2022-2023 (191)
+- 175992 GBL : D2 : 2022-2023 (90)
+- 176359 GBL : D3 : 2022-2023 (88)
+- 176364 GBL : D4 : 2022-2023 (109)
+- 176365 GBL : D5 : 2022-2023 (113)
+- 176424 GBL : D6 : 2022-2023 (134)
+- 176532 GBL : IL : 2022-2023 (19)
+- 176271 GBL : JL1 : 2022-2023 (84)
+- 176272 GBL : JL2 : 2022-2023 (100)
+- 176285 GBL : LL1 : 2022-2023 (68)
+- 176308 GBL : LL2 : 2022-2023 (186)
+- 176309 GBL : LL3 : 2022-2023 (88)
+- 176423 GBL : Masters D2 : 2022-2023 (146)
+- 177081 GBL : Masters North D1 : 2022-2023 (40)
+- 176426 GBL : Masters South D1 : 2022-2023 (38)
+- 176198 GBL : SL1 : 2022-2023 (67)
+- 176199 GBL : SL2 : 2022-2023 (51)
+- 176197 GBL : U20 : 2022-2023 (68)
+- 176310 GBL : Womens D1 : 2022-2023 (28)
+- 176093 GBL : Womens D2 : Late 2022 (65)
+- 176355 GCBA : D1 : 2022-2023 (39)
+- 170703 GCBA : D1 : WINTER 2022 (53)
+- 176356 GCBA : D2 : 2022-2023 (88)
+- 170704 GCBA : D2 : WINTER 2022 (70)
+- 170705 GCBA : D3 : WINTER 2022 (90)
+- 176352 GCBA : IL : 2022-2023 (54)
+- 176353 GCBA : JL : 2022-2023 (54)
+- 176351 GCBA : LL Majors : 2022-2023 (70)
+- 176350 GCBA : LL Minors : 2022-2023 (86)
+- 170706 GCBA : MASTERS : WINTER 2022 (71)
+- 176354 GCBA : SL : 2022-2023 (37)
+- 169535 GFA Girls U17 Premier League (55)
+- 170237 GFA O35s Junior 2022 (21)
+- 170238 GFA O35s Non-Junior 2022 (45)
+- 172675 GFA O35s NonJunior A Finals 2022 (3)
+- 172678 GFA O35s NonJunior B Finals 2022 (3)
+- 172679 GFA O35s NonJunior C Finals 2022 (1)
+- 172671 GFA Over 35s Junior A Finals 2022 (3)
+- 172672 GFA Over 35s Junior B Finals 2022 (3)
+- 170692 GFA U11 Boys Jupiter (10)
+- 171608 GFA U11 Boys Jupiter Cup (3)
+- 170682 GFA U11 Boys Mars (6)
+- 171602 GFA U11 Boys Mars - Kevin Power Cup (3)
+- 170693 GFA U11 Boys Mercury (6)
+- 171604 GFA U11 Boys Mercury Cup (3)
+- 170683 GFA U11 Boys Neptune (10)
+- 171635 GFA U11 Boys Neptune Cup (3)
+- 170694 GFA U11 Boys Pluto (6)
+- 171603 GFA U11 Boys Pluto Cup (3)
+- 170695 GFA U11 Boys Saturn (6)
+- 171606 GFA U11 Boys Saturn Cup (3)
+- 170696 GFA U11 Boys Sun (6)
+- 171605 GFA U11 Boys Sun Cup (3)
+- 170697 GFA U11 Boys Venus (10)
+- 171607 GFA U11 Boys Venus Cup (3)
+- 169890 GFA U11 Girls Eagle (6)
+- 169888 GFA U11 Girls Goldfinch (6)
+- 169889 GFA U11 Girls Starling (10)
+- 174971 GFA U12 Girls Championship (30)
+- 176971 GFA U12 Girls Div 2 (53)
+- 174972 GFA U12 Girls Division 1 (30)
+- 175029 GFA U12 Girls Division 3 (29)
+- 174970 GFA U12 Girls Premier (30)
+- 174990 GFA U13 Girls Championship (42)
+- 175079 GFA U13 Girls Division 1 (20)
+- 175080 GFA U13 Girls Division 2 (42)
+- 174985 GFA U13 Girls Premier (30)
+- 175200 GFA U14 Girls Championship (31)
+- 174807 GFA U14 Girls Division 1 (42)
+- 174805 GFA U14 Girls Premier (30)
+- 175083 GFA U15 Girls Championship (30)
+- 175084 GFA U15 Girls Division 1 (20)
+- 175082 GFA U15 Girls Premier (30)
+- 174810 GFA U16 Girls (42)
+- 175031 GFA U17 Girls Championship (18)
+- 175030 GFA U17 Girls Premier (17)
+- 169078 GFA U17 Premier Cup (6)
+- 169425 GFA U18 Premier Cup (5)
+- 177521 GFA U19 Girls Premier (18)
+- 177303 Gallagher Premiership Rugby (1)
+- 176625 Galway Post Primary Senior A Football Championship (6)
+- 176624 Galway Post Primary Senior B Football Championship (6)
+- 171847 Gaynor Bowl 2022 (4)
+- 171426 Gaynor Cup - Group 1 (10)
+- 171427 Gaynor Cup - Group 2 (10)
+- 171428 Gaynor Cup - Group 3 (10)
+- 171429 Gaynor Cup - Group 4 (10)
+- 171431 Gaynor Cup - Group 5 (10)
+- 171117 Gaynor Cup 2022 (10)
+- 171842 Gaynor Cup 2022 (4)
+- 171845 Gaynor Plate 2022 (4)
+- 171849 Gaynor Shield 2022 (4)
+- 171851 Gaynor Trophy 2022 (4)
+- 173790 George Tees Cup (1)
+- 173428 Ger Gavin U19A North Hurling Championship (5)
+- 173427 Ger Gavin U19B North Hurling Championship (5)
+- 169692 Gerry Kennedy Crash Repairs East Intermediate Hurling Championship Group 1 (3)
+- 169697 Gerry Kennedy Crash Repairs East Intermediate Hurling Championship Group 2 (3)
+- 169698 Gerry Kennedy Crash Repairs East Intermediate Hurling Championship Group 3 (6)
+- 173443 Gerry Kennedy Crash Repairs East Intermediate Hurling Championship Knockouts (9)
+- 169885 Gerry Kennedy Crash Repairs East Junior A Hurling Championship Group 1 (6)
+- 169884 Gerry Kennedy Crash Repairs East Junior A Hurling Championship Group 2 (6)
+- 173532 Gerry Kennedy Crash Repairs East Junior A Hurling Championship Knockouts (7)
+- 170379 Girls (36)
+- 176961 Girls  Connacht Shield Under 14 (8)
+- 177080 Girls Clubs U14 Blitz (3)
+- 176235 Girls Clubs U14 Conf 1 (21)
+- 176238 Girls Clubs U14 Conf 2 (21)
+- 176239 Girls Clubs U14 Conf 3 (15)
+- 176292 Girls Clubs U14 Development League (2)
+- 175330 Girls Clubs U14 Friendly (37)
+- 176293 Girls Clubs U16 Development League (5)
+- 175331 Girls Clubs U16 Friendly (31)
+- 173067 Girls Clubs U17 Friendly (7)
+- 173068 Girls Clubs U18.5 Friendly (27)
+- 176847 Girls Connacht Shield Under 12 (7)
+- 176962 Girls Connacht Shield Under 16 (5)
+- 172828 Girls NL U14 (26)
+- 172826 Girls NL U16 (26)
+- 177135 Girls Schools U16 Friendly (8)
+- 175431 Girls Subway Under 16 SFAI Cup (15)
+- 170077 Girls Tag (1)
+- 169143 Girls U14 Plate (6)
+- 169445 Girls U16 Development Bowl Final (1)
+- 173967 Girls U16 Interpros (10)
+- 177601 Girls U16 Ipro Finals (2)
+- 173972 Girls U18 Interpros (10)
+- 177600 Girls U18 Ipro Finals (2)
+- 170798 Girls Under 11 (30)
+- 172461 Girls Under 12 Black Division (20)
+- 174566 Girls Under 12 Connacht Cup (31)
+- 176960 Girls Under 12 Connacht Shield (6)
+- 173179 Girls Under 12 Cup (15)
+- 173184 Girls Under 12 Girls Shield (15)
+- 172459 Girls Under 12 Gold Division (20)
+- 172460 Girls Under 12 Green Division (20)
+- 175429 Girls Under 12 SFAI Subway Cup (16)
+- 172462 Girls Under 12 White Division (20)
+- 169605 Girls Under 13 Blue Division (29)
+- 169974 Girls Under 13 Cup (15)
+- 169613 Girls Under 13 Red Division (43)
+- 174567 Girls Under 14 Connacht Cup (31)
+- 173186 Girls Under 14 Cup (15)
+- 172532 Girls Under 14 Division 1 (42)
+- 172531 Girls Under 14 Premier Division (30)
+- 175430 Girls Under 14 SFAI Subway Cup (21)
+- 169967 Girls Under 15 Cup (15)
+- 169653 Girls Under 15 Division 1A (20)
+- 169654 Girls Under 15 Division 1B (24)
+- 174568 Girls Under 16 Connacht Cup (28)
+- 173185 Girls Under 16 Cup (15)
+- 172465 Girls Under 16 Division 1 (56)
+- 172464 Girls Under 16 Premier Division (20)
+- 169973 Girls Under 17 Cup (15)
+- 169627 Girls Under 17 Division 1 (32)
+- 169688 Girls Under 17 Premier (30)
+- 175666 Girls Youth Blitz (2)
+- 169651 Girls under 15 Premier (20)
+- 170615 Gleeson Cup (1)
+- 176531 Gleeson Quarries Senior Football Championship (5)
+- 173148 Glencar Inn Division One (132)
+- 176148 Go Ahead Adult Hurling League Division Nine Promotion (1)
+- 176147 Go Ahead Adult Hurling League Division Two Relegation (1)
+- 175064 Go Ahead Championship Inter 1 Final (2)
+- 175016 Go Ahead Championship Inter 1 Semi finals (4)
+- 175065 Go Ahead Championship Inter 2 Final (3)
+- 175017 Go Ahead Championship Inter 2 Semi Finals (4)
+- 175010 Go Ahead Championship Inter Playoffs (2)
+- 175066 Go Ahead Championship Junior 1 Final (2)
+- 173322 Go Ahead Championship Junior 1 Group A (6)
+- 173323 Go Ahead Championship Junior 1 Group B (6)
+- 175018 Go Ahead Championship Junior 1 Semi Finals (4)
+- 175067 Go Ahead Championship Junior 2 Final (1)
+- 173324 Go Ahead Championship Junior 2 Group A (6)
+- 173325 Go Ahead Championship Junior 2 Group B (6)
+- 175019 Go Ahead Championship Junior 2 Semi Finals (3)
+- 175068 Go Ahead Championship Junior 3 Final (2)
+- 173326 Go Ahead Championship Junior 3 Group A (6)
+- 173327 Go Ahead Championship Junior 3 Group B (6)
+- 175020 Go Ahead Championship Junior 3 Semi Finals (3)
+- 175069 Go Ahead Championship Junior 4 Final (3)
+- 173328 Go Ahead Championship Junior 4 Group A (6)
+- 173329 Go Ahead Championship Junior 4 Group B (6)
+- 175021 Go Ahead Championship Junior 4 Semi Finals (4)
+- 175070 Go Ahead Championship Junior 5 Final (2)
+- 173330 Go Ahead Championship Junior 5 Group A (6)
+- 173331 Go Ahead Championship Junior 5 Group B (6)
+- 175022 Go Ahead Championship Junior 5 Semi Finals (2)
+- 175071 Go Ahead Championship Junior 6 Final (2)
+- 173332 Go Ahead Championship Junior 6 Group A (6)
+- 173333 Go Ahead Championship Junior 6 Group B (6)
+- 175023 Go Ahead Championship Junior 6 Semi Finals (4)
+- 175062 Go Ahead Championship Senior 1 Final (3)
+- 175014 Go Ahead Championship Senior 1 Semi Finals (4)
+- 175063 Go Ahead Championship Senior 2 Final (3)
+- 175015 Go Ahead Championship Senior 2 Semi Finals (4)
+- 175009 Go Ahead Championship Senior Playoffs (2)
+- 175012 Go Ahead Championship U18 Playoffs (5)
+- 175217 Go Ahead Intermediate All County Football Championship (7)
+- 177136 Go Ahead Intermediate All County Football Championship Final (1)
+- 171906 Go Ahead Intermediate All County Football Championship G 1 (6)
+- 171908 Go Ahead Intermediate All County Football Championship G 2 (6)
+- 171910 Go Ahead Intermediate All County Football Championship G 3 (6)
+- 171912 Go Ahead Intermediate All County Football Championship G 4 (6)
+- 176475 Go Ahead Intermediate All County Football Championship S/f (2)
+- 175218 Go Ahead Intermediate Club Football Championship (6)
+- 176476 Go Ahead Intermediate Club Football Championship Final (1)
+- 171669 Go Ahead Intermediate Club Football Championship Group 1 (6)
+- 171670 Go Ahead Intermediate Club Football Championship Group 2 (6)
+- 171671 Go Ahead Intermediate Club Football Championship Group 3 (6)
+- 171672 Go Ahead Intermediate Club Football Championship Group 4 (6)
+- 175802 Go Ahead Intermediate Club Football Championship SemiFinal (2)
+- 176709 Go Ahead Intermediate Hurling Championship Final (1)
+- 177130 Go Ahead Intermediate Hurling Championship Final Replay (1)
+- 171449 Go Ahead Intermediate Hurling Championship Group 1 (15)
+- 171450 Go Ahead Intermediate Hurling Championship Group 2 (15)
+- 175554 Go Ahead Intermediate Hurling Championship Quarter Final (2)
+- 175558 Go Ahead Intermediate Hurling Championship Relegation (2)
+- 176167 Go Ahead Intermediate Hurling Championship Semi Final (2)
+- 175215 Go Ahead Junior 1 All County Football Championship (6)
+- 176473 Go Ahead Junior 1 All County Football Championship Final (1)
+- 171896 Go Ahead Junior 1 All County Football Championship Group 1 (6)
+- 171899 Go Ahead Junior 1 All County Football Championship Group 2 (6)
+- 171901 Go Ahead Junior 1 All County Football Championship Group 3 (6)
+- 171902 Go Ahead Junior 1 All County Football Championship Group 4 (6)
+- 175806 Go Ahead Junior 1 All County Football Championship Semi Final (2)
+- 175216 Go Ahead Junior 1 Club Football Championship (7)
+- 176911 Go Ahead Junior 1 Club Football Championship Final (1)
+- 177129 Go Ahead Junior 1 Club Football Championship Final Replay (1)
+- 171673 Go Ahead Junior 1 Club Football Championship Group 1 (6)
+- 171674 Go Ahead Junior 1 Club Football Championship Group 2 (6)
+- 171675 Go Ahead Junior 1 Club Football Championship Group 3 (6)
+- 171676 Go Ahead Junior 1 Club Football Championship Group 4 (6)
+- 176474 Go Ahead Junior 1 Club Football Championship Semifinal (2)
+- 175214 Go Ahead Junior 2 All County Football Championship (6)
+- 176472 Go Ahead Junior 2 All County Football Championship Final (1)
+- 171887 Go Ahead Junior 2 All County Football Championship Group 1 (6)
+- 171890 Go Ahead Junior 2 All County Football Championship Group 2 (6)
+- 171892 Go Ahead Junior 2 All County Football Championship Group 3 (6)
+- 171894 Go Ahead Junior 2 All County Football Championship Group 4 (6)
+- 175807 Go Ahead Junior 2 All County Football Championship Semi Final (2)
+- 177341 Go Ahead Junior 2 Club Football Championship Final (1)
+- 171666 Go Ahead Junior 2 Club Football Championship Group 1 (28)
+- 171667 Go Ahead Junior 2 Club Football Championship Group 2 (15)
+- 177276 Go Ahead Junior 2 Club Football Championship Semi Final (2)
+- 175213 Go Ahead Junior 3 All County Football Championship (4)
+- 176468 Go Ahead Junior 3 All County Football Championship Final (1)
+- 171885 Go Ahead Junior 3 All County Football Championship Group 1 (6)
+- 171884 Go Ahead Junior 3 All County Football Championship Group 2 (7)
+- 171883 Go Ahead Junior 3 All County Football Championship Group 3 (6)
+- 171882 Go Ahead Junior 3 All County Football Championship Group 4 (6)
+- 175812 Go Ahead Junior 3 All County Football Championship SemiFinal (2)
+- 177342 Go Ahead Junior 4 All County Football Championship Final (1)
+- 171881 Go Ahead Junior 4 All County Football Championship Group 1 (6)
+- 171879 Go Ahead Junior 4 All County Football Championship Group 2 (15)
+- 171877 Go Ahead Junior 4 All County Football Championship Group 3 (6)
+- 171873 Go Ahead Junior 4 All County Football Championship Group 4 (15)
+- 176480 Go Ahead Junior 4 All County Football Championship Q/f (4)
+- 176944 Go Ahead Junior 4 All County Football Championship S/f (2)
+- 175212 Go Ahead Junior 5 All County Football Championship (6)
+- 176467 Go Ahead Junior 5 All County Football Championship Final (1)
+- 171825 Go Ahead Junior 5 All County Football Championship Group 1 (6)
+- 171824 Go Ahead Junior 5 All County Football Championship Group 2 (6)
+- 171823 Go Ahead Junior 5 All County Football Championship Group 3 (6)
+- 171822 Go Ahead Junior 5 All County Football Championship Group 4 (6)
+- 175813 Go Ahead Junior 5 All County Football Championship SemiFinal (2)
+- 176466 Go Ahead Junior 6 All County Football Championship North Final (1)
+- 176465 Go Ahead Junior 6 All County Football Championship South Final (1)
+- 175190 Go Ahead Junior 6 North All County Football Championship (4)
+- 171798 Go Ahead Junior 6 North All County Football Championship G1 (6)
+- 171797 Go Ahead Junior 6 North All County Football Championship G2 (6)
+- 171796 Go Ahead Junior 6 North All County Football Championship G3 (6)
+- 171795 Go Ahead Junior 6 North All County Football Championship G4 (6)
+- 175814 Go Ahead Junior 6 North All County Football Championship S/f (2)
+- 175189 Go Ahead Junior 6 South All County Football Championship (4)
+- 171717 Go Ahead Junior 6 South All County Football Championship G1 (6)
+- 171708 Go Ahead Junior 6 South All County Football Championship G2 (6)
+- 171709 Go Ahead Junior 6 South All County Football Championship G3 (6)
+- 171718 Go Ahead Junior 6 South All County Football Championship G4 (6)
+- 175815 Go Ahead Junior 6 South All County Football Championship Semi Final (2)
+- 176706 Go Ahead Junior A Hurling Championship Final (1)
+- 171447 Go Ahead Junior A Hurling Championship Group 1 (15)
+- 171448 Go Ahead Junior A Hurling Championship Group 2 (15)
+- 175551 Go Ahead Junior A Hurling Championship Quarter Final (4)
+- 175553 Go Ahead Junior A Hurling Championship Relegation (2)
+- 176146 Go Ahead Junior A Hurling Championship Semi Final (2)
+- 176705 Go Ahead Junior B Hurling Championship Final (1)
+- 171445 Go Ahead Junior B Hurling Championship Group 1 (15)
+- 171446 Go Ahead Junior B Hurling Championship Group 2 (15)
+- 175548 Go Ahead Junior B Hurling Championship Quarter Final (4)
+- 175550 Go Ahead Junior B Hurling Championship Relegation (2)
+- 176140 Go Ahead Junior B Hurling Championship Semi Final (2)
+- 176704 Go Ahead Junior C Hurling Championship Final (1)
+- 171442 Go Ahead Junior C Hurling Championship Group 1 (15)
+- 171443 Go Ahead Junior C Hurling Championship Group 2 (15)
+- 175540 Go Ahead Junior C Hurling Championship Quarter Final (4)
+- 175546 Go Ahead Junior C Hurling Championship Relegation (2)
+- 176136 Go Ahead Junior C Hurling Championship Semi Final (2)
+- 176703 Go Ahead Junior D Hurling Championship Final (1)
+- 171441 Go Ahead Junior D Hurling Championship Group 1 (15)
+- 171440 Go Ahead Junior D Hurling Championship Group 2 (15)
+- 175536 Go Ahead Junior D Hurling Championship Quarter Final (4)
+- 175539 Go Ahead Junior D Hurling Championship Relegation (2)
+- 176132 Go Ahead Junior D Hurling Championship Semi Final (2)
+- 176701 Go Ahead Junior E Hurling Championship Final (1)
+- 171317 Go Ahead Junior E Hurling Championship Group 1 (15)
+- 171319 Go Ahead Junior E Hurling Championship Group 2 (15)
+- 175526 Go Ahead Junior E Hurling Championship Quarter final (4)
+- 175528 Go Ahead Junior E Hurling Championship Relegation (2)
+- 176131 Go Ahead Junior E Hurling Championship Semi Final (2)
+- 176702 Go Ahead Junior F Hurling Championship Final (1)
+- 171315 Go Ahead Junior F Hurling Championship Group 1 (15)
+- 171316 Go Ahead Junior F Hurling Championship Group 2 (15)
+- 175519 Go Ahead Junior F Hurling Championship Quarter Final (4)
+- 175520 Go Ahead Junior F Hurling Championship Relegation Playoff (2)
+- 176130 Go Ahead Junior F Hurling Championship Semi Finals (2)
+- 176700 Go Ahead Junior G Hurling Championship Final (1)
+- 171313 Go Ahead Junior G Hurling Championship Group 1 (15)
+- 171314 Go Ahead Junior G Hurling Championship Group 2 (15)
+- 175516 Go Ahead Junior G Hurling Championship Quarter Final (4)
+- 175517 Go Ahead Junior G Hurling Championship Relegation Playoff (2)
+- 176127 Go Ahead Junior G Hurling Championship Semi Final (2)
+- 176699 Go Ahead Junior H Hurling Championship Final (1)
+- 171312 Go Ahead Junior H Hurling Championship Group 1 (15)
+- 171311 Go Ahead Junior H Hurling Championship Group 2 (15)
+- 175515 Go Ahead Junior H Hurling Championship Quarter-final (4)
+- 176118 Go Ahead Junior H Hurling Championship Semi final (2)
+- 175220 Go Ahead Senior 1 Club Football Championship (6)
+- 176478 Go Ahead Senior 1 Club Football Championship Final (1)
+- 171916 Go Ahead Senior 1 Club Football Championship Group 1 (6)
+- 171920 Go Ahead Senior 1 Club Football Championship Group 2 (6)
+- 171921 Go Ahead Senior 1 Club Football Championship Group 3 (6)
+- 171923 Go Ahead Senior 1 Club Football Championship Group 4 (6)
+- 175800 Go Ahead Senior 1 Football Championship Semifinal (2)
+- 176713 Go Ahead Senior 1 Hurling Championship Final (1)
+- 171502 Go Ahead Senior 1 Hurling Championship Group 1 (15)
+- 171503 Go Ahead Senior 1 Hurling Championship Group 2 (15)
+- 175567 Go Ahead Senior 1 Hurling Championship Quarter Final (2)
+- 175568 Go Ahead Senior 1 Hurling Championship Relegation (2)
+- 176175 Go Ahead Senior 1 Hurling Championship Semi Final (2)
+- 175219 Go Ahead Senior 2 Club Football Championship (6)
+- 176477 Go Ahead Senior 2 Club Football Championship Final (1)
+- 171702 Go Ahead Senior 2 Club Football Championship Group 1 (6)
+- 171703 Go Ahead Senior 2 Club Football Championship Group 2 (6)
+- 171704 Go Ahead Senior 2 Club Football Championship Group 3 (6)
+- 171705 Go Ahead Senior 2 Club Football Championship Group 4 (6)
+- 175801 Go Ahead Senior 2 Club Football Championship Semi Final (2)
+- 176711 Go Ahead Senior 2 Hurling Championship Final (1)
+- 177131 Go Ahead Senior 2 Hurling Championship Final Replay (1)
+- 171456 Go Ahead Senior 2 Hurling Championship Group 1 (15)
+- 171458 Go Ahead Senior 2 Hurling Championship Group 2 (15)
+- 175562 Go Ahead Senior 2 Hurling Championship Quarter Final (2)
+- 175565 Go Ahead Senior 2 Hurling Championship Relegation (2)
+- 176174 Go Ahead Senior 2 Hurling Championship Semi Final (2)
+- 176710 Go Ahead Senior 3 Hurling Championship Final (1)
+- 171453 Go Ahead Senior 3 Hurling Championship Group 1 (15)
+- 171455 Go Ahead Senior 3 Hurling Championship Group 2 (15)
+- 175560 Go Ahead Senior 3 Hurling Championship Quarter Final (2)
+- 175561 Go Ahead Senior 3 Hurling Championship Relegation (2)
+- 176169 Go Ahead Senior 3 Hurling Championship Semi Final (2)
+- 175072 Go Ahead U18 Championship Division 1 Final (1)
+- 173302 Go Ahead U18 Championship Division 1 Group A (6)
+- 173303 Go Ahead U18 Championship Division 1 Group B (6)
+- 175073 Go Ahead U18 Championship Division 2 Final (1)
+- 173304 Go Ahead U18 Championship Division 2 Group A (6)
+- 173305 Go Ahead U18 Championship Division 2 Group B (6)
+- 175075 Go Ahead U18 Championship Division 3 Final (1)
+- 173306 Go Ahead U18 Championship Division 3 Group A (6)
+- 173307 Go Ahead U18 Championship Division 3 Group B (6)
+- 175074 Go Ahead U18 Championship Division 4 Final (1)
+- 173308 Go Ahead U18 Championship Division 4 Group A (6)
+- 173309 Go Ahead U18 Championship Division 4 Group B (6)
+- 175076 Go Ahead U18 Championship Division 5 Final (1)
+- 173310 Go Ahead U18 Championship Division 5 Group A (6)
+- 173311 Go Ahead U18 Championship Division 5 Group B (6)
+- 175057 Go Ahead U18 Championship Semi Finals Division 1 (2)
+- 175058 Go Ahead U18 Championship Semi Finals Division 2 (2)
+- 175059 Go Ahead U18 Championship Semi Finals Division 3 (3)
+- 175060 Go Ahead U18 Championship Semi Finals Division 4 (3)
+- 175061 Go Ahead U18 Championship Semi Finals Division 5 (2)
+- 172612 Go-Ahead Adult Cup Division 1 Knockout Stages (3)
+- 169329 Go-Ahead Adult Cup Division 10 (28)
+- 174681 Go-Ahead Adult Cup Division 10 Knockout Stages (3)
+- 174195 Go-Ahead Adult Cup Division 11 Knockout Stages (3)
+- 169330 Go-Ahead Adult Cup Division 11A (10)
+- 169331 Go-Ahead Adult Cup Division 11B (15)
+- 169332 Go-Ahead Adult Cup Division 12 (28)
+- 174682 Go-Ahead Adult Cup Division 12 Knockout Stages (3)
+- 169310 Go-Ahead Adult Cup Division 1A (15)
+- 169311 Go-Ahead Adult Cup Division 1B (15)
+- 172549 Go-Ahead Adult Cup Division 2 Knock Out Stages (3)
+- 169312 Go-Ahead Adult Cup Division 2A (10)
+- 169313 Go-Ahead Adult Cup Division 2B (6)
+- 172610 Go-Ahead Adult Cup Division 3 Knockout Stages (3)
+- 169315 Go-Ahead Adult Cup Division 3A (15)
+- 169314 Go-Ahead Adult Cup Division 3B (10)
+- 169316 Go-Ahead Adult Cup Division 4 (28)
+- 176407 Go-Ahead Adult Cup Division 4 Knockout Stages (3)
+- 174193 Go-Ahead Adult Cup Division 5 Knockout Stages (3)
+- 169317 Go-Ahead Adult Cup Division 5A (10)
+- 169318 Go-Ahead Adult Cup Division 5B (10)
+- 174680 Go-Ahead Adult Cup Division 6 Knockout Stages (3)
+- 169320 Go-Ahead Adult Cup Division 6A (10)
+- 169319 Go-Ahead Adult Cup Division 6B (10)
+- 174503 Go-Ahead Adult Cup Division 7 Knockout Stages (3)
+- 169322 Go-Ahead Adult Cup Division 7A (15)
+- 169323 Go-Ahead Adult Cup Division 7B (15)
+- 174504 Go-Ahead Adult Cup Division 8 Knockout Stages (3)
+- 169324 Go-Ahead Adult Cup Division 8A (6)
+- 169325 Go-Ahead Adult Cup Division 8B (10)
+- 174194 Go-Ahead Adult Cup Division 9 Knockout Stages (3)
+- 169326 Go-Ahead Adult Cup Division 9A (10)
+- 169327 Go-Ahead Adult Cup Division 9B (10)
+- 169373 Go-Ahead Adult League Division 1 (66)
+- 176434 Go-Ahead Adult League Division 1 Final (1)
+- 176737 Go-Ahead Adult League Division 1 Relegation Semi Finals (3)
+- 169388 Go-Ahead Adult League Division 10 (28)
+- 169389 Go-Ahead Adult League Division 11 (55)
+- 169392 Go-Ahead Adult League Division 12 (28)
+- 169375 Go-Ahead Adult League Division 2 (36)
+- 176585 Go-Ahead Adult League Division 2 Final (1)
+- 176738 Go-Ahead Adult League Division 2 Relegation Final (1)
+- 169376 Go-Ahead Adult League Division 3 (55)
+- 176586 Go-Ahead Adult League Division 3 Final (1)
+- 176587 Go-Ahead Adult League Division 3 Relegation Knock Out Stages (3)
+- 169377 Go-Ahead Adult League Division 4 (28)
+- 171276 Go-Ahead Adult League Division 4 Final (1)
+- 171530 Go-Ahead Adult League Division 4 Relegation Final (1)
+- 169378 Go-Ahead Adult League Division 5 (45)
+- 169379 Go-Ahead Adult League Division 6 (45)
+- 169384 Go-Ahead Adult League Division 7 (66)
+- 169385 Go-Ahead Adult League Division 8 (36)
+- 169387 Go-Ahead Adult League Division 9 (45)
+- 172355 Go-Ahead Championship Inter 1 Group A (6)
+- 172356 Go-Ahead Championship Inter 1 Group B (6)
+- 172357 Go-Ahead Championship Inter 2 Group A (6)
+- 172358 Go-Ahead Championship Inter 2 Group B (6)
+- 172351 Go-Ahead Championship Senior 1 Group A (6)
+- 172352 Go-Ahead Championship Senior 1 Group B (6)
+- 172353 Go-Ahead Championship Senior 2 Group A (6)
+- 172354 Go-Ahead Championship Senior 2 Group B (6)
+- 172186 Go-Ahead Intermediate Championship Group A (10)
+- 172187 Go-Ahead Intermediate Championship Group B (10)
+- 175345 Go-Ahead Intermediate Championship Knock Out Stages (3)
+- 175347 Go-Ahead Intermediate Championship Relegation Final (1)
+- 175346 Go-Ahead Intermediate Shield Knock Out Stages (3)
+- 172188 Go-Ahead Junior A Championship Group A (6)
+- 172189 Go-Ahead Junior A Championship Group B (6)
+- 174676 Go-Ahead Junior A Championship Knock Out Stages (3)
+- 174677 Go-Ahead Junior A Shield Knock Out Stages (3)
+- 172198 Go-Ahead Junior B Championship Group A (6)
+- 172199 Go-Ahead Junior B Championship Group B (6)
+- 175047 Go-Ahead Junior B Championship Knock Out Stages (3)
+- 175048 Go-Ahead Junior B Shield Knock Out Stages (3)
+- 171719 Go-Ahead Junior C Championship Group A (10)
+- 171720 Go-Ahead Junior C Championship Group B (10)
+- 173187 Go-Ahead Junior C Championship Knock Out Stages (3)
+- 173188 Go-Ahead Junior C Shield Knock Out Stages (3)
+- 171721 Go-Ahead Junior D Championship Group A (10)
+- 171722 Go-Ahead Junior D Championship Group B (10)
+- 173189 Go-Ahead Junior D Championship Knock Out Stages (3)
+- 173190 Go-Ahead Junior D Shield Knockout Stages (3)
+- 171724 Go-Ahead Junior E Championship Group A (6)
+- 171723 Go-Ahead Junior E Championship Group B (6)
+- 173055 Go-Ahead Junior E Championship Knock Out Stages (3)
+- 176071 Go-Ahead Junior E Shield Knock Out Stages (3)
+- 173056 Go-Ahead Junior E Shield Knock Out Stages  OLD (3)
+- 171725 Go-Ahead Junior F Championship Group A (15)
+- 171726 Go-Ahead Junior F Championship Group B (10)
+- 173191 Go-Ahead Junior F Championship Knock Out Stages (3)
+- 173192 Go-Ahead Junior F Shield Knockout Stages (3)
+- 171727 Go-Ahead Junior G Championship Group A (10)
+- 171728 Go-Ahead Junior G Championship Group B (10)
+- 173193 Go-Ahead Junior G Championship Knockout Stages (3)
+- 173194 Go-Ahead Junior G Shield Knockout Stages (3)
+- 171729 Go-Ahead Junior H Championship Group A (15)
+- 171730 Go-Ahead Junior H Championship Group B (10)
+- 173195 Go-Ahead Junior H Championship Knock Out Stages (3)
+- 173196 Go-Ahead Junior H Shield Knock Out Stages (3)
+- 171731 Go-Ahead Junior I Championship Group A (10)
+- 171732 Go-Ahead Junior I Championship Group B (6)
+- 173197 Go-Ahead Junior I Championship Knock Out Stages (3)
+- 173198 Go-Ahead Junior I Shield Knock Out Stages (3)
+- 171733 Go-Ahead Junior J Championship Group A (15)
+- 171734 Go-Ahead Junior J Championship Group B (10)
+- 173199 Go-Ahead Junior J Championship Knock Out Stages (3)
+- 173200 Go-Ahead Junior J Shield Knock Out Stages (3)
+- 172184 Go-Ahead Senior Championship Group A (10)
+- 172185 Go-Ahead Senior Championship Group B (10)
+- 175342 Go-Ahead Senior Championship Knock Out Stages (3)
+- 175344 Go-Ahead Senior Championship Relegation Final (1)
+- 175343 Go-Ahead Senior Shield Knock Out Stages (3)
+- 174601 Group 1 (3)
+- 174617 Group 1 (3)
+- 174618 Group 1 (2)
+- 175774 Group 1 (15)
+- 175783 Group 1 (1)
+- 176392 Group 1 (6)
+- 170139 Group 2 (1)
+- 172669 Group 2 (5)
+- 174625 Group 2 (5)
+- 175772 Group 2 (5)
+- 175775 Group 2 (14)
+- 176391 Group 2 (1)
+- 176393 Group 2 (2)
+- 170141 Group 3 (2)
+- 174594 Group 3 (3)
+- 174600 Group 3 (2)
+- 174608 Group 3 (1)
+- 170140 Group 4 (2)
+- 174626 Group 4 (3)
+- 174595 Group 5 (2)
+- 174593 Group 8 (2)
+- 172668 Group1 (10)
+- 168958 Guilfoyle-James Cup (Metro J6) (6)
+- 169103 Guinness Premiership (1)
+- 168766 HE Fresher 1 FC Finals (2)
+- 168769 HE Fresher 1 FC GB (3)
+- 169161 HE Fresher 2 HC (3)
+- 176781 HE Fresher Football League Division 1 Group 1D (3)
+- 177497 HE Fresher Football League Division 1 Knockout (1)
+- 176774 HE Fresher Football League Division 2 Group 2B (3)
+- 176777 HE Fresher Football League Division 2 Group 2B (2)
+- 177495 HE Fresher Football League Division 2 Knockout (1)
+- 176786 HE Fresher Football League Division 3 Group 3B (3)
+- 176779 HE Fresher Football League Division 3 Group 3D (5)
+- 176784 HE Fresher Football League Division 3 Group 3D (1)
+- 177447 HE Fresher Football League Division 3 Knockout (2)
+- 177449 HE Fresher Football League Division 3 Knockout (2)
+- 176768 HE Fresher HL Division 1 Group 1C (3)
+- 176767 HE Fresher HL Division 2 Group 2D (3)
+- 177419 HE Fresher Hurling Division 1 Knockout (1)
+- 177457 HE Fresher Hurling Division 2 Knockout (2)
+- 176763 HE Fresher Hurling League Division 1 Group 1A (2)
+- 176764 HE Fresher Hurling League Division 2 Group 2A (3)
+- 168756 HE GAA IFC (4)
+- 169488 HE GAA JFC (3)
+- 168761 HE GAA Sigerson Cup (4)
+- 168754 HE GAA Trench Cup (3)
+- 176780 HE Senior Football Intermediate League Group C (5)
+- 176778 HE Senior Football Intermediate League Group D (3)
+- 177460 HE Senior Football Intermediate League Knockout (2)
+- 176776 HE Senior Football League Division 1 Group 1B (3)
+- 176782 HE Senior Football League Division 1 Group 1D (5)
+- 177476 HE Senior Football League Division 1 Knockout (1)
+- 176775 HE Senior Football League Division 2 Group 2A (2)
+- 176785 HE Senior Football League Division 2 Group 2B (3)
+- 177450 HE Senior Football League Division 2 Knockout (2)
+- 176783 HE Senior Football League Division 4 Group 4A (5)
+- 176787 HE Senior Football League Division 4 Group 4A (1)
+- 177437 HE Senior Football League Division 4 Knockout (3)
+- 177496 HE Senior Football League Division 4 Knockout (1)
+- 176770 HE Senior HL Division 1 Group 1A (8)
+- 176771 HE Senior HL Division 2 Group 2D (2)
+- 176769 HE Senior HL Division 3 Group 3D (3)
+- 176762 HE Senior Hurling League Division 1 Group 1B (3)
+- 177456 HE Senior Hurling League Division 1 Knockout (2)
+- 177563 HE Senior Hurling League Division 1 Knockout (2)
+- 176773 HE Senior Hurling League Division 2 Group 2A (3)
+- 176765 HE Senior Hurling League Division 2 Group 2C (3)
+- 176766 HE Senior Hurling League Division 2 Group 2D (3)
+- 177418 HE Senior Hurling League Division 2 Knockout (1)
+- 177459 HE Senior Hurling League Division 2 Knockout (2)
+- 176772 HE Senior Hurling League Division 3 Group 3D (2)
+- 177458 HE Senior Hurling League Division 3 Knockout (1)
+- 169185 Harry Gale Cup (U20) (8)
+- 172961 Heineken Champions Cup (21)
+- 172733 Herbie Hill Cup (1)
+- 172232 Hi B Restaurant / Bar North Senior Hurling Championship (5)
+- 169166 Hibernian Hotel J A H C Group Four (3)
+- 169163 Hibernian Hotel J A H C Group One (6)
+- 169165 Hibernian Hotel J A H C Group Three (3)
+- 169164 Hibernian Hotel J A H C Group Two (3)
+- 174863 Hibernian Hotel J.A.H.C Knockout Stages (7)
+- 176594 Hibernian Hotel U21A Hurling Championship (3)
+- 176521 Hip Hop 1 (42)
+- 176520 Hip Hop 2 (42)
+- 176518 Hip Hop 3 (30)
+- 169245 Hip Hop Play offs (3)
+- 170836 Home Nations Senior Men (6)
+- 170782 Homeland U14 A Championship 2022 (3)
+- 170784 Homeland U14 B Championship 2022 (3)
+- 170783 Homeland U14 C Championship 2022 (2)
+- 170609 Homeland U16 A Championship 2022 (3)
+- 170606 Homeland U16 B Championship 2022 (3)
+- 170780 Homeland U16 C Championship 2022 (2)
+- 177550 Horse & Jockey Kia Mid U21B Hurling. (4)
+- 173903 Hosie Cup (J1) (7)
+- 176687 Hospitals Cup (11)
+- 171778 IFC - Group 1 (6)
+- 171776 IFC - Group 2 (6)
+- 171779 IFC - Group 3 (6)
+- 171777 IFC - Group 4 (6)
+- 175115 IFC Group A (6)
+- 175111 IFC Group B (6)
+- 175792 IFC Playoff (1)
+- 176188 IFC Quarter finals (4)
+- 172816 IFC Section A (15)
+- 172818 IFC Section B (15)
+- 172613 IHC Group 1 (6)
+- 172400 IHC Group 2 (6)
+- 172403 IHC Group 3 (6)
+- 172401 IHC Group 4 (6)
+- 169499 ISC 2022 - Men (15)
+- 169500 ISC 2022 - Women (7)
+- 169341 Inter 1 League Playoff (3)
+- 169342 Inter 1 Shield Playoff (3)
+- 171937 Inter 1-2 Group A (33)
+- 171938 Inter 1-2 Group B (16)
+- 169229 Inter 2 League Playoff (3)
+- 169343 Inter 3 League Playoff (3)
+- 169345 Inter 3 Shield Playoff (3)
+- 169346 Inter 4 League Playoff (3)
+- 169347 Inter 4 Shield Playoff (3)
+- 169348 Inter 5 League Playoff (3)
+- 169349 Inter 5 Shield Playoff (3)
+- 169350 Inter 6 League Playoff (3)
+- 169352 Inter 6 Shield Playoff (3)
+- 169353 Inter 7 League Playoff (3)
+- 169354 Inter 7 Shield Playoff (3)
+- 169355 Inter 8 League Playoff (3)
+- 169356 Inter 8 Shield Playoff (3)
+- 169155 Inter Hurling League 2022 (21)
+- 177264 Inter League Under 12 Group  1 (2)
+- 177263 Inter League Under 12 Group 2 (2)
+- 177267 Inter Leagues Under 13 Group 1 (2)
+- 177268 Inter Leagues Under 13 Group 2 (2)
+- 177272 Inter Leagues Under 14 (2)
+- 177270 Inter Leagues Under 16 (2)
+- 171740 Intermediate C/Ship (21)
+- 173275 Intermediate Championship 2022 grp 1 (3)
+- 174169 Intermediate Championship 2022 grp 2 (6)
+- 176850 Intermediate Championship Final (3)
+- 174921 Intermediate Championship Grp A (6)
+- 174922 Intermediate Championship Grp B (10)
+- 175175 Intermediate Championship Knockout (10)
+- 175637 Intermediate Championship Knockout (3)
+- 175794 Intermediate Championship Relegation Playoff (2)
+- 175329 Intermediate Football Ch Relegation (6)
+- 170273 Intermediate Football Championship (14)
+- 171059 Intermediate Football Championship (4)
+- 173593 Intermediate Football Championship (1)
+- 173594 Intermediate Football Championship (1)
+- 173595 Intermediate Football Championship (1)
+- 173596 Intermediate Football Championship (1)
+- 173851 Intermediate Football Championship (1)
+- 173852 Intermediate Football Championship (1)
+- 173853 Intermediate Football Championship (1)
+- 173854 Intermediate Football Championship (1)
+- 174491 Intermediate Football Championship (1)
+- 174494 Intermediate Football Championship (1)
+- 174495 Intermediate Football Championship (1)
+- 174496 Intermediate Football Championship (1)
+- 175302 Intermediate Football Championship (1)
+- 175306 Intermediate Football Championship (1)
+- 176145 Intermediate Football Championship (1)
+- 176635 Intermediate Football Championship Final (1)
+- 177334 Intermediate Football Championship Final (1)
+- 172644 Intermediate Football Championship Group 1 (6)
+- 172653 Intermediate Football Championship Group 2 (6)
+- 172645 Intermediate Football Championship Group 3 (6)
+- 172654 Intermediate Football Championship Group 4 (6)
+- 174459 Intermediate Football Championship Quarter Finals (4)
+- 176890 Intermediate Football Championship Relegation Final (1)
+- 174457 Intermediate Football Championship Relegation Semi Finals (2)
+- 172482 Intermediate Football Championship Section A (6)
+- 172483 Intermediate Football Championship Section B (6)
+- 172477 Intermediate Football Championship Section C (6)
+- 176892 Intermediate Football Championship Semi Finals (2)
+- 176413 Intermediate Football Championship Semi final (2)
+- 175639 Intermediate Hurling Championship (1)
+- 171821 Intermediate Hurling Championship 2022 (28)
+- 172110 Intermediate Hurling Championship 2022 (14)
+- 170248 Intermediate Hurling Championship Group A (6)
+- 170255 Intermediate Hurling Championship Group B (6)
+- 171054 Intermediate Hurling Championship Grp 1 (3)
+- 171056 Intermediate Hurling Championship Grp 1 (6)
+- 174295 Intermediate Hurling Championship Knockout (6)
+- 174049 Intermediate Hurling Championship SF (2)
+- 175166 Intermediate Hurling Knockout (4)
+- 172913 Intermediate Hurling League (1)
+- 175672 Intermediate Knockout (7)
+- 169386 Intermediate League (21)
+- 175470 Intermediate Relegation (8)
+- 175243 Intermediate Relegation Final (1)
+- 176851 Intermediate Shield Championship Final (3)
+- 177753 Internal Game Women (1)
+- 170835 International Friendly (4)
+- 176516 Irish Hockey Challenge Men Group 1 (6)
+- 176517 Irish Hockey Challenge Men Group 2 (6)
+- 175978 Irish Hockey Challenge Women (22)
+- 175996 Irish Hockey Trophy Men (12)
+- 175997 Irish Hockey Trophy Women (26)
+- 176371 Irish Junior Cup Mens (23)
+- 176372 Irish Junior Cup Womens (24)
+- 175979 Irish Senior Cup Men (23)
+- 175995 Irish Senior Cup Women (21)
+- 171306 Irish U12 Mixed Cup (24)
+- 172852 Irish U13 Cup (2009) - Boys (14)
+- 172851 Irish U13 Cup (2009) - Girls (13)
+- 169681 Irish U15 Cup (2007) - Boys (16)
+- 169124 Irish U15 Cup (2007) - Girls (13)
+- 169125 Irish U15 Cup (2007) Qualifiers - Boys (10)
+- 172835 Irish U17 Cup Qualifiers - Boys (6)
+- 172838 Irish U19 Cup - Boys (15)
+- 172839 Irish U19 Cup - Girls (15)
+- 172817 J1FC Section A (15)
+- 172819 J1FC Section B (15)
+- 172809 J2FC Section A (15)
+- 172811 J2FC Section B (10)
+- 174983 JCT Friendlies (164)
+- 175114 JFC (6)
+- 172695 JFC A Championship (10)
+- 168782 JFC A North (28)
+- 168775 JFC A West (28)
+- 172792 JFC B Championship (7)
+- 171833 JFC North - Group A (6)
+- 171836 JFC North - Group B (6)
+- 171834 JFC West - Group A (6)
+- 171837 JFC West - Group B (6)
+- 168852 JFL Div 3 (Patrick O Mahony Cup) (29)
+- 169383 JHL 4 (37)
+- 168972 JHL Div 1 (Tom Powell Cup) (29)
+- 168973 JHL Div 2 (Mossie O Sullivan Cup) (29)
+- 168974 JHL Div 3 (Owenacurra Cup) (22)
+- 177145 JJ Kavanagh & Sons Co. Intermediate Football Final (1)
+- 175227 JJ Kavanagh & Sons Co. Intermediate Hurling Final (1)
+- 177144 JJ Kavanagh & Sons Co. Junior A Football Final (1)
+- 175225 JJ Kavanagh & Sons Co. Junior A Hurling Final (1)
+- 175373 JJ Kavanagh & Sons Co. Junior B Football Championship - Group A (6)
+- 175372 JJ Kavanagh & Sons Co. Junior B Football Championship - Group B (6)
+- 176509 JJ Kavanagh & Sons Co. Junior B Football Championship - Knockout (3)
+- 175224 JJ Kavanagh & Sons Co. Junior B Hurling Final (1)
+- 175226 JJ Kavanagh & Sons Co. Junior C Hurling Final (1)
+- 175195 JJ Kavanagh & Sons Co. Minor Football Championship - Division 1 (15)
+- 176438 JJ Kavanagh & Sons Co. Minor Football Championship - Division 1 KO (3)
+- 175197 JJ Kavanagh & Sons Co. Minor Football Championship - Division 2 (15)
+- 176431 JJ Kavanagh & Sons Co. Minor Football Championship - Division 2 KO (5)
+- 175196 JJ Kavanagh & Sons Co. Minor Football Championship - Division 3 (28)
+- 176909 JJ Kavanagh & Sons Co. Minor Football Championship - Division 3 KO (3)
+- 175198 JJ Kavanagh & Sons Co. Minor Football Championship - Division 4 (28)
+- 176910 JJ Kavanagh & Sons Co. Minor Football Championship - Division 4 KO (3)
+- 172135 JJ Kavanagh & Sons Co. Minor Hurling Championship - Division 1 (28)
+- 174236 JJ Kavanagh & Sons Co. Minor Hurling Championship - Division 1 KO (6)
+- 172133 JJ Kavanagh & Sons Co. Minor Hurling Championship - Division 2 (28)
+- 174237 JJ Kavanagh & Sons Co. Minor Hurling Championship - Division 2 KO (3)
+- 172136 JJ Kavanagh & Sons Co. Minor Hurling Championship - Division 3 (28)
+- 174235 JJ Kavanagh & Sons Co. Minor Hurling Championship - Division 3 KO (3)
+- 172134 JJ Kavanagh & Sons Co. Minor Hurling Championship - Division 4 (15)
+- 173973 JJ Kavanagh & Sons Co. Minor Hurling Championship - Division 4 KO (3)
+- 176437 JJ Kavanagh & Sons Co. Senior Football Championship - Knockout (13)
+- 177277 JJ Kavanagh & Sons Co. Under 20 A Football Championship (5)
+- 177599 JJ Kavanagh & Sons Co. Under 20 B Football Championship (1)
+- 177670 JJ Kavanagh & Sons Co. Under 20 C Hurling Championship (1)
+- 174068 JJ Kavanagh & Sons Snr Hurl Championship - KO / County Final (14)
+- 176303 JJ Kenneally Cup Semi Finals (1)
+- 174896 JP Fanagan (U20) - Premier 1 (56)
+- 176748 JP Fanagan (U20) - Premier 2 (56)
+- 176421 JP Fanagan (U20) - Premier 2 Qualifiers (2)
+- 177064 JP Fanagan (U20) - Premier 3 (30)
+- 169984 JPL Friendlies U14 (2)
+- 169985 JPL Friendlies U15 (1)
+- 169780 JPL Warriors U14 National Finals 2021 - 2022 (3)
+- 169781 JPL Warriors U16 Nationals 2021 - 2022 (3)
+- 173818 Jenkinson Cup (J2) - Group 1 (3)
+- 173819 Jenkinson Cup (J2) - Group 2 (3)
+- 174088 Jenkinson Cup (J2) - Group 3 (3)
+- 170586 Jenkinson Cup (J2) - Playoffs (6)
+- 177499 Jenkinson Cup (J2) - Playoffs (3)
+- 171141 Jim & Anne Kennedy Junior A Football Championship (6)
+- 172775 Jim & Anne Kennedy Junior A Football Championship Knockout (4)
+- 174328 Jim & Anne Kennedy Junior B Football Championship Knockout (3)
+- 171140 Jim & Anne Kennedy Junior b Football Championship Knockout (10)
+- 168808 Jim Byrne Cup (22)
+- 173848 Jim Byrne Cup (J2) (10)
+- 174012 Jnr B2 C/Ship (12)
+- 171337 Joe McDonagh Cup (1)
+- 175696 Joe O'Sulivan Bus & Car Hire U19A Football Knockout (3)
+- 173959 Joe O'Sullivan Bus & Cab Hire MID U19A HURLING KNOCKOUT (3)
+- 172295 Joe O'Sullivan Bus & Cab Hire Mid U19A Hurling 2022 (15)
+- 174078 Joe O'Sullivan Bus & Cab Hire U19B FB DIV 1 (3)
+- 174077 Joe O'Sullivan Bus & Cab Hire U19B FB DIV2 (3)
+- 175403 Joe O'Sullivan Bus & Cab Hire U19FB KNOCKOUT (3)
+- 173963 Joe O'Sullivan Bus & Car Hire U19A Football (6)
+- 173442 Joe O'Sullivan Cab & Bus Hire Mid U19B HURLING KNOCKUT (2)
+- 172294 Joe O'Sullivan Cab & Bus Hire U19B Hurling 2022 (22)
+- 174556 John Doyle (1)
+- 173606 John Doyle Cup Group 3 (2)
+- 170417 John Doyle Cup Group 4 (3)
+- 170764 John J. Murphy East Junior B Hurling Championship Group 1 (3)
+- 170763 John J. Murphy East Junior B Hurling Championship Group 2 (6)
+- 173474 John J. Murphy East Junior B Hurling Championship Knockouts (6)
+- 171772 John J. Murphy East Junior C Football Championship Group 1 (6)
+- 171775 John J. Murphy East Junior C Football Championship Group 2 (6)
+- 176402 John J. Murphy East Junior C Football Championship Knockouts (7)
+- 170775 John J. Murphy East Junior C Hurling Championship Group 1 (10)
+- 170779 John J. Murphy East Junior C Hurling Championship Group 2 (6)
+- 173420 John J. Murphy East Junior C Hurling Championship Knockouts (8)
+- 173849 John Madden Cup (J4) (13)
+- 172702 John West Feile Peil na nOg Division 1 (1)
+- 172701 John West Feile Peil na nOg Division 2 (2)
+- 172708 John West Feile Peil na nOg Division 2 (1)
+- 172615 John West Feile Peil na nOg Division 2 Group 1 (3)
+- 172614 John West Feile Peil na nOg Division 2 Group 2 (2)
+- 172704 John West Feile Peil na nOg Division 3 (2)
+- 172706 John West Feile Peil na nOg Division 3 (1)
+- 172707 John West Feile Peil na nOg Division 3 (1)
+- 172710 John West Feile Peil na nOg Division 3 (1)
+- 172617 John West Feile Peil na nOg Division 3 Group 1 (2)
+- 172618 John West Feile Peil na nOg Division 3 Group 1 (3)
+- 172620 John West Feile Peil na nOg Division 3 Group 2 (3)
+- 172621 John West Feile Peil na nOg Division 3 Group 2 (2)
+- 172703 John West Feile Peil na nOg Division 4 (2)
+- 172709 John West Feile Peil na nOg Division 4 (2)
+- 172616 John West Feile Peil na nOg Division 4 Group 1 (3)
+- 172619 John West Feile Peil na nOg Division 4 Group 2 (2)
+- 172700 John West Feile Peil na nOg Division 5 (2)
+- 172627 John West Feile Peil na nOg Division 5 Group 3 (2)
+- 172494 John West Feile na nGael Hurling Div 1 (1)
+- 172497 John West Feile na nGael Hurling Div 1 (1)
+- 172499 John West Feile na nGael Hurling Div 1 (1)
+- 172514 John West Feile na nGael Hurling Div 1 (1)
+- 172589 John West Feile na nGael Hurling Div 1 (1)
+- 172320 John West Feile na nGael Hurling Div 1 Group 2 (2)
+- 172309 John West Feile na nGael Hurling Div 1 Group 4 (1)
+- 172317 John West Feile na nGael Hurling Div 1 Group 4 (2)
+- 172508 John West Feile na nGael Hurling Div 2 (1)
+- 172509 John West Feile na nGael Hurling Div 2 (1)
+- 172513 John West Feile na nGael Hurling Div 2 (1)
+- 172519 John West Feile na nGael Hurling Div 2 (1)
+- 172307 John West Feile na nGael Hurling Div 2 Group 1 (2)
+- 172316 John West Feile na nGael Hurling Div 2 Group 1 (3)
+- 172511 John West Feile na nGael Hurling Div 3 (1)
+- 172512 John West Feile na nGael Hurling Div 3 (1)
+- 172515 John West Feile na nGael Hurling Div 3 (1)
+- 172806 John West Feile na nGael Hurling Div 3 (1)
+- 172311 John West Feile na nGael Hurling Div 3 Group 1 (2)
+- 172313 John West Feile na nGael Hurling Div 3 Group 1 (3)
+- 172314 John West Feile na nGael Hurling Div 3 Group 2 (3)
+- 172318 John West Feile na nGael Hurling Div 3 Group 2 (2)
+- 172500 John West Feile na nGael Hurling Div 4 (1)
+- 172312 John West Feile na nGael Hurling Div 4 Group 3 (2)
+- 172265 Joyces Expert Wexford Intermediate A Hurling Championship Gp 1 (15)
+- 172262 Joyces Expert Wexford Intermediate A Hurling Championship Gp 2 (15)
+- 173312 Joyces Expert Wexford Intermediate A Hurling Championship Knockout (8)
+- 170929 Jr. Exhibition Games (104)
+- 171338 Jun A Hurling (13)
+- 171355 Jun B Champ - Gr 1 (13)
+- 171357 Jun B Champ - Gr 2 (8)
+- 171356 Jun B Champ - Gr 3 (8)
+- 175473 Jun.B ch'ship (2)
+- 175474 Jun.B ch'ship (1)
+- 175475 Jun.B ch'ship (1)
+- 173072 Junior - Clubs Challenge Cup (15)
+- 173087 Junior - Clubs Challenge Shield (12)
+- 173085 Junior - Martin OSullivan Cup (7)
+- 175007 Junior 1 Football Knockout (9)
+- 173130 Junior 1 Friendly (27)
+- 175490 Junior 1 Hurling Championship (4)
+- 171939 Junior 1-2 Group A (30)
+- 171940 Junior 1-2 Group B (28)
+- 175116 Junior 2 Football Knockout (7)
+- 174065 Junior 2 Friendly (10)
+- 171941 Junior 3-4 Group A (24)
+- 171942 Junior 3-4 Group B (30)
+- 171943 Junior 3-4 Group C (24)
+- 171944 Junior 5-6-7 Group A (18)
+- 171945 Junior 5-6-7 Group B (32)
+- 171946 Junior 5-6-7 Group C (24)
+- 171947 Junior 5-6-7 Group D (26)
+- 170700 Junior A  Hurling Championship 2022 (10)
+- 171112 Junior A  Hurling Championship 2022 (20)
+- 175795 Junior A -- Playoff (1)
+- 171067 Junior A C/Ship Grp 1 (10)
+- 171068 Junior A C/Ship Grp 2 (6)
+- 173278 Junior A Championship 2022 (11)
+- 176403 Junior A Championship Final (3)
+- 174924 Junior A Championship Grp A (6)
+- 174925 Junior A Championship Grp B (3)
+- 173402 Junior A Championship SEC B (6)
+- 173403 Junior A Championship Sec C (6)
+- 173404 Junior A Championship- SEC A (6)
+- 172083 Junior A Football (13)
+- 171058 Junior A Football Championship (3)
+- 171773 Junior A Football Championship (23)
+- 173907 Junior A Football Championship (1)
+- 173908 Junior A Football Championship (1)
+- 173909 Junior A Football Championship (1)
+- 173910 Junior A Football Championship (1)
+- 174479 Junior A Football Championship (1)
+- 174480 Junior A Football Championship (1)
+- 174482 Junior A Football Championship (1)
+- 174856 Junior A Football Championship (1)
+- 174857 Junior A Football Championship (1)
+- 174873 Junior A Football Championship (1)
+- 174874 Junior A Football Championship (1)
+- 175305 Junior A Football Championship (1)
+- 175307 Junior A Football Championship (1)
+- 176143 Junior A Football Championship (1)
+- 170746 Junior A Football Championship 2022 (17)
+- 172158 Junior A Football League Playoff 2022 (3)
+- 171683 Junior A HC Group 1 (15)
+- 171677 Junior A HC Group 2 (15)
+- 171684 Junior A HC Group 3 (10)
+- 174456 Junior A HC Knockout (9)
+- 172622 Junior A Hurling Championship (26)
+- 174486 Junior A Hurling Championship (1)
+- 174488 Junior A Hurling Championship (1)
+- 175303 Junior A Hurling Championship (1)
+- 170745 Junior A Hurling Championship 2022 (14)
+- 169394 Junior A Hurling League (11)
+- 172006 Junior A Hurling League Playoff 2022 (3)
+- 175260 Junior A KO (3)
+- 169390 Junior A League Group 1 (6)
+- 169391 Junior A League Group 2 (6)
+- 172791 Junior A League/Shield (7)
+- 172476 Junior A SEC C (6)
+- 172474 Junior A Sec B (6)
+- 176852 Junior A Shield Championship Final (1)
+- 176668 Junior A championship Final (2)
+- 176412 Junior A championship Semi Final (2)
+- 176068 Junior A championship--- Quarter Final (4)
+- 172529 Junior B (10)
+- 171511 Junior B C/ship Grp 1 (10)
+- 171512 Junior B C/ship Grp 2 (6)
+- 173335 Junior B Championship 2022 Grp 1 (10)
+- 173336 Junior B Championship 2022 Grp 2 (6)
+- 176848 Junior B Championship Final (3)
+- 176600 Junior B Championship Group A (10)
+- 176602 Junior B Championship Group D (6)
+- 174926 Junior B Championship Grp A (6)
+- 174927 Junior B Championship Grp B (6)
+- 174928 Junior B Championship Grp C (6)
+- 172518 Junior B Championship Hurling (3)
+- 168783 Junior B Championship North (28)
+- 176949 Junior B Championship Quarter Final (4)
+- 168776 Junior B Championship West (28)
+- 172081 Junior B Football (7)
+- 172084 Junior B Football (7)
+- 171040 Junior B Football Championship (28)
+- 171781 Junior B Football Championship (15)
+- 174872 Junior B Football Championship (1)
+- 175137 Junior B Football Championship (1)
+- 175138 Junior B Football Championship (1)
+- 175139 Junior B Football Championship (1)
+- 176084 Junior B Football Championship (1)
+- 176085 Junior B Football Championship (1)
+- 176688 Junior B Football Championship (1)
+- 174547 Junior B Football Championship 2022 (5)
+- 175183 Junior B Football Championship Gorey District Knockout (5)
+- 170588 Junior B Football Championship Gorey District League (28)
+- 170256 Junior B Football Championship Group A (6)
+- 170266 Junior B Football Championship Group B (3)
+- 170257 Junior B Football Championship Group C (3)
+- 170267 Junior B Football Championship Group D (3)
+- 173536 Junior B Football Championship Grp 1 (6)
+- 173539 Junior B Football Championship Grp 2 (6)
+- 173541 Junior B Football Championship Grp 3 (6)
+- 173540 Junior B Football Championship Grp 4 (3)
+- 173638 Junior B Football Championship Knockout (8)
+- 174059 Junior B Football Championship Knockout (8)
+- 175480 Junior B Football Championship QF (4)
+- 177313 Junior B Football Championship Semi-Final (1)
+- 169071 Junior B Football League (13)
+- 172177 Junior B Football League Playoff 2022 (4)
+- 171678 Junior B HC Group 1 (10)
+- 171685 Junior B HC Group 2 (10)
+- 171679 Junior B HC Group 3 (10)
+- 171686 Junior B HC Group 4 (15)
+- 174849 Junior B HC Knockout (11)
+- 171076 Junior B Hurling Championship (13)
+- 171786 Junior B Hurling Championship (23)
+- 175316 Junior B Hurling Championship (1)
+- 170527 Junior B Hurling Championship 2022 (25)
+- 174548 Junior B Hurling Championship 2022 (7)
+- 170323 Junior B Hurling Championship Enniscorthy District Gp A (30)
+- 170324 Junior B Hurling Championship Enniscorthy District Gp B (30)
+- 173129 Junior B Hurling Championship Enniscorthy District Knockout (3)
+- 170028 Junior B Hurling Championship Gorey Dist (45)
+- 173105 Junior B Hurling Championship Gorey Dist Knockout (8)
+- 170242 Junior B Hurling Championship Group A (6)
+- 170250 Junior B Hurling Championship Group B (3)
+- 170249 Junior B Hurling Championship Group C (3)
+- 174296 Junior B Hurling Championship Knockout (7)
+- 170342 Junior B Hurling Championship New Ross District Gp A (6)
+- 170341 Junior B Hurling Championship New Ross District Gp B (6)
+- 172404 Junior B Hurling Championship New Ross District Knockout (7)
+- 169072 Junior B Hurling League (12)
+- 175261 Junior B KO (3)
+- 176450 Junior B Knockout (3)
+- 169393 Junior B League Group 1 (6)
+- 169405 Junior B League Group 2 (6)
+- 172928 Junior B League/Shield (6)
+- 177226 Junior B Semi - Final (2)
+- 176853 Junior B Shield Championship Final (3)
+- 177323 Junior B championship Final (1)
+- 176601 Junior B championship Group B (11)
+- 176603 Junior B championship Group C (6)
+- 169406 Junior B2 League Group 1 (6)
+- 169407 Junior B2 League Group 2 (6)
+- 170380 Junior Boys (36)
+- 173277 Junior C Championship 2022 (6)
+- 175240 Junior C Championship Knockout (5)
+- 169050 Junior C Championship North (49)
+- 168784 Junior C Championship West (50)
+- 172927 Junior C FC (13)
+- 170940 Junior C Football Championship (12)
+- 171783 Junior C Football Championship (12)
+- 176081 Junior C Football Championship (1)
+- 176082 Junior C Football Championship (1)
+- 176460 Junior C Football Championship (1)
+- 170258 Junior C Football Championship Group A (3)
+- 170268 Junior C Football Championship Group B (3)
+- 170259 Junior C Football Championship Group C (3)
+- 170269 Junior C Football Championship Group D (3)
+- 170260 Junior C Football Championship Group E (3)
+- 170270 Junior C Football Championship Group F (3)
+- 170262 Junior C Football Championship Group G (3)
+- 170272 Junior C Football Championship Group H (3)
+- 174026 Junior C Football Championship Grp 1 (6)
+- 174028 Junior C Football Championship Grp 2 (6)
+- 173666 Junior C Football Championship Knockout (7)
+- 176826 Junior C Football League Playoff 2022 (5)
+- 172304 Junior C HC Group 1 (15)
+- 172303 Junior C HC Group 2 (15)
+- 174848 Junior C HC Knockout (8)
+- 171791 Junior C Hurling Championship (20)
+- 174487 Junior C Hurling Championship (1)
+- 174489 Junior C Hurling Championship (1)
+- 175318 Junior C Hurling Championship (1)
+- 170244 Junior C Hurling Championship Group A (6)
+- 170245 Junior C Hurling Championship Group B (3)
+- 170251 Junior C Hurling Championship Group B (6)
+- 170252 Junior C Hurling Championship Group D (3)
+- 174234 Junior C Hurling Championship Knockout (7)
+- 175262 Junior C KO (3)
+- 172929 Junior C League/Shield (7)
+- 175479 Junior C football Championship QF (2)
+- 171690 Junior C1 HC Group 1 (10)
+- 171693 Junior C1 HC Group 2 (10)
+- 171691 Junior C1 HC Group 3 (10)
+- 171694 Junior C1 HC Group 4 (15)
+- 171692 Junior C1 HC Group 5 (15)
+- 174934 Junior C1 Hurling Championship K/O (9)
+- 174099 Junior Cup Day (37)
+- 172530 Junior D (16)
+- 173337 Junior D Championship 2022 (10)
+- 176066 Junior D Football Championship (1)
+- 176067 Junior D Football Championship (1)
+- 176470 Junior D Football Championship (1)
+- 174029 Junior D Football Championship GRP 2 (6)
+- 174030 Junior D Football Championship Grp 1 (6)
+- 175481 Junior D Football Championship QF (2)
+- 175317 Junior D Hurling Championship (1)
+- 175263 Junior D KO (3)
+- 176452 Junior D Knockout (3)
+- 169263 Junior Development Shield Final (Div 3A) (1)
+- 177716 Junior Development Shield Final (Div 3A) (1)
+- 173281 Junior E Championship 2022 Grp 1 (10)
+- 173285 Junior E Championship 2022 Grp 2 (10)
+- 176453 Junior E Knockout (3)
+- 173286 Junior F Championship 2022 Grp 1 (15)
+- 173287 Junior F Championship 2022 Grp 2 (10)
+- 176454 Junior F Knockout (3)
+- 175455 Junior Football Championship (7)
+- 177333 Junior Football Championship Final (1)
+- 172648 Junior Football Championship Group 1 (6)
+- 172657 Junior Football Championship Group 2 (6)
+- 172649 Junior Football Championship Group 3 (6)
+- 172658 Junior Football Championship Group 4 (6)
+- 170271 Junior Football Championship Group A (6)
+- 170263 Junior Football Championship Group B (3)
+- 170265 Junior Football Championship Group C (3)
+- 170261 Junior Football Championship Group D (3)
+- 174585 Junior Football Championship Knockout (8)
+- 174464 Junior Football Championship Quarter Finals (4)
+- 176891 Junior Football Championship Semi Finals (2)
+- 172782 Junior Friendly (107)
+- 173338 Junior G Championship 2022 (21)
+- 176457 Junior G Knockout (3)
+- 173173 Junior Hurling Championship (3)
+- 174870 Junior Hurling Championship 2022 (8)
+- 170241 Junior Hurling Championship Group A (6)
+- 170247 Junior Hurling Championship Group B (6)
+- 174294 Junior Hurling Championship Knockout (4)
+- 176315 Junior Hurling Coolderry Cup Semi Finals (2)
+- 176317 Junior Hurling Coolderry Cup Semi Finals (1)
+- 170866 Junior Hurling League 2022 (36)
+- 169002 Junior Hurling League Group 1 (5)
+- 169179 Junior Hurling League Group 1 (1)
+- 169003 Junior Hurling League Group 2 (6)
+- 169004 Junior Hurling League Group 3 (6)
+- 169005 Junior Hurling League Group 4 (6)
+- 169006 Junior Hurling League Group 5 (6)
+- 169007 Junior Hurling League Group 6 (6)
+- 169008 Junior Hurling League Group 7 (6)
+- 169009 Junior Hurling League Group 8 (6)
+- 169010 Junior Hurling League Group 9 (6)
+- 168912 Junior Interpros (6)
+- 177163 Junior Jacqui Potter Cup (26)
+- 177580 Junior League - Division 1A - Playoffs (7)
+- 175439 Junior League - Division 1A - Section A (10)
+- 175440 Junior League - Division 1A - Section B (10)
+- 176917 Junior League - Division 2A - North East (10)
+- 176916 Junior League - Division 2A - North Midlands (10)
+- 176918 Junior League - Division 2A - South East (6)
+- 176919 Junior League - Division 2A - South Midlands (10)
+- 170078 Junior League - Division 2A Playoffs (5)
+- 173077 Junior League - Section A (120)
+- 173078 Junior League - Section B (55)
+- 173079 Junior League - Section C (37)
+- 177585 Junior League Division 1B - Playoffs (3)
+- 176415 Junior League Division 1B - Pool A (10)
+- 176416 Junior League Division 1B - Pool B (10)
+- 170384 Junior Netball (36)
+- 169104 Junior Plate (7)
+- 169151 Junior Plate (6)
+- 177332 Junior Premier Football Championship Final (1)
+- 172646 Junior Premier Football Championship Group 1 (6)
+- 172655 Junior Premier Football Championship Group 2 (6)
+- 172647 Junior Premier Football Championship Group 3 (6)
+- 172656 Junior Premier Football Championship Group 4 (6)
+- 174463 Junior Premier Football Championship Quarter Finals (4)
+- 175835 Junior Premier Football Championship Relegation Final (1)
+- 174465 Junior Premier Football Championship Relegation Semi Finals (2)
+- 176889 Junior Premier Football Championship Semi Finals (2)
+- 170508 Justin Cheevers Cup Semi Finals (2)
+- 169515 Kate Russell Schoolgirls Championship (10)
+- 177105 Kearney Catering U20 B Football Championship (4)
+- 175328 Keating Trophy (6)
+- 176689 Keating Trophy (1)
+- 170676 Kelly Cup Finals 2022 (5)
+- 168946 Kelly Cup Group 1 (6)
+- 168947 Kelly Cup Group 2 (6)
+- 168948 Kelly Cup Group 3 (3)
+- 169017 Kelly Cup Knockout (3)
+- 172283 Kellys of Fantane North Intermediate Championship (4)
+- 171305 Keltic Traffic Management Div.1 Football League (28)
+- 171537 Keltic Traffic Management Div.1 Hurling League (15)
+- 170956 Keltic Traffic Management Div.2 Football League (28)
+- 170952 Keltic Traffic Management Div.2 Hurling League (21)
+- 170957 Keltic Traffic Management Div.3 Football League (15)
+- 171854 Kennedy Bowl 2022 (7)
+- 173779 Kennedy Cup (1)
+- 171409 Kennedy Cup - Group 1 (6)
+- 171410 Kennedy Cup - Group 2 (6)
+- 171411 Kennedy Cup - Group 3 (6)
+- 171412 Kennedy Cup - Group 4 (6)
+- 171413 Kennedy Cup - Group 5 (6)
+- 171416 Kennedy Cup - Group 6 (6)
+- 171419 Kennedy Cup - Group 7 (6)
+- 171420 Kennedy Cup - Group 8 (6)
+- 172161 Kennedy Cup 2022 (7)
+- 171886 Kennedy Plate  2022 (3)
+- 171855 Kennedy Shield 2022 (7)
+- 171852 Kennedy Trophy  2022 (7)
+- 175514 Kepak Inter Championship QTR  Final (2)
+- 172373 Kepak Intermediate Championship G1 (6)
+- 172374 Kepak Intermediate Championship G2 (6)
+- 175820 Kepak Intermediate Championship Semi-Final & Final (3)
+- 175518 Kepak JNR A Championship QTR Final (2)
+- 175521 Kepak JNR B Championship QTR Final (2)
+- 175693 Kepak JNR C Championship  QTR Final (2)
+- 175522 Kepak JNR D Championship QTR Final (2)
+- 175523 Kepak JNR E Championship QTR Final (2)
+- 172330 Kepak Junior A Championship G1 (6)
+- 172331 Kepak Junior A Championship G2 (6)
+- 175823 Kepak Junior A Championship Semi-Final & Final (3)
+- 172328 Kepak Junior B Championship G1 (6)
+- 172329 Kepak Junior B Championship G2 (6)
+- 175824 Kepak Junior B Championship Semi-Final & Final (3)
+- 172326 Kepak Junior C Championship G1 (6)
+- 172327 Kepak Junior C Championship G2 (6)
+- 175827 Kepak Junior C Championship Semi-Final & Final (3)
+- 172324 Kepak Junior D Championship G1 (6)
+- 172325 Kepak Junior D Championship G2 (6)
+- 175828 Kepak Junior D Championship Semi-Final & Final (3)
+- 172322 Kepak Junior E Championship G1 (6)
+- 172323 Kepak Junior E Championship G2 (6)
+- 175829 Kepak Junior E Championship Semi-Final & Final (3)
+- 172321 Kepak Junior F Championship (6)
+- 172375 Kepak Senior Championship G1 (6)
+- 172376 Kepak Senior Championship G2 (6)
+- 175472 Kepak Senior Championship QTR Final (2)
+- 175818 Kepak Senior Championship Semi-Final & Final (3)
+- 175805 Kerry - Galwey Cup Final (1)
+- 175804 Kerry - McElligott Cup Final (1)
+- 173075 Kerry - McElligott Cup Group A (3)
+- 173076 Kerry - McElligott Cup Group B (3)
+- 175803 Kerry - McGillycuddy Cup Final (1)
+- 176655 Kerry Airport Div 1 Men Cup (5)
+- 176661 Kerry Airport Div2 Ladies Plate (1)
+- 176657 Kerry Airport Div2 Men Plate (6)
+- 176662 Kerry Airport Div3 Ladies Plate (12)
+- 176658 Kerry Airport Div3 Men Plate (4)
+- 175614 Kerry Airport Ladies Div 1 & Div 2 (13)
+- 175669 Kerry Airport Ladies Div 3 Pool 1 (29)
+- 175670 Kerry Airport Ladies Div 3 Pool 2 (40)
+- 175615 Kerry Airport Men Div 1 (16)
+- 175623 Kerry Airport Men Div 2 (37)
+- 175628 Kerry Airport Men Div 3 (20)
+- 177402 Kerry Airport U 12 Boys Div 1 (36)
+- 177403 Kerry Airport U 12 Boys Div 2 (20)
+- 177404 Kerry Airport U 12 Boys Div 3 (45)
+- 177389 Kerry Airport U 12 Girls Div 1 (36)
+- 177398 Kerry Airport U 12 Girls Div 2 (45)
+- 177399 Kerry Airport U 12 Girls Div 3 (20)
+- 177376 Kerry Airport U 14 Boys Div 1 (28)
+- 177380 Kerry Airport U 14 Boys Div 2 (44)
+- 177405 Kerry Airport U 14 Girls Div 1 (28)
+- 177406 Kerry Airport U 14 Girls Div 2 (36)
+- 176609 Kerry Airport U 15 Boys Cup (5)
+- 177420 Kerry Airport U 16 Girls Div 1 (9)
+- 177422 Kerry Airport U 16 Girls Div 2 (27)
+- 175601 Kerry Airport U11 Boys (28)
+- 175606 Kerry Airport U11 Girls (46)
+- 177483 Kerry Airport U12 Boys Cup (7)
+- 177484 Kerry Airport U12 Boys Div2 Plate (6)
+- 177485 Kerry Airport U12 Boys Div3 Plate (9)
+- 175503 Kerry Airport U12 Boys Pool A (10)
+- 175506 Kerry Airport U12 Boys Pool B (6)
+- 175507 Kerry Airport U12 Boys Pool C (6)
+- 175685 Kerry Airport U12 Boys Pool D (10)
+- 175511 Kerry Airport U12 Boys Pool E (6)
+- 175512 Kerry Airport U12 Boys Pool F (3)
+- 177448 Kerry Airport U12 Girls Cup (8)
+- 177481 Kerry Airport U12 Girls Div2 Plate (9)
+- 177482 Kerry Airport U12 Girls Div3 Plate (6)
+- 175482 Kerry Airport U12 Girls Pool A (6)
+- 175487 Kerry Airport U12 Girls Pool B (6)
+- 175497 Kerry Airport U12 Girls Pool C (6)
+- 175498 Kerry Airport U12 Girls Pool D (6)
+- 175527 Kerry Airport U12 Girls Pool E (6)
+- 175501 Kerry Airport U12 Girls Pool F (10)
+- 175609 Kerry Airport U13 Boys (54)
+- 176636 Kerry Airport U13 Boys Cup (7)
+- 175607 Kerry Airport U13 Girls (55)
+- 176642 Kerry Airport U13 Girls Cup (7)
+- 177490 Kerry Airport U14 Boys Cup (7)
+- 177409 Kerry Airport U14 Boys Div 3 (12)
+- 177491 Kerry Airport U14 Boys Div2 Plate (9)
+- 177492 Kerry Airport U14 Boys Div3 Plate (3)
+- 175582 Kerry Airport U14 Boys Pool A (10)
+- 175584 Kerry Airport U14 Boys Pool B (3)
+- 175587 Kerry Airport U14 Boys Pool C (6)
+- 175590 Kerry Airport U14 Boys Pool D (6)
+- 175593 Kerry Airport U14 Boys Pool E (6)
+- 175600 Kerry Airport U14 Boys Pool F (3)
+- 177486 Kerry Airport U14 Girls Cup (7)
+- 177487 Kerry Airport U14 Girls Div2 Plate (8)
+- 177488 Kerry Airport U14 Girls Div3 Plate (7)
+- 175552 Kerry Airport U14 Girls Pool A (10)
+- 175556 Kerry Airport U14 Girls Pool B (9)
+- 175572 Kerry Airport U14 Girls Pool C (3)
+- 175575 Kerry Airport U14 Girls Pool D (6)
+- 175577 Kerry Airport U14 Girls Pool E (6)
+- 175579 Kerry Airport U14 Girls Pool F (6)
+- 175742 Kerry Airport U15 Boys (30)
+- 175610 Kerry Airport U15 Girls (20)
+- 176643 Kerry Airport U15 Girls Cup (5)
+- 175494 Kerry Airport U16 Boys Div 1 (20)
+- 175495 Kerry Airport U16 Boys Div 2 (30)
+- 175504 Kerry Airport U16 Boys Div 3 (45)
+- 176637 Kerry Airport U16 Boys Div2 Plate (5)
+- 176638 Kerry Airport U16 Boys Div3 Plate (9)
+- 175602 Kerry Airport U16 Girls Div 1/2 Pool A (6)
+- 175603 Kerry Airport U16 Girls Div 1/2 Pool B (6)
+- 175605 Kerry Airport U16 Girls Div 1/2 Pool C (3)
+- 175491 Kerry Airport U16 Girls Div 3 Group 1 (28)
+- 175493 Kerry Airport U16 Girls Div 3 Group 2 (35)
+- 177505 Kerry Airport U16 Girls Div2 Plate (7)
+- 176644 Kerry Airport U16 Girls Div3 Plate (17)
+- 175525 Kerry Airport U18 Boys Div 1 (12)
+- 176639 Kerry Airport U18 Boys Div 1 Cup (3)
+- 175529 Kerry Airport U18 Boys Div 2 (30)
+- 175559 Kerry Airport U18 Boys Div 3 (20)
+- 176640 Kerry Airport U18 Boys Div2 Plate (5)
+- 176641 Kerry Airport U18 Boys Div3 Plate (4)
+- 176645 Kerry Airport U18 Girls Cup (4)
+- 175510 Kerry Airport U18 Girls Div 1 (20)
+- 175513 Kerry Airport U18 Girls Div 2 (30)
+- 175531 Kerry Airport U18 Girls Div 3 (28)
+- 176648 Kerry Airport U18 Girls Div2 Plate (6)
+- 176653 Kerry Airport U18 Girls Div3 Plate (8)
+- 174695 Kerry Cup (10)
+- 176304 Kerry Petroleum Novice Club Football Championship (8)
+- 177407 Kerry airport U 14 Girls Div 3 (28)
+- 176102 Kevin Courtney Garage & Car Sales Intermediate Football Championship (6)
+- 169119 Kilkenny Honda Centre Minor B Hurling League Roinn A (8)
+- 171227 Kootenay Cup (2)
+- 171229 Kukri Ulster Rugby Championship Division 1 (90)
+- 171230 Kukri Ulster Rugby Championship Division 2 (90)
+- 171231 Kukri Ulster Rugby Championship Division 3 (90)
+- 177770 Kyle Cup (1)
+- 172520 LIam Cullen Cup (1)
+- 172521 LIam Cullen Cup (1)
+- 172724 LIam Cullen Cup (1)
+- 176718 LJPSB Leagues (75)
+- 176739 LJPSG D1(1T) (20)
+- 176741 LJPSG D1(2T) (32)
+- 176740 LJPSG D2(1T) (42)
+- 176742 LJPSG D2(2T) (40)
+- 176744 LJPSG MA(2T) (24)
+- 176682 LL Majors - Central-Swan Hills (64)
+- 176109 LL Majors - North of River (Saturdays) (95)
+- 176200 LL Majors - North of River Exhibition games (21)
+- 176213 LL Majors - Perth Metro South (35)
+- 176363 LL Majors - Southern Hills (84)
+- 176100 LL Majors - Wanneroo Giants (Friday) (20)
+- 176120 LL Majors Coastal Bay (39)
+- 176395 LL Minors - Carine Cats / Sun City (32)
+- 169053 LM Division 6 New (21)
+- 177427 LM Indoor League (22)
+- 175035 LM Intermediate Cup (19)
+- 173816 LM Mills Cup (14)
+- 173609 LM Neville Cup (25)
+- 177216 LM Neville Davin Cup (7)
+- 173836 LM Railway Cup (18)
+- 177315 LMMinorCup (8)
+- 173341 LNA - Men-Hommes (56)
+- 171636 LNA Play off - Men-Hommes (3)
+- 173348 LNB - Men-Hommes (56)
+- 173350 LNC - Men-Hommes (56)
+- 171070 LND Classement - Play off - Men-Hommes (14)
+- 173871 LND EST - Men-Hommes (42)
+- 173944 LND OUEST - Men-Hommes (30)
+- 173874 LNFA - Women-Femmes (30)
+- 171638 LNFA Play off - Women-Femmes (3)
+- 173875 LNFB - Women-Femmes (29)
+- 176318 LSSB Junior C League (16)
+- 173799 LSSB Junior League (24)
+- 177494 LSSB Junior League RD2 (28)
+- 176322 LSSB Minor C League (12)
+- 173800 LSSB Minor League (28)
+- 177689 LSSB Minor League RD2 (28)
+- 173797 LSSB Senior League (28)
+- 177493 LSSB Senior League RD2 (28)
+- 173805 LSSB U13 League (32)
+- 176323 LSSB U13C League (12)
+- 169556 LSSG 1st Yr A (11) PO (3)
+- 169557 LSSG 1st Yr B (11) PO (3)
+- 169561 LSSG 1st Yr B (8) PO (2)
+- 169559 LSSG 1st Yr C (11) PO (3)
+- 169562 LSSG 1st Yr C (8) PO (2)
+- 169568 LSSG 1st Yr D (8) PO (3)
+- 174951 LW Challenge A (84)
+- 174953 LW Challenge B (63)
+- 176717 LW Challenge Cup (11)
+- 176730 LW Div 11 Cup (9)
+- 176719 LW Div 3-4 Cup (19)
+- 170327 LW Div 3-4 Playoff (1)
+- 176722 LW Div 5-6 Cup (18)
+- 176724 LW Div 7-8 Cup (18)
+- 176727 LW Div 9-10 Cup (17)
+- 172745 LW Division 1 (90)
+- 172768 LW Division 10 (90)
+- 175714 LW Division 11 (66)
+- 172760 LW Division 2 (90)
+- 172761 LW Division 3 (90)
+- 172762 LW Division 4 (90)
+- 172763 LW Division 5 (90)
+- 172764 LW Division 6 (90)
+- 172765 LW Division 7 (90)
+- 172766 LW Division 8 (72)
+- 175816 LW Division 9 (72)
+- 177424 LW Indoor League (44)
+- 172230 Lacken Hil - New Ross Standard Division 3 Football Final (1)
+- 172305 Lacken Hill New Ross Standard 2022 D3 U17 Hurling Tournament (1)
+- 174919 Ladies Championship (42)
+- 176062 Ladies Connacht Cup (15)
+- 170382 Ladies League (18)
+- 174917 Ladies Premier (20)
+- 175291 Lalor Cup (J1) (3)
+- 173131 Lansdowne Social League (12)
+- 173612 Lansdowne Social League Cup Final (1)
+- 173614 Lansdowne Social League Plate Final (1)
+- 173135 Lansdowne Vets League (12)
+- 173615 Lansdowne Vets League Cup Final (1)
+- 173616 Lansdowne Vets League Plate Final (1)
+- 174859 Late Summer Bowl (6)
+- 174855 Late Summer Cup (6)
+- 174858 Late Summer Plate (6)
+- 174860 Late Summer Spoon (6)
+- 173299 Lawlors Hotel Junior A Football Championship Group 1 (3)
+- 173298 Lawlors Hotel Junior A Football Championship Group 2 (3)
+- 173300 Lawlors Hotel Junior A Football Championship Group 3 (3)
+- 176417 Lawlors Hotel Junior A Football Championship Knockout (5)
+- 169813 League 2nd Teams Div2A Grp 1 (6)
+- 169814 League 2nd Teams Div2A Grp 2 (10)
+- 169815 League 2nd Teams Div2B Grp 1 (10)
+- 169817 League 2nd Teams Div2B Grp 2 (10)
+- 169819 League 2nd Teams Div2C Grp 2 (14)
+- 169818 League 2nd Teams Div2C Grp1 (15)
+- 173386 League Div 1 Knockout (8)
+- 169641 League Div 1A (15)
+- 169643 League Div 1B (15)
+- 169676 League Div 2 (28)
+- 173389 League Div 2 Final (1)
+- 173780 League Div 2A Knockout (3)
+- 177635 League Div 2B Knockout (3)
+- 173479 League Div 2C Knockout (3)
+- 169677 League Div 3 (28)
+- 173390 League Div 3 Final (1)
+- 169960 League Div 4 (28)
+- 169961 League Div 5 (28)
+- 169962 League Div 6 (28)
+- 170037 League Div 7 (28)
+- 170038 League Div 8 (20)
+- 173513 League Div 8 Final (1)
+- 170039 League Div 9 (20)
+- 173571 League Div 9 Final (1)
+- 173621 League Division 1 Relegation Final (1)
+- 170171 Leiinster U13 League Div 1 3/4 place (3)
+- 170524 Leiinster U13 League Prem 3/4 place (3)
+- 175081 Leinster Boys 18s Friendlies (30)
+- 175686 Leinster Boys School Youth 18s Cup (16)
+- 175688 Leinster Boys School Youth 18s League A (28)
+- 175687 Leinster Boys School Youth 18s League B (28)
+- 177443 Leinster Boys School Youth U14 1st Division (24)
+- 177442 Leinster Boys School Youth U14 1st Division Group A (1)
+- 177445 Leinster Boys School Youth U14 2nd Division Group A (10)
+- 177446 Leinster Boys School Youth U14 2nd Division Group B (10)
+- 177441 Leinster Boys School Youth U14 3rd Division (21)
+- 175271 Leinster Boys School Youth U14 Grading Green (15)
+- 175413 Leinster Boys School Youth U14 Grading Red (15)
+- 175415 Leinster Boys School Youth U14 Grading Yellow (15)
+- 177440 Leinster Boys School Youth U14 Premier Division (10)
+- 177703 Leinster Boys School Youth U15 Div1A (10)
+- 177704 Leinster Boys School Youth U15 Div1B (12)
+- 177530 Leinster Boys School Youth U15 Division 2 (36)
+- 177529 Leinster Boys School Youth U15 Division1 (28)
+- 175900 Leinster Boys School Youth U15 Grading A (14)
+- 175977 Leinster Boys School Youth U15 Grading B (21)
+- 175915 Leinster Boys School Youth U15 Grading C (15)
+- 175924 Leinster Boys School Youth U15 Grading D (28)
+- 177528 Leinster Boys School Youth U15 Premier (21)
+- 177514 Leinster Boys School Youth U17 Div 1 (15)
+- 176347 Leinster Boys School Youth U17 Phase 1 Grp A (15)
+- 176348 Leinster Boys School Youth U17 Phase 1 Grp B (15)
+- 176349 Leinster Boys School Youth U17 Phase 1 Grp C (6)
+- 177511 Leinster Boys School Youth U17 Premier (15)
+- 175414 Leinster Boys School Youths U14 Grading White (15)
+- 176419 Leinster Boys School Youths U18 Plate (7)
+- 177706 Leinster Boys Schools Youth  Under 16 Premier (11)
+- 175416 Leinster Boys Schools Youth U14 Grading Blue (15)
+- 177721 Leinster Boys Schools Youth Under 16 DIV 1 (10)
+- 177707 Leinster Boys Schools Youth Under 16 DIV 2 (10)
+- 175856 Leinster Boys Schools Youth Under 16 Grading 1 (10)
+- 175857 Leinster Boys Schools Youth Under 16 Grading 2 (10)
+- 175861 Leinster Boys Schools Youth Under 16 Grading 3 (10)
+- 177246 Leinster Boys Sunday U13 Section A (28)
+- 177247 Leinster Boys Sunday U13 Section B (28)
+- 177249 Leinster Boys Sunday U13 Section C (28)
+- 177250 Leinster Boys Sunday U13 Section D (28)
+- 177725 Leinster Boys U 18 Div 1B (12)
+- 174362 Leinster Boys U13 Friendlies (38)
+- 175054 Leinster Boys U14 Friendlies (38)
+- 174825 Leinster Boys U15 Friendlies (41)
+- 174804 Leinster Boys U16 Friendlies (51)
+- 175239 Leinster Boys U17 Friendlies (42)
+- 175914 Leinster Boys Youth 18s Phase 1 Group 1 (21)
+- 175922 Leinster Boys Youth 18s Phase 1 Group 2 (21)
+- 176374 Leinster Boys Youth 18s phase 1 group 3 (17)
+- 176025 Leinster Boys Youth U15s Phase 1 Group 1 (15)
+- 176027 Leinster Boys Youth U15s Phase 1 Group 2 (15)
+- 176028 Leinster Boys Youth U15s Phase 1 Group 3 (15)
+- 175934 Leinster Boys Youths  U16 Phase One Group Three (12)
+- 175933 Leinster Boys Youths  U16 Phase One Group Two (21)
+- 175929 Leinster Boys Youths U16 Phase One Group One (21)
+- 175947 Leinster Boys Youths U17 Phase One Group One (10)
+- 176220 Leinster Boys Youths U17 Phase One Group Two (10)
+- 176099 Leinster Boys youth U14s Phase 1 Group 1 (28)
+- 176108 Leinster Boys youth U14s Phase 1 Group 2 (15)
+- 176110 Leinster Boys youth U14s Phase 1 Group 3 (21)
+- 175990 Leinster Girls 18S Cup (23)
+- 175051 Leinster Girls 18s Friendlies (18)
+- 175942 Leinster Girls U14 Cup (31)
+- 175050 Leinster Girls U14 Friendlies (19)
+- 176866 Leinster Girls U14 League 1 North (28)
+- 176867 Leinster Girls U14 League 1 South (28)
+- 176868 Leinster Girls U14 League 2 North (29)
+- 176869 Leinster Girls U14 League 2 South (28)
+- 176399 Leinster Girls U14 Plate (17)
+- 174826 Leinster Girls U16  Friendlies (21)
+- 175974 Leinster Girls U16 Cup (28)
+- 176513 Leinster Girls U16 Division 3 Phase1 (15)
+- 176471 Leinster Girls U16 Phase1 Group1 (21)
+- 176511 Leinster Girls U16 Phase1 Group2 (21)
+- 176512 Leinster Girls U16 Phase1 Group3 (15)
+- 176905 Leinster Girls U16 Plate (15)
+- 176578 Leinster Girls U18 League Group1 Phase 1 (15)
+- 176580 Leinster Girls U18 League Group2 Phase 1 (15)
+- 176610 Leinster Girls U18 League Group3 Phase 1 (15)
+- 176611 Leinster Girls U18 League Group4 Phase 1 (15)
+- 177666 Leinster Girls U18 League Phase 2 Div1 (15)
+- 176690 Leinster Girls U18 Plate (13)
+- 177220 Leinster IHC Play off (1)
+- 173754 Leinster Intermediate Club Championship Finals (4)
+- 173756 Leinster Junior A Club Championship Finals (4)
+- 173757 Leinster Junior B Club Championship Finals (2)
+- 172793 Leinster League - Division 1A (56)
+- 169150 Leinster League - Division 1A/1B Promotion/Relegation Playoff (1)
+- 172813 Leinster League - Division 1B (56)
+- 168907 Leinster League - Division 1B/2A Promotion/Relegation Playoff (1)
+- 172893 Leinster League - Division 2A (56)
+- 168908 Leinster League - Division 2A/2B Promotion/Relegation Playoff (1)
+- 173301 Leinster League - Division 2B (42)
+- 168909 Leinster League - Division 2B/3 Promotion/Relegation Playoff (1)
+- 173950 Leinster League - Division 3 (30)
+- 170486 Leinster League U13 Prem Division (7)
+- 169294 Leinster League U13 School Youth Division 2 5th-8th place playoff (4)
+- 169291 Leinster League U13 School Youth Division 2 group 2 5th&6th place playoff (1)
+- 169293 Leinster League U13 School Youth Division 2 group 2 playoff (3)
+- 169295 Leinster League U13 School Youth Division 2 playoff (3)
+- 169298 Leinster League U13 School Youth Premier 1 5th-8th place playoff (3)
+- 169299 Leinster League U13 School Youth Premier 1 playoff (3)
+- 169296 Leinster League U13 School Youth Premier 2 5th-8th place playoff (3)
+- 169297 Leinster League U13 School Youth Premier 2 playoff (3)
+- 170325 Leinster League U13 School youth Div 4 (3)
+- 170326 Leinster League U13 School youth Div 4 5th to 8th playoff (3)
+- 170044 Leinster League U14 Girls Div 1 5th to 8th playoff (3)
+- 170043 Leinster League U14 Girls Div 1 playoff (3)
+- 170046 Leinster League U14 Girls Div 2 5th to 8th playoff (3)
+- 170045 Leinster League U14 Girls Div 2 playoff (3)
+- 170048 Leinster League U14 Girls Div 3 5th to 8th playoff (3)
+- 170047 Leinster League U14 Girls Div 3 playoff (4)
+- 170042 Leinster League U14 Girls Premier 5th to 8th playoff (3)
+- 170041 Leinster League U14 Girls Premier playoff (3)
+- 169066 Leinster League U14 School Youth Premier1 Playoff (7)
+- 169764 Leinster League U15 School Youth Div1 Final (3)
+- 169763 Leinster League U15 School Youth Div2 playoff (3)
+- 169760 Leinster League U15 School Youth Premier playoff (3)
+- 169770 Leinster League U15 Youth Div 1 5th & 6th place playoff (1)
+- 169767 Leinster League U15 Youth Div 1 playoff (3)
+- 169769 Leinster League U15 Youth Div 2 5th & 6th place playoff (1)
+- 169768 Leinster League U15 Youth Div 2 playoff (3)
+- 169771 Leinster League U15 Youth Premier 5th & 6th place playoff (1)
+- 169766 Leinster League U15 Youth Premier playoff (3)
+- 170057 Leinster League U16 Girls Div 2 5th to 8th playoff (3)
+- 170051 Leinster League U16 Girls Div 2 playoff (3)
+- 170169 Leinster League U16 Girls Division 1 playoff (3)
+- 170170 Leinster League U16 Girls Division1 5th to 8th place playoff (3)
+- 170054 Leinster League U16 Girls Premier 5th to 8th playoff (3)
+- 170053 Leinster League U16 Girls Premier playoff (3)
+- 169829 Leinster League U16 Youth 5th to 8th playoff (3)
+- 169830 Leinster League U16 Youth Div 2 playoff (3)
+- 169828 Leinster League U16 Youth Div1 playoff (3)
+- 169827 Leinster League U16 Youth Premier playoff (3)
+- 169451 Leinster League U17 School Youth Div 2 playoff (3)
+- 169450 Leinster League U17 School Youth Premier playoff (3)
+- 170172 Leinster League U18 Girls Division1 playoff (4)
+- 170173 Leinster League U18 Girls Division2 playoff (3)
+- 168984 Leinster League U18 Plate (12)
+- 170389 Leinster Minor Championship 2022 Group A (6)
+- 170396 Leinster Minor Championship 2022 Group B (6)
+- 170404 Leinster Minor Championship 2022 Group C (6)
+- 173753 Leinster Senior Club Championship Finals (2)
+- 169868 Leinster U13 Div 1 League 5/8 Place (2)
+- 169869 Leinster U13 Div 2 League 5/8 Place (3)
+- 168961 Leinster U13 Division 2 Playoff (6)
+- 177192 Leinster U13 League Div 1 A (15)
+- 177167 Leinster U13 League Div 1 B (15)
+- 170503 Leinster U13 League Div 2. 3/4 place (3)
+- 170525 Leinster U13 League Prem 5/6 place (3)
+- 177153 Leinster U13 League Prem A (15)
+- 177154 Leinster U13 League Prem B (15)
+- 169079 Leinster U13 Prem League 5/8 Place (3)
+- 170541 Leinster U14 Youth League Division 1 3rd-4th (1)
+- 170539 Leinster U14 Youth League Division 1 Final (1)
+- 170542 Leinster U14 Youth League Division 2 3rd-4th (1)
+- 170538 Leinster U14 Youth League Division 2 Final (1)
+- 170540 Leinster U14 Youth League Premier 3rd-4th (1)
+- 169147 Leinster U14 Youth League Premier 5th-8th place playoff (3)
+- 177724 Leinster boys U 18 Premier B (12)
+- 177658 Leinster boys U 18 premier group A (12)
+- 177659 Leinster boys u 18 div 1 A (19)
+- 169672 Leinster league u17 div1 play off (3)
+- 172917 Ligue Automnale Masculine (10)
+- 169657 M.S.L.U10 Boys Europa Red (1)
+- 170178 M.S.L.U10 Girls Cup Final (9)
+- 170179 M.S.L.U10 Girls Shield Final (11)
+- 170181 M.S.L.U12 Girls Cup Final (11)
+- 170190 M.S.L.U12 Girls Shield Final (13)
+- 170185 M.S.L.U14 Girls Shield Final (9)
+- 170184 M.S.L.U14 Girls cup Final (10)
+- 170186 M.S.L.U16 Girls Cup Final (5)
+- 170188 M.S.L.U16 Girls Shield Final (3)
+- 169212 MICHEAL HOLLAND CUP 2022 (1)
+- 169094 MJK Oil Ltd Junior A Hurling Championship 2022 Grp 1 (3)
+- 169095 MJK Oil Ltd Junior A Hurling Championship 2022 Grp 2 (6)
+- 169096 MJK Oil Ltd Junior A Hurling Championship 2022 Grp 3 (6)
+- 174866 MJK Oil Ltd Junior A Hurling Championship Playoffs 2022 (5)
+- 177110 MP60 - Southern Hills (42)
+- 172660 MU Barnhall Beginners (25)
+- 173418 MU Barnhall Beginners 5v6 1st Leg (1)
+- 173774 MU Barnhall Beginners 5v6 2nd Leg (1)
+- 173771 MU Barnhall Beginners Bowl Final (1)
+- 173419 MU Barnhall Beginners Bowl Semi Finals (2)
+- 173767 MU Barnhall Beginners Cup Final (1)
+- 173417 MU Barnhall Beginners Cup Semi Finals (2)
+- 173769 MU Barnhall Beginners Plate Final (1)
+- 173773 MU Barnhall Beginners Shield Final (1)
+- 172092 MU Barnhall Grading (16)
+- 172662 MU Barnhall Non-Beginners (15)
+- 173416 MU Barnhall Non-Beginners 5v6th 1st Leg (1)
+- 173772 MU Barnhall Non-Beginners 5v6th 2nd Leg (1)
+- 173768 MU Barnhall Non-Beginners Cup Final (1)
+- 173415 MU Barnhall Non-Beginners Cup Semi Final (2)
+- 173770 MU Barnhall Non-Beginners Plate Final (1)
+- 176915 Machine Pitch 60 - Central-Swan Hills (26)
+- 176115 Machine Pitch 60 - North of River (64)
+- 176380 Machine Pitch 70 - Carine Cats (32)
+- 173315 Macra na Feirme Cup (1)
+- 173316 Macra na Feirme Cup (1)
+- 173317 Macra na Feirme Cup (1)
+- 173318 Macra na Feirme Cup (1)
+- 173737 Macra na Feirme Cup (1)
+- 175853 Manhattan Cup (1)
+- 176101 Mannok SFC (6)
+- 170613 Mansergh Cup (3)
+- 169975 Marshall 1XV (95)
+- 169976 Marshall 2XV (93)
+- 172093 Masita Cup 1 G1 (6)
+- 172094 Masita Cup 1 G2 (6)
+- 172095 Masita Cup 1 G3 (6)
+- 172096 Masita Cup 1 G4 (6)
+- 172097 Masita Cup 2 G1 (6)
+- 172098 Masita Cup 2 G2 (6)
+- 172099 Masita Cup 2 G3 (6)
+- 172100 Masita Cup 2 G4 (6)
+- 172101 Masita Cup 3 G1 (6)
+- 172102 Masita Cup 3 G2 (5)
+- 172103 Masita Cup 3 G3 (6)
+- 172104 Masita Cup 3 G4 (6)
+- 168718 Masita GAA Post Primary Schools Hogan Cup (Senior A Football) (2)
+- 168809 Masita GAA Post Primary Schools Paddy Drummond Cup (Senior B Football) (1)
+- 168836 Masita GAA Post Primary Schools Paddy Drummond Cup (Senior B Football) (1)
+- 168760 Masita PPS Hogan Cup (1)
+- 168768 Masita PPS Paddy Drummond Cup (1)
+- 177139 Master Baseball League of WA (33)
+- 177182 Mauritius Cup 2022 (4)
+- 177275 Mauritius Plate 2022 (1)
+- 170498 Mayo  SFL Division 5B (21)
+- 171764 Mayo Cumann na mBunscoil Hurling Finals 2022 (5)
+- 176078 Mayo Exclusive JFC B 2022 (6)
+- 173552 Mayo GAA Division 1 Cup (7)
+- 173554 Mayo GAA Division 1 Relegation (2)
+- 173553 Mayo GAA Division 2 Cup (7)
+- 173557 Mayo GAA Division 2 Relegation (2)
+- 173558 Mayo GAA Division 3 Relegation (1)
+- 173556 Mayo GAA Division 5 Cup (5)
+- 168893 Mayo GAA Genfitt Adult Hurling Division 1 (6)
+- 168894 Mayo GAA Genfitt Adult Hurling Division 2 (6)
+- 170577 Mayo GAA Genfitt Adult Hurling Knock Out (6)
+- 172516 Mayo GAA Junior A Hurling Championship (6)
+- 175768 Mayo GAA Junior A Hurling Championship (1)
+- 175769 Mayo GAA Junior B Hurling (1)
+- 170495 Mayo GAA SFL Division 1A (28)
+- 170490 Mayo GAA SFL Division 1B (28)
+- 170496 Mayo GAA SFL Division 2A (28)
+- 170491 Mayo GAA SFL Division 2B (28)
+- 173559 Mayo GAA SFL Division 3 Cup (7)
+- 171613 Mayo GAA SFL Division 3A (28)
+- 171610 Mayo GAA SFL Division 3B (28)
+- 173555 Mayo GAA SFL Division 4 Cup (7)
+- 170497 Mayo GAA SFL Division 4A (28)
+- 170492 Mayo GAA SFL Division 4B (49)
+- 170494 Mayo GAA SFL Division 5A (15)
+- 170489 Mayo GAA SFL Division 5C (15)
+- 172517 Mayo GAA Senior Hurling Championship (3)
+- 174829 Mayo GAA Senior Hurling Championship (1)
+- 169993 Mayo GAA U-11 Hurling Go Games 2022 (36)
+- 169992 Mayo GAA U-13 Hurling Division 1 (10)
+- 169994 Mayo GAA U-13 Hurling Division 2 (10)
+- 171541 Mayo GAA U-13 Hurling League Knockout (2)
+- 169619 Mayo GAA U-15 Hurling Feile Group 1 (3)
+- 169621 Mayo GAA U-15 Hurling Feile Group 2 (3)
+- 170978 Mayo GAA U-15 Hurling Feile Knock Out (3)
+- 169620 Mayo GAA U-17 Hurling League 2022 (10)
+- 169995 Mayo GAA U-9 / U-7 Hurling Go Games 2022 (36)
+- 174424 Mayo GAA U13 Hurling Finals 2022 (5)
+- 173598 Mayo GAA U15 Hurling Championship 2022 (10)
+- 176882 Mayo GAA U15 Hurling Final 2022 (2)
+- 173599 Mayo GAA U17 Hurling Championship 2022 (10)
+- 177033 Mayo GAA U17 Hurling Final 2022 (2)
+- 171763 Mayo GAA U19 Hurling 13-a-side 2022 (4)
+- 176079 Mayo IFC Finals 2022 (7)
+- 171131 Mayo IFC Group 1 (6)
+- 171137 Mayo IFC Group 2 (6)
+- 171132 Mayo IFC Group 3 (6)
+- 171138 Mayo IFC Group 4 (6)
+- 176080 Mayo IFC Relegation 2022 (3)
+- 176075 Mayo JFC Final 2022 (7)
+- 171133 Mayo JFC Group 1 (6)
+- 171139 Mayo JFC Group 2 (6)
+- 171134 Mayo JFC Group 3 (3)
+- 171135 Mayo JFC Group 4 (6)
+- 176076 Mayo SFC Finals 2022 (7)
+- 171128 Mayo SFC Group 1 (6)
+- 171129 Mayo SFC Group 2 (6)
+- 171130 Mayo SFC Group 3 (6)
+- 171136 Mayo SFC Group 4 (6)
+- 176077 Mayo SFC Relegation 2022 (3)
+- 174083 McAleer & Rushe Senior Football Championship Group 1 (6)
+- 174084 McAleer & Rushe Senior Football Championship Group 2 (6)
+- 176405 McAleer & Rushe Senior Football Championship KNOCK OUT (3)
+- 173031 McAleer & Rushe Senior Hurling Championship (15)
+- 176406 McAleer & Rushe Senior Hurling Championship KNOCKOUT (3)
+- 169175 McAuliffe Hurleys JB2 Hurling Championship (4)
+- 173939 McCalls Division 1 (90)
+- 173941 McCalls Division 2 (110)
+- 173937 McCalls Premier League (90)
+- 171214 McCambley Cup (31)
+- 168911 McCorry Cup (U20) (7)
+- 174584 McElligott Cup (10)
+- 173808 McGowan Cup (J1) - Group 1 (3)
+- 173812 McGowan Cup (J1) - Group 2 (3)
+- 170587 McGowan Cup (J1) - Playoffs (2)
+- 177412 McMullen Cup (Senior) (25)
+- 171279 Medallion A (206)
+- 171280 Medallion B (18)
+- 169977 Melissa Patterson Memorial League (30)
+- 169982 Memorial League Division 5 (17)
+- 172553 Men 7s Championship - Krakow (29)
+- 171517 Men 7s Championship - Lisbon (25)
+- 171393 Men 7s Conference - Belgrade (34)
+- 171706 Men 7s Conference 2 - Malta (15)
+- 172936 Men 7s RWCQ - Bucharest (22)
+- 171494 Men 7s Trophy - Zagreb (34)
+- 172146 Men 7s Trophy Budapest (34)
+- 174274 Men U21 Interpros (6)
+- 175999 Mens 7s 24th September (18)
+- 172958 Mens Autumn Internationals (27)
+- 173724 Mens D1 (15)
+- 173725 Mens D2 (12)
+- 173726 Mens D3 CT (12)
+- 173727 Mens D3 Metro (18)
+- 173728 Mens D3 NJ (12)
+- 173729 Mens D3 Upstate East (12)
+- 173730 Mens D3 Upstate West (12)
+- 173731 Mens D4 Metro (10)
+- 173732 Mens D4 NY/NJ (6)
+- 173733 Mens D4 Upstate (10)
+- 174691 Mens Division 1 (42)
+- 175433 Mens Division 1 (112)
+- 173374 Mens Division 1A (90)
+- 173377 Mens Division 1B (90)
+- 173395 Mens Division 2 (72)
+- 174706 Mens Division 2 (43)
+- 175126 Mens Division 2 (52)
+- 173396 Mens Division 3 (73)
+- 174713 Mens Division 3 (30)
+- 175127 Mens Division 3 (138)
+- 173398 Mens Division 4 (72)
+- 173399 Mens Division 5 (90)
+- 173401 Mens Division 6 (72)
+- 175881 Mens Fall League (10)
+- 174008 Mens Intermediate Cup (2)
+- 170383 Mens League (54)
+- 172821 Mens NLD 1 (56)
+- 172824 Mens NLD 2 East/West (10)
+- 172825 Mens NLD 2 North/South (10)
+- 174701 Mens Peard Cup (6)
+- 175124 Mens Premier Division (67)
+- 175123 Mens Premier Regional Pre-Season (33)
+- 175432 Mens Premier Reserve (64)
+- 175125 Mens Premier Reserve Regional Pre-Season (28)
+- 177224 Mervyn Bassett Cup (24)
+- 168853 Metro Cup U15 2022 (8)
+- 172941 Metro League - Division 1 (56)
+- 175899 Metro League - Division 10 (66)
+- 173013 Metro League - Division 2 (56)
+- 174032 Metro League - Division 3 (42)
+- 174261 Metro League - Division 4 (56)
+- 175381 Metro League - Division 5 (36)
+- 175419 Metro League - Division 6 (36)
+- 175537 Metro League - Division 7 (36)
+- 175734 Metro League - Division 8 (56)
+- 175837 Metro League - Division 9 (56)
+- 169146 Metro League Division 1 - Relegation Playoff (1)
+- 169258 Metro League Division 1 Final (1)
+- 169144 Metro League Division 10 Final (1)
+- 169116 Metro League Division 2 Final (1)
+- 170142 Metro League Division 3 - Relegation Playoff (1)
+- 169816 Metro League Division 3 Final (1)
+- 169639 Metro League Division 8 Final (1)
+- 169502 Metro League Division 9 Final (1)
+- 170406 Metro Plate (J1) (2)
+- 175917 Metro U13 SY Boys Grading Group 1 (20)
+- 175919 Metro U13 SY Boys Grading Group 2 (15)
+- 175920 Metro U13 SY Boys Grading Group 3 (15)
+- 175921 Metro U13 SY Boys Grading Group 4 (15)
+- 169935 Metro U17 Cup (6)
+- 169928 Michael Dunne Cup (Provincial J4) (8)
+- 169674 Michael Walsh Intermediate Cup 2022 (15)
+- 169678 Michael Walsh Junior Cup 2022 (11)
+- 169645 Michael Walsh Senior Cup 2022 (15)
+- 170377 Micro (18)
+- 170560 Mid Cork Feile 2022 A (9)
+- 170561 Mid Cork Feile 2022 B (9)
+- 170562 Mid Cork Feile 2022 C (4)
+- 169777 Mid Cork Ladies Minor A (19)
+- 169778 Mid Cork Ladies Minor B (18)
+- 169779 Mid Cork Ladies Minor C (18)
+- 169809 Mid Cork Ladies U12A (20)
+- 170029 Mid Cork Ladies U12B1 (24)
+- 170030 Mid Cork Ladies U12B2 (24)
+- 170031 Mid Cork Ladies U12C Grp 1 (10)
+- 170032 Mid Cork Ladies U12C Grp 2 (12)
+- 170645 Mid Cork Ladies U13A (13)
+- 170647 Mid Cork Ladies U13B (19)
+- 170648 Mid Cork Ladies U13C (25)
+- 170649 Mid Cork Ladies U13D (15)
+- 169963 Mid Cork Ladies U14A (18)
+- 169964 Mid Cork Ladies U14B (18)
+- 169965 Mid Cork Ladies U14C (25)
+- 169966 Mid Cork Ladies U14D (12)
+- 169699 Mid Cork Ladies U16A (18)
+- 169774 Mid Cork Ladies U16B (19)
+- 169775 Mid Cork Ladies U16C (18)
+- 169776 Mid Cork Ladies U16D (31)
+- 168839 Mid Intermediate Football 2022 (4)
+- 169395 Mid Junior B Hurling League (7)
+- 171124 Mid Junior Div 2 League Knockout (1)
+- 176793 Mid U17 Football (10)
+- 177524 Mid U17A Football (3)
+- 175188 Midland Bowl Final (1)
+- 173843 Midland J1 League - Group 1 (3)
+- 173844 Midland J1 League - Group 2 (4)
+- 175186 Midland J1 League Final (1)
+- 175187 Midland Plate Final (1)
+- 170438 Midlands League U16G playoff (3)
+- 170441 Midlands League U18G playoffs (3)
+- 175311 Midlands U13 Boys 22-23 (33)
+- 175171 Midlands U14 Boys 22-23 (24)
+- 170927 Midlands U14 Boys Final (1)
+- 175752 Midlands U14 Girls (10)
+- 170437 Midlands U14G Final (3)
+- 176015 Midlands U15 Boys 22-23 (12)
+- 171043 Midlands U15 Boys Final (1)
+- 175223 Midlands U16 Boys 22-23 (12)
+- 170642 Midlands U16 Boys Final (1)
+- 175161 Midlands U16 Girls (21)
+- 175309 Midlands U17 Boys 22-23 (11)
+- 175120 Midlands U18 Girls (10)
+- 175310 Midlands U18½ Boys 22-23 (6)
+- 170378 Mini (12)
+- 171473 Mini Rugby (7)
+- 169159 Mini Rugby Festival (4)
+- 175477 Minor (U17) B HC Knockout (7)
+- 175638 Minor (U17) B1 HC Knockout (6)
+- 168876 Minor 1 League Playoff (3)
+- 168881 Minor 1 Shield Playoff (3)
+- 168877 Minor 2 League Playoff (3)
+- 168882 Minor 2 Shield Playoff (3)
+- 168878 Minor 3 League Playoff (3)
+- 168883 Minor 3 Shield Playoff (3)
+- 168879 Minor 4 League Playoff (3)
+- 168884 Minor 4 Shield Playoff (3)
+- 168880 Minor 5 League Playoff (5)
+- 168885 Minor 5 Shield Playoff (5)
+- 175478 Minor A (U17) HC Knock Out (7)
+- 173346 Minor A Championship Grp A (6)
+- 173347 Minor A Championship Grp B (6)
+- 176855 Minor A County (7)
+- 176404 Minor A Football Championship Finals 2022 (7)
+- 169210 Minor A Football Lge/Champ (45)
+- 169567 Minor A Hurling Championship (21)
+- 176859 Minor A2 County (4)
+- 173349 Minor B Championship Grp A (6)
+- 173352 Minor B Championship Grp B (6)
+- 175948 Minor B Football Championship Finals 2022 (4)
+- 169208 Minor B Football Lge/Champ (36)
+- 176856 Minor B county (6)
+- 176860 Minor B2 County (5)
+- 173421 Minor C Championship Grp A (6)
+- 173422 Minor C Championship Grp B (3)
+- 176857 Minor C County (7)
+- 176723 Minor C Football Championship (2)
+- 176861 Minor C2 County (6)
+- 173423 Minor D Championship Grp A (6)
+- 173424 Minor D Championship Grp B (3)
+- 176858 Minor D County (7)
+- 176862 Minor D2 County (6)
+- 176863 Minor D3 County (2)
+- 174111 Minor Football Championship Final (2)
+- 172650 Minor Football Championship Group 1 (6)
+- 172659 Minor Football Championship Group 2 (6)
+- 172651 Minor Football Championship Group 3 (6)
+- 173735 Minor Football Championship Qtr Finals (4)
+- 173734 Minor Football Championship S/Finals (2)
+- 168729 Minor Football League Division 1 (15)
+- 170359 Minor Football League Division 1 (15)
+- 170423 Minor Football League Division 1 Semi Finals and Final (3)
+- 170356 Minor Football League Division 2 Semi Finals and Final (3)
+- 168743 Minor Football League Division 2A (12)
+- 170363 Minor Football League Division 2A (15)
+- 168730 Minor Football League Division 2B (12)
+- 170364 Minor Football League Division 2B (15)
+- 170355 Minor Football League Division 3 Semi Finals and Final (3)
+- 170360 Minor Football League Division 4 Semi Finals and Final (3)
+- 168731 Minor Football League Division 4A (15)
+- 170366 Minor Football League Division 4A (15)
+- 168742 Minor Football League Division 4B (15)
+- 170367 Minor Football League Division 4B (15)
+- 170357 Minor Football League Division 5 Semi Finals and Final (3)
+- 170361 Minor Football League Division 6 Semi Finals and Final (3)
+- 168727 Minor Football League Division 6A (10)
+- 170372 Minor Football League Division 6A (15)
+- 168717 Minor Football League Division 6B (14)
+- 170373 Minor Football League Division 6B (15)
+- 170358 Minor Football League Division 7 Semi Finals and Final (3)
+- 168732 Minor Football League Division 8 (10)
+- 170351 Minor Football League Division 8 (15)
+- 170350 Minor Football League Division 8 Semi Finals (3)
+- 176755 Minor Football PPL Final Group 2 (1)
+- 169198 Minor Football PPL Group 1 (12)
+- 169202 Minor Football PPL Group 2 (12)
+- 169199 Minor Football PPL Group 3 (8)
+- 172495 Minor Hurling Championship 2022 (11)
+- 173043 Minor Hurling Championship Shield 2022 (7)
+- 168941 Minor Hurling Division 1 (7)
+- 172227 Minor Hurling Division 1 Final (2)
+- 172634 Minor Hurling Division 2 Final (1)
+- 168942 Minor Hurling Division 2 Group A (6)
+- 168943 Minor Hurling Division 2 Group B (3)
+- 171504 Minor Hurling Division 2 S/Finals (2)
+- 175907 Minor Hurling Division 3 Final (1)
+- 171505 Minor Hurling Division 3 S/Finals (1)
+- 175884 Minor Hurling Finals 2022 (6)
+- 169563 Minor Hurling PPL (8)
+- 170568 Minor League Division 1 Cup Final (3)
+- 170570 Minor League Division 1 Shield Final (3)
+- 169468 Minor League Division 1A (6)
+- 169501 Minor League Division 1B (6)
+- 170684 Minor League Division 2 Cup Final (3)
+- 170685 Minor League Division 2 Shield Final (3)
+- 169503 Minor League Division 2A (6)
+- 169504 Minor League Division 2B (6)
+- 170687 Minor League Division 3 Cup Final (3)
+- 169505 Minor League Division 3A (3)
+- 169506 Minor League Division 3B (6)
+- 170726 Minor League Division 4 Cup Final (3)
+- 169507 Minor League Division 4A (6)
+- 169508 Minor League Division 4B (3)
+- 176646 Minors Division 1 Group A 2022 (6)
+- 176647 Minors Division 1 Group B 2022 (6)
+- 176649 Minors Division 2 Group A 2022 (6)
+- 176650 Minors Division 2 Group B 2022 (6)
+- 176651 Minors Division 3 Group A 2022 (6)
+- 176652 Minors Division 3 Group B 2022 (6)
+- 176654 Minors Division 4 Group A 2022 (6)
+- 176656 Minors Division 4 Group B 2022 (6)
+- 176659 Minors Division 5 2022 (15)
+- 176664 Minors Division 6 2022 (10)
+- 169328 Mobile App Test Competition (22)
+- 174583 Molyneaux Cup (10)
+- 172783 Monaghan Social Group 1 (10)
+- 172784 Monaghan Social Group 2 (10)
+- 172786 Monaghan Weekly Friendly (5)
+- 168862 Moran Cup (Metro J3) (12)
+- 176256 Moynihan Cup (4)
+- 176574 Munster Construction U21A Football Championship (6)
+- 176575 Munster Construction U21B Football Championship (3)
+- 168747 Munster GAA Football Senior Championship (2)
+- 169955 Munster GAA Hurling U20 Championship (2)
+- 170702 Munster Junior 2 League Final (1)
+- 173810 Munster Senior Clubs League - North (20)
+- 174087 Munster Senior Clubs League - South (12)
+- 175530 Munster Senior Clubs League 2C (20)
+- 171075 NB Mens A Side (9)
+- 171077 NB Mens B Side (12)
+- 171078 NB Womens A (6)
+- 171079 NB Womens B (12)
+- 176590 NICC Mens National Cup (31)
+- 176591 NICC Womens National Cup (15)
+- 176761 NNI Premier League (42)
+- 176788 NNI Senior 1 (42)
+- 176789 NNI Senior 2 (56)
+- 176790 NNI Senior 3 (42)
+- 176791 NNI Senior 4 (72)
+- 176792 NNI Senior 5 (42)
+- 176805 NNI U14 A (28)
+- 176806 NNI U14 B (21)
+- 176807 NNI U14 C (21)
+- 176801 NNI U16 A (36)
+- 176802 NNI U16 B (45)
+- 176804 NNI U16 C (45)
+- 176798 NNI U19 A (55)
+- 176799 NNI U19 B (56)
+- 172448 NOR/MID U15B HURLING (21)
+- 168844 NORTH MID U17  A LEAGUE (6)
+- 170334 NORTH TIPP U13A FBALL (6)
+- 171641 NORTH TIPP U13B (30)
+- 169027 NORTH TIPP U13C FBALL 2022 (22)
+- 170333 NORTH TIPP U13C FBALL 2022 (7)
+- 171642 NORTH TIPP U13C HURLING (23)
+- 168905 NORTH TIPP U13D FBALL 2022 (14)
+- 171645 NORTH TIPP U13D HURLING (23)
+- 169168 NORTH TIPP U15 B (18)
+- 176745 NORTH TIPPERARY (12)
+- 168838 NORTH TIPPERARY U13B (20)
+- 168833 NOTH TIPPERARY U13A FOOTBALL (12)
+- 169919 NRU Senior Men A Division (40)
+- 169920 NRU Senior Men's B Division (27)
+- 169921 NRU Senior Women Division (40)
+- 170902 NSRU Men Division 2 (4)
+- 170375 Nano (18)
+- 169652 National/Provincial Program (76)
+- 171125 New JFC A Finals 2022 (4)
+- 169694 New JFC A Group 1 (7)
+- 169693 New JFC A Group 2 (6)
+- 171186 New JFC B Finals 2022 (7)
+- 169711 New JFC B Group  2 (6)
+- 169705 New JFC B Group 1 (6)
+- 169712 New JFC B Group 3 (6)
+- 169709 New JFC B Group 4 (3)
+- 171185 New JFC C Finals 2022 (7)
+- 169713 New JFC C Group 1 (3)
+- 169710 New JFC C Group 2 (6)
+- 169714 New JFC C Group 3 (6)
+- 169708 New JFC C Group 4 (3)
+- 168967 North East U13 League Playoff (3)
+- 168968 North East U14 League Playoff (3)
+- 168969 North East U15 League Playoff (3)
+- 169898 North East U15 Shield Final (1)
+- 168970 North East U16 League Playoff (3)
+- 169640 North East U17 League Playoff (3)
+- 168971 North East U18 League Playoff (3)
+- 176951 North East Under 16 Tour Friendly (2)
+- 174538 North Junior C Hurling Championship Group 1 (6)
+- 174539 North Junior C Hurling Championship Group 2 (6)
+- 170732 North Mayo JFC B Final 2022 (3)
+- 169308 North Mayo JFC B Group 1 (6)
+- 169309 North Mayo JFC B Group 2 (6)
+- 170733 North Mayo JFCA Final 2022 (3)
+- 169305 North Mayo JFCA Group 1 (6)
+- 169306 North Mayo JFCA Group 2 (6)
+- 170322 North Mayo U12 Group 1 - League 2022 (21)
+- 170318 North Mayo U12 Group 2 - League (6)
+- 170317 North Mayo U12 Group 3 - League (21)
+- 168711 North Mayo U14B Championship 2022 (6)
+- 170616 North Mayo U16A Championship Knockout 2022 (1)
+- 170710 North Mayo U16C Championship Knockout 2022 (1)
+- 168707 North Mayo U18B Championship 2022 (4)
+- 169397 North Mayo U18B Championship Knockout 2022 (3)
+- 169398 North Mayo U18C Championship Knockout 2022 (2)
+- 170119 North Munster Carroll Plate (7)
+- 169517 North Munster Gleeson League Finals (5)
+- 173383 North Munster Gleeson League Section A (30)
+- 173392 North Munster Gleeson League Section B (42)
+- 173380 North Munster Gleeson League Section C (12)
+- 173255 North Munster McInerney Cup (10)
+- 173280 North Munster Sporting Limerick Charity Cup (6)
+- 173204 North Munster Transfield Cup (9)
+- 174022 North Munster U.20.5 League- B (3)
+- 170274 North Munster U20.5 Cup (6)
+- 174021 North Munster U20.5 League- A (3)
+- 168849 North Munster Webb Cup (18)
+- 171188 North Tipp Junior A Football Championship (3)
+- 171497 North Tipp Junior A Hurling Championship (13)
+- 169684 North Tipp Junior A Hurling League (16)
+- 169686 North Tipp Junior A Hurling League (5)
+- 171189 North Tipp Junior B Football Championship (4)
+- 171534 North Tipp Junior B Hurling Championship Group 3 (6)
+- 169682 North Tipp Junior B Hurling Group 1 (6)
+- 171533 North Tipp Junior B Hurling Group 1 (6)
+- 169685 North Tipp Junior B Hurling Group 2 (10)
+- 169683 North Tipp Junior B Hurling Group 3 (6)
+- 171531 North Tipp Junior B Hurling League Knock Out (5)
+- 176458 North Tipp Junior C Hurling Championship (3)
+- 171532 North Tipp Junior Hurling Championship Group 2 (10)
+- 170071 North Tipp U19A Football Knockout (2)
+- 172299 North Tipp U19A Hurling Championship Group 1 (3)
+- 172297 North Tipp U19A Hurling Championship Group 2 (3)
+- 170075 North Tipp U19B Football Championship K.O. (6)
+- 172300 North Tipp U19B Hurling Championship Group 1 (4)
+- 172298 North Tipp U19B Hurling Championship Group 2 (3)
+- 172301 North Tipp U19B Hurling Championship Group 3 (3)
+- 168832 North Tipperary Intermediate Football (1)
+- 169765 North U14 Second Team League  2022 (15)
+- 170543 North U14A Championship Knockout 2022 (1)
+- 170738 North U14B Championship Knockout 2022 (1)
+- 170535 North U14C Championship Knockout 2022 (1)
+- 169820 North U19A Hurling Non Competitive (15)
+- 170737 North U19B Hurling Non Competitve (36)
+- 177202 North U21 Hurling Group 2 (3)
+- 177533 North U21A Hurling Championship Knockout (3)
+- 177204 North U21A Hurling Group 1 (3)
+- 177688 North U21B Hurling Championship Knockout (5)
+- 177205 North U21B Hurling Group 1 (3)
+- 177203 North U21B Hurling Group 2 (3)
+- 177206 North U21B Hurling Group 3 (3)
+- 177436 North midlands under 18 semi finals (3)
+- 170816 North rip u13b football (1)
+- 171629 North tipp u13A hurling (29)
+- 174878 Nth Midlands U13 Area League Section A (10)
+- 174879 Nth Midlands U13 Arera league Section B (11)
+- 176865 Nth Midlands U13 League Div 1 Finals (3)
+- 176864 Nth Midlands U13 League Prem Finals (3)
+- 176989 Nth Midlands U14 Friendly Fixtures (1)
+- 174936 Nth Midlands U14 League Section A (15)
+- 175056 Nth Midlands U14 League Section B (10)
+- 177174 Nth Midlands U15 Friendly Fixtures (7)
+- 175134 Nth Midlands U15's Section A (6)
+- 175135 Nth Midlands U15s Section B (6)
+- 175005 Nth Midlands U16 League (15)
+- 176970 Nth Midlands U17 Friendly Fixtures 2022 (2)
+- 174890 Nth Midlands U18 League Section A (7)
+- 175174 Nth Midlands U18 League Section B (6)
+- 177358 Nth Midlands Under 13 Friendlies (5)
+- 176990 O Callaghan CUP (6)
+- 168957 O Connor Cup (Metro J5) (8)
+- 170790 O Donoghue Cup (4)
+- 171020 O Mara Cup Finals 2022 (3)
+- 168900 O Mara Cup Group 1 (10)
+- 168901 O Mara Cup Group 2 (6)
+- 173610 O'Donovan Cup (3)
+- 170151 O'Donovan Cup Group 2 (3)
+- 168807 O'Loughlin Cup (11)
+- 173645 OCAA Mens (18)
+- 174673 OCAA Mens Exhibition (3)
+- 173647 OCAA Womens (70)
+- 176255 OSullivan Cup (4)
+- 173662 OUA Mens (35)
+- 173663 OUA Womens (34)
+- 174466 OUA Womens Exhibition (34)
+- 169978 OWL 1XV (33)
+- 169979 OWL 2XV (23)
+- 171191 Okanagan Rugby Union (8)
+- 172285 Old Crescent Tag League (Thursday) (28)
+- 172288 Old Crescent Tag League (Tuesday) (12)
+- 173149 Old Orchard Division Two (110)
+- 171163 Ophir 7s Men (1)
+- 171162 Ophir 7s U16 (1)
+- 171161 Ophir 7s U18 (1)
+- 171164 Ophir 7s Women (1)
+- 169097 Oriel House Hotel Junior B Hurling Championship 2022 (11)
+- 170599 PHL Hydraulics Collins Cup (6)
+- 170619 PHL Hydraulics Conway Cup (3)
+- 170612 PHL Hydraulics McCullough Cup (4)
+- 170617 PHL Hydraulics Murphy Cup (3)
+- 170611 PHL Hydraulics Ronan Cup (5)
+- 170618 PHL Hydraulics Shields Cup (3)
+- 170620 PHL Hydraulics Tipperary Cup (3)
+- 169903 PJ Loftus Memorial League (30)
+- 172601 PRCs U14 Boys (30)
+- 172602 PRCs U14 Girls (21)
+- 172603 PRCs U16 Boys (24)
+- 172604 PRCs U16 Girls (13)
+- 172605 PRCs U18 Boys (26)
+- 172606 PRCs U18 Girls (21)
+- 176608 Padraig Hartnett U 16 Boys Cup (4)
+- 177640 Paedar Cummins (U13) Hurling 2022 (6)
+- 177036 Pan Pac Masters 2022 (104)
+- 177536 Panda U19 Football Championship  Div 2 (8)
+- 177537 Panda U19 Football Championship Div 1 (6)
+- 177151 Panda U19 Football Championship Div 1 Gp A (6)
+- 177148 Panda U19 Football Championship Div 1 Gp B (6)
+- 177152 Panda U19 Football Championship Div 2 Gp A (6)
+- 177149 Panda U19 Football Championship Div 2 Gp B and C (9)
+- 177538 Panda U19 Football Championship Premier Div (6)
+- 177150 Panda U19 Football Championship Premier Gp A (6)
+- 177147 Panda U19 Football Championship Premier Gp B (6)
+- 173259 Panda U19 Hurling Championship Div 1 (2)
+- 173258 Panda U19 Hurling Championship Div 2 (3)
+- 173257 Panda U19 Hurling Championship Div 3 (1)
+- 173256 Panda U19 Hurling Championship Premier Div (4)
+- 176906 Pat Duffy National Cup 2022/23 (13)
+- 169261 Pat Rossiter Cup Final (Junior Development) (1)
+- 177729 Pat Rossiter Cup Final (Junior Development) (1)
+- 176992 Paudge Dooley U19 B Football Champ Grp 1 (6)
+- 176995 Paudge Dooley U19 B Football Champ Grp 2 (6)
+- 176930 Paudie O Connor Cup 22/23 (9)
+- 172268 Permanent TSB Junior A Hurling Gp 1 (15)
+- 172266 Permanent TSB Junior A Hurling Gp 2 (16)
+- 173339 Permanent TSB Junior A Hurling Knockout (8)
+- 173567 Permanent TSB Junior B Hurling Championship (7)
+- 172269 Permanent TSB Junior Hurling Championship Gp 1 (15)
+- 172267 Perrmanent TSB Junior Hurling Championship Gp 2 (15)
+- 173314 Perrmanent TSB Junior Hurling Championship Knockout (9)
+- 176993 Peter Keogh U19 A Football Champ Grp 1 (6)
+- 176996 Peter Keogh U19 A Football Champ Grp 2 (6)
+- 172263 Pettitts  Senior Hurling Championship Gp 1 (15)
+- 172260 Pettitts  Senior Hurling Championship Gp 2 (15)
+- 173340 Pettitts  Senior Hurling Championship Knockout (8)
+- 175025 Pinergy Boys Schools U19 Munster Senior Cup Group A (10)
+- 175026 Pinergy Boys Schools U19 Munster Senior Cup Group B (10)
+- 172677 Pre Season (4)
+- 170253 Premier Intermediate Hurling Championship Group A (6)
+- 170243 Premier Intermediate Hurling Championship Group B (6)
+- 174297 Premier Intermediate Hurling Championship Knockout (6)
+- 176527 Premiership Rugby (2)
+- 176926 Presidents National Cup 2022/23 (13)
+- 170136 Promotion/Relegation Play-offs (5)
+- 170898 Provincial Men Division 1 (51)
+- 170420 Provincial Premier & Provincial Regional Elite (1)
+- 173006 Provincial Representative Team Fixtures (171)
+- 170168 Provincial Seconds Plate (J2) (10)
+- 169380 Provincial Towns Plate (J1) (13)
+- 170899 Provincial Women 15s (20)
+- 170906 Provinciale 1 F (57)
+- 173451 Provinciale 1 Féminine - Séries (9)
+- 170904 Provinciale 1 M (20)
+- 170905 Provinciale 1 M Réserve (15)
+- 173764 Provinciale 1 Masculine - Séries (3)
+- 173766 Provinciale 1 Masculine Réserve - Séries (3)
+- 170926 Provinciale 2 M (32)
+- 173454 Provinciale 2 Masculine - Séries (5)
+- 169184 Purcell Cup (U20) (6)
+- 169932 QUB Division 2 Group 1 (15)
+- 169991 QUB Division 2 Group 2 (15)
+- 173344 QUB Late Summer Group 1 (6)
+- 173345 QUB Late Summer Group 2 (6)
+- 173406 QUB Late Summer Group 3 (6)
+- 173407 QUB Late Summer Group 4 (6)
+- 169899 QUB Spring Beginners (15)
+- 171122 Quinns Th Non Beginner Gp1 (21)
+- 171123 Quinns Th Non Beginners Gp2 (21)
+- 172175 Quinns Tues Non Beg Cup (2)
+- 172776 R.C.M TARMACADAM CARBERY JUNIOR  B HURLING CHAMPIONSHIP 2022 (12)
+- 176758 R.C.M TARMACADAM CARBERY JUNIOR  C HURLING CHAMPIONSHIP 2022 (2)
+- 172773 R.C.M TARMACADAM CARBERY JUNIOR A HURLING CHAMPIONSHIP 2022 (24)
+- 174061 RO Minor Festival U12 (51)
+- 170901 RRU Junior Girls 7s (9)
+- 170900 RRU Women 7s (9)
+- 173297 Radley Engineering Intermediate Football Championship Group 1 (6)
+- 173296 Radley Engineering Intermediate Football Championship Group 2 (6)
+- 176663 Radley Engineering Intermediate Football Championship Knock out (4)
+- 176835 Rave Group 1 (56)
+- 176836 Rave Group 2 (54)
+- 169242 Rave Play Off (5)
+- 176505 Ray Daniels Cup 2022 (5)
+- 172637 Rebel Og Coiste Fe13 C3 Division 4 Football League Phase 2 Section 1 (6)
+- 172638 Rebel Og Coiste Fe13 C3 Division 4 Football League Phase 2 Section 2 (6)
+- 172639 Rebel Og Coiste Fe13 C3 Division 5 Football League Phase 2 Section 1 (10)
+- 172640 Rebel Og Coiste Fe13 C3 Division 5 Football League Phase 2 Section 2 (15)
+- 175964 Rebel Og Coiste Fe13 C3 Division 5 Football League Playoffs (3)
+- 176033 Rebel Og Coiste Fe13 C3 Football League Shield Playoffs (3)
+- 174715 Rebel Og Coiste Fe13 C3 Hurling League Cup 1 Playoffs (3)
+- 174717 Rebel Og Coiste Fe13 C3 Hurling League Cup 2 Playoffs (3)
+- 175711 Rebel Og Coiste Fe13 C3 Hurling League Cup Final (1)
+- 172629 Rebel Og Coiste Fe13 C3 Hurling League Phase 2 Group 1 Section 1 (6)
+- 172628 Rebel Og Coiste Fe13 C3 Hurling League Phase 2 Group 1 Section 2 (6)
+- 172630 Rebel Og Coiste Fe13 C3 Hurling League Phase 2 Group 2 (15)
+- 175654 Rebel Og Coiste Fe13 C3 Hurling League Plate Playoffs (3)
+- 175651 Rebel Og Coiste Fe13 C3 Hurling League Shield (3)
+- 175953 Rebel Og Coiste Fe13 Div 4 Football League Cup Final (1)
+- 174277 Rebel Og Coiste Fe13 Div 4 Football League Cup Semi Final (2)
+- 175436 Rebel Og Coiste Fe13 Div 4 Football League Shield Final (1)
+- 174278 Rebel Og Coiste Fe13 Div 4 Football League Shield Semi Final (2)
+- 176432 Rebel Og Coiste Fe13 Division 4 Hurling League Final (1)
+- 172631 Rebel Og Coiste Fe13 Division 4 Hurling League Phase 2 (6)
+- 174734 Rebel Og Coiste Fe13 Division 4 Hurling League Playoffs (3)
+- 175404 Rebel Og Coiste Fe13 Prem 1 Football League Cup Final (1)
+- 174269 Rebel Og Coiste Fe13 Prem 1 Football League Cup Semi Final (1)
+- 171256 Rebel Og Coiste Fe13 Prem 1 Football League Phase 2 (15)
+- 175326 Rebel Og Coiste Fe13 Prem 1 Football League Shield Final (1)
+- 174270 Rebel Og Coiste Fe13 Prem 1 Football League Shield Semi Final (1)
+- 171236 Rebel Og Coiste Fe13 Prem 1 section 1 Hurling League Phase 2 (15)
+- 171237 Rebel Og Coiste Fe13 Prem 1 section 2 Hurling League Phase 2 (15)
+- 175325 Rebel Og Coiste Fe13 Prem 2 Football League Cup Final (1)
+- 174272 Rebel Og Coiste Fe13 Prem 2 Football League Cup Semi Final (1)
+- 171257 Rebel Og Coiste Fe13 Prem 2 Football League Phase 2 (15)
+- 175327 Rebel Og Coiste Fe13 Prem 2 Football League Shield Final (1)
+- 174273 Rebel Og Coiste Fe13 Prem 2 Football League Shield Semi Final (1)
+- 171238 Rebel Og Coiste Fe13 Prem 2 section 1 Hurling League Phase 2 (15)
+- 171239 Rebel Og Coiste Fe13 Prem 2 section 2 Hurling League Phase 2 (15)
+- 175322 Rebel Og Coiste Fe13 Prem 2A Football League Cup Final (1)
+- 174275 Rebel Og Coiste Fe13 Prem 2A Football League Cup Semi Final (1)
+- 171258 Rebel Og Coiste Fe13 Prem 2A Football League Phase 2 (15)
+- 175321 Rebel Og Coiste Fe13 Prem 2A Football League Shield Final (1)
+- 174276 Rebel Og Coiste Fe13 Prem 2A Football League Shield Semi Final (1)
+- 173704 Rebel Og Coiste Fe13 Premier 1 Hurling League Cup Playoffs (3)
+- 173706 Rebel Og Coiste Fe13 Premier 1 Hurling League Plate Playoffs (3)
+- 173705 Rebel Og Coiste Fe13 Premier 1 Hurling League Shield Playoffs (3)
+- 173833 Rebel Og Coiste Fe13 Premier 2 Hurling League Cup Playoffs (3)
+- 173835 Rebel Og Coiste Fe13 Premier 2 Hurling League Plate Playoffs (3)
+- 173834 Rebel Og Coiste Fe13 Premier 2 Hurling League Shield Playoffs (3)
+- 174100 Rebel Og Coiste Fe14 Football League 13 aside Group 1 Final (1)
+- 174267 Rebel Og Coiste Fe14 Football League 13 aside Group 2 Final (1)
+- 174266 Rebel Og Coiste Fe14 Football League 15 aside Group 1 Final (1)
+- 174268 Rebel Og Coiste Fe14 Football League 15 aside Group 2 section 1 Final (1)
+- 174063 Rebel Og Coiste Fe14 Football League Section 2 15 aside Final (1)
+- 174058 Rebel Og Coiste Fe14 Grp 3 15 aside Hurling League Final (1)
+- 169182 Rebel Og Coiste Fe14 Hurling League 13 aside Group 1 (15)
+- 174262 Rebel Og Coiste Fe14 Hurling League 13 aside Group 1 Final (1)
+- 168938 Rebel Og Coiste Fe14 Hurling League 13 aside Group 2 (10)
+- 168939 Rebel Og Coiste Fe14 Hurling League 15 aside Group 1 (6)
+- 174091 Rebel Og Coiste Fe14 Hurling League 15 aside Group 1 Final (1)
+- 174092 Rebel Og Coiste Fe14 Hurling League 15 aside Group 2 Final (1)
+- 170948 Rebel Og Coiste Fe14 Prem 1 Hurling Championship (7)
+- 171538 Rebel Og Coiste Fe14 Prem 1 Hurling Shield Championship (3)
+- 170950 Rebel Og Coiste Fe14 Prem 2 Hurling Championship (7)
+- 171539 Rebel Og Coiste Fe14 Prem 2 Hurling Shield Championship (3)
+- 170953 Rebel Og Coiste Fe14 Prem 2A Hurling Championship (3)
+- 170955 Rebel Og Coiste Fe14 Prem Second Teams Hurling Championship (6)
+- 172256 Rebel Og Coiste Fe14 Prem Second Teams Hurling Championship Final (1)
+- 170943 Rebel Og Coiste Fe14 Premier 1 Football Championship (6)
+- 171404 Rebel Og Coiste Fe14 Premier 1 Football Shield Championship (3)
+- 170947 Rebel Og Coiste Fe14 Premier 2 Football Championship (7)
+- 171405 Rebel Og Coiste Fe14 Premier 2 Football Shield Championship (3)
+- 170949 Rebel Og Coiste Fe14 Premier 2A Football Championship (7)
+- 171408 Rebel Og Coiste Fe14 Premier 2A Football Shield Championship (3)
+- 170966 Rebel Og Coiste Fe14 Second Team Football Championship (6)
+- 173048 Rebel Og Coiste Fe15 C3 Football League Phase 2 Section 1 (15)
+- 177305 Rebel Og Coiste Fe15 C3 Football League Phase 2 Section 1 Cup Final (1)
+- 177306 Rebel Og Coiste Fe15 C3 Football League Phase 2 Section 1 Shield Final (1)
+- 173049 Rebel Og Coiste Fe15 C3 Football League Phase 2 Section 2 (10)
+- 176604 Rebel Og Coiste Fe15 C3 Football League Phase 2 Section 2 Cup Final (1)
+- 176605 Rebel Og Coiste Fe15 C3 Football League Phase 2 Section 2 Shield Final (1)
+- 173050 Rebel Og Coiste Fe15 C3 Football League Phase 2 Section 3 (15)
+- 176685 Rebel Og Coiste Fe15 C3 Football League Phase 2 Section 3 Cup Final (1)
+- 175955 Rebel Og Coiste Fe15 C3 Hurling League Group 1 Cup Final (3)
+- 175956 Rebel Og Coiste Fe15 C3 Hurling League Group 1 Shield Finals (3)
+- 176319 Rebel Og Coiste Fe15 C3 Hurling League Group 2 Cup Finals (3)
+- 176320 Rebel Og Coiste Fe15 C3 Hurling League Group 2 Shield Finals (3)
+- 173044 Rebel Og Coiste Fe15 C3 Hurling League Phase 2 Group 1 Section 1 (6)
+- 173144 Rebel Og Coiste Fe15 C3 Hurling League Phase 2 Group 1 Section 2 (6)
+- 173046 Rebel Og Coiste Fe15 C3 Hurling League Phase 2 Group 2 Section 1 (6)
+- 173047 Rebel Og Coiste Fe15 C3 Hurling League Phase 2 Group 2 Section 2 (6)
+- 172905 Rebel Og Coiste Fe15 Div 4 Hurling League Final (1)
+- 177101 Rebel Og Coiste Fe15 Division 1 Hurling County Championship Replay (1)
+- 172907 Rebel Og Coiste Fe15 Division 4 Football Championship (10)
+- 176449 Rebel Og Coiste Fe15 Division 4 Football Championship Final (1)
+- 172906 Rebel Og Coiste Fe15 Division 4 Hurling Championship (6)
+- 174729 Rebel Og Coiste Fe15 Division 4 Hurling Championship Playoffs (3)
+- 171907 Rebel Og Coiste Fe15 Premier 1 Football Championship Challenge Cup Playoffs (3)
+- 175751 Rebel Og Coiste Fe15 Premier 1 Football Championship Final (1)
+- 171905 Rebel Og Coiste Fe15 Premier 1 Football Championship Playoffs (2)
+- 171903 Rebel Og Coiste Fe15 Premier 1 Football Championship section 1 (6)
+- 171904 Rebel Og Coiste Fe15 Premier 1 Football Championship section 2 (6)
+- 171893 Rebel Og Coiste Fe15 Premier 1 Hurling Championship Challenge Cup Playoffs (3)
+- 171891 Rebel Og Coiste Fe15 Premier 1 Hurling Championship Playoffs (3)
+- 171888 Rebel Og Coiste Fe15 Premier 1 Hurling Championship section 1 (6)
+- 171889 Rebel Og Coiste Fe15 Premier 1 Hurling Championship section 2 (6)
+- 172903 Rebel Og Coiste Fe15 Premier 1 Hurling League Cup Final (1)
+- 172904 Rebel Og Coiste Fe15 Premier 1 Hurling League Shield Final (1)
+- 173051 Rebel Og Coiste Fe15 Premier 1/2 Football League Cup Final section 1 (1)
+- 173052 Rebel Og Coiste Fe15 Premier 1/2 Football League Cup Final section 2 (1)
+- 173124 Rebel Og Coiste Fe15 Premier 1/2 Football League Shield Final section 1 (1)
+- 173062 Rebel Og Coiste Fe15 Premier 1/2 Football League Shield Final section 2 (1)
+- 171914 Rebel Og Coiste Fe15 Premier 2 Football Championship Challenge Cup Playoffs (3)
+- 171913 Rebel Og Coiste Fe15 Premier 2 Football Championship Playoffs (3)
+- 171909 Rebel Og Coiste Fe15 Premier 2 Football Championship section 1 (6)
+- 171911 Rebel Og Coiste Fe15 Premier 2 Football Championship section 2 (6)
+- 175954 Rebel Og Coiste Fe15 Premier 2 Hurling Championship Challenge Cup Playoffs (3)
+- 175703 Rebel Og Coiste Fe15 Premier 2 Hurling Championship Challenge Cup Quarter Finals (2)
+- 171898 Rebel Og Coiste Fe15 Premier 2 Hurling Championship Playoffs (3)
+- 171895 Rebel Og Coiste Fe15 Premier 2 Hurling Championship section 1 (15)
+- 171897 Rebel Og Coiste Fe15 Premier 2 Hurling Championship section 2 (15)
+- 173053 Rebel Og Coiste Fe15 Premier Div4 Football League Final (1)
+- 174265 Rebel Og Coiste Fe16 Football League 13 aside Group 1 Final (1)
+- 168890 Rebel Og Coiste Fe16 Football League 13 aside Group 2 (10)
+- 174730 Rebel Og Coiste Fe16 Football League 13 aside Group 2 Final (1)
+- 174062 Rebel Og Coiste Fe16 Football League 13 aside Group 2 Semi Final (1)
+- 174263 Rebel Og Coiste Fe16 Football League 15 aside Group 1 Final (1)
+- 174060 Rebel Og Coiste Fe16 Hurling League 13 aside Final (1)
+- 176939 Rebel Og Coiste Fe16 Premier 1 Football Championship (7)
+- 176938 Rebel Og Coiste Fe16 Premier 1 Hurling Championship (7)
+- 176940 Rebel Og Coiste Fe16 Premier 2 Football Championship (7)
+- 177235 Rebel Og Coiste Fe16 Premier 2 Hurling Championship (7)
+- 176941 Rebel Og Coiste Fe16 Premier 2 Hurling Championship PL Rd 1 (1)
+- 175959 Rebel Og Coiste Fe17 C3 Football League Group 1 Final (1)
+- 175960 Rebel Og Coiste Fe17 C3 Football League Group 1 Shield Final (1)
+- 175961 Rebel Og Coiste Fe17 C3 Football League Group 2 Final (1)
+- 172632 Rebel Og Coiste Fe17 C3 Football League Phase 2 Group 1 (15)
+- 172633 Rebel Og Coiste Fe17 C3 Football League Phase 2 Group 2 (6)
+- 175674 Rebel Og Coiste Fe17 C3 Hurling League Final (7)
+- 172636 Rebel Og Coiste Fe17 C3 Hurling League Phase 2 (7)
+- 173279 Rebel Og Coiste Fe17 C3 Hurling League Phase 2 Group 1 (6)
+- 173282 Rebel Og Coiste Fe17 C3 Hurling League Phase 2 Group 2 (6)
+- 174057 Rebel Og Coiste Fe17 Div 4 Football Championship Playoffs (3)
+- 176522 Rebel Og Coiste Fe17 Div 4 Football League Final (1)
+- 175658 Rebel Og Coiste Fe17 Div 4 Hurling Championship Final (1)
+- 172748 Rebel Og Coiste Fe17 Div 4 Hurling League Final (1)
+- 172931 Rebel Og Coiste Fe17 Div 4/5 Football Championship Group 1 (6)
+- 172932 Rebel Og Coiste Fe17 Div 4/5 Football Championship Group 2 (3)
+- 172933 Rebel Og Coiste Fe17 Div 4/5 Hurling Championship (15)
+- 174056 Rebel Og Coiste Fe17 Div 5 Football Championship Playoffs (3)
+- 175660 Rebel Og Coiste Fe17 Div 5 Hurling Championship Final (1)
+- 171930 Rebel Og Coiste Fe17 Premier 1 Football Championship Challenge Cup Playoffs (3)
+- 171929 Rebel Og Coiste Fe17 Premier 1 Football Championship Playoffs (3)
+- 171927 Rebel Og Coiste Fe17 Premier 1 Football Championship section 1 (6)
+- 171928 Rebel Og Coiste Fe17 Premier 1 Football Championship section 2 (6)
+- 172694 Rebel Og Coiste Fe17 Premier 1 Football League Shield Final (1)
+- 171919 Rebel Og Coiste Fe17 Premier 1 Hurling Championship Challenge Cup Playoffs (3)
+- 171918 Rebel Og Coiste Fe17 Premier 1 Hurling Championship Playoffs (3)
+- 171915 Rebel Og Coiste Fe17 Premier 1 Hurling Championship section 1 (6)
+- 171917 Rebel Og Coiste Fe17 Premier 1 Hurling Championship section 2 (6)
+- 172641 Rebel Og Coiste Fe17 Premier 1 Hurling League Shield Final (1)
+- 175698 Rebel Og Coiste Fe17 Premier 2 Football Championship Challenge Cup Playoffs (3)
+- 171933 Rebel Og Coiste Fe17 Premier 2 Football Championship Playoffs (3)
+- 171931 Rebel Og Coiste Fe17 Premier 2 Football Championship section 1 (6)
+- 172807 Rebel Og Coiste Fe17 Premier 2 Football Championship section 2 (10)
+- 172752 Rebel Og Coiste Fe17 Premier 2 Football League Cup Final (1)
+- 172757 Rebel Og Coiste Fe17 Premier 2 Football League Shield Final (1)
+- 175950 Rebel Og Coiste Fe17 Premier 2 Hurling Challenge Cup Final (1)
+- 174711 Rebel Og Coiste Fe17 Premier 2 Hurling Challenge Cup playoffs (6)
+- 175949 Rebel Og Coiste Fe17 Premier 2 Hurling Championship Final (1)
+- 174708 Rebel Og Coiste Fe17 Premier 2 Hurling Championship playoffs (6)
+- 171922 Rebel Og Coiste Fe17 Premier 2 Hurling Championship section 1 (6)
+- 171924 Rebel Og Coiste Fe17 Premier 2 Hurling Championship section 2 (6)
+- 171925 Rebel Og Coiste Fe17 Premier 2 Hurling Championship section 3 (6)
+- 176871 Rebel Og Coiste Fé 17 Division 1 Hurling County Championship Final Replay (1)
+- 176819 Rebel Og Coiste Fé15 Division 1 Football County Championship (3)
+- 176123 Rebel Og Coiste Fé15 Division 1 Hurling County Championship (3)
+- 176128 Rebel Og Coiste Fé15 Division 2 Football County Championship (3)
+- 176124 Rebel Og Coiste Fé15 Division 2 Hurling County Championship Final (3)
+- 176129 Rebel Og Coiste Fé15 Division 3 Football County Championship (3)
+- 176125 Rebel Og Coiste Fé15 Division 3 Hurling County Championship (3)
+- 176119 Rebel Og Coiste Fé17 Division 1 Football County Championship (3)
+- 176112 Rebel Og Coiste Fé17 Division 1 Hurling County Championship (3)
+- 176121 Rebel Og Coiste Fé17 Division 2 Football County Championship (3)
+- 176116 Rebel Og Coiste Fé17 Division 2 Hurling County Championship (3)
+- 176797 Rebel Og Coiste Fé17 Division 3 Football County Championship (3)
+- 176117 Rebel Og Coiste Fé17 Division 3 Hurling County Championship (3)
+- 171544 Rebel Og East Fe12 Group 1 Football League Phase 2 (36)
+- 176158 Rebel Og East Fe12 Group 1 Football League Phase 2 (2)
+- 176617 Rebel Og East Fe12 Group 1 Football League Phase 2 Final (3)
+- 176616 Rebel Og East Fe12 Group 1 Football League Phase 2 Shield Final (1)
+- 171562 Rebel Og East Fe12 Group 1 Hurling League Phase 2 (15)
+- 176618 Rebel Og East Fe12 Group 1 Hurling League Phase 2 Cup Final (1)
+- 175719 Rebel Og East Fe12 Group 1 Hurling League Phase 2 Shield Final (1)
+- 176160 Rebel Og East Fe12 Group 1 Hurling Phase 2 Cup Semi (2)
+- 171545 Rebel Og East Fe12 Group 2 Football League Phase 2 (21)
+- 176157 Rebel Og East Fe12 Group 2 Football League Phase 2 Cup Final (1)
+- 176155 Rebel Og East Fe12 Group 2 Football League Phase 2 Shield Final (1)
+- 171563 Rebel Og East Fe12 Group 2 Hurling League Phase 2 (28)
+- 176694 Rebel Og East Fe12 Group 2 Hurling League Phase 2 Cup Final (1)
+- 176695 Rebel Og East Fe12 Group 2 Hurling League Phase 2 Shield Fina (1)
+- 177210 Rebel Og East Fe12 Group 2 Hurling League Phase 2 Shield Final Replay (1)
+- 171546 Rebel Og East Fe12 Group 3 Football League Phase 2 (15)
+- 174042 Rebel Og East Fe12 Group 3 Football League Phase 2 Cup Playoffs (3)
+- 174054 Rebel Og East Fe12 Group 3 Football League Shield Final (1)
+- 175661 Rebel Og East Fe12 Group 3 Hurling League Cup Final (1)
+- 171564 Rebel Og East Fe12 Group 3 Hurling League Phase 2 (6)
+- 174043 Rebel Og East Fe12 Group 3 Hurling League Phase 2 Cup Playoffs (2)
+- 175865 Rebel Og East Fe12 Group 3 Hurling Phase 2 Cup Final (1)
+- 176072 Rebel Og East Fe12 Group 3 Hurling Phase 2 Shield Final (1)
+- 171547 Rebel Og East Fe12 Group 4 Football League Phase 2 (15)
+- 174044 Rebel Og East Fe12 Group 4 Football League Phase 2 Cup Playoffs (3)
+- 174055 Rebel Og East Fe12 Group 4 Football League Shield Final (1)
+- 171565 Rebel Og East Fe12 Group 4 Hurling League Phase 2 (21)
+- 176156 Rebel Og East Fe12 Group 4 Hurling League Phase 2 Cup Final (1)
+- 176154 Rebel Og East Fe12 Group 4 Hurling League Phase 2 Shield Final (1)
+- 171548 Rebel Og East Fe12 Group 5 Football League Phase 2 (21)
+- 176620 Rebel Og East Fe12 Group 5 Football League Phase 2 Cup Final (1)
+- 176691 Rebel Og East Fe12 Group 5 Football League Phase 2 Shield Final (1)
+- 171566 Rebel Og East Fe12 Group 5 Hurling League Phase 2 (15)
+- 176161 Rebel Og East Fe12 Group 5 Hurling League Phase 2 Cup Final (1)
+- 176162 Rebel Og East Fe12 Group 5 Hurling League Phase 2 Shield Final (1)
+- 171567 Rebel Og East Fe12 Group 6 Hurling League Phase 2 (15)
+- 176164 Rebel Og East Fe12 Group 6 Hurling League Phase 2 Cup Final (1)
+- 176619 Rebel Og East Fe12 Group 6 Hurling League Phase 2 Shield Final (1)
+- 171259 Rebel Og East Fe13 Div 1 Football League Phase 2 (21)
+- 171241 Rebel Og East Fe13 Div 1 Hurling League Phase 2 (15)
+- 174041 Rebel Og East Fe13 Div 1 Hurling League Phase 2 Cup Playoffs (3)
+- 174053 Rebel Og East Fe13 Div 1 Hurling League Phase 2 Shield Final (1)
+- 171260 Rebel Og East Fe13 Div 2 Football League Phase 2 (15)
+- 174045 Rebel Og East Fe13 Div 2 Football League Phase 2 Cup Playoffs (2)
+- 174050 Rebel Og East Fe13 Div 2 Football League Phase 2 Shield Final (1)
+- 171242 Rebel Og East Fe13 Div 2 Hurling League Phase 2 (15)
+- 174037 Rebel Og East Fe13 Div 2 Hurling League Phase 2 Cup Playoffs (3)
+- 174051 Rebel Og East Fe13 Div 2 Hurling League Phase 2 Shield Final (1)
+- 171325 Rebel Og East Fe13 Div 3 Hurling League Phase 2 (10)
+- 174039 Rebel Og East Fe13 Div 3 Hurling League Phase 2 (3)
+- 174046 Rebel Og East Fe13 Div 3 Hurling League Phase 2 Shield Final (1)
+- 175864 Rebel Og East Fe13 Division 1 Football Phase 2 Cup Final (1)
+- 175868 Rebel Og East Fe13 Division 1 Football Phase 2 Shield Final (1)
+- 175863 Rebel Og East Fe13 Division 2 Football Phase 2 Cup Final (1)
+- 170962 Rebel Og East Fe14 Division 2  Football  Championship (3)
+- 171699 Rebel Og East Fe14 Division 2 Football Shield Championship (1)
+- 170963 Rebel Og East Fe14 Division 2 Hurling Championship (3)
+- 172090 Rebel Og East Fe14 Division 2 Hurling Championship Shield Final (1)
+- 177619 Rebel Og East Fe15 Div 2 Football League Playoff (1)
+- 177623 Rebel Og East Fe15 Div 2 Football League Shield Final (1)
+- 171957 Rebel Og East Fe15 Division 1 Football Championship Cup Playoffs (3)
+- 171955 Rebel Og East Fe15 Division 1 Football Championship section 1 (6)
+- 171956 Rebel Og East Fe15 Division 1 Football Championship section 2 (6)
+- 171958 Rebel Og East Fe15 Division 1 Football Phase 2 Shield Final (3)
+- 171948 Rebel Og East Fe15 Division 1 Hurling Championship (15)
+- 171949 Rebel Og East Fe15 Division 1 Hurling Phase 2 Cup Final (1)
+- 171950 Rebel Og East Fe15 Division 1 Hurling Phase 2 Plate Final (1)
+- 175866 Rebel Og East Fe15 Division 1 Hurling Phase 2 Plate Final (1)
+- 171964 Rebel Og East Fe15 Division 2 Football Championship Cup Playoffs (3)
+- 171965 Rebel Og East Fe15 Division 2 Football Championship Shield Playoffs (2)
+- 171962 Rebel Og East Fe15 Division 2 Football Championship section 1 (6)
+- 171963 Rebel Og East Fe15 Division 2 Football Championship section 2 (6)
+- 175862 Rebel Og East Fe15 Division 2 Football Phase 2 Shield Final (1)
+- 171952 Rebel Og East Fe15 Division 2 Hurling  Championship section 2 (6)
+- 171951 Rebel Og East Fe15 Division 2 Hurling Championship section 1 (6)
+- 171953 Rebel Og East Fe15 Division 2 Hurling Cup Playoffs (2)
+- 175435 Rebel Og East Fe15 Division 2 Hurling Phase 2 Cup Final Playoffs (3)
+- 175867 Rebel Og East Fe15 Division 2 Hurling Phase 2 Shield Final (1)
+- 171954 Rebel Og East Fe15 Division 2 Hurling Shield Playoffs (2)
+- 176976 Rebel Og East Fe16 Div 1 Football Championship Final (3)
+- 176943 Rebel Og East Fe16 Div 1 Hurling Championship Final (7)
+- 176977 Rebel Og East Fe16 Div 2 Football Championship final (7)
+- 176964 Rebel Og East Fe16 Div 2 Hurling Championship Rd 1 (1)
+- 176966 Rebel Og East Fe16 Div 2 Hurling Championship final (7)
+- 176973 Rebel Og East Fe16 Div 3 Hurling Championship Final (7)
+- 171970 Rebel Og East Fe17 Division 1 Football Championship Cup Playoffs (3)
+- 171971 Rebel Og East Fe17 Division 1 Football Championship Shield Playoff Final (3)
+- 171967 Rebel Og East Fe17 Division 1 Football Championship section 1 (6)
+- 171969 Rebel Og East Fe17 Division 1 Football Championship section 2 (6)
+- 171978 Rebel Og East Fe17 Division 1 Hurling Championship Cup Playoff Final (3)
+- 171979 Rebel Og East Fe17 Division 1 Hurling Championship Shield Playoff Final (3)
+- 171976 Rebel Og East Fe17 Division 1 Hurling Championship section 1 (6)
+- 171977 Rebel Og East Fe17 Division 1 Hurling Championship section 2 (6)
+- 171974 Rebel Og East Fe17 Division 2 Football Championship Cup Playoffs (3)
+- 171975 Rebel Og East Fe17 Division 2 Football Championship Shield Playoffs (3)
+- 171972 Rebel Og East Fe17 Division 2 Football Championship section 1 (6)
+- 171973 Rebel Og East Fe17 Division 2 Football Championship section 2 (6)
+- 171986 Rebel Og East Fe17 Division 2 Hurling  Championship Shield Playoffs (2)
+- 171983 Rebel Og East Fe17 Division 2 Hurling  Championship section 1 (6)
+- 171984 Rebel Og East Fe17 Division 2 Hurling  Championship section 2 (6)
+- 171985 Rebel Og East Fe17 Division 2 Hurling Championship Cup Playoff Final (3)
+- 170965 Rebel Og East/Mid Fe14 Division 3 Hurling Championship (3)
+- 172091 Rebel Og East/Mid Fe14 Division 3 Hurling Championship  Shield Final (1)
+- 170961 Rebel Og East/North/Mid Fe14 Division 1 Hurling Championship (6)
+- 172089 Rebel Og East/North/Mid Fe14 Division 1 Hurling Championship Shield Final (1)
+- 174124 Rebel Og Mid Fe12 Football League Group 2 Cup Final (1)
+- 171550 Rebel Og Mid Fe12 Football League Group 2 Phase 2 (10)
+- 174125 Rebel Og Mid Fe12 Football League Group 2 Shield Final (1)
+- 174126 Rebel Og Mid Fe12 Football League Group 3 Cup Final Playoff (1)
+- 171551 Rebel Og Mid Fe12 Football League Group 3 Phase 2 (15)
+- 174128 Rebel Og Mid Fe12 Football League Group 3 Plate Play Off Final (1)
+- 174127 Rebel Og Mid Fe12 Football League Group 3 Shield Play Off Final (1)
+- 174129 Rebel Og Mid Fe12 Football League Group 4 Cup Play Off Final (1)
+- 171552 Rebel Og Mid Fe12 Football League Group 4 Phase 2 (15)
+- 174131 Rebel Og Mid Fe12 Football League Group 4 Plate Play Off Final (1)
+- 174130 Rebel Og Mid Fe12 Football League Group 4 Shield Play Off Final (1)
+- 174132 Rebel Og Mid Fe12 Football League Group 5 Cup Play Off Final (1)
+- 171553 Rebel Og Mid Fe12 Football League Group 5 Phase 2 (15)
+- 174134 Rebel Og Mid Fe12 Football League Group 5 Plate Play Off Final (1)
+- 174133 Rebel Og Mid Fe12 Football League Group 5 Shield Play Off Final (1)
+- 174135 Rebel Og Mid Fe12 Football League Group 6 Cup Play Off Final (1)
+- 171554 Rebel Og Mid Fe12 Football League Group 6 Phase 2 (15)
+- 174137 Rebel Og Mid Fe12 Football League Group 6 Plate Play Off Final (1)
+- 174136 Rebel Og Mid Fe12 Football League Group 6 Shield Play Off Final (1)
+- 171570 Rebel Og Mid Fe12 Group 1 Hurling League Phase 2 (6)
+- 171571 Rebel Og Mid Fe12 Group 2 Hurling League Phase 2 (6)
+- 171575 Rebel Og Mid Fe12 Group 3 Hurling League Phase 2 (15)
+- 175396 Rebel Og Mid Fe12 Group 4 Hurling League Cup Finals (1)
+- 171576 Rebel Og Mid Fe12 Group 4 Hurling League Phase 2 (15)
+- 175398 Rebel Og Mid Fe12 Group 4 Hurling League Plate Final (1)
+- 175397 Rebel Og Mid Fe12 Group 4 Hurling League Shield Final (1)
+- 175400 Rebel Og Mid Fe12 Hurling League Group 3 Cup Final (1)
+- 175402 Rebel Og Mid Fe12 Hurling League Group 3 Plate Final (1)
+- 175401 Rebel Og Mid Fe12 Hurling League Group 3 Shield Final (1)
+- 171261 Rebel Og Mid Fe13 Div 1 Football League Phase 2 (15)
+- 171244 Rebel Og Mid Fe13 Div 1 Hurling League Phase 2 (15)
+- 171262 Rebel Og Mid Fe13 Div 2 Football League Phase 2 (15)
+- 176289 Rebel Og Mid Fe13 Div 2 Hurling Cup Final (1)
+- 171245 Rebel Og Mid Fe13 Div 2 Hurling League Phase 2 (28)
+- 171263 Rebel Og Mid Fe13 Div 3 Football League Phase 2 (10)
+- 171247 Rebel Og Mid Fe13 Div 3 Hurling Grading League Section 2 (15)
+- 176287 Rebel Og Mid Fe13 Div 3 Hurling Grading League Section 2 Cup Final (1)
+- 175799 Rebel Og Mid Fe13 Div 3 Hurling Plate Final (1)
+- 175798 Rebel Og Mid Fe13 Div 3 Hurling Shield Final (1)
+- 174145 Rebel Og Mid Fe13 Football League Div 1 Cup Final (1)
+- 175101 Rebel Og Mid Fe13 Football League Div 1 Plate Final (1)
+- 175100 Rebel Og Mid Fe13 Football League Div 1 Shield Final (1)
+- 174142 Rebel Og Mid Fe13 Football League Div 2 Cup Final (1)
+- 174144 Rebel Og Mid Fe13 Football League Div 2 Plate Final (1)
+- 174143 Rebel Og Mid Fe13 Football League Div 2 Shield Final (1)
+- 174140 Rebel Og Mid Fe13 Football League Div 3 Cup Final (1)
+- 174141 Rebel Og Mid Fe13 Football League Div 3 Shield Final (1)
+- 174138 Rebel Og Mid Fe13 Hurling League Div 1 Cup Final (1)
+- 174139 Rebel Og Mid Fe13 Hurling League Div 1 Shield Final (1)
+- 170964 Rebel Og Mid Fe14 Division 2  Football  Championship (6)
+- 171394 Rebel Og Mid Fe14 Division 2 Football Championship Shield Finals (3)
+- 170975 Rebel Og Mid Fe14 Division 2 Hurling Championship (9)
+- 171646 Rebel Og Mid Fe14 Division 2 Hurling Shield Championship (2)
+- 177523 Rebel Og Mid Fe15 Div 3 Football League Final (1)
+- 175675 Rebel Og Mid Fe15 Div 3 Hurling Cup Final (1)
+- 175676 Rebel Og Mid Fe15 Div 3 Hurling Shield Final (1)
+- 171999 Rebel Og Mid Fe15 Division 1 Football Championship Cup Playoffs (3)
+- 172000 Rebel Og Mid Fe15 Division 1 Football Championship Shield Playoffs (3)
+- 171997 Rebel Og Mid Fe15 Division 1 Football Championship section 1 (6)
+- 171998 Rebel Og Mid Fe15 Division 1 Football Championship section 2 (15)
+- 171988 Rebel Og Mid Fe15 Division 1 Hurling Championship Cup (1)
+- 171989 Rebel Og Mid Fe15 Division 1 Hurling Championship Shield (1)
+- 171987 Rebel Og Mid Fe15 Division 1 Hurling Championship section 1 (15)
+- 176838 Rebel Og Mid Fe15 Division 2 Football Championship Cup Playoffs (2)
+- 177184 Rebel Og Mid Fe15 Division 2 Football Championship Shield Final (1)
+- 172004 Rebel Og Mid Fe15 Division 2 Football Championship Shield Playoffs (2)
+- 176839 Rebel Og Mid Fe15 Division 2 Football Championship Shield Playoffs (3)
+- 172001 Rebel Og Mid Fe15 Division 2 Football Championship section 1 (6)
+- 172002 Rebel Og Mid Fe15 Division 2 Football Championship section 2 (6)
+- 171992 Rebel Og Mid Fe15 Division 2 Hurling  Championship Cup Playoffs (3)
+- 171993 Rebel Og Mid Fe15 Division 2 Hurling  Championship Shield Playoffs (3)
+- 171990 Rebel Og Mid Fe15 Division 2 Hurling  Championship section 1 (15)
+- 171991 Rebel Og Mid Fe15 Division 2 Hurling  Championship section 2 (15)
+- 172005 Rebel Og Mid Fe15 Division 3 Football Championship (6)
+- 172008 Rebel Og Mid Fe15 Division 3 Football Championship Shield Final (1)
+- 171994 Rebel Og Mid Fe15 Division 3 Hurling  Championship (15)
+- 171995 Rebel Og Mid Fe15 Division 3 Hurling  Championship Cup Final (1)
+- 171996 Rebel Og Mid Fe15 Division 3 Hurling  Championship Shield Final (1)
+- 176933 Rebel Og Mid Fe16 Div 1 Hurling Championship Final (3)
+- 176982 Rebel Og Mid Fe16 Div 2 Football Championship (7)
+- 176934 Rebel Og Mid Fe16 Div 2 Hurling Championship Final (3)
+- 176288 Rebel Og Mid Fe17 Div 3 Football Championship Shield Final (1)
+- 172019 Rebel Og Mid Fe17 Division 1 Football Championship Cup Playoffs (3)
+- 172020 Rebel Og Mid Fe17 Division 1 Football Championship Shield Playoffs (3)
+- 172017 Rebel Og Mid Fe17 Division 1 Football Championship section 1 (6)
+- 172018 Rebel Og Mid Fe17 Division 1 Football Championship section 2 (6)
+- 172011 Rebel Og Mid Fe17 Division 1 Hurling Championship Cup Playoff Final (3)
+- 172012 Rebel Og Mid Fe17 Division 1 Hurling Championship Shield Final (3)
+- 172009 Rebel Og Mid Fe17 Division 1 Hurling Championship section 1 (6)
+- 172010 Rebel Og Mid Fe17 Division 1 Hurling Championship section 2 (10)
+- 172023 Rebel Og Mid Fe17 Division 2 Football Championship Cup Playoffs (3)
+- 172024 Rebel Og Mid Fe17 Division 2 Football Championship Shield Playoffs (3)
+- 172021 Rebel Og Mid Fe17 Division 2 Football Championship section 1 (6)
+- 172022 Rebel Og Mid Fe17 Division 2 Football Championship section 2 (6)
+- 172027 Rebel Og Mid Fe17 Division 3 Football Championship (15)
+- 172028 Rebel Og Mid Fe17 Division 3 Football Championship Cup Final (1)
+- 172016 Rebel Og Mid Fe17 Division 3 Hurling  Championship Cup Playoff Final (3)
+- 172013 Rebel Og Mid Fe17 Division 3 Hurling  Championship section 1 (6)
+- 172014 Rebel Og Mid Fe17 Division 3 Hurling  Championship section 2 (6)
+- 172015 Rebel Og Mid Fe17 Division 3 Hurling Championship Shield Playoff Final (3)
+- 175958 Rebel Og North FE 15 Div 2 Football County Championship Qualifier Final (1)
+- 171555 Rebel Og North Fe12 Football League Group 1 Phase 2 (15)
+- 173825 Rebel Og North Fe12 Football League Group 1 Phase 2 Cup Final (1)
+- 173827 Rebel Og North Fe12 Football League Group 1 Phase 2 Shield Final (1)
+- 171556 Rebel Og North Fe12 Football League Group 2 Phase 2 (15)
+- 173828 Rebel Og North Fe12 Football League Group 2 Phase 2 Cup Final (1)
+- 173829 Rebel Og North Fe12 Football League Group 2 Phase 2 Shield Final (1)
+- 171557 Rebel Og North Fe12 Football League Group 3 Phase 2 (6)
+- 172902 Rebel Og North Fe12 Football League Group 3 Phase 2 Cup Final (1)
+- 172777 Rebel Og North Fe12 Football League Group 3 Phase 2 Shield Final (1)
+- 171577 Rebel Og North Fe12 Hurling League Group 1 Phase 2 (6)
+- 173365 Rebel Og North Fe12 Hurling League Group 1 Phase 2 Cup Final (1)
+- 173366 Rebel Og North Fe12 Hurling League Group 1 Phase 2 Shield Final (1)
+- 174173 Rebel Og North Fe12 Hurling League Group 1 Phase 2 Shield Final Replay (1)
+- 171578 Rebel Og North Fe12 Hurling League Group 2 Phase 2 (10)
+- 174751 Rebel Og North Fe12 Hurling League Group 2 Phase 2 Cup Final (1)
+- 174753 Rebel Og North Fe12 Hurling League Group 2 Phase 2 Shield Final (1)
+- 171579 Rebel Og North Fe12 Hurling League Group 3 Phase 2 (15)
+- 175172 Rebel Og North Fe12 Hurling League Group 3 Phase 2 Cup Final (1)
+- 174756 Rebel Og North Fe12 Hurling League Group 3 Phase 2 Shield Final (1)
+- 171264 Rebel Og North Fe13 Div 1 Football League Phase 2 (15)
+- 173367 Rebel Og North Fe13 Div 1 Football League Phase 2 Cup Final Replay (2)
+- 173368 Rebel Og North Fe13 Div 1 Football League Phase 2 Shield Final (1)
+- 171253 Rebel Og North Fe13 Div 1 Hurling League Phase 2 (15)
+- 173369 Rebel Og North Fe13 Div 1 Hurling League Phase 2 Cup Final (1)
+- 173371 Rebel Og North Fe13 Div 1 Hurling League Phase 2 Shield Final (1)
+- 173981 Rebel Og North Fe13 Div 2 Football League Phase 2 Cup Final (1)
+- 173372 Rebel Og North Fe13 Div 2 Football League Phase 2 Cup Playoff (2)
+- 173980 Rebel Og North Fe13 Div 2 Football League Phase 2 Cup Playoff Replay (1)
+- 171266 Rebel Og North Fe13 Div 2 Football League Phase 2 Section 2 (10)
+- 171265 Rebel Og North Fe13 Div 2 Football League Phase 2 Section1 (10)
+- 173982 Rebel Og North Fe13 Div 2 Football League Phase 2 Shield Final (1)
+- 173373 Rebel Og North Fe13 Div 2 Football League Phase 2 Shield Playoff (2)
+- 171254 Rebel Og North Fe13 Div 2 Hurling League Phase 2 (15)
+- 173125 Rebel Og North Fe13 Div 2 Hurling League Phase 2 Cup Final (1)
+- 173444 Rebel Og North Fe13 Div 2 Hurling League Phase 2 Cup Final Replay (1)
+- 173126 Rebel Og North Fe13 Div 2 Hurling League Phase 2 Shield Final (1)
+- 171267 Rebel Og North Fe13 Div 3 Football League Phase 2 (21)
+- 174930 Rebel Og North Fe13 Div 3 Football League Phase 2 Cup Final (1)
+- 174931 Rebel Og North Fe13 Div 3 Football League Phase 2 Shield Final (1)
+- 171255 Rebel Og North Fe13 Div 3 Hurling League Phase 2 (15)
+- 173375 Rebel Og North Fe13 Div 3 Hurling League Phase 2 Cup Final (1)
+- 173376 Rebel Og North Fe13 Div 3 Hurling League Phase 2 Shield Final (1)
+- 170951 Rebel Og North Fe14 Division 2  Football  Championship (7)
+- 170976 Rebel Og North Fe14 Division 2 Hurling Championship (3)
+- 170954 Rebel Og North Fe14 Division 3  Football  Championship (3)
+- 170977 Rebel Og North Fe14 Division 3 Hurling Championship (3)
+- 171980 Rebel Og North Fe14 Division 3 Hurling Shield Championship Final (1)
+- 172901 Rebel Og North Fe15 Div 2 Hurling League Cup Final Replay (1)
+- 172032 Rebel Og North Fe15 Division 1 Hurling Championship (15)
+- 172033 Rebel Og North Fe15 Division 1 Hurling Championship Cup Final (1)
+- 172034 Rebel Og North Fe15 Division 1 Hurling Championship Shield Final (1)
+- 172038 Rebel Og North Fe15 Division 2 Hurling  Championship Cup Final (3)
+- 172039 Rebel Og North Fe15 Division 2 Hurling  Championship Shield Final (3)
+- 172035 Rebel Og North Fe15 Division 2 Hurling  Championship section 1 (6)
+- 172036 Rebel Og North Fe15 Division 2 Hurling  Championship section 2 (15)
+- 172455 Rebel Og North Fe15 Division 2A Football Championship Shield Playoffs (3)
+- 172454 Rebel Og North Fe15 Division 2A Football Championship cup playoff (3)
+- 172272 Rebel Og North Fe15 Division 2A Football Championship section 1 (6)
+- 172274 Rebel Og North Fe15 Division 2A Football Championship section 2 (6)
+- 172275 Rebel Og North Fe15 Division 2B Football Championship (15)
+- 172457 Rebel Og North Fe15 Division 2B Football Championship Cup Final (1)
+- 172458 Rebel Og North Fe15 Division 2B Football Championship Shield Final (1)
+- 172276 Rebel Og North Fe15 Division 3 Football Championship Cup Final (3)
+- 172277 Rebel Og North Fe15 Division 3 Football Championship Shield Final (3)
+- 172270 Rebel Og North Fe15 Division 3 Football Championship section 1 (6)
+- 172271 Rebel Og North Fe15 Division 3 Football Championship section 2 (6)
+- 172045 Rebel Og North Fe15 Division 3 Hurling  Championship Cup Final (3)
+- 172046 Rebel Og North Fe15 Division 3 Hurling  Championship Shield Final (3)
+- 172042 Rebel Og North Fe15 Division 3 Hurling  Championship section 1 (6)
+- 172044 Rebel Og North Fe15 Division 3 Hurling  Championship section 2 (15)
+- 176893 Rebel Og North Fe16 Division 1 Football Championship (6)
+- 176894 Rebel Og North Fe16 Division 2 Football Championship (5)
+- 176888 Rebel Og North Fe16 Division 2 Hurling Championship (3)
+- 176895 Rebel Og North Fe16 Division 3 Football Championship (3)
+- 172057 Rebel Og North Fe17 Division 1 Football Championship (15)
+- 172058 Rebel Og North Fe17 Division 1 Football Championship Cup Final (1)
+- 172059 Rebel Og North Fe17 Division 1 Football Championship Shield Final (1)
+- 176083 Rebel Og North Fe17 Division 1 Football Championship Shield Final Replay (1)
+- 172047 Rebel Og North Fe17 Division 1 Hurling Championship (15)
+- 172048 Rebel Og North Fe17 Division 1 Hurling Championship Cup Final (1)
+- 172049 Rebel Og North Fe17 Division 1 Hurling Championship Shield Final (1)
+- 172064 Rebel Og North Fe17 Division 2 Football Championship Cup Final (3)
+- 172065 Rebel Og North Fe17 Division 2 Football Championship Shield Final (1)
+- 174803 Rebel Og North Fe17 Division 2 Football Championship Shield Final Replay (1)
+- 172061 Rebel Og North Fe17 Division 2 Football Championship section 1 (6)
+- 172062 Rebel Og North Fe17 Division 2 Football Championship section 2 (6)
+- 172052 Rebel Og North Fe17 Division 2 Hurling Championship Cup Final (3)
+- 172053 Rebel Og North Fe17 Division 2 Hurling Championship Shield Final (1)
+- 172050 Rebel Og North Fe17 Division 2 Hurling Championship section 1 (6)
+- 172051 Rebel Og North Fe17 Division 2 Hurling Championship section 2 (6)
+- 172069 Rebel Og North Fe17 Division 3 Football Championship Cup  Final (3)
+- 172070 Rebel Og North Fe17 Division 3 Football Championship Shield Final (3)
+- 172067 Rebel Og North Fe17 Division 3 Football Championship section 1 (6)
+- 172068 Rebel Og North Fe17 Division 3 Football Championship section 2 (6)
+- 172054 Rebel Og North Fe17 Division 3 Hurling  Championship (15)
+- 172055 Rebel Og North Fe17 Division 3 Hurling Championship  Cup Final (1)
+- 175760 Rebel Og North Fe17 Division 3 Hurling Championship  Cup Final Replay (1)
+- 172056 Rebel Og North Fe17 Division 3 Hurling Championship Shield Final (1)
+- 170946 Rebel Og North/East Fe14 Division 1 Football Cup Championship (7)
+- 171395 Rebel Og North/East Fe14 Division 1 Football Shield Championship (3)
+- 171396 Rebel Og North/East Fe14 Division 2 Football Shield Championship (3)
+- 171397 Rebel Og North/East Fe14 Division 3 Football Shield Championship (1)
+- 175288 Rebel Og North/Mid Fe12 Hurling League Group 2 Phase 2 Cup Final (3)
+- 175289 Rebel Og North/Mid Fe12 Hurling League Group 2 Phase 2 Shield Final (3)
+- 175399 Rebel Og North/Mid South Fe12 Group 1 Hurling League Cup Final (1)
+- 174468 Rebel Og North/Mid South Fe12 Group 1 Hurling League Cup Semi Final Playof (2)
+- 174469 Rebel Og North/Mid South Fe12 Group 1 Hurling League Shield Semi Final Playof (2)
+- 177037 Rebel Og West Fe 16 Div 1 Football Championship (3)
+- 177039 Rebel Og West Fe 16 Div 1 Hurling Championship (4)
+- 177038 Rebel Og West Fe 16 Div 3 Football Championship (3)
+- 171558 Rebel Og West Fe12 Football League Group 1 Phase 2/Playoff (20)
+- 171559 Rebel Og West Fe12 Football League Group 2 Phase 2/Playoff (20)
+- 171560 Rebel Og West Fe12 Football League Group 3 Section 1 Phase 2 (15)
+- 171561 Rebel Og West Fe12 Football League Group 3 Section 2 Phase 2 (15)
+- 175053 Rebel Og West Fe12 Football League Group 3A Playoff (5)
+- 175055 Rebel Og West Fe12 Football League Group 3B Playoff (4)
+- 171568 Rebel Og West Fe12 Group 1 Hurling League Phase 2/Playofff (13)
+- 171569 Rebel Og West Fe12 Group 2 Hurling League Phase 2/Playoff (8)
+- 171268 Rebel Og West Fe13 Div 1 Football League Phase 2 /Playoff (27)
+- 171248 Rebel Og West Fe13 Div 1 Hurling League Phase 2/Playoff (20)
+- 171270 Rebel Og West Fe13 Div 2 Football League Phase 2 Section 2 (15)
+- 171269 Rebel Og West Fe13 Div 2 Football League Phase 2 Section1 (15)
+- 171271 Rebel Og West Fe13 Div 3 Football League Phase 2 Section 1 (15)
+- 171272 Rebel Og West Fe13 Div 3 Football League Phase 2 Section 2 (15)
+- 171273 Rebel Og West Fe13 Div 3 Football League Phase 2 Section 3 (15)
+- 171249 Rebel Og West Fe13 Div 3 Hurling League Phase 2/Playoff (20)
+- 175178 Rebel Og West Fe13 Football League Div 2A Playoff (5)
+- 175179 Rebel Og West Fe13 Football League Div 2B Playoff (5)
+- 175180 Rebel Og West Fe13 Football League Div 3A Playoff (5)
+- 175181 Rebel Og West Fe13 Football League Div 3B Playoff (5)
+- 175182 Rebel Og West Fe13 Football League Div 3C Playoff (5)
+- 170959 Rebel Og West Fe14 Division 2  Football  Championship (3)
+- 171701 Rebel Og West Fe14 Division 2 Football Shield Championship (1)
+- 171853 Rebel Og West Fe15 Division 1 Football Championship Shield (3)
+- 171850 Rebel Og West Fe15 Division 1 Football Championship play offs (4)
+- 171846 Rebel Og West Fe15 Division 1 Football Championship section 1 (6)
+- 171848 Rebel Og West Fe15 Division 1 Football Championship section 2 (6)
+- 171866 Rebel Og West Fe15 Division 1 Hurling Championship (10)
+- 171867 Rebel Og West Fe15 Division 1 Hurling Championship Cup Final (1)
+- 171868 Rebel Og West Fe15 Division 1 Hurling Championship Shield Final (1)
+- 171844 Rebel Og West Fe15 Division 2 Football Championship Cup Play offs (3)
+- 171843 Rebel Og West Fe15 Division 2 Football Championship Shield (3)
+- 171840 Rebel Og West Fe15 Division 2 Football Championship section 1 (6)
+- 171841 Rebel Og West Fe15 Division 2 Football Championship section 2 (10)
+- 171817 Rebel Og West Fe15 Division 3 Football Championship Playoff (5)
+- 171856 Rebel Og West Fe15 Division 3 Football Championship Shield (5)
+- 171818 Rebel Og West Fe15 Division 3 Football Championship section 1 (10)
+- 171819 Rebel Og West Fe15 Division 3 Football Championship section 2 (10)
+- 171820 Rebel Og West Fe15 Division 3 Football Championship section 3 (6)
+- 171857 Rebel Og West Fe15 Division 3 Hurling Championship (15)
+- 171858 Rebel Og West Fe15 Division 3 Hurling Championship Cup Final (1)
+- 171859 Rebel Og West Fe15 Division 3 Hurling Championship Shield Final (1)
+- 171805 Rebel Og West Fe17 Division 1 Football Championship (6)
+- 171806 Rebel Og West Fe17 Division 1 Football Championship Final (1)
+- 171869 Rebel Og West Fe17 Division 1 Hurling Championship (6)
+- 171870 Rebel Og West Fe17 Division 1 Hurling Championship Cup Final (1)
+- 171871 Rebel Og West Fe17 Division 1 Hurling Championship Shield Final (1)
+- 171815 Rebel Og West Fe17 Division 2 Football Championship Playoff (3)
+- 171816 Rebel Og West Fe17 Division 2 Football Championship Shield Playoff (3)
+- 171813 Rebel Og West Fe17 Division 2 Football Championship section 1 (10)
+- 171814 Rebel Og West Fe17 Division 2 Football Championship section 2 (10)
+- 171872 Rebel Og West Fe17 Division 2 Hurling Championship (15)
+- 171874 Rebel Og West Fe17 Division 2 Hurling Championship Cup Final (1)
+- 171875 Rebel Og West Fe17 Division 2 Hurling Championship Shield Final (1)
+- 171812 Rebel Og West Fe17 Division 3 Football  Shield Championship Playoff (4)
+- 171811 Rebel Og West Fe17 Division 3 Football Championship Playoff (5)
+- 171808 Rebel Og West Fe17 Division 3 Football Championship section 1 (10)
+- 171809 Rebel Og West Fe17 Division 3 Football Championship section 2A (3)
+- 171810 Rebel Og West Fe17 Division 3 Football Championship section 2B (6)
+- 171876 Rebel Og West Fe17 Division 3 Hurling Championship (15)
+- 171878 Rebel Og West Fe17 Division 3 Hurling Championship Cup Final (1)
+- 171880 Rebel Og West Fe17 Division 3 Hurling Championship Shield Final (1)
+- 170958 Rebel Og West/Mid Fe14 Division 1 Football Championship (6)
+- 171398 Rebel Og West/Mid Fe14 Division 1 Football Shield Championship (2)
+- 170974 Rebel Og West/Mid Fe14 Division 1 Hurling Championship (7)
+- 171542 Rebel Og West/Mid Fe14 Division 1 Hurling Shield Championship (3)
+- 170960 Rebel Og West/Mid Fe14 Division 3  Football  Championship (7)
+- 171540 Rebel Og West/Mid Fe14 Division 3 Football Shield Championship (3)
+- 170343 Red Deer Exhibition (5)
+- 172820 Red FM Division 2 HL Play Offs (2)
+- 172670 Red FM Division 3 HL Playoffs (4)
+- 171496 Relegation Playoffs (3)
+- 175791 Relegation Playoffs (2)
+- 171278 Relegation Section (6)
+- 171388 Relegation Section (6)
+- 171595 Relegation Section (12)
+- 174024 Reserve 'A' Football Championship (5)
+- 172535 Reserve 'A' Football Championship Group 1 (11)
+- 172534 Reserve 'A' Football Championship Group 2 (10)
+- 174023 Reserve 'B' Football Championship (5)
+- 172548 Reserve 'B' Football Championship Group 1 (10)
+- 172547 Reserve 'B' Football Championship Group 2 (6)
+- 173093 Reserve Division 1 - Pete Keane Memorial Cup (110)
+- 173094 Reserve Division 2 - Robin Porter Memorial Cup (110)
+- 170094 Reserve Division 2 League Cup (11)
+- 173095 Reserve Division 3 - Patton Cup (56)
+- 170507 Reserve Division 3 League Cup (11)
+- 173624 Reserve Football Championship Group 1 (5)
+- 173623 Reserve Football Championship Group 2 (10)
+- 171304 Reserve Football League (35)
+- 169840 Revised U18C West Knockout 2022 (1)
+- 168895 Revised U18C West League 2022 (10)
+- 172772 Roadstone Intermediate Mid Hurling Championship (1)
+- 169093 Rochestown Park Hotel Junior C Football Championship 2022 (13)
+- 176828 Rock Group 1 (30)
+- 176829 Rock Group 2 (30)
+- 176830 Rock Group 3 (30)
+- 176831 Rock Group 4 (30)
+- 169244 Rock Play Offs (7)
+- 177639 Roger Ryan U14 HL 2022 (4)
+- 169401 Rosie Stewart Memorial Bowl (1)
+- 169088 Ross Oil Junior A Football Championship 2022 Grp 1 (6)
+- 169089 Ross Oil Junior A Football Championship 2022 Grp 2 (3)
+- 169090 Ross Oil Junior A Football Championship 2022 Grp 3 (3)
+- 169091 Ross Oil Junior A Football Championship 2022 Grp 4 (3)
+- 174017 Ross Oil Junior A Football Championship 2022 Playoffs (7)
+- 169158 Round Robin (2)
+- 172957 Rugby Europe (9)
+- 174562 Rugby Europe SuperCup 2022/2023 (29)
+- 175869 Rugby Europe XV U18 Championhsip 2022 (8)
+- 176422 Rugby Europe XV U18 Championhsip 2022 Ranking Games (4)
+- 168733 RussellCup (15)
+- 169622 S.F.A.I.Sketchers U12 Regional Final (3)
+- 169624 S.F.A.I.Sketchers U14 Regional Final (3)
+- 169625 S.F.A.I.Sketchers U15 Regional  Final (2)
+- 169623 S.F.A.I.Sketchers u13 Regional  Final (3)
+- 172626 SBC 14 Women 2022/2023 (62)
+- 172625 SBC 16 Women 2022/2023 (58)
+- 174721 SBC Scottish Cup 2022 / 2023 16M (14)
+- 174720 SBC Scottish Cup 2022 / 2023 16W (9)
+- 174716 SBC Scottish Cup 2022 / 2023 18M (16)
+- 174718 SBC Scottish Cup 2022 / 2023 18W (10)
+- 174709 SBC Scottish Cup 2022 / 2023 SM (24)
+- 174714 SBC Scottish Cup 2022 / 2023 SW (12)
+- 172371 SBC Senior Men Div 1 2022/2023 (110)
+- 172545 SBC Senior Men Div 2 2022/2023 (63)
+- 172623 SBC Senior Women 2022/2023 (96)
+- 172565 SBC U14 Men 2022/2023 (119)
+- 172463 SBC U16 Men 2022/2023 (92)
+- 172372 SBC U18 Men 2022/2023 (93)
+- 172624 SBC U18 Women 2022/2023 (56)
+- 174982 SCT Friendlies (225)
+- 175764 SFAI Cup U12 Girls (22)
+- 175765 SFAI Cup U14 Girls (20)
+- 175766 SFAI Cup U16 Girls (17)
+- 168891 SFAI Inter League - Connacht Boys U12 (6)
+- 177045 SFAI Inter League - Connacht Boys U12 Group 1 (6)
+- 177046 SFAI Inter League - Connacht Boys U12 Group 2 (6)
+- 168892 SFAI Inter League - Connacht Boys U13 (6)
+- 177053 SFAI Inter League - Connacht Boys U13 Group 1 (6)
+- 177054 SFAI Inter League - Connacht Boys U13 Group 2 (6)
+- 177056 SFAI Inter League - Connacht Boys U14 Group 1 (6)
+- 168906 SFAI Inter League - Connacht Boys U15 (6)
+- 168982 SFAI Inter League - Connacht Boys U16 (4)
+- 177073 SFAI Inter League - Connacht Boys U16 Group 1 (6)
+- 168916 SFAI Inter League - Girls U12 Group A (6)
+- 177351 SFAI Inter League - Girls U12 Group A (5)
+- 168917 SFAI Inter League - Girls U12 Group B (5)
+- 177352 SFAI Inter League - Girls U12 Group B (8)
+- 168918 SFAI Inter League - Girls U12 Group C (7)
+- 177353 SFAI Inter League - Girls U12 Group C (6)
+- 168919 SFAI Inter League - Girls U12 Group D (8)
+- 177354 SFAI Inter League - Girls U12 Group D (6)
+- 168920 SFAI Inter League - Girls U12 Group E (7)
+- 177355 SFAI Inter League - Girls U12 Group E (6)
+- 168921 SFAI Inter League - Girls U12 Group F (6)
+- 168922 SFAI Inter League - Girls U13 Group A (6)
+- 177377 SFAI Inter League - Girls U13 Group A (4)
+- 168923 SFAI Inter League - Girls U13 Group B (6)
+- 177378 SFAI Inter League - Girls U13 Group B (2)
+- 168924 SFAI Inter League - Girls U13 Group C (6)
+- 177379 SFAI Inter League - Girls U13 Group C (4)
+- 168925 SFAI Inter League - Girls U13 Group D (6)
+- 177381 SFAI Inter League - Girls U13 Group D (4)
+- 168926 SFAI Inter League - Girls U13 Group E (6)
+- 177382 SFAI Inter League - Girls U13 Group E (3)
+- 177383 SFAI Inter League - Girls U14 Group A (4)
+- 177384 SFAI Inter League - Girls U14 Group B (4)
+- 177385 SFAI Inter League - Girls U14 Group C (4)
+- 177386 SFAI Inter League - Girls U14 Group D (4)
+- 177387 SFAI Inter League - Girls U14 Group E (4)
+- 177388 SFAI Inter League - Girls U14 Group F (4)
+- 168931 SFAI Inter League - Girls U15 Group A (6)
+- 177390 SFAI Inter League - Girls U15 Group A (4)
+- 168928 SFAI Inter League - Girls U15 Group B (4)
+- 177391 SFAI Inter League - Girls U15 Group B (4)
+- 168929 SFAI Inter League - Girls U15 Group C (3)
+- 168930 SFAI Inter League - Girls U15 Group D (7)
+- 168932 SFAI Inter League - Girls U16 Group A (6)
+- 177393 SFAI Inter League - Girls U16 Group A (4)
+- 177394 SFAI Inter League - Girls U16 Group B (4)
+- 168933 SFAI Inter League - Girls U16 Group C (8)
+- 177395 SFAI Inter League - Girls U16 Group C (4)
+- 168935 SFAI Inter League - Girls U16 Group D (5)
+- 177396 SFAI Inter League - Girls U16 Group D (8)
+- 177397 SFAI Inter League - Girls U16 Group E (4)
+- 168936 SFAI Inter League - Girls U16 Group F (6)
+- 171477 SFAI Inter League - Knockout Girls U12 Bowl (3)
+- 171475 SFAI Inter League - Knockout Girls U12 Cup (3)
+- 171478 SFAI Inter League - Knockout Girls U12 Shield (3)
+- 171479 SFAI Inter League - Knockout Girls U12 Trophy (3)
+- 171481 SFAI Inter League - Knockout Girls U13 Bowl (3)
+- 171480 SFAI Inter League - Knockout Girls U13 Cup (3)
+- 171482 SFAI Inter League - Knockout Girls U13 Shield (3)
+- 171483 SFAI Inter League - Knockout Girls U13 Trophy (3)
+- 171485 SFAI Inter League - Knockout Girls U15 Bowl (3)
+- 171484 SFAI Inter League - Knockout Girls U15 Cup (3)
+- 171486 SFAI Inter League - Knockout Girls U15 Shield (3)
+- 171487 SFAI Inter League - Knockout Girls U15 Trophy (1)
+- 171489 SFAI Inter League - Knockout Girls U16 Bowl (4)
+- 171488 SFAI Inter League - Knockout Girls U16 Cup (3)
+- 171490 SFAI Inter League - Knockout Girls U16 Shield (3)
+- 171491 SFAI Inter League - Knockout Girls U16 Trophy (1)
+- 168986 SFAI Inter League - Leinster Boys U12 Group 1 (6)
+- 177040 SFAI Inter League - Leinster Boys U12 Group 1 (6)
+- 168987 SFAI Inter League - Leinster Boys U12 Group 2 (6)
+- 177041 SFAI Inter League - Leinster Boys U12 Group 2 (6)
+- 168988 SFAI Inter League - Leinster Boys U12 Group 3 (4)
+- 168983 SFAI Inter League - Leinster Boys U13 Group 1 (6)
+- 177048 SFAI Inter League - Leinster Boys U13 Group 1 (6)
+- 168910 SFAI Inter League - Leinster Boys U13 Group 2 (3)
+- 177049 SFAI Inter League - Leinster Boys U13 Group 2 (6)
+- 168985 SFAI Inter League - Leinster Boys U13 Group 3 (6)
+- 177057 SFAI Inter League - Leinster Boys U14 Group 1 (6)
+- 177058 SFAI Inter League - Leinster Boys U14 Group 2 (6)
+- 177059 SFAI Inter League - Leinster Boys U14 Group 3 (6)
+- 168989 SFAI Inter League - Leinster Boys U15 Group 1 (6)
+- 177065 SFAI Inter League - Leinster Boys U15 Group 1 (6)
+- 168990 SFAI Inter League - Leinster Boys U15 Group 2 (6)
+- 177066 SFAI Inter League - Leinster Boys U15 Group 2 (6)
+- 168991 SFAI Inter League - Leinster Boys U16 (6)
+- 177071 SFAI Inter League - Leinster Boys U16 Group 1 (6)
+- 169028 SFAI Inter League - Munster Boys U12 Group 1 (6)
+- 177042 SFAI Inter League - Munster Boys U12 Group 1 (6)
+- 169029 SFAI Inter League - Munster Boys U12 Group 2 (6)
+- 177043 SFAI Inter League - Munster Boys U12 Group 2 (6)
+- 169030 SFAI Inter League - Munster Boys U12 Group 3 (6)
+- 177044 SFAI Inter League - Munster Boys U12 Group 3 (6)
+- 169031 SFAI Inter League - Munster Boys U12 Group 4 (6)
+- 169032 SFAI Inter League - Munster Boys U13 Group 1 (6)
+- 177050 SFAI Inter League - Munster Boys U13 Group 1 (6)
+- 169033 SFAI Inter League - Munster Boys U13 Group 2 (6)
+- 177051 SFAI Inter League - Munster Boys U13 Group 2 (6)
+- 169034 SFAI Inter League - Munster Boys U13 Group 3 (6)
+- 177052 SFAI Inter League - Munster Boys U13 Group 3 (6)
+- 169045 SFAI Inter League - Munster Boys U13 Group 4 (6)
+- 177060 SFAI Inter League - Munster Boys U14 Group 1 (6)
+- 177061 SFAI Inter League - Munster Boys U14 Group 2 (6)
+- 177062 SFAI Inter League - Munster Boys U14 Group 3 (6)
+- 169047 SFAI Inter League - Munster Boys U15 Group 1 (6)
+- 177067 SFAI Inter League - Munster Boys U15 Group 1 (6)
+- 169058 SFAI Inter League - Munster Boys U15 Group 2 (6)
+- 177068 SFAI Inter League - Munster Boys U15 Group 2 (6)
+- 169059 SFAI Inter League - Munster Boys U15 Group 3 (6)
+- 169060 SFAI Inter League - Munster Boys U16 Group 1 (6)
+- 177072 SFAI Inter League - Munster Boys U16 Group 1 (6)
+- 169061 SFAI Inter League - Munster Boys U16 Group 2 (6)
+- 168992 SFAI Inter League - Ulster Boys U12 (6)
+- 177047 SFAI Inter League - Ulster Boys U12 Group 1 (6)
+- 168995 SFAI Inter League - Ulster Boys U13 (6)
+- 177055 SFAI Inter League - Ulster Boys U13 Group 1 (6)
+- 177063 SFAI Inter League - Ulster Boys U14 Group 1 (6)
+- 168994 SFAI Inter League - Ulster Boys U15 (2)
+- 177070 SFAI Inter League - Ulster Boys U15 Group 1 (6)
+- 177318 SFAI National Trophy - Under 12 (11)
+- 177321 SFAI National Trophy - Under 13 (15)
+- 177319 SFAI National Trophy - Under 14 (18)
+- 177322 SFAI National Trophy - Under 15 (7)
+- 177320 SFAI National Trophy - Under 16 (15)
+- 175840 SFAI Regional Cup - Under 12 (26)
+- 175715 SFAI Regional Cup - Under 13 (31)
+- 175841 SFAI Regional Cup - Under 14 (27)
+- 175717 SFAI Regional Cup - Under 15 (21)
+- 175842 SFAI Regional Cup - Under 16 (20)
+- 175901 SFAI Subway  Under 15 Boys Cup (26)
+- 177335 SFAI Subway U12 Boys National Trophy (15)
+- 177545 SFAI Subway U12 Girls National Trophy (7)
+- 175776 SFAI Subway U13 Boys National Cup (14)
+- 177411 SFAI Subway U13 Boys National Trophy (8)
+- 176087 SFAI Subway U14 Boys National Cup (19)
+- 175777 SFAI Subway U15 Boys National Cup (6)
+- 177410 SFAI Subway U15 Boys National Trophy (4)
+- 176092 SFAI Subway U16 Boys National Cup (17)
+- 177337 SFAI Subway U16 Boys National Trophy (7)
+- 175771 SFAI Subway U16 Girls National Cup (12)
+- 177325 SFAI Subway Under 12 Trophy (18)
+- 175847 SFAI Subway Under 13 Boys (31)
+- 177366 SFAI Subway Under 13 Trophy (14)
+- 175923 SFAI Subway Under 14 Boys Cup (42)
+- 177326 SFAI Subway Under 14 Trophy (19)
+- 177367 SFAI Subway Under 15 Trophy (18)
+- 175926 SFAI Subway Under 16 Boys Cup (31)
+- 177327 SFAI Subway Under 16 Trophy (15)
+- 175916 SFAI Subway Under12 Boys Cup (41)
+- 168963 SFAI U12 Boys Interleague (2)
+- 177197 SFAI U12 Boys Interleague (9)
+- 177227 SFAI U12 Boys Interleague (7)
+- 176086 SFAI U12 Subway Boys National Cup (20)
+- 175770 SFAI U12 Subway Girls National Cup (8)
+- 168964 SFAI U13 Boys Interleague (4)
+- 177198 SFAI U13 Boys Interleague (8)
+- 177228 SFAI U13 Boys Interleague (5)
+- 177199 SFAI U14 Boys Interleague (3)
+- 177229 SFAI U14 Boys Interleague (4)
+- 176070 SFAI U14 Boys National Cup/Trophy (27)
+- 170861 SFAI U14 Girls National Cup/Trophy (13)
+- 175773 SFAI U14 Subway Girls National Cup (12)
+- 177200 SFAI U15 Boys Interleague (4)
+- 177346 SFAI U15 Girls Interleague (4)
+- 175790 SFAI U15 National Cup/Trophy (18)
+- 168965 SFAI U16 Boys Interleague (1)
+- 177201 SFAI U16 Boys Interleague (5)
+- 170699 SFAI U16 Girls National Cup/Trophy (8)
+- 170688 SFAI Under 12 South East Region - The Jack Carthy Cup (1)
+- 170689 SFAI Under 13 South East Region - The Pat Kelly Cup (1)
+- 170690 SFAI Under 14 South East Region - The John O’ Shea Cup (2)
+- 170691 SFAI Under 16 South East Region - The Mikie Ryan Cup (1)
+- 170698 SFAI u12 Girls National Cup/Trophy (11)
+- 170785 SFAI u12 National Cup/Trophy (24)
+- 170786 SFAI u13 Boys National Cup/Trophy (29)
+- 170787 SFAI u16 Boys National Cup/Trophy (16)
+- 177546 SFAU Subway U14 Girls National Trophy (6)
+- 171831 SFC - Group 1 (15)
+- 171835 SFC - Group 2 (15)
+- 171832 SFC - Group 3 (15)
+- 177233 SFC Final (1)
+- 174823 SFC Group 2 (6)
+- 174821 SFC Group 3 (6)
+- 174824 SFC Group 4 (6)
+- 175112 SFC Group A (6)
+- 175113 SFC Group B (6)
+- 176196 SFC Qtr Finals (4)
+- 176665 SFC S-Finals (2)
+- 172808 SFC Section A (15)
+- 172810 SFC Section B (15)
+- 177075 SG 1st Yr A League (8PC) (36)
+- 177076 SG 1st Yr B League (8PC) (60)
+- 177077 SG 1st Yr C League (8PC) (70)
+- 177078 SG 1st Yr D League (8PC) (96)
+- 176425 SG Jun Prem (35)
+- 176427 SG Junior 1A (28)
+- 176479 SG Junior 1B (64)
+- 176428 SG Junior 2 (25)
+- 176388 SG Junior 3 (66)
+- 176481 SG Junior 4 (45)
+- 177179 SG Junior Cup (34)
+- 168863 SG Min 2 PLAYOFF (2)
+- 176429 SG Min Prem (49)
+- 176430 SG Minor 1 (36)
+- 176462 SG Minor 2 (36)
+- 176483 SG Minor 3 (91)
+- 176484 SG Minor 4 (60)
+- 177180 SG Minor Cup (35)
+- 176230 SG Senior 1A (20)
+- 176231 SG Senior 1B (36)
+- 176382 SG Senior 2 (36)
+- 176383 SG Senior 3 (85)
+- 176386 SG Senior 4 (80)
+- 176622 SG Senior Cup (31)
+- 177520 SG Senior Plate (14)
+- 176228 SG Senior Premier (72)
+- 173118 SHC Final (2)
+- 174820 SHC Group 1 (6)
+- 172924 SHC Quarter Finals (2)
+- 173117 SHC Semi Finals (2)
+- 171379 SHL Div 1 - S/Finals & Final (3)
+- 171380 SHL Div 2 - S/Finals & Final (3)
+- 171358 SQWBL D1 2022 (33)
+- 171359 SQWBL D2 2022 (45)
+- 171360 SQWBL D3 2022 (60)
+- 171403 SQWBL WOMENS 2022 (35)
+- 177515 SSI Men Rugby Division 3 SemiFinal (3)
+- 176557 SSI Mens Division 1 (14)
+- 176672 SSI Mens Division 2/3 Group A (6)
+- 176558 SSI Mens Division 2/3 Group B (6)
+- 176559 SSI Mens Division 2/3 Group C (3)
+- 176560 SSI Mens Division 2/3 Group D (6)
+- 176673 SSI Womens Division 1/2 Group A (6)
+- 176674 SSI Womens Division 1/2 Group B (6)
+- 176675 SSI Womens Division 3A (6)
+- 176676 SSI Womens Division 3B (10)
+- 177428 SSI/IRFU Mens Rugby Division 2 Semi Finals (3)
+- 177425 SSI/IRFU Womens Rugby Division 1 Knockout (3)
+- 177501 SSI/IRFU Womens Rugby Division 2 Semi Finals (3)
+- 176841 SYFA 2005s Scottish Cup (8)
+- 176876 SYFA 2006s Scottish Cup (11)
+- 176878 SYFA 2007s Scottish Cup (10)
+- 176879 SYFA 2008s Scottish Cup (9)
+- 176880 SYFA 2009s Scottish Cup (9)
+- 176881 SYFA 2010s Scottish Cup (11)
+- 175301 Sarah Robinson Cup Girls U18 (10)
+- 172233 Savoy Kitchens North Premier Intermediate Hurling Championship (6)
+- 171232 School 1XV Friendly (250)
+- 171234 School 2XV Friendly (173)
+- 171285 School 3XV Friendly (52)
+- 171492 Schools 4XV Friendly (9)
+- 175668 Schools Friendlies - Junior Boys (4)
+- 175360 Schools Junior A League (22)
+- 176444 Schools Junior B League (30)
+- 176445 Schools Junior C League (28)
+- 176439 Schools Junior Girls League (38)
+- 175361 Schools Senior A League (22)
+- 176455 Schools Senior B League (18)
+- 176456 Schools Senior C League (12)
+- 176443 Schools Senior Girls League (39)
+- 171362 Schools U12 (2)
+- 172152 Schools U13 (30)
+- 171361 Schools U14 (43)
+- 175362 Schools U14 A League (24)
+- 176447 Schools U14 B League (31)
+- 176448 Schools U14 C League (20)
+- 169897 Schools U15 Development League Finals (2)
+- 169518 Schools U18 Bowen B Shield (1)
+- 169896 Schools U18 Development League Finals (3)
+- 171052 Schools U19 Daunt Cup (6)
+- 169606 Schools U19 Gary Halpin Cup (1)
+- 175191 Scully Cup (J2) (3)
+- 177328 Sean Byrne Western U20 A hurling Championship (3)
+- 176299 Sean Jones Cup Semi Finals (1)
+- 175412 Seconds League (J2) - Division 1A (56)
+- 175509 Seconds League (J2) - Division 1B (56)
+- 175731 Seconds League (J2) - Division 2A (56)
+- 171935 Senior 1-2 Group B (33)
+- 171936 Senior 1-2 Group B (24)
+- 176418 Senior 2nds League Division 1 - Group A (28)
+- 176420 Senior 2nds League Division 1 - Group B (28)
+- 175832 Senior A Football (10)
+- 172441 Senior A HC Group 1 (15)
+- 172443 Senior A HC Group 2 (15)
+- 172815 Senior A Hurling Championship 2022 (15)
+- 175386 Senior A Hurling Knockout (2)
+- 175259 Senior B (3)
+- 175838 Senior B Championsip (5)
+- 175871 Senior B Football (11)
+- 176498 Senior B Football Neil McDonnell Cup (1)
+- 172442 Senior B HC Group 1 (15)
+- 172444 Senior B HC Group 2 (15)
+- 176991 Senior B Hurling (1) (13)
+- 176290 Senior B Hurling Championship (1)
+- 172814 Senior B Hurling Championship 2022 (15)
+- 175385 Senior B Hurling Knockout (3)
+- 170381 Senior Boys (36)
+- 174347 Senior C Football (16)
+- 176497 Senior C Football Competition (1)
+- 174372 Senior C Hurling (12)
+- 171064 Senior C/Ship (10)
+- 171066 Senior C/Ship Grp 2 (6)
+- 173270 Senior Championship 2022 Grp 1 (10)
+- 173272 Senior Championship 2022 Grp 2 (10)
+- 176400 Senior Championship Final (3)
+- 176669 Senior Championship Final (1)
+- 173969 Senior Championship Grp A (6)
+- 173970 Senior Championship Grp B (6)
+- 175636 Senior Championship Knockout (3)
+- 176397 Senior Championship Knockout (15)
+- 175793 Senior Championship Play off (1)
+- 176069 Senior Championship Quarter Final (5)
+- 172473 Senior Championship Section A (6)
+- 172481 Senior Championship Section B (6)
+- 172475 Senior Championship Section C (6)
+- 176414 Senior Championship Semi Finals (2)
+- 172643 Senior Club Championship Group A (6)
+- 172652 Senior Club Championship Group B (6)
+- 174719 Senior Cup (6)
+- 175833 Senior D Football (10)
+- 174373 Senior D Hurling 1 (7)
+- 169262 Senior Development Shield Final (Div 3A) (2)
+- 177717 Senior Development Shield Final (Div 3A) (1)
+- 176094 Senior FC Knockout Stages (9)
+- 170264 Senior Football Championship (30)
+- 171057 Senior Football Championship (4)
+- 173574 Senior Football Championship (1)
+- 173575 Senior Football Championship (1)
+- 173577 Senior Football Championship (1)
+- 173578 Senior Football Championship (1)
+- 173749 Senior Football Championship (1)
+- 173750 Senior Football Championship (1)
+- 173751 Senior Football Championship (1)
+- 173752 Senior Football Championship (1)
+- 174481 Senior Football Championship (1)
+- 174483 Senior Football Championship (1)
+- 174492 Senior Football Championship (1)
+- 174493 Senior Football Championship (1)
+- 175176 Senior Football Championship (1)
+- 175177 Senior Football Championship (1)
+- 176144 Senior Football Championship (1)
+- 168721 Senior Football Division 1 (68)
+- 168735 Senior Football Division 2 (66)
+- 168736 Senior Football Division 3 (67)
+- 168722 Senior Football Division 4 (67)
+- 168737 Senior Football Division 5 (68)
+- 168724 Senior Football Division 6A (28)
+- 168739 Senior Football Division 6B (21)
+- 174847 Senior Football Knockout 2022 (5)
+- 171507 Senior Football League  Division 6 (Cup) (16)
+- 171506 Senior Football League  Division 6 (Shield (18)
+- 176667 Senior Football Relegation Group (6)
+- 173359 Senior Friendly (4)
+- 175640 Senior Hurling Championship (1)
+- 176142 Senior Hurling Championship (1)
+- 171597 Senior Hurling Championship Group 1 (5)
+- 171596 Senior Hurling Championship Group 2 (5)
+- 171598 Senior Hurling Championship Group 3 (5)
+- 170246 Senior Hurling Championship Group A (6)
+- 170254 Senior Hurling Championship Group B (6)
+- 171055 Senior Hurling Championship Grp 1 (6)
+- 171053 Senior Hurling Championship Grp 2 (3)
+- 174298 Senior Hurling Championship Knockout (6)
+- 174027 Senior Hurling Championship Semi Finals (2)
+- 168720 Senior Hurling Division 1 (45)
+- 168745 Senior Hurling Division 2A (10)
+- 168744 Senior Hurling Division 2B (10)
+- 168746 Senior Hurling Division 3 (22)
+- 169156 Senior Hurling League 2022 (21)
+- 176300 Senior Hurling Shield (2)
+- 176302 Senior Hurling Shield (1)
+- 175462 Senior League - Division 1 Playoffs (3)
+- 173260 Senior League - Division 1A (3)
+- 177579 Senior League - Division 1A - Playoffs (7)
+- 175437 Senior League - Division 1A - Section A (10)
+- 175438 Senior League - Division 1A - Section B (10)
+- 173261 Senior League - Division 1B (3)
+- 173262 Senior League - Division 1C (3)
+- 175463 Senior League - Division 2 Playoffs (3)
+- 173263 Senior League - Division 2A (3)
+- 176904 Senior League - Division 2A - North East (10)
+- 176900 Senior League - Division 2A - North Midlands (10)
+- 176907 Senior League - Division 2A - South East (6)
+- 176908 Senior League - Division 2A - South Midlands (6)
+- 170085 Senior League - Division 2A Playoffs (5)
+- 173264 Senior League - Division 2B (3)
+- 173265 Senior League - Division 2C (3)
+- 173741 Senior League Div 1 Cup Final (3)
+- 173739 Senior League Div 1 Shield Final (3)
+- 173740 Senior League Div 2 Cup Final (3)
+- 173742 Senior League Div 2 Shield Final (3)
+- 173744 Senior League Div 3 Cup Final (3)
+- 173745 Senior League Div 3 Shield Final (3)
+- 173746 Senior League Div 4 Cup Final (3)
+- 173747 Senior League Div 4 Shield Final (3)
+- 173007 Senior League Division 1A (6)
+- 173010 Senior League Division 1B (6)
+- 177636 Senior League Division 1B - Playoffs (3)
+- 175724 Senior League Division 1B - Pool A (10)
+- 175725 Senior League Division 1B - Pool B (10)
+- 169304 Senior League Division 1B Final (1)
+- 173012 Senior League Division 2A (6)
+- 173019 Senior League Division 2B (6)
+- 173020 Senior League Division 3A (6)
+- 173021 Senior League Division 3B (6)
+- 173273 Senior League Division 4A (6)
+- 173274 Senior League Division 4B (6)
+- 173276 Senior League Division 5 (6)
+- 173743 Senior League Divsion 5 Final (3)
+- 174473 Senior Leagues Relegation Finals (4)
+- 174727 Senior Men Exhbition (34)
+- 170385 Senior Netball (36)
+- 168858 Senior Plate (6)
+- 175988 Senior Relegation Final (1)
+- 176401 Senior Shield Championship Final (3)
+- 174728 Senior Women Exhbition (51)
+- 170758 Senior Women Interpro Friendly (1)
+- 174822 Senor Club Championship Final (2)
+- 176666 Senor Club Championship Relegation Play-off (1)
+- 174458 Senor Club Championship Semi Finals (2)
+- 174025 Shane Horgan U16 (12)
+- 174582 Shreelawn Oil Junior C Hurling Championship (8)
+- 177222 Sittlington Cup (34)
+- 176985 Slevins Coaches Junior A Hurling Championship KO (3)
+- 177132 Slevins Coaches Junior B Hurling Championship KO (5)
+- 170937 Sliabh Coilte New Ross Standard 2022 U17 Division 1 Hurling Tournament Cup (7)
+- 170935 Sliabh Coilte New Ross Standard 2022 U17 Division 1 Hurling Tournament Shield (7)
+- 176193 Solar 2 Power U14 Hurling Championship - Division 1 (5)
+- 176190 Solar 2 Power U14 Hurling Championship - Division 2A (8)
+- 176194 Solar 2 Power U14 Hurling Championship - Division 2B (5)
+- 176191 Solar 2 Power U14 Hurling Championship - Division 3 (5)
+- 176192 Solar 2 Power U14 Hurling Championship - Division 4 (5)
+- 174555 Sonny Walsh Waterford (1)
+- 173447 South - Cork Charity Cup (3)
+- 173448 South - Cork Charity Shield (3)
+- 173063 South - Cork County Cup (7)
+- 175753 South - Junior 2 League (45)
+- 170559 South - Junior 2 Paul Twomey Cup Final (1)
+- 170534 South - Junior 3 Development Cup Final (1)
+- 176029 South - Junior 3 League (14)
+- 170362 South - Junior 3 Tait Cup (3)
+- 173064 South - ONeill Cup (7)
+- 175256 South - OSullivan (Muskerry) Cup (7)
+- 175001 South -Junior 2 Dennehy Cup (4)
+- 169859 South Dave Dineen Cup (3)
+- 174320 South East J1 Premier League - Group 1 (3)
+- 174321 South East J1 Premier League - Group 2 (3)
+- 174322 South East J2 1st Division - Group 1A (6)
+- 174324 South East J2 1st Division - Group 1B (3)
+- 169274 South Junior 2 Cup (7)
+- 169285 South Junior 3 Cup (8)
+- 170942 South Mayo JFC Group 1 (10)
+- 170941 South Mayo JFC Group 2 (6)
+- 172225 South Mayo Junior A Finals 2022 (5)
+- 173293 South Mayo Junior B Final 2022 (1)
+- 170353 South Mayo U12 Group 1 League 2022 (6)
+- 170352 South Mayo U12 Group 2 League 2022 (6)
+- 170354 South Mayo U12 Group 3 League 2022 (10)
+- 168708 South Mayo U14 A Championship  Knockout 2022 (3)
+- 170707 South Mayo U14 A Championship  Knockout 2022 (1)
+- 168712 South Mayo U14 B Championship 2022 (6)
+- 170709 South Mayo U14B Championship  Knockout 2022 (1)
+- 170708 South Mayo U14C Championship  Knockout 2022 (1)
+- 170487 South Mayo U16 B Championship  Knockout 2022 (1)
+- 168701 South Mayo U16 B Championship 2022 (6)
+- 168714 South Mayo U16 C Championship  Knockout 2022 (1)
+- 169729 South Mayo U18 A Championship Knockout 2022 (1)
+- 168896 South Mayo U18 B Championship 2022 (3)
+- 168897 South Mayo U18 C Championship Knockout 2022 (2)
+- 170658 South Tipp Intermediate Football Championship 2022 (21)
+- 170761 South Tipp Intermediate Football Championship 2022 (15)
+- 172076 South Tipp Intermediate Football KO Championship 2022 (3)
+- 170656 South Tipp Intermediate Hurling Championship 2022 (7)
+- 173334 South Tipp JAF GRoup D (3)
+- 173320 South Tipp JAF Group A (3)
+- 173319 South Tipp JAF Group B (3)
+- 173321 South Tipp JAF Group C (4)
+- 174851 South Tipp JAF KO (7)
+- 174524 South Tipp Junior B Football 2022 (21)
+- 177526 South Tipp Junior B Football KO 2022 (5)
+- 172926 South Tipp Junior B Hurling Knockout 2022 (3)
+- 171080 South Tipp Junior B Hurling League 2022 (28)
+- 170650 South Tipp Senior Football Championship 2022 (21)
+- 171039 South Tipp Senior Football Championship 2022 (9)
+- 170657 South Tipp Senior Hurling Championship 2022 (3)
+- 174850 South Tipp U/19 A Football KO (2)
+- 172727 South Tipp U/19 A Football championship (3)
+- 172469 South Tipp U/19 A Hurling Championship 2022 (6)
+- 173976 South Tipp U/19 A Hurling KO (5)
+- 172725 South Tipp U/19 B Football Group A (3)
+- 172728 South Tipp U/19 B Football Group B (6)
+- 174368 South Tipp U/19 B Football KO (4)
+- 172486 South Tipp U/19 B Hurling Group A (6)
+- 172488 South Tipp U/19 B Hurling Group B (4)
+- 172487 South Tipp U/19 B Hurling Group C (4)
+- 173975 South Tipp U/19 B Hurling KO (4)
+- 172726 South Tipp U/19 b Football group C (6)
+- 176875 South Tipp U/21 A Football (3)
+- 177590 South Tipp U/21 A Football (4)
+- 176874 South Tipp U/21 B Football (4)
+- 177589 South Tipp U/21 B Football (8)
+- 170338 South Tipp U13A FB Championship Knockout 2022 (4)
+- 168837 South Tipp U13A FB League 2022 (15)
+- 174943 South Tipp U13A Hurling Championship 2022 (3)
+- 172147 South Tipp U13A Hurling League 2022 (12)
+- 170340 South Tipp U13B FB Championship Knockout 2022 (11)
+- 168834 South Tipp U13B FB League 2022 (Group 1) (15)
+- 168835 South Tipp U13B FB League 2022 (Group 2) (15)
+- 174937 South Tipp U13B Hurling Championship 2022 (12)
+- 172148 South Tipp U13B Hurling League 2022 (36)
+- 170565 South Tipp U13C FB Championship Knockout 2022 (5)
+- 168845 South Tipp U13C FB League 2022 (28)
+- 174470 South Tipp U13C Hurling Championship 2022 (8)
+- 172149 South Tipp U13C Hurling League 2022 (21)
+- 170339 South Tipp U13D FB Knockout 2022 (9)
+- 168842 South Tipp U13D FB League 2022 (Group 1) (9)
+- 168843 South Tipp U13D FB League 2022 (Group 2) (15)
+- 173736 South Tipp U13D Hurling Championship 2022 (9)
+- 172151 South Tipp U13D Hurling League 2022 (Group 1) (15)
+- 172150 South Tipp U13D Hurling League 2022 (Group 2) (15)
+- 171144 South Tipp U15A FB Knockout 2022 (4)
+- 169513 South Tipp U15A FB League 2022 (10)
+- 174944 South Tipp U15A Hurling Championship 2022 (7)
+- 172166 South Tipp U15A Hurling League 2022 (21)
+- 172224 South Tipp U15A Hurling League 2022 (15)
+- 171143 South Tipp U15B FB Knockout 2022 (8)
+- 169512 South Tipp U15B FB League 2022 (Group 1) (15)
+- 169514 South Tipp U15B FB League 2022 (Group 2) (14)
+- 174941 South Tipp U15B Hurling Championship 2022 (11)
+- 172167 South Tipp U15B Hurling League 2022 (28)
+- 172226 South Tipp U15B Hurling League 2022 (36)
+- 177368 South Tipp U17A FB Knockout 2022 (7)
+- 176410 South Tipp U17A FB League 2022 (Group 1) (6)
+- 176408 South Tipp U17A FB League 2022 (Group 2) (6)
+- 172207 South Tipp U17A Hurling Championship 2022 (28)
+- 174935 South Tipp U17A Hurling Championship 2022 (8)
+- 172170 South Tipp U17A Hurling League 2022 (23)
+- 177292 South Tipp U17B FB Knockout 2022 (8)
+- 176411 South Tipp U17B FB League 2022 (Group 1) (6)
+- 176409 South Tipp U17B FB League 2022 (Group 2) (6)
+- 172190 South Tipp U17B Hurling Championship 2022 (36)
+- 174942 South Tipp U17B Hurling Championship 2022 (11)
+- 172176 South Tipp U17B Hurling League & Championship 2022 (28)
+- 172215 South Tipp U17B Hurling League 2022 (28)
+- 172111 South Tipperary Junior A Hurling Group 1 (12)
+- 172113 South Tipperary Junior A Hurling Group 2 (12)
+- 172112 South Tipperary Junior A Hurling Group 3 (6)
+- 174462 South Tipperary Junior A Hurling KO (7)
+- 170593 South/West U17A Hurling Division 1 (15)
+- 170591 South/West U17A Hurling Division 2 (15)
+- 170594 South/West U17B Hurling Division 1 (6)
+- 170590 South/West U17B Hurling Division 2 (6)
+- 170592 South/West U17B Hurling Division 3 (10)
+- 171461 South/West U17B Hurling Knockout (1)
+- 174952 Southeast League U13 Boys (36)
+- 174999 Southeast League U14 Boys (45)
+- 174940 Southeast League U14 Girls (36)
+- 175004 Southeast League U15 Boys Group A (12)
+- 175006 Southeast League U15 Boys Group B (12)
+- 174995 Southeast League U16 Boys (31)
+- 174939 Southeast League U16 Girls Group A (12)
+- 174945 Southeast League U16 Girls Group B (12)
+- 174997 Southeast League U18 Boys Group A (12)
+- 174998 Southeast League U18 Boys Group B (12)
+- 175013 Southeast League U18 Girls (10)
+- 170235 Southeast U16 Girls Cup (3)
+- 170236 Southeast U16 Girls Plate (1)
+- 169532 Southeast U18 Girls Cup (3)
+- 169534 Southeast U18 Girls Plate (3)
+- 170143 Spencer Cup (J1) (3)
+- 173845 Spencer Cup (J1) - Group 1 (3)
+- 173846 Spencer Cup (J1) - Group 2 (3)
+- 174064 Spiers Cup (J2) (10)
+- 169886 Spring DIV 1 (12)
+- 170767 Sr. Women Exhibition Games (36)
+- 173936 St Marys RFC A1 (1)
+- 173938 St Marys RFC A2 (1)
+- 173934 St Marys RFC Semi Final Playoff1 (1)
+- 173935 St Marys RFC Semi Final Playoff2 (1)
+- 173254 St Marys Tag League (18)
+- 176988 Students (4)
+- 170571 Summer Internationals (8)
+- 172977 Summer Internationals (1)
+- 170890 Super Ligue Féminine (14)
+- 173762 Super Ligue Féminine - Séries (3)
+- 170903 Super Ligue M Réserve (30)
+- 170889 Super Ligue Masculine (40)
+- 173449 Super Ligue Masculine - Séries (6)
+- 173776 Super Ligue Masculine Réserve - Séries (3)
+- 168710 Sweeney Cup Senior 2022 (3)
+- 170517 Sweeney Cup Senior Final 2022 (1)
+- 170734 Sweeney Intermediate Cup Final 2022 (1)
+- 169082 Sweeney Oil U19 A North League (9)
+- 169086 Sweeney Oil U19 A West League (9)
+- 169085 Sweeney Oil U19 B North League (12)
+- 169087 Sweeney Oil U19 B West League (9)
+- 173879 Swiss Cup-Coupe Suisse (7)
+- 172335 Swords Bowl Final (1)
+- 172333 Swords Cup Final (1)
+- 172332 Swords Friendly Week (3)
+- 172334 Swords Plate Final (1)
+- 171235 Swords Tag League (15)
+- 169167 Synergy Fermoy Credit Union J A F C Group One (6)
+- 169170 Synergy Fermoy Credit Union J A F C Group Three (3)
+- 169169 Synergy Fermoy Credit Union J A F C Group Two (6)
+- 173425 Synergy Fermoy Credit Union JAFC Knockout (6)
+- 170788 TBI 2022 - A (30)
+- 170789 TBI 2022 - B (30)
+- 173146 TEMPLE DOMESTIC APPLIANCE D1 (90)
+- 169918 TEST COMPETITION Football (16)
+- 177738 TESTING COMPETITION DEC 2022 (16)
+- 170557 TG4 Connacht LGFA Intermediate Championship (6)
+- 170386 TG4 Leinster Intermediate Championship Group A (6)
+- 170387 TG4 Leinster Intermediate Championship Group B (6)
+- 170388 TG4 Leinster Senior Championship (3)
+- 170791 TG4 Leinster Senior Championship 2022 (2)
+- 171762 TRU MEN DIV 1 (32)
+- 170771 TRU MEN DIV 2 (33)
+- 173759 TRU MENS DIV 1 PLAYOFFS (8)
+- 170772 TRU WOMEN EAST (12)
+- 170773 TRU WOMEN WEST (20)
+- 173842 TRU WOMENS PLAYOFFS (3)
+- 174176 TSS&DL U12 Boys Div 1 Tipperary Cup (6)
+- 174175 TSS&DL U12 Boys Tipperary Cup Championship (5)
+- 174171 TSS&DL U12 Boys Tipperary Cup Premiership (5)
+- 174178 TSS&DL U12 Girls Tipperary Cup Championship (4)
+- 174177 TSS&DL U12 Girls Tipperary Cup Premiership (5)
+- 174180 TSS&DL U13 Boys Tipperary Cup Championship (3)
+- 174179 TSS&DL U13 Boys Tipperary Cup Premiership (4)
+- 174185 TSS&DL U14 Boys Tipperary Cup Championship (6)
+- 174182 TSS&DL U14 Girls Tipperary Cup Premiership (4)
+- 174186 TSS&DL U15 Boys Tipperary Cup Premiership (2)
+- 174198 TSS&DL U15 Tipperary Cup Div 1 (3)
+- 174192 TSS&DL U16 Girls Tipperary Cup (4)
+- 169482 TSSDL  U14 Premiership Girls (20)
+- 172366 TSSDL U10 Boys Future Soccer Stars (49)
+- 172598 TSSDL U10 Girls Future Soccer Stars (19)
+- 171761 TSSDL U11 Future Soccer Stars (21)
+- 169447 TSSDL U12 Championship Boys (31)
+- 169461 TSSDL U12 Championship Girls (21)
+- 169448 TSSDL U12 Division 1 Boys (56)
+- 169446 TSSDL U12 Premiership Boys (30)
+- 169459 TSSDL U12 Premiership Girls (30)
+- 174181 TSSDL U13 Boys Tipperary Cup Div 1 (4)
+- 169443 TSSDL U13 Championship Boys (21)
+- 169444 TSSDL U13 Division 1 Boys (20)
+- 169442 TSSDL U13 Premiership Boys (19)
+- 174184 TSSDL U14 Boys Tipperary Cup Premiership (4)
+- 169453 TSSDL U14 Championship Boys (42)
+- 169487 TSSDL U14 Championship Girls (30)
+- 174183 TSSDL U14 Girls Tipperary Cup Championship (5)
+- 169452 TSSDL U14 Premiership Boys (19)
+- 174187 TSSDL U15 Boys Tipperary Cup Championship (3)
+- 169440 TSSDL U15 Championship Boys (18)
+- 169441 TSSDL U15 Division 1 Boys (18)
+- 169439 TSSDL U15 Premiership Boys (13)
+- 174190 TSSDL U16 Boys Tipperary Cup Championship (3)
+- 174191 TSSDL U16 Boys Tipperary Cup Div 1 (2)
+- 169456 TSSDL U16 Championship Boys (12)
+- 169457 TSSDL U16 Division 1 Boys (18)
+- 169455 TSSDL U16 Premiership Boys (18)
+- 169458 TSSDL U16 Premiership Girls (30)
+- 174640 TUS 15 E Football (9)
+- 174652 TUS 15 E Football (3)
+- 174666 TUS 15 E Football (11)
+- 174590 TUS 16.5 E Hurling (13)
+- 174610 TUS 16.5 E Hurling (1)
+- 174621 TUS 16.5 E Hurling (6)
+- 174636 TUS 19 E Football (6)
+- 174646 TUS 19 E Football (7)
+- 174667 TUS 19 E Football (6)
+- 174614 TUS Corn Chiarain Ui Dhrisceoil (16.5 D H) KO (12)
+- 176008 TUS Corn Chiarain Ui Dhrisceoil (16.5 D H) KO (1)
+- 174656 TUS Corn Dhonncha Ui Nuanain (19 B F) (3)
+- 174668 TUS Corn Dhonncha Ui Nuanain (19 B F) (4)
+- 174645 TUS Corn Eamainn Ui Dhonnchu (15 B F) (9)
+- 174660 TUS Corn Eamainn Ui Dhonnchu (15 B F) (6)
+- 174635 TUS Corn Eamainn Ui Mhairtin 15 C F (5)
+- 174653 TUS Corn Eamainn Ui Mhairtin 15 C F (9)
+- 176295 TUS Corn Eamainn Ui Mhairtin 15 C F (2)
+- 174639 TUS Corn Mhairtin Mhic Chomara (15 D F) (9)
+- 174644 TUS Corn Mhairtin Mhic Chomara (15 D F) (4)
+- 174661 TUS Corn Mhairtin Mhic Chomara (15 D F) (3)
+- 174641 TUS Corn Sheain Ui Mhaolomhnaigh (19 D F) (1)
+- 174655 TUS Corn Sheain Ui Mhaolomhnaigh (19 D F) (4)
+- 174669 TUS Corn Sheain Ui Mhaolomhnaigh (19 D F) (2)
+- 174633 TUS Corn Sheain Ui Mhurchu (19 C F) (4)
+- 174647 TUS Corn Sheain Ui Mhurchu (19 C F) (9)
+- 174662 TUS Corn Sheain Ui Mhurchu (19 C F) (2)
+- 174612 TUS Corn Sheain Ui hAnragain (19 D H) (5)
+- 174624 TUS Corn Sheain Ui hAnragain (19 D H) (7)
+- 174599 TUS Corn Sheamais Ui Dhonnchu (16.5 B H) (2)
+- 174611 TUS Corn Sheamais Ui Dhonnchu (16.5 B H) (1)
+- 174615 TUS Corn Sheamais Ui Dhonnchu (16.5 B H) (8)
+- 174648 TUS Corn Ui Mhuiri (5)
+- 174649 TUS Corn Ui Mhuiri (6)
+- 174657 TUS Corn Ui Mhuiri (5)
+- 174663 TUS Corn Ui Mhuiri (3)
+- 174602 TUS Corn an Artaigh (3)
+- 174619 TUS Corn an Artaigh (5)
+- 174620 TUS Corn an Artaigh (2)
+- 174627 TUS Corn an Artaigh (2)
+- 174654 TUS Corn an Bhrathair Cholim Taft (15 A F) (4)
+- 174598 TUS Corn an Dara Ui Dhonabhain (16.5 C H) (6)
+- 174606 TUS Corn an Dara Ui Dhonabhain (16.5 C H) (4)
+- 174622 TUS Corn an Dara Ui Dhonabhain (16.5 C H) (6)
+- 174591 TUS Corn an Rianaigh (16.5 A H) (2)
+- 174623 TUS Corn an Rianaigh (16.5 A H) (3)
+- 170027 TUS TY 7s (4)
+- 174592 TUS U 19 E Hurling (10)
+- 174607 TUS U 19 E Hurling (2)
+- 174616 TUS U 19 E Hurling (6)
+- 177660 TY League - Group A (10)
+- 177661 TY League - Group B (10)
+- 177662 TY League - Group C (10)
+- 177663 TY League - Group D (6)
+- 172599 Tain Og U15 (2)
+- 172600 Tain Og U15 (5)
+- 169894 Talent ID Blitz (1)
+- 171643 Tallaght Tag Rugby 2022 (15)
+- 176034 Tansey Cup Promotion Playoff (1)
+- 169980 Tara Ryan Memorial League (30)
+- 173611 Ted Webb Cup (2)
+- 170152 Ted Webb Cup Group 1 (3)
+- 169956 Templetuohy Bus & Cab Hire Division 3 League (3)
+- 169957 Templetuohy Bus & Cab Hire Division 3 League (6)
+- 171044 Templetuohy Bus & Cab Hire Division 3 League  Knockout (1)
+- 175382 Test Comp 22 (2)
+- 175383 Test Comp 22 KO (4)
+- 169337 Test Competition - Please Void (1)
+- 173288 Test Joe (59)
+- 172264 The Courtyard Ferns Intermediate Championship Gp 1 (15)
+- 172261 The Courtyard Ferns Intermediate Championship Gp 2 (15)
+- 173313 The Courtyard Ferns Intermediate Championship Knockout (8)
+- 173175 The Local Bar Western Junior A  Hurling Championship Group 2 (3)
+- 173174 The Local Bar Western Junior A Hurling Championship Group 1 (3)
+- 174015 The Local Bar Western Junior A Hurling Championship Knockout (5)
+- 173294 The Local Bar Western Junior B Hurling Championship Group 1 (6)
+- 173295 The Local Bar Western Junior B Hurling Championship Group 2 (6)
+- 174400 The Local Bar Western Junior B Hurling Championship Knock Out (3)
+- 173040 The Local Bar Western Junior C Hurling Championship Group 1 (10)
+- 173041 The Local Bar Western Junior C Hurling Championship Group 2 (10)
+- 174014 The Local Bar Western Junior C Hurling Championship Knockout (5)
+- 177330 The Morrissey Family Western U20 B Hurling Championship (6)
+- 177106 The Park Hotel U20 C Football Championship (3)
+- 177331 The Park Hotel Western U20 C Hurling Championship (5)
+- 172945 The Rugby Championship (7)
+- 172174 Thurles Credit Union Junior A Hurling Championship Div 2 (3)
+- 172171 Thurles Credit Union Junior A Hurling championship Div 1 (6)
+- 173437 Thurles Credit Union Junior A Hurling championship Knockout (5)
+- 172172 Thurles Credit Union Junior B Hurling Championship Div 2 (10)
+- 172169 Thurles Credit Union Junior B Hurling Championship Div1 (15)
+- 174327 Thurles Credit Union Junior B Hurling Knockout (7)
+- 172173 Thurles Credit Union Junior C Hurling Championship (8)
+- 174172 Thurles Credit Union Junior CHurling Knockout (2)
+- 172128 Thursday Beg Bowl (6)
+- 172118 Thursday Beg Cup (6)
+- 171087 Thursday Beginners Group 1 (15)
+- 171090 Thursday Beginners Group 2 (15)
+- 172127 Thursday Beginners Plate (6)
+- 171634 Tipp Coiste na nOg Shiels U15D FB 2022 (3)
+- 168846 Tipp Coiste na nOg U15C FB 2022 (36)
+- 171633 Tipp Coiste na nOg U15C FB 2022 (3)
+- 172590 Tipp Coiste na nOg U15C HL 2022 (32)
+- 175946 Tipp Coiste na nOg U15C HL 2022 (3)
+- 170088 Tipp Coiste na nOg U15D FB 2022 (45)
+- 171632 Tipp Coiste na nOg U15D FB 2022 (3)
+- 174502 Tipp Coiste na nOg U15D SHL 2022 (2)
+- 170087 Tipp Coiste na nOg U17C FB 2022 (10)
+- 172484 Tipp Coiste na nOg U17C FB 2022 (3)
+- 171047 Tipp County U13B FB championship 2022 (3)
+- 171046 Tipp County U13C FB Championship 2022 (3)
+- 171001 Tipp bng U13A county Football Championship 2022 (3)
+- 171045 Tipp county U13D FB Championship 2022 (3)
+- 174471 Tipperary - Mansergh Cup (11)
+- 170336 Tipperary U17A FB Cross Division KO 2022 (3)
+- 172360 Tipperary U17A Hurling  Cross Division KO 2022 (3)
+- 170335 Tipperary U17B FB League County KO (3)
+- 172359 Tipperary U17B Hurling League County KO (3)
+- 175557 Tipperary- Garryowen Cup (4)
+- 170509 Toddie Byrne Cup Semi Final (1)
+- 171378 Tom Creedon Cup (4)
+- 169105 Tom Creedon Cup Group Stage (12)
+- 170409 Tommy Murphy Memorial Shield Knockout (7)
+- 173604 Tony Forrestal/ Walsh Waterford Group 4 (3)
+- 169701 Tony Kirwan Plant Hire East Intermediate Football Championship Group 1 (6)
+- 169700 Tony Kirwan Plant Hire East Intermediate Football Championship Group 2 (3)
+- 169702 Tony Kirwan Plant Hire East Intermediate Football Championship Group 3 (3)
+- 175756 Tony Kirwan Plant Hire East Intermediate Football Championship Knockouts (9)
+- 170762 Tony Kirwan Plant Hire East Junior A Football Championship Group 1 (4)
+- 170765 Tony Kirwan Plant Hire East Junior A Football Championship Group 2 (3)
+- 176074 Tony Kirwan Plant Hire East Junior A Football Championship Knockouts (5)
+- 169254 Top 14 (2)
+- 177304 Top 14 (1)
+- 174082 Toureen Group Junior Football Championship (3)
+- 173029 Toureen Group Junior Football Championship G1 (3)
+- 173030 Toureen Group Junior Football Championship G2 (3)
+- 173626 Towns Cup (26)
+- 172954 Training Sessions (40)
+- 172060 Tralee RFC 2022 Group 1 (2)
+- 172063 Tralee RFC 2022 Group 2 (2)
+- 172066 Tralee RFC 2022 Group 3 (3)
+- 176946 Tramore CLG Sponsored Co. Under 14 Football Championship - Division 1 (7)
+- 176945 Tramore CLG Sponsored Co. Under 14 Football Championship - Division 2 (6)
+- 176948 Tramore CLG Sponsored Co. Under 14 Football Championship - Division 3 (6)
+- 176947 Tramore CLG Sponsored Co. Under 14 Football Championship - Division 4 (3)
+- 176599 Transeuro U21 C Hurling Championship (5)
+- 172273 Tues Non Beg Plate (3)
+- 171049 Tuesday Beginners (28)
+- 171065 Tuesday Non Beginners (28)
+- 171589 U-12 G. League Stage 2 Div 1A (3)
+- 171590 U-12 G. League Stage 2 Div 1B (7)
+- 171591 U-12 G. League Stage 2 Div 2A (6)
+- 171628 U-12 G. League Stage 2 Div 2B (6)
+- 171593 U-12 G. League Stage 2 Div 3A (6)
+- 171617 U-12 G. League Stage 2 Div 3B (6)
+- 171618 U-12 G. League Stage 2 Div 4A (6)
+- 171619 U-12 G. League Stage 2 Div 4B (6)
+- 171621 U-12 G. League Stage 2 Div 5A (6)
+- 171622 U-12 G. League Stage 2 Div 5B (6)
+- 171623 U-12 G. League Stage 2 Div 6/7 A (3)
+- 171624 U-12 G. League Stage 2 Div 6/7 B (3)
+- 171625 U-12 G. League Stage 2 Div 6/7 C (6)
+- 170304 U-13 'C' Football Development (30)
+- 173824 U-13 'C' Football Development (1)
+- 169791 U-13 County Football League - Division 1 (15)
+- 169794 U-13 County Football League - Division 10 (15)
+- 169789 U-13 County Football League - Division 11 (15)
+- 169797 U-13 County Football League - Division 2 (15)
+- 169792 U-13 County Football League - Division 3 (15)
+- 171339 U-13 County Football League - Division 3A (6)
+- 171342 U-13 County Football League - Division 3B (6)
+- 169798 U-13 County Football League - Division 4 (15)
+- 169793 U-13 County Football League - Division 5 (15)
+- 169795 U-13 County Football League - Division 6 (15)
+- 169790 U-13 County Football League - Division 7 (15)
+- 169796 U-13 County Football League - Division 8 (15)
+- 169788 U-13 County Football League - Division 9 (15)
+- 172242 U-13 County Football League Phase 2 - Division 1 (3)
+- 172252 U-13 County Football League Phase 2 - Division 10 (3)
+- 172250 U-13 County Football League Phase 2 - Division 11 (4)
+- 171345 U-13 County Football League Phase 2 - Division 11A (6)
+- 171351 U-13 County Football League Phase 2 - Division 11B (6)
+- 171352 U-13 County Football League Phase 2 - Division 11B (6)
+- 172248 U-13 County Football League Phase 2 - Division 12 (3)
+- 172249 U-13 County Football League Phase 2 - Division 13 (3)
+- 171346 U-13 County Football League Phase 2 - Division 13A (6)
+- 172247 U-13 County Football League Phase 2 - Division 14 (3)
+- 172235 U-13 County Football League Phase 2 - Division 15 (3)
+- 171347 U-13 County Football League Phase 2 - Division 15A (6)
+- 171353 U-13 County Football League Phase 2 - Division 15B (6)
+- 172251 U-13 County Football League Phase 2 - Division 16 (3)
+- 171340 U-13 County Football League Phase 2 - Division 1A (7)
+- 172238 U-13 County Football League Phase 2 - Division 2 (3)
+- 172239 U-13 County Football League Phase 2 - Division 3 (3)
+- 172243 U-13 County Football League Phase 2 - Division 4 (3)
+- 172240 U-13 County Football League Phase 2 - Division 5 (3)
+- 171348 U-13 County Football League Phase 2 - Division 5A (6)
+- 171354 U-13 County Football League Phase 2 - Division 5B (6)
+- 172244 U-13 County Football League Phase 2 - Division 6 (3)
+- 172241 U-13 County Football League Phase 2 - Division 7 (3)
+- 171343 U-13 County Football League Phase 2 - Division 7A (6)
+- 171349 U-13 County Football League Phase 2 - Division 7B (6)
+- 172245 U-13 County Football League Phase 2 - Division 8 (3)
+- 172246 U-13 County Football League Phase 2 - Division 9 (3)
+- 171344 U-13 County Football League Phase 2 - Division 9A (6)
+- 171350 U-13 County Football League Phase 2 - Division 9B (6)
+- 170224 U-13 County Hurling League - Division 1 (6)
+- 170223 U-13 County Hurling League - Division 2 (6)
+- 170225 U-13 County Hurling League - Division 3 (15)
+- 171341 U-13 County League Football - Division 1B (6)
+- 170302 U-13 Football Championship Phase 1 Group A (10)
+- 170310 U-13 Football Championship Phase 1 Group B (10)
+- 170303 U-13 Football Championship Phase 1 Group C (15)
+- 170311 U-13 Football Championship Phase 1 Group D (15)
+- 170293 U-13 Hurling Championship Phase 1 Group A (10)
+- 170299 U-13 Hurling Championship Phase 1 Group B (10)
+- 170294 U-13 Hurling Championship Phase 1 Group C (10)
+- 170300 U-13 Hurling Championship Phase 1 Group D (6)
+- 174366 U-15 Co Ch CUP (3)
+- 173838 U-15 Co Ch CUP Group A (6)
+- 173839 U-15 Co Ch CUP Group B (6)
+- 174365 U-15 Co Ch SHIELD (3)
+- 173840 U-15 Co Ch SHIELD Group A (5)
+- 169800 U-15 County Football League - Division 1A (18)
+- 169799 U-15 County Football League - Division 1B (21)
+- 169805 U-15 County Football League - Division 3A (18)
+- 169801 U-15 County Football League - Division 3B (21)
+- 169806 U-15 County Football League - Division 5A (18)
+- 169802 U-15 County Football League - Division 5B (20)
+- 169807 U-15 County Football League - Division 7A (20)
+- 169803 U-15 County Football League - Division 7B (19)
+- 169808 U-15 County Football League - Division 9A (18)
+- 169804 U-15 County Football League - Division 9B (20)
+- 170061 U-15 County Hurling League - Division 1 (15)
+- 170062 U-15 County Hurling League - Division 2 (15)
+- 170478 U-15 Feile na nGaeil - Division A (18)
+- 170479 U-15 Feile na nGaeil - Division B (19)
+- 170308 U-15 Football Championship Phase 1 Group A (10)
+- 170301 U-15 Football Championship Phase 1 Group B (10)
+- 170309 U-15 Football Championship Phase 1 Group C (10)
+- 170312 U-15 Football Championship Phase 1 Group D (6)
+- 170407 U-15 Hurling Division 2 Feile Group B (10)
+- 170572 U-15 Hurling Feile Division 2 Knockout (2)
+- 170371 U-15 Hurling Feile Group 1 (6)
+- 170408 U-15 Hurling Feile Group A (6)
+- 170370 U-15 Hurling Feile Group B (6)
+- 174509 U-16 A Championship Grp 1 (6)
+- 174529 U-16 A Championship Grp 2 (6)
+- 174531 U-16 B Championship Grp 1 (6)
+- 174534 U-16 B Championship Grp 2 (6)
+- 174536 U-16 C Championship Grp 1 (3)
+- 174537 U-16 C Championship Grp 2 (6)
+- 174540 U-16 D Championship Grp 1 (6)
+- 174541 U-16 D Championship Grp 2 (6)
+- 174542 U-16 D Championship Grp 3 (3)
+- 172921 U-16 FL Group 4 (1)
+- 170313 U-17 Football Championship Phase 1 Group A (11)
+- 170306 U-17 Football Championship Phase 1 Group B (10)
+- 170314 U-17 Football Championship Phase 1 Group C (10)
+- 170307 U-17 Football Championship Phase 1 Group D (15)
+- 170296 U-17 Hurling Championship Phase 1 Group 1 (3)
+- 170291 U-17 Hurling Championship Phase 1 Group B (3)
+- 170297 U-17 Hurling Championship Phase 1 Group C (3)
+- 170292 U-17 Hurling Championship Phase 1 Group D (3)
+- 170298 U-17 Hurling Championship Phase 1 Group E (3)
+- 171657 U-17 Hurling Development League Phase 2 (6)
+- 177298 U.16 Girls Division 1 (56)
+- 177299 U.16 Girls Division 2 (43)
+- 177300 U.16 Girls Division 3 (42)
+- 175293 U.16 Girls Pool A (10)
+- 175294 U.16 Girls Pool B (15)
+- 175295 U.16 Girls Pool C (15)
+- 175296 U.16 Girls Pool D (10)
+- 175089 U.18 Girls League (45)
+- 173978 U.20 Division 1 (3)
+- 173977 U.20 Division 2 (3)
+- 173979 U.20 Division 3 (3)
+- 172471 U.20 Football Championship Division 1 Sec A (3)
+- 172480 U.20 Football Championship Division 2 Sec A (6)
+- 172479 U.20 Football Championship Division 2 Sec B (3)
+- 172470 U.20 Football Championship Division 3 Sec A (6)
+- 172478 U.20 Football Championship Division 3 Sec B (3)
+- 172472 U.20 Football Championship Division1 Sec B (3)
+- 175817 U10 Boys Grp 1 (42)
+- 173817 U10 Football Gp.2 (2 Team) Southside (120)
+- 173815 U10 Football Gp.3 (1 Team) Northside REVISED (28)
+- 176153 U10 Girls (16)
+- 173870 U10 Hurling Gp.2 (2 Team) Northside REVISED (120)
+- 173865 U10 Hurling Gp.2 (2 Team) Southside REVISED (120)
+- 173869 U10 Hurling Gp.3 (1 Team) Northside (15)
+- 175377 U10 Kids - Enfants (291)
+- 177115 U10s B (3)
+- 177116 U10s C (7)
+- 177117 U10s D (9)
+- 175163 U10s Purple Section (4)
+- 173122 U10s Red Section (3)
+- 170529 U10s Section 1 (4)
+- 170530 U10s Section 2 (4)
+- 170531 U10s Section 3 (4)
+- 170532 U10s Section 4 (3)
+- 170533 U10s Section 5 (12)
+- 173121 U10s Yellow Section (3)
+- 176134 U11 Boys Grp 1 (31)
+- 176137 U11 Boys Grp 2 (25)
+- 176670 U11 Boys Grp 3 (24)
+- 169235 U11 CHAMPIONSHIP NATIONAL PATHWAY (13)
+- 170728 U11 Championship Finals 2021 - 2022 (3)
+- 176305 U11 Girls (36)
+- 170918 U11 Girls Eagle Cup (3)
+- 170919 U11 Girls Goldfinch Cup (3)
+- 171025 U11 Girls Starling Cup (3)
+- 173054 U11 Go Games (21)
+- 171182 U11 Go Games 2022 - Group 1 (36)
+- 174834 U11 GoGames 2022 - Group 1 (6)
+- 171177 U11 GoGames 2022 - Group 2 (36)
+- 174831 U11 GoGames 2022 - Group 2 (6)
+- 171183 U11 GoGames 2022 - Group 3 (28)
+- 174835 U11 GoGames 2022 - Group 3 (15)
+- 171178 U11 GoGames 2022 - Group 4 (36)
+- 174832 U11 GoGames 2022 - Group 4 (6)
+- 171184 U11 GoGames 2022 - Group 5 (10)
+- 174836 U11 GoGames 2022 - Group 5 (6)
+- 174833 U11 GoGames 2022 - Group 6 (15)
+- 174837 U11 GoGames 2022 - Group 7 (15)
+- 174830 U11 GoGames 2022 - Group 8 (15)
+- 174724 U11 Hurling Gp.1X (3 Team) All County (40)
+- 174693 U11 Hurling Gp.1Y (3 Team) All County REVISED (91)
+- 174699 U11 Hurling Gp.2 (2 Team) All County REVISED (276)
+- 169236 U11 PREMIER NATIONAL PATHWAY (7)
+- 170729 U11 Premier Finals 2021 - 2022 (3)
+- 169264 U11.5 Hurling League (28)
+- 175150 U11s Green Section (9)
+- 168955 U11s Group 5 A (17)
+- 170749 U11s Section 1 A (4)
+- 170750 U11s Section 1 B (3)
+- 170751 U11s Section 1 C (3)
+- 170752 U11s Section 1 D (3)
+- 170753 U11s Section 1 E (1)
+- 175272 U12 Autumn League S1.1 (8)
+- 175274 U12 Autumn League S1.2 (3)
+- 175276 U12 Autumn League S2 (8)
+- 175277 U12 Autumn League S3 (7)
+- 175278 U12 Autumn League S4 (7)
+- 175279 U12 Autumn League S5 (11)
+- 174109 U12 Boys Championship (56)
+- 175242 U12 Boys Championship - Green (30)
+- 175249 U12 Boys Div 1 - Yellow (30)
+- 174966 U12 Boys Div 2 - Maroon (56)
+- 175252 U12 Boys Div 3 -  Purple (47)
+- 175253 U12 Boys Div 4 - Brown (57)
+- 175254 U12 Boys Div 5 - Red (56)
+- 175255 U12 Boys Div 6 - Navy (56)
+- 176752 U12 Boys Major (56)
+- 174108 U12 Boys Premier (30)
+- 174959 U12 Boys Premier - Blue (30)
+- 169233 U12 CHAMPIONSHIP NATIONAL PATHWAY (13)
+- 170730 U12 Championship Finals 2021 - 2022 (3)
+- 171116 U12 Div 2 Plate (4)
+- 171115 U12 Div 2 Sheild (3)
+- 171204 U12 Division 1 Cup (3)
+- 171207 U12 Division 1 Shield (1)
+- 171203 U12 Division 2 Cup (3)
+- 171206 U12 Division 2 Plate (3)
+- 171216 U12 F Division 3 Cup (3)
+- 171228 U12 F Division 3 Plate (3)
+- 171233 U12 F Division 3 Shield (2)
+- 169881 U12 F East Division 3 (21)
+- 169879 U12 F West Division 3 (28)
+- 172293 U12 FL Div 1 Finals (4)
+- 170846 U12 FL Group 09 (14)
+- 170837 U12 FL Group 1 (15)
+- 170841 U12 FL Group 10 (11)
+- 170847 U12 FL Group 11 (15)
+- 170843 U12 FL Group 2 (15)
+- 170838 U12 FL Group 3 (15)
+- 170844 U12 FL Group 4 (15)
+- 170842 U12 FL Group 5 (15)
+- 170839 U12 FL Group 6 (15)
+- 170845 U12 FL Group 7 (15)
+- 170840 U12 FL Group 8 (10)
+- 171092 U12 Football League Div.1 (28)
+- 171101 U12 Football League Div.10 (28)
+- 171102 U12 Football League Div.11 (28)
+- 171103 U12 Football League Div.12 (29)
+- 171104 U12 Football League Div.13 (29)
+- 171105 U12 Football League Div.14 (28)
+- 171106 U12 Football League Div.15 (28)
+- 171107 U12 Football League Div.16 (45)
+- 171093 U12 Football League Div.2 (28)
+- 171094 U12 Football League Div.3 (28)
+- 171095 U12 Football League Div.4 (29)
+- 171096 U12 Football League Div.5 (28)
+- 171097 U12 Football League Div.6 (28)
+- 171098 U12 Football League Div.7 (29)
+- 171099 U12 Football League Div.8 (28)
+- 171100 U12 Football League Div.9 (28)
+- 170365 U12 GFA Championship Girls (30)
+- 169959 U12 Gaelic Football Division 3 Group A (21)
+- 169958 U12 Gaelic Football Division 3 Group B (25)
+- 176548 U12 Girls Championship (29)
+- 175282 U12 Girls Connacht Cup (30)
+- 176216 U12 Girls Connacht Shield (17)
+- 169542 U12 Girls Interleague Cup (10)
+- 174114 U12 Girls Premier (27)
+- 171460 U12 Girls SFAI Regional Cup (1)
+- 171027 U12 Girls shield (3)
+- 172930 U12 Hurling 2022 (21)
+- 175808 U12 Hurling Division 1 Knockout (5)
+- 175906 U12 Hurling Division 2 Knockout (4)
+- 175809 U12 Hurling Division 3 Knockout (5)
+- 175811 U12 Hurling Division 4 Knockout (4)
+- 175810 U12 Hurling Division 5 Knockout (4)
+- 171281 U12 Hurling League Div.1 (28)
+- 171292 U12 Hurling League Div.10 (28)
+- 171293 U12 Hurling League Div.11 (29)
+- 171294 U12 Hurling League Div.12 (29)
+- 171295 U12 Hurling League Div.13 (28)
+- 171296 U12 Hurling League Div.14 (28)
+- 171282 U12 Hurling League Div.2 (29)
+- 171284 U12 Hurling League Div.3 (28)
+- 171286 U12 Hurling League Div.4 (29)
+- 171287 U12 Hurling League Div.5 (29)
+- 171288 U12 Hurling League Div.6 (29)
+- 171289 U12 Hurling League Div.7 (29)
+- 171290 U12 Hurling League Div.8 (29)
+- 171291 U12 Hurling League Div.9 (28)
+- 175380 U12 Kids - Enfants (293)
+- 169362 U12 League Group 1 (15)
+- 169363 U12 League Group 2 (15)
+- 169364 U12 League Group 3 (15)
+- 172739 U12 Maurice Conboy Academy of Football Bronze Group 1 (10)
+- 172740 U12 Maurice Conboy Academy of Football Bronze Group 2 (10)
+- 172737 U12 Maurice Conboy Academy of Football Gold Section (15)
+- 172738 U12 Maurice Conboy Academy of Football Silver Section (15)
+- 175874 U12 National Cup Boys (31)
+- 177348 U12 National Trophy Boys (11)
+- 177554 U12 National Trophy Girls (7)
+- 169234 U12 PREMIER NATIONAL PATHWAY (7)
+- 169831 U12 Premier Cup (7)
+- 170731 U12 Premier Finals 2021 - 2022 (3)
+- 175265 U12 Roinn 2 Shield (5)
+- 177252 U12 SFAI Girls Interleague (9)
+- 172729 U12 Summer Lge S1 (19)
+- 172730 U12 Summer Lge S2 (18)
+- 172731 U12 Summer Lge S3 (18)
+- 170930 U12 boys Bowl (6)
+- 170598 U12 boys Plate (3)
+- 170111 U12 boys Shield (13)
+- 169870 U12 boys cup (7)
+- 174279 U12A County League Section 1 (6)
+- 174280 U12A County League Section 2 (6)
+- 177525 U12A NORTH HURLING (5)
+- 174291 U12A2 County League Section 1 (6)
+- 174292 U12A2 County League Section 2 (3)
+- 174281 U12B County League Section 1 (6)
+- 174282 U12B County League Section 2 (6)
+- 174293 U12B2 County League Section 1 (6)
+- 174306 U12B2 County League Section 2 (3)
+- 174284 U12C County League Section 1 (6)
+- 174286 U12C County League Section 2 (6)
+- 174307 U12C2 County League Section 1 (6)
+- 174308 U12C2 County League Section 2 (6)
+- 174288 U12D County League Section 1 (6)
+- 174289 U12D County League Section 2 (6)
+- 174309 U12D2 County League Section 1 (6)
+- 174310 U12D2 County League Section 2 (6)
+- 174311 U12D3 County League Section 1 (3)
+- 174312 U12D3 County League Section 2 (6)
+- 173172 U12s Bowl (12)
+- 173755 U12s Plate (12)
+- 173169 U12s Shield (15)
+- 173170 U12s Trophy (15)
+- 170632 U13 2nd Team Group 1 2022 (18)
+- 170631 U13 2nd Team Group 2 2022 (30)
+- 174358 U13 2nd Team Group 2 2022 (10)
+- 169288 U13 Blitz (1)
+- 174869 U13 Boys Championship (57)
+- 169875 U13 Boys Cup (7)
+- 174875 U13 Boys Division 1 (57)
+- 174876 U13 Boys Division 2 (72)
+- 174893 U13 Boys Division 3 (57)
+- 174895 U13 Boys Division 4 (30)
+- 175313 U13 Boys Division 5 (90)
+- 175341 U13 Boys Major (42)
+- 170597 U13 Boys Plate (6)
+- 174868 U13 Boys Premier (56)
+- 175339 U13 Boys Premier/ C/Ship (30)
+- 175340 U13 Boys Premier/ C/Ship Grp 2 (30)
+- 170230 U13 CHAMPIONSHIP NATIONAL PATHWAY (7)
+- 173928 U13 Championship 2022 - Group 1 B (11)
+- 173919 U13 Championship 2022 - Group 2 A (7)
+- 173929 U13 Championship 2022 - Group 2 B (6)
+- 173920 U13 Championship 2022 - Group 3 A (6)
+- 173930 U13 Championship 2022 - Group 3 B (6)
+- 173921 U13 Championship 2022 - Group 4 A (6)
+- 173931 U13 Championship 2022 - Group 4 B (6)
+- 173922 U13 Championship 2022 - Group 5 (8)
+- 173932 U13 Championship 2022 - Group 6 (4)
+- 173918 U13 Championship 2022 Group 1 - A (8)
+- 174360 U13 Championship Group 1 (6)
+- 175459 U13 Development Cup (2)
+- 172886 U13 Div 1 (6)
+- 174089 U13 Div 1 Boston Cup (1)
+- 174085 U13 Div 2 San Francisco Cup (1)
+- 172665 U13 Division 1 Football Championship 2022 (20)
+- 175730 U13 Division 1 Football Championship Knock Out 2022 (3)
+- 168828 U13 Division 1 Football League 2022 (20)
+- 171283 U13 Division 1 Football League 2022 Knock Out (4)
+- 173112 U13 Division 1 Knockout 2022 (1)
+- 170636 U13 Division 1 League 2022 (23)
+- 175460 U13 Division 2 Finals (6)
+- 172666 U13 Division 2 Football Championship 2022 (21)
+- 175826 U13 Division 2 Football Championship Knock Out 2022 (4)
+- 168818 U13 Division 2 Football League 2022 (21)
+- 170920 U13 Division 2 Football League Knock Out 2022 (3)
+- 172911 U13 Division 2 Knockout 2022 (3)
+- 170626 U13 Division 2 League 2022 (22)
+- 175461 U13 Division 3 Finals (6)
+- 172664 U13 Division 3 Football Championship 2022 (28)
+- 175755 U13 Division 3 Football Championship Knock Out 2022 (4)
+- 168819 U13 Division 3 Football League 2022 (28)
+- 171038 U13 Division 3 Football League Knock Out 2022 (5)
+- 172912 U13 Division 3 Knockout 2022 (3)
+- 170624 U13 Division 3 League 2022 (12)
+- 175458 U13 Division 4 Finals (7)
+- 172663 U13 Division 4 Football Championship 2022 (45)
+- 175935 U13 Division 4 Football Championship Knock Out 2022 (5)
+- 168829 U13 Division 4 Football League 2022 (36)
+- 171160 U13 Division 4 Football League Knock Out 2022 (3)
+- 170627 U13 Division 4 Group 1 League 2022 (10)
+- 170638 U13 Division 4 Group 1 League 2022 (11)
+- 175457 U13 Division 5 Finals (3)
+- 172910 U13 Division 5 Knockout 2022 (3)
+- 170639 U13 Division 5 League 2022 (32)
+- 172909 U13 Division 6 Knockout 2022 (3)
+- 170628 U13 Division 6 League 2022 (12)
+- 170133 U13 FC D1 (28)
+- 170129 U13 FC D2 North (28)
+- 170134 U13 FC D2 West (28)
+- 170130 U13 FC D3 North (28)
+- 170131 U13 FC D3 West (28)
+- 170135 U13 FC D4 (28)
+- 170128 U13 FC D5 North (15)
+- 170132 U13 FC D5 West (10)
+- 175757 U13 FC Final (1)
+- 171364 U13 Football League Div.1 (45)
+- 171377 U13 Football League Div.10 (66)
+- 171367 U13 Football League Div.2 (45)
+- 171370 U13 Football League Div.3 (45)
+- 171371 U13 Football League Div.4 (45)
+- 171372 U13 Football League Div.5 (45)
+- 171373 U13 Football League Div.6 (45)
+- 171374 U13 Football League Div.7 (45)
+- 171375 U13 Football League Div.8 (45)
+- 171376 U13 Football League Div.9 (45)
+- 169997 U13 Friendly (2)
+- 176613 U13 Friendly (3)
+- 177339 U13 Friendly (5)
+- 169102 U13 G1 Mid Football (15)
+- 170473 U13 G1 Mid Football (5)
+- 172888 U13 G1 Mid Hurling Championship (11)
+- 174683 U13 G1 Mid Hurling Championship (3)
+- 169101 U13 G2 Mid Football (7)
+- 170865 U13 G2 Mid Football (1)
+- 173016 U13 G2 Mid Hurling Championship (6)
+- 175078 U13 G2 Mid Hurling Championship (2)
+- 169123 U13 G3 Mid Football (7)
+- 170610 U13 G3 Mid Football (2)
+- 173017 U13 G3 Mid Hurling Championship (10)
+- 174684 U13 G3 Mid Hurling Championship (4)
+- 173018 U13 G4 Hurling 2022 (6)
+- 175077 U13 G4 Hurling 2022 (3)
+- 169122 U13 G4 Mid Football (7)
+- 170864 U13 G4 Mid Football (1)
+- 177256 U13 GFA Girls Prem/Champ Cup (12)
+- 169877 U13 Girls Cup (8)
+- 169543 U13 Girls Interleague Cup (4)
+- 175108 U13 Girls League (29)
+- 170863 U13 Girls Shield (3)
+- 172485 U13 Hurling Championship (5)
+- 171217 U13 Hurling League Div.1 (45)
+- 171220 U13 Hurling League Div.2 (45)
+- 171218 U13 Hurling League Div.3 (45)
+- 171221 U13 Hurling League Div.4 (45)
+- 171222 U13 Hurling League Div.5 (45)
+- 171223 U13 Hurling League Div.6 (45)
+- 171250 U13 Hurling League Div.7R (28)
+- 171252 U13 Hurling League Div.8R (28)
+- 177434 U13 Hurling League Semi Finals (4)
+- 175356 U13 League Division 1 (42)
+- 175354 U13 League Division 2 (41)
+- 175357 U13 League Division 3 (41)
+- 175355 U13 League Division 4 (41)
+- 175844 U13 National Cup Boys (28)
+- 177349 U13 National Trophy Boys (21)
+- 170232 U13 PREMIER NATIONAL PATHWAY (9)
+- 177248 U13 SFAI Girls Interleague (3)
+- 169136 U13 SPRING DEVELOPMENT GAMES (2)
+- 174359 U13 Second Team Championship 2022 (6)
+- 171302 U13 Second Team Group 3 League 2022 (13)
+- 172696 U13 Summer Lge S1 (13)
+- 172697 U13 Summer Lge S2 (18)
+- 172698 U13 Summer Lge S3 (14)
+- 170007 U13 Tain Og D (3)
+- 170024 U13 Tain Og D (3)
+- 170006 U13 Tain Og E (1)
+- 170023 U13 Tain Og E (5)
+- 169998 U13 Tain Og F (9)
+- 170002 U13 Tain Og H (12)
+- 170017 U13 Tain Og L (4)
+- 170019 U13 Tain Og M (7)
+- 169876 U13 boys shield (7)
+- 172075 U13A Hurling Championship (6)
+- 172074 U13B Hurling Championship (15)
+- 175778 U13s BOWL (12)
+- 173268 U13s PLATE (12)
+- 173266 U13s SHIELD (12)
+- 173267 U13s TROPHY (12)
+- 175041 U14 Autumn League S1 (7)
+- 175043 U14 Autumn League S2 (7)
+- 175046 U14 Autumn League S5 (12)
+- 175044 U14 Autumn League Section 3 (7)
+- 175045 U14 Autumn League Section 4 (7)
+- 174402 U14 B County Championship (7)
+- 168706 U14 B West League Group 2 2022 (3)
+- 171452 U14 Boys (193)
+- 174778 U14 Boys Championship (42)
+- 170413 U14 Boys End of Season Festival (4)
+- 175694 U14 Boys Fall 7s Team Sheets (22)
+- 174572 U14 Boys League (29)
+- 174325 U14 Boys Major (21)
+- 174775 U14 Boys Premier (56)
+- 170931 U14 Boys Shield (3)
+- 169878 U14 Boys cup (12)
+- 170183 U14 C Grp 1 (15)
+- 170187 U14 C Grp 2 (28)
+- 170233 U14 CHAMPIONSHIP NATIONAL PATHWAY (9)
+- 177165 U14 Cup (15)
+- 174406 U14 D County Championship (7)
+- 174779 U14 Division 1 Boys (56)
+- 169357 U14 Division 1 League (10)
+- 176152 U14 Division 2 Boys (56)
+- 169359 U14 Division 2 League (15)
+- 174783 U14 Division 3 Boys (56)
+- 169360 U14 Division 3A League (15)
+- 169361 U14 Division 3B League (6)
+- 174784 U14 Division 4 Boys (42)
+- 174785 U14 Division 5 Boys (42)
+- 170849 U14 FL Group 1A (6)
+- 170857 U14 FL Group 1B (6)
+- 170850 U14 FL Group 2A (6)
+- 170858 U14 FL Group 2B (6)
+- 170851 U14 FL Group 3A (6)
+- 170859 U14 FL Group 3B (6)
+- 170852 U14 FL Group 4A (6)
+- 170860 U14 FL Group 4B (10)
+- 170853 U14 FL Group 5A (6)
+- 170854 U14 FL Group 5B (6)
+- 170848 U14 FL Group 6A (16)
+- 170855 U14 FL Group 6B (23)
+- 171414 U14 Football A Phase 2 Group A (15)
+- 171417 U14 Football A Phase 2 Group B (15)
+- 171418 U14 Football B Phase 2 Group A (15)
+- 171421 U14 Football B Phase 2 Group B (15)
+- 171422 U14 Football C Phase 2 Group A (15)
+- 171423 U14 Football C Phase 2 Group B (15)
+- 171424 U14 Football D Phase 2 Group A (15)
+- 171425 U14 Football D Phase 2 Group B (15)
+- 176324 U14 Football Division 1 Cup KO Games (5)
+- 176325 U14 Football Division 1 Shield KO Games (5)
+- 176326 U14 Football Division 2 Cup KO Games (5)
+- 176327 U14 Football Division 2 Shield KO Games (5)
+- 176328 U14 Football Division 3 Cup KO Games (5)
+- 176329 U14 Football Division 3 Shield KO Games (5)
+- 176330 U14 Football Division 4 Cup KO Games (5)
+- 176331 U14 Football Division 4 Shield KO Games (5)
+- 176332 U14 Football Division 5 Cup KO Games (5)
+- 176333 U14 Football Division 5 Shield KO Games (5)
+- 176334 U14 Football Division 6 Cup KO Games (5)
+- 176335 U14 Football Division 6 Shield KO Games (5)
+- 176336 U14 Football Division 7 Cup KO Games (5)
+- 176337 U14 Football Division 7 Shield KO Games (5)
+- 176803 U14 Football Division 8 Cup KO Games (3)
+- 171430 U14 Football E Phase 2 Group A (15)
+- 171432 U14 Football E Phase 2 Group B (15)
+- 171433 U14 Football F Phase 2 Group A (15)
+- 171435 U14 Football F Phase 2 Group B (15)
+- 171436 U14 Football G Phase 2 Group A (15)
+- 171438 U14 Football G Phase 2 Group B (15)
+- 171439 U14 Football H Phase 2 (28)
+- 173665 U14 Friendly (95)
+- 177258 U14 GFA Girls Prem/Champ Cup (11)
+- 174520 U14 Girls Championship (28)
+- 175286 U14 Girls Connacht Cup (23)
+- 176217 U14 Girls Connacht Shield (14)
+- 170410 U14 Girls End of Season Festival (1)
+- 175695 U14 Girls Fall 7s Team Sheets (15)
+- 170212 U14 Girls League (4)
+- 174116 U14 Girls Premier (19)
+- 175662 U14 Girls Youth League (57)
+- 176367 U14 High Schools Shield (14)
+- 171860 U14 Hurling A Phase 2 Group A (15)
+- 171861 U14 Hurling A Phase 2 Group B (15)
+- 171862 U14 Hurling B Phase 2 Group A (15)
+- 171863 U14 Hurling B Phase 2 Group B (15)
+- 172041 U14 Hurling C Phase 2 Group A (15)
+- 172043 U14 Hurling C Phase 2 Group B (6)
+- 172037 U14 Hurling D Phase 2 Group A (15)
+- 172040 U14 Hurling D Phase 2 Group B (15)
+- 175963 U14 Hurling Division 1 Cup KO Games (5)
+- 175966 U14 Hurling Division 1 Shield KO Games (5)
+- 175968 U14 Hurling Division 2 Cup KO Games (5)
+- 175969 U14 Hurling Division 2 Shield KO Games (5)
+- 175970 U14 Hurling Division 3 Cup KO Games (5)
+- 175971 U14 Hurling Division 3 Shield KO Games (5)
+- 175972 U14 Hurling Division 4 Cup KO Games (5)
+- 175973 U14 Hurling Division 4 Shield KO Games (5)
+- 175975 U14 Hurling Division 5 Cup KO Games (6)
+- 175976 U14 Hurling Division 5 Shield KO Games (5)
+- 176000 U14 Hurling Division 6 Cup KO Games (5)
+- 176001 U14 Hurling Division 6 Shield KO Games (5)
+- 171864 U14 Hurling E Phase 2 Group A (15)
+- 171865 U14 Hurling E Phase 2 Group B (15)
+- 172025 U14 Hurling F Phase 2 Group A (15)
+- 172030 U14 Hurling F Phase 2 Group B (15)
+- 172031 U14 Hurling F Phase 2 Group C (15)
+- 175721 U14 Kids - Enfants (253)
+- 169717 U14 League Fixtures Division 1 (28)
+- 169718 U14 League Fixtures Division 2 (28)
+- 169719 U14 League Fixtures Division 3 (28)
+- 169720 U14 League Fixtures Division 4 (28)
+- 169721 U14 League Fixtures Division 5 (28)
+- 169722 U14 League Fixtures Division 6 (15)
+- 169723 U14 League Fixtures Division 7 (21)
+- 175890 U14 National Cup Boys (37)
+- 177350 U14 National Trophy Boys (22)
+- 177531 U14 National Trophy Girls (11)
+- 170276 U14 PREMIER NATIONAL PATHWAY (11)
+- 177245 U14 SFAI Girls Interleague (6)
+- 169137 U14 SPRING DEVELOPMENT GAMES (9)
+- 174401 U14A County Championship (7)
+- 168704 U14A League West 2022 (6)
+- 174407 U14A2 County Championship (6)
+- 170176 U14B Grp 1 (21)
+- 170180 U14B Grp 2 (21)
+- 168888 U14B League Playoff (5)
+- 168889 U14B Shield Playoff (5)
+- 174408 U14B2 County Championship (7)
+- 174403 U14C County Championship (7)
+- 174409 U14C2 County Championship (6)
+- 170189 U14D (28)
+- 174410 U14D2 County Championship (6)
+- 174411 U14D3 County Championship (5)
+- 173203 U14s PLATE (12)
+- 173201 U14s Shield (12)
+- 173202 U14s TROPHY (15)
+- 174361 U15 11 a side Championship 2022 (20)
+- 171627 U15 A Championship (9)
+- 171738 U15 A County Football (3)
+- 171626 U15 B Championship (9)
+- 176499 U15 B Football Justin Herbert Cup (1)
+- 175144 U15 B Mid Hurling Championship (4)
+- 174900 U15 Boys Championship (56)
+- 174901 U15 Boys Division 1 (41)
+- 174902 U15 Boys Division 2 (31)
+- 174903 U15 Boys Division 3 (43)
+- 174904 U15 Boys Division 4 (56)
+- 170759 U15 Boys End of Season Festival (2)
+- 174356 U15 Boys Friendship  Cup (2)
+- 176007 U15 Boys League (35)
+- 169114 U15 Boys Plate (8)
+- 174899 U15 Boys Premier (42)
+- 170121 U15 Boys cup (9)
+- 176500 U15 C Football Competition (1)
+- 171582 U15 C1 Cup (1)
+- 170277 U15 CHAMPIONSHIP NATIONAL PATHWAY (8)
+- 172887 U15 Div 1 (3)
+- 172885 U15 Div 2 (3)
+- 174549 U15 Division 1 (6)
+- 172681 U15 Division 1 Football Championship 2022 (21)
+- 175785 U15 Division 1 Football Championship Knock Out 2022 (3)
+- 168823 U15 Division 1 Football League 2022 (15)
+- 169153 U15 Division 1 Football League 2022 (21)
+- 171127 U15 Division 1 Football League Knock Out 2022 (3)
+- 170640 U15 Division 1 League 2022 (24)
+- 174550 U15 Division 2 A (6)
+- 174558 U15 Division 2 B (5)
+- 172682 U15 Division 2 Football Championship 2022 (15)
+- 175544 U15 Division 2 Football Championship Knock Out 2022 (3)
+- 168814 U15 Division 2 Football League 2022 (15)
+- 169152 U15 Division 2 Football League 2022 (31)
+- 171026 U15 Division 2 Football League Knock Out 2022 (3)
+- 170641 U15 Division 2 Group 2 League 2022 (16)
+- 170629 U15 Division 2 Group1 League 2022 (10)
+- 173111 U15 Division 2 Knockout 2022 (3)
+- 174559 U15 Division 3 A (6)
+- 172685 U15 Division 3 Football Championship 2022 (15)
+- 175936 U15 Division 3 Football Championship Knock Out 2022 (4)
+- 168825 U15 Division 3 Football League 2022 (21)
+- 169154 U15 Division 3 Football League 2022 (29)
+- 171126 U15 Division 3 Football League Knock Out 2022 (3)
+- 170630 U15 Division 3 League 2022 (31)
+- 174570 U15 Division 4 (6)
+- 172684 U15 Division 4 Football Championship 2022 (28)
+- 176291 U15 Division 4 Football Championship Knock Out 2022 (3)
+- 168816 U15 Division 4 Football League 2022 (21)
+- 171653 U15 Division 4 Football League Knock Out 2022 (3)
+- 170625 U15 Division 4 League 2022 (41)
+- 174569 U15 Division 5 (6)
+- 170637 U15 Division 5 League 2022 (24)
+- 170635 U15 Division 6 League (28)
+- 173912 U15 E Championship Group 1 2022 (28)
+- 170063 U15 FC D1 (28)
+- 170068 U15 FC D2 North (21)
+- 170064 U15 FC D2 West (28)
+- 170069 U15 FC D3 North (21)
+- 170065 U15 FC D3 West (15)
+- 170066 U15 FC D4 (28)
+- 170067 U15 FC D5 North (10)
+- 170070 U15 FC D5 West (15)
+- 170830 U15 Feile - D1 - Final (1)
+- 170741 U15 Feile - D1 - Grp A (6)
+- 170739 U15 Feile - D1 - Grp B (6)
+- 170829 U15 Feile - D4 - Cup (1)
+- 170740 U15 Feile - D4 - Cup Grp A (3)
+- 170742 U15 Feile - D4 - Grp B (6)
+- 171007 U15 Feile Hurling (3)
+- 173573 U15 Football Development League (1)
+- 173985 U15 Football Division 5 Shield (7)
+- 169546 U15 Football Feile Div.1 CUP (3)
+- 169548 U15 Football Feile Div.1 SHIELD (3)
+- 169603 U15 Football Feile Div.10 CUP (3)
+- 169604 U15 Football Feile Div.10 SHIELD (3)
+- 169549 U15 Football Feile Div.2 CUP (3)
+- 169550 U15 Football Feile Div.2 SHIELD (3)
+- 169551 U15 Football Feile Div.3 CUP (3)
+- 169552 U15 Football Feile Div.3 SHIELD (3)
+- 169553 U15 Football Feile Div.4 CUP (3)
+- 169555 U15 Football Feile Div.4 SHIELD (3)
+- 169592 U15 Football Feile Div.5 CUP (3)
+- 169593 U15 Football Feile Div.5 SHIELD (3)
+- 169594 U15 Football Feile Div.6 CUP (3)
+- 169595 U15 Football Feile Div.6 SHIELD (3)
+- 169597 U15 Football Feile Div.7 CUP (3)
+- 169598 U15 Football Feile Div.7 SHIELD (3)
+- 169599 U15 Football Feile Div.8 CUP (3)
+- 169600 U15 Football Feile Div.8 SHIELD (3)
+- 169601 U15 Football Feile Div.9 CUP (3)
+- 169602 U15 Football Feile Div.9 SHIELD (3)
+- 170873 U15 Football League Div.1 (28)
+- 170883 U15 Football League Div.10 North (15)
+- 170888 U15 Football League Div.10 South (15)
+- 170874 U15 Football League Div.2 (28)
+- 170875 U15 Football League Div.3 (28)
+- 170878 U15 Football League Div.4 (28)
+- 170877 U15 Football League Div.5 (28)
+- 170879 U15 Football League Div.6 (28)
+- 170880 U15 Football League Div.7 (28)
+- 170881 U15 Football League Div.8 (28)
+- 170882 U15 Football League Div.9 (28)
+- 169655 U15 Friendship Cup Group 1 (6)
+- 169656 U15 Friendship Cup Group 2 (6)
+- 173913 U15 G Championship 2022 (19)
+- 171041 U15 Girls Div 1 (Test) (15)
+- 174528 U15 Girls League (39)
+- 170122 U15 Girls cup (6)
+- 173490 U15 Group 1 (15)
+- 173494 U15 Group 2 (15)
+- 173496 U15 Group 3 (10)
+- 170033 U15 Hurling Feile Div.1 CUP (3)
+- 170034 U15 Hurling Feile Div.1 SHIELD (3)
+- 170035 U15 Hurling Feile Div.2 CUP (3)
+- 170036 U15 Hurling Feile Div.2 SHIELD (3)
+- 170197 U15 Hurling Feile Div.3 CUP (3)
+- 170198 U15 Hurling Feile Div.3 SHIELD (3)
+- 170199 U15 Hurling Feile Div.4 CUP (3)
+- 170200 U15 Hurling Feile Div.4 SHIELD (3)
+- 170201 U15 Hurling Feile Div.5 CUP (3)
+- 170202 U15 Hurling Feile Div.5 SHIELD (1)
+- 170203 U15 Hurling Feile Div.6 CUP (3)
+- 170204 U15 Hurling Feile Div.6 SHIELD (3)
+- 170205 U15 Hurling Feile Div.7 CUP (3)
+- 170206 U15 Hurling Feile Div.7 SHIELD (3)
+- 175635 U15 Hurling League (4)
+- 171031 U15 Hurling League Div.1 (28)
+- 171029 U15 Hurling League Div.2 (28)
+- 171032 U15 Hurling League Div.3 (28)
+- 171073 U15 Hurling League Div.4 REVISED (15)
+- 171034 U15 Hurling League Div.5 (28)
+- 171037 U15 Hurling League Div.7 (15)
+- 171035 U15 Hurling League Div.8 (28)
+- 172392 U15 Mid North Hurling League (16)
+- 172453 U15 Mid North Hurling League (2)
+- 172391 U15 Mid North Hurling League G2 (15)
+- 175846 U15 National Cup Boys (28)
+- 177356 U15 National Trophy Boys (18)
+- 170278 U15 PREMIER NATIONAL PATHWAY (9)
+- 169237 U15 Premier Cup (6)
+- 177232 U15 SFAI Girls Interleague (3)
+- 169138 U15 SPRING DEVELOPMENT GAMES (6)
+- 171381 U15 Second Teams League 1 2022 (11)
+- 171382 U15 Second Teams League 2 2022 (12)
+- 172608 U15 Summer Lge S1 (13)
+- 172609 U15 Summer Lge S2 (18)
+- 172611 U15 Summer Lge S3 (13)
+- 170008 U15 Tain Og C (11)
+- 170020 U15 Tain Og C (4)
+- 169999 U15 Tain Og F (7)
+- 170003 U15 Tain Og H (4)
+- 170799 U15 boys Shield (3)
+- 171036 U15 hurling League Div.6 (16)
+- 173960 U15A Championship Group 1 2022 (24)
+- 173961 U15A Championship Group 2 2022 (15)
+- 173592 U15A HURLING (29)
+- 169737 U15A Mid Football (19)
+- 172892 U15A Mid Hurling Championship (6)
+- 175408 U15A Mid Hurling Championship (3)
+- 173583 U15B HURLING (14)
+- 169736 U15B Mid Football (8)
+- 172890 U15B Mid Hurling  Championship (10)
+- 173923 U15C Championship 2022 (13)
+- 173911 U15D Championship 2022 (20)
+- 173924 U15E Championship Group 2 2022 (15)
+- 173292 U15s PLATE (15)
+- 175779 U15s SHIELD (28)
+- 177372 U16 - Development (19)
+- 177371 U16 - Phase 2 (30)
+- 175284 U16 Autumn League S2.1 (8)
+- 175285 U16 Autumn League S2.2 (3)
+- 175281 U16 Autumn League S3 (7)
+- 177164 U16 Benny Atkinson Cup (13)
+- 172115 U16 Boys - Central (21)
+- 172361 U16 Boys - EORU (14)
+- 172108 U16 Boys - East (22)
+- 172125 U16 Boys - West (27)
+- 172114 U16 Boys - West Central (22)
+- 173405 U16 Boys - Western Canada Championships (10)
+- 174119 U16 Boys Championship (28)
+- 174781 U16 Boys Championship (30)
+- 170123 U16 Boys Cup (6)
+- 174789 U16 Boys Division 1 (30)
+- 174793 U16 Boys Division 2 (56)
+- 174794 U16 Boys Division 3 (55)
+- 170414 U16 Boys End of Season Festival (4)
+- 175434 U16 Boys Fall 7s Team Sheets (37)
+- 174033 U16 Boys Intepros (5)
+- 169226 U16 Boys League Playoff (3)
+- 174118 U16 Boys Premier (27)
+- 174786 U16 Boys Premier (42)
+- 170932 U16 Boys Shield (3)
+- 168887 U16 Boys Shield Playoff (3)
+- 169495 U16 C Shield (3)
+- 170279 U16 CHAMPIONSHIP NATIONAL PATHWAY (9)
+- 176914 U16 Clubs (3)
+- 169340 U16 Division 1 League (15)
+- 169344 U16 Division 2 League (15)
+- 169351 U16 Division 3 League (15)
+- 173878 U16 Est - Boys-Garcons (12)
+- 172119 U16 FL Group 1 Final (1)
+- 169276 U16 FL Group 1A (10)
+- 169282 U16 FL Group 1B (6)
+- 169278 U16 FL Group 2A (12)
+- 169283 U16 FL Group 2B (6)
+- 169279 U16 FL Group 3A (6)
+- 169284 U16 FL Group 3B (6)
+- 169280 U16 FL Group 4A (20)
+- 169275 U16 FL Group 4B (6)
+- 169281 U16 FL Group 5A (6)
+- 169277 U16 FL Group 5B (6)
+- 174154 U16 Football A Championship Grp.1 (7)
+- 174155 U16 Football A Championship Grp.2 (6)
+- 174156 U16 Football A Championship Grp.3 (6)
+- 176812 U16 Football A Championship KO Games (5)
+- 176818 U16 Football A Shield KO Games (5)
+- 174157 U16 Football B Championship Grp.1 (6)
+- 174158 U16 Football B Championship Grp.2 (6)
+- 174159 U16 Football B Championship Grp.3 (6)
+- 176813 U16 Football B Championship KO Games (5)
+- 176820 U16 Football B Shield KO Games (5)
+- 174160 U16 Football C Championship Grp.1 (6)
+- 174161 U16 Football C Championship Grp.2 (6)
+- 174162 U16 Football C Championship Grp.3 (6)
+- 176815 U16 Football C Championship KO Games (5)
+- 176821 U16 Football C Shield KO Games (5)
+- 174163 U16 Football D Championship Grp.1 (6)
+- 174164 U16 Football D Championship Grp.2 (6)
+- 174165 U16 Football D Championship Grp.3 (6)
+- 176816 U16 Football D Championship KO Games (5)
+- 176824 U16 Football D Shield KO Games (5)
+- 174166 U16 Football E Championship Grp.1 (6)
+- 174167 U16 Football E Championship Grp.2 (6)
+- 174168 U16 Football E Championship Grp.3 (6)
+- 176817 U16 Football E Championship KO Games (5)
+- 176825 U16 Football E Shield KO Games (5)
+- 174096 U16 Football F Championship (28)
+- 171476 U16 Friendly (91)
+- 172109 U16 Girls - Central (34)
+- 172362 U16 Girls - EORU (16)
+- 172107 U16 Girls - East (34)
+- 172124 U16 Girls - West (27)
+- 173408 U16 Girls - Western Canada Championships (10)
+- 175476 U16 Girls Connacht Cup (16)
+- 170411 U16 Girls End of Season Festival (2)
+- 175418 U16 Girls Fall 7s Team Sheets (35)
+- 169544 U16 Girls Interleague Cup (2)
+- 174036 U16 Girls Interpros (12)
+- 174323 U16 Girls League (27)
+- 169109 U16 Girls Plate (9)
+- 169292 U16 Girls Plate (1)
+- 175663 U16 Girls Youth League (74)
+- 176246 U16 High Schools Pollock Cup (25)
+- 174104 U16 Hurling A Championship Grp.1 (6)
+- 174105 U16 Hurling A Championship Grp.2 (6)
+- 174106 U16 Hurling A Championship Grp.3 (6)
+- 176579 U16 Hurling A Championship KO Games (5)
+- 176583 U16 Hurling A Shield KO Games (5)
+- 173605 U16 Hurling Academy Group 8 (3)
+- 174150 U16 Hurling B Championship Grp.1 (6)
+- 174151 U16 Hurling B Championship Grp.2 (6)
+- 174152 U16 Hurling B Championship Grp.3 (6)
+- 176581 U16 Hurling B Championship KO Games (5)
+- 176584 U16 Hurling B Shield KO Games (5)
+- 174097 U16 Hurling C Championship (28)
+- 174098 U16 Hurling D Championship (28)
+- 170418 U16 Hurling Group 6 (3)
+- 169689 U16 League Fixtures Division 1 (15)
+- 169690 U16 League Fixtures Division 2 (21)
+- 169691 U16 League Fixtures Division 3 (15)
+- 169706 U16 League Fixtures Division 4 (10)
+- 169707 U16 League Fixtures Division 5 (21)
+- 169715 U16 League Fixtures Division 6 (15)
+- 169716 U16 League Fixtures Division 7 (28)
+- 169637 U16 Metro Invitational Cup (7)
+- 175897 U16 National Cup Boys (29)
+- 177364 U16 National Trophy Boys (10)
+- 173957 U16 Ouest - Boys-Garcons (21)
+- 170280 U16 PREMIER NATIONAL PATHWAY (9)
+- 169139 U16 SPRING DEVELOPMENT GAMES (2)
+- 169080 U16 School Youth League D1 (3)
+- 169081 U16 School Youth League Prem (3)
+- 169724 U16 Sevens (1)
+- 168861 U16 Sevens Tournament (2)
+- 176823 U16 Trials (3)
+- 175927 U16A Boys Pinergy All Ireland Schools Cup (30)
+- 174412 U16A County Championship (7)
+- 175938 U16A Girls Pinergy All Ireland Schools Cup (17)
+- 174416 U16A2 County Championship (6)
+- 175939 U16B Boys Pinergy All Ireland Schools Cup (10)
+- 174413 U16B County Championship (7)
+- 175417 U16B Fall 7s TS (1)
+- 175940 U16B Girls Pinergy All Ireland Schools Cup (11)
+- 174417 U16B2 County Championsip (7)
+- 176232 U16C Boys Pinergy All Ireland Schools Cup (15)
+- 174414 U16C County Championship (7)
+- 174418 U16C2 County Championsip (7)
+- 174415 U16D County Championship (7)
+- 174419 U16D2 County Championship (5)
+- 174420 U16D3 County Championship (3)
+- 173925 U17 A Championship 2022 (20)
+- 177172 U17 A Championship 2022 (9)
+- 176440 U17 A Football Championship (10)
+- 177189 U17 A Football League/Shield (3)
+- 169127 U17 A North Championship (10)
+- 169130 U17 A West Championship (10)
+- 172398 U17 A1 HC Group 1 (15)
+- 172396 U17 A1 HC Group 2 (15)
+- 173914 U17 B Championship 2022 (19)
+- 177171 U17 B Championship 2022 (7)
+- 176442 U17 B Fooball League/Shield (8)
+- 176441 U17 B Football Championship (7)
+- 176796 U17 B Mid Football (6)
+- 177507 U17 B Mid Football (3)
+- 169128 U17 B North FC - Group A (15)
+- 169131 U17 B North FC - Group B (10)
+- 169129 U17 B West Championship (15)
+- 172394 U17 B1 HC Group 1 (10)
+- 172397 U17 B1 HC Group 2 (10)
+- 172395 U17 B1 HC Group 3 (6)
+- 174912 U17 Boys Championship (30)
+- 174913 U17 Boys Division 1 (44)
+- 175300 U17 Boys Division 2 (20)
+- 170760 U17 Boys End of Season Festival (2)
+- 169115 U17 Boys Plate (6)
+- 174909 U17 Boys Premier (42)
+- 173926 U17 C Championship 2022 (20)
+- 175952 U17 C Football Championship (11)
+- 176678 U17 C Football Shield (4)
+- 169132 U17 C North Championship (16)
+- 169133 U17 C West Championship (15)
+- 176913 U17 Clubs (6)
+- 173916 U17 D Championship 2022 (25)
+- 175104 U17 Division 1 (7)
+- 172683 U17 Division 1 Football Championship 2022 (15)
+- 175454 U17 Division 1 Football Championship Knock Out 2022 (3)
+- 168813 U17 Division 1 Football League 2022 (15)
+- 170621 U17 Division 1 League 2022 (31)
+- 175103 U17 Division 2 (7)
+- 172686 U17 Division 2 Football Championship 2022 (21)
+- 175692 U17 Division 2 Football Championship Knock Out 2022 (5)
+- 168822 U17 Division 2 Football League 2022 (21)
+- 173560 U17 Division 2 Knockout 2022 (1)
+- 170633 U17 Division 2 League 2022 (24)
+- 175105 U17 Division 3 (9)
+- 172680 U17 Division 3 Football Championship 2022 (36)
+- 176321 U17 Division 3 Football Championship Knock Out 2022 (5)
+- 168824 U17 Division 3 Football League 2022 (45)
+- 171081 U17 Division 3 Football League 2022 Knock Out (3)
+- 170622 U17 Division 3 League 2022 (48)
+- 170634 U17 Division 4 League 2022 (30)
+- 170623 U17 Division 5 League 2022 (18)
+- 173915 U17 E Championship 2022 (13)
+- 173927 U17 F Championship 2022 (13)
+- 169607 U17 Football Development League Group 1 (10)
+- 169609 U17 Football Development League Group 2 (10)
+- 169608 U17 Football Development League Group 3 (6)
+- 169610 U17 Football Development League Group 4 (6)
+- 171389 U17 Football Development League Phase 2 (19)
+- 173361 U17 Friendly (5)
+- 173917 U17 G Championship 2022 (8)
+- 176339 U17 Girls Connacht Cup (7)
+- 177032 U17 Girls Connacht Shield (3)
+- 171113 U17 Girls Plate (4)
+- 171114 U17 Girls Shield (3)
+- 170124 U17 Girls cup (5)
+- 172402 U17 HC Group 2 (15)
+- 172399 U17 HC Group1 (15)
+- 169612 U17 Hurling Development League Group 1 (15)
+- 169611 U17 Hurling Development League Group 2 (15)
+- 174853 U17 League Division 1 (31)
+- 174852 U17 League Division 2 (21)
+- 174854 U17 League Division 3 (31)
+- 175102 U17 Premier (7)
+- 173760 U17 Tain Og (2)
+- 173761 U17 Tain Og (3)
+- 170011 U17 Tain Og D (6)
+- 170022 U17 Tain Og D (9)
+- 170001 U17 Tain Og E (5)
+- 170005 U17 Tain Og G (9)
+- 170014 U17 Tain Og J (6)
+- 170602 U17A County Hurling League Group 1 (15)
+- 170601 U17A County Hurling League Group 2 (16)
+- 172253 U17A HURLING (29)
+- 172889 U17A Mid Hurling Championship (15)
+- 174980 U17A Mid Hurling Championship (5)
+- 170574 U17B County Hurling League Group 1 (15)
+- 170575 U17B County Hurling League Group 2 (16)
+- 172319 U17B HURLING (38)
+- 172891 U17B Mid Hurling Championship (6)
+- 175304 U17B Mid Hurling Championship (2)
+- 168841 U17B NORTH/MID (23)
+- 176113 U17HC Final (3)
+- 177480 U17HL Final (5)
+- 173167 U18 (2)
+- 169148 U18 6 Nations Girls Games (1)
+- 169989 U18 A Championship Knockout 2022 (4)
+- 169990 U18 B Championship Knockout 2022 (3)
+- 172120 U18 Boys - Central (14)
+- 172363 U18 Boys - EORU (8)
+- 172106 U18 Boys - East (15)
+- 172121 U18 Boys - West (35)
+- 173409 U18 Boys - Western Canada Championships (14)
+- 172642 U18 Boys 7s Championship - Zabki (34)
+- 175420 U18 Boys Fall 7s Team Sheets (14)
+- 175364 U18 Boys Friendly (7)
+- 174034 U18 Boys Interpros (6)
+- 172908 U18 Boys Trophy - Riga (34)
+- 170097 U18 C Championship Knockout 2022 (2)
+- 174791 U18 Championship Boys (35)
+- 172943 U18 Clubs (6)
+- 176912 U18 Clubs (6)
+- 174792 U18 Division 1 Boys (45)
+- 171474 U18 Friendly (47)
+- 176760 U18 Girls (6)
+- 172123 U18 Girls - Central (16)
+- 172364 U18 Girls - EORU (14)
+- 172105 U18 Girls - East (15)
+- 172122 U18 Girls - West (27)
+- 173410 U18 Girls - Western Canada Championships (7)
+- 172918 U18 Girls 7s Championship - Prague (27)
+- 172895 U18 Girls C/Ship Grp 2 (15)
+- 175421 U18 Girls Fall 7s Team Sheets (16)
+- 170756 U18 Girls Interpro Friendly (1)
+- 174038 U18 Girls Interpros (12)
+- 173777 U18 Girls Interprovincials 2022 (7)
+- 174533 U18 Girls League (20)
+- 169113 U18 Girls Plate (5)
+- 172785 U18 Girls Trophy - Zabki (9)
+- 172916 U18 Girls Trophy - Zabki - Pool Phase 2 (9)
+- 172923 U18 Girls Trophy - Zabki - Pool Phase 3 (9)
+- 175664 U18 Girls Youth League (33)
+- 170125 U18 Girls cup (6)
+- 176286 U18 High Schools Cup (8)
+- 169149 U18 KNOCKOUT CUP (40)
+- 170284 U18 NATIONAL LEAGUE PATHWAY (4)
+- 174787 U18 Premier Boys (42)
+- 172942 U18 Schools (4)
+- 168860 U18 Sevens Tournament (2)
+- 168859 U18 Tournament Marcoussis, Paris (3)
+- 176822 U18 Trials (3)
+- 177656 U18 Womens National Cup 22/23 (7)
+- 172393 U18A (6)
+- 172894 U18B C/Ship Grp 1 (10)
+- 172896 U18C Girls C/Ship (6)
+- 172897 U18C Girls C/Ship Grp 2 (6)
+- 172898 U18C Girls C/Ship Grp 3 (6)
+- 172899 U18C Girls C/Ship Grp 4 (3)
+- 172944 U19 (16)
+- 177370 U19 - Phase 2 (37)
+- 175872 U19 A Boys Pinergy All-Ireland Schools Cup (39)
+- 175758 U19 A Football Championship (5)
+- 170817 U19 A Football League (6)
+- 169057 U19 A North Championship (10)
+- 168785 U19 A West Championship (15)
+- 175759 U19 B Football Championship (9)
+- 170856 U19 B Football League (8)
+- 169056 U19 B North Championship (25)
+- 168788 U19 B West Championship (15)
+- 175998 U19 C Football Championship (4)
+- 176994 U19 C Football Championship (6)
+- 170862 U19 C Football League (5)
+- 169063 U19 C North Championship (19)
+- 168786 U19 C North FC - Group B (16)
+- 169111 U19 C North League (10)
+- 169064 U19 C West Championship (6)
+- 169110 U19 C West League (9)
+- 169112 U19 C West League (6)
+- 177363 U19 Co-op Superstores B Hurling Championship (2)
+- 173618 U19 Division 1 Finals 2022 (3)
+- 172787 U19 Division 1 Group A (6)
+- 172789 U19 Division 1 Group B (6)
+- 173617 U19 Division 2 Finals 2022 (3)
+- 172798 U19 Division 2 Group A (6)
+- 172800 U19 Division 2 Group B (6)
+- 173619 U19 Division 3 Finals 2022 (3)
+- 172799 U19 Division 3 Group A (6)
+- 172801 U19 Division 3 Group B (3)
+- 173603 U19 Division 4 Finals 2022 (3)
+- 172788 U19 Division 4 Group A (6)
+- 172790 U19 Division 4 Group B (6)
+- 173876 U19 Est - Boys-Garcons (6)
+- 172582 U19 Football Championship - East 1 (9)
+- 172583 U19 Football Championship - East 2 (7)
+- 172551 U19 Football Championship - Mid 1 (8)
+- 172584 U19 Football Championship - Mid 2 (7)
+- 172585 U19 Football Championship - North 1 (9)
+- 172586 U19 Football Championship - North 2 (3)
+- 172587 U19 Football Championship - North 2 (5)
+- 172578 U19 Football Championship - Premier 1 (9)
+- 172579 U19 Football Championship - Premier 2 (9)
+- 172580 U19 Football Championship - West 1 (8)
+- 172581 U19 Football Championship - West 2 (8)
+- 174586 U19 Football Div 1 Knockout (6)
+- 170499 U19 Football Div 1 Section A (6)
+- 170501 U19 Football Div 1 Section B (6)
+- 174587 U19 Football Div 2 Knockout (5)
+- 176396 U19 Football Div 2 Knockout (3)
+- 169745 U19 Football Leagues - East 1 - Group 1 (6)
+- 169746 U19 Football Leagues - East 1 - Group 2 (6)
+- 169747 U19 Football Leagues - East 2 - Group 1 (6)
+- 169748 U19 Football Leagues - East 2 - Group 2 (3)
+- 169749 U19 Football Leagues - Mid 1 - Group 1 (6)
+- 169750 U19 Football Leagues - Mid 1 - Group 2 (3)
+- 169751 U19 Football Leagues - Mid 2 - Group 1 (6)
+- 169752 U19 Football Leagues - Mid 2 - Group 2 (3)
+- 169753 U19 Football Leagues - North 1 - Group 1 (6)
+- 169754 U19 Football Leagues - North 1 - Group 2 (3)
+- 169755 U19 Football Leagues - North 2 - Group 1 (3)
+- 169756 U19 Football Leagues - North 2 - Group 2 (3)
+- 169726 U19 Football Leagues - Premier 1 - Group 1 (3)
+- 169739 U19 Football Leagues - Premier 1 - Group 2 (6)
+- 169740 U19 Football Leagues - Premier 2 - Group 1 (6)
+- 169741 U19 Football Leagues - Premier 2 - Group 2 (6)
+- 169742 U19 Football Leagues - West 1 - Group 1 (6)
+- 169743 U19 Football Leagues - West 1 - Group 2 (6)
+- 169744 U19 Football Leagues - West 2 - Group 1 (6)
+- 169892 U19 Football Leagues - West 2 - Group 2 (6)
+- 173360 U19 Friendly (6)
+- 176340 U19 Girls Connacht Cup (5)
+- 177031 U19 Girls Connacht Shield (2)
+- 172223 U19 H  Div 2 (6)
+- 172222 U19 H Div 1 (10)
+- 172558 U19 Hurling Championship - East 1 (8)
+- 172561 U19 Hurling Championship - East 2 (6)
+- 172562 U19 Hurling Championship - Mid 1 (6)
+- 172563 U19 Hurling Championship - North 1 (8)
+- 172564 U19 Hurling Championship - North 2 (6)
+- 172554 U19 Hurling Championship - Premier 1 (8)
+- 172555 U19 Hurling Championship - Premier 2 (9)
+- 172556 U19 Hurling Championship - West 1 (6)
+- 172557 U19 Hurling Championship - West 2 (7)
+- 172345 U19 Hurling Championship Div 1 GP 1 (6)
+- 172349 U19 Hurling Championship Div 1 GP 2 (6)
+- 172346 U19 Hurling Championship Div 2 GP 1 (6)
+- 172350 U19 Hurling Championship Div 2 GP 2 (6)
+- 172347 U19 Hurling Championship Div 3 (10)
+- 172344 U19 Hurling Championship Premier Gp 1 (6)
+- 172348 U19 Hurling Championship Premier Gp 2 (6)
+- 176984 U19 Hurling Div 1 Knockout (3)
+- 176983 U19 Hurling Div 2 Knockout (3)
+- 169905 U19 Hurling Leagues - East 1 - Group 1 (6)
+- 169907 U19 Hurling Leagues - East 1 - Group 2 (3)
+- 169908 U19 Hurling Leagues - East 2 - Group 1 (6)
+- 169909 U19 Hurling Leagues - Mid 1 - Group 1 (6)
+- 169910 U19 Hurling Leagues - North 1 - Group 1 (6)
+- 169911 U19 Hurling Leagues - North 1 - Group 2 (6)
+- 169913 U19 Hurling Leagues - North 2 - Group 1 (6)
+- 169900 U19 Hurling Leagues - Premier 1 - Group 1 (6)
+- 169901 U19 Hurling Leagues - Premier 1 - Group 2 (6)
+- 169902 U19 Hurling Leagues - Premier 2 - Group 1 (6)
+- 169904 U19 Hurling Leagues - Premier 2 - Group 2 (6)
+- 169952 U19 Hurling Leagues - West 1 - Group 1 (3)
+- 169954 U19 Hurling Leagues - West 1 - Group 2 (3)
+- 169914 U19 Hurling Leagues - West 2 - Group 1 (6)
+- 169915 U19 Hurling Leagues - West 2 - Group 2 (6)
+- 173955 U19 Ouest - Boys-Garcons (10)
+- 169307 U19 Regional Winter League 2022 (16)
+- 175951 U19A Girls Pinergy All Ireland Schools Cup (19)
+- 175878 U19B Boys Pinergy All Ireland Schools Cup (12)
+- 175882 U19B Girls Pinergy All Ireland Schools Cup (16)
+- 175894 U19C Boys Pinergy All Ireland Schools Cup (19)
+- 170500 U19F Div 2 A (6)
+- 170502 U19F Div 2 B (6)
+- 172951 U20 (1)
+- 171631 U20 A HC Group 1 (6)
+- 171630 U20 A HC Group 2 (6)
+- 173850 U20 A HC Knockout (6)
+- 171062 U20 A Hurling League (3)
+- 171680 U20 A1 HC Group 1 (6)
+- 171687 U20 A1 HC Group 2 (6)
+- 173549 U20 A1 HC K/O (5)
+- 175648 U20 B Football Championship Group A (15)
+- 175646 U20 B Football Championship Group B (15)
+- 177535 U20 B Football Championship Knockout (3)
+- 171681 U20 B HC Group 1 (6)
+- 171688 U20 B HC Group 2 (6)
+- 175642 U20 B Hurling Championship Group A (6)
+- 175643 U20 B Hurling Championship Group B (6)
+- 177242 U20 B Hurling Championship Knockout (4)
+- 171063 U20 B Hurling League (3)
+- 171682 U20 B1 HC Group 1 (6)
+- 171689 U20 B1 HC Group 2 (6)
+- 172236 U20 B1 HC Group 3 (10)
+- 173974 U20 B1 HC K/O (6)
+- 175647 U20 Football Championship Group A (6)
+- 175645 U20 Football Championship Group B (6)
+- 177338 U20 Football Championship Knockout (3)
+- 175641 U20 Hurling Championship Group A (6)
+- 175644 U20 Hurling Championship Group B (3)
+- 177244 U20 Hurling Championship Knockout (3)
+- 176592 U20 Mens National Cup (31)
+- 176597 U20 Womens National Cup (17)
+- 177140 U20.5 Conroy Cup (8)
+- 174080 U20.5 Donal Walsh Trophy (41)
+- 174974 U20.5 Friendly (6)
+- 169477 U20A Hurling League Group 1 (6)
+- 169475 U20A Hurling League Group 2 (6)
+- 169478 U20A Hurling League Group 3 (6)
+- 169476 U20AHurling League Group 4 (6)
+- 173550 U20B HC K/O (5)
+- 169485 U20B Hurling League Group 1 (9)
+- 169483 U20B Hurling League Group 2 (6)
+- 169486 U20B Hurling League Group 3 (7)
+- 169484 U20B Hurling League Group 4 (6)
+- 169145 U20s Women Inter-Area Games Programme (10)
+- 175680 U20s Womens Area Comp (2)
+- 169074 U21 A Football Championship (8)
+- 177302 U21 A Hurling Championship 2022 (1)
+- 169075 U21 B Football Championship (4)
+- 177161 U21 B Hurling Championship 13 a side 2022 (3)
+- 174035 U21 Boys Interpros (6)
+- 170968 U21 C/Ship Grp 2 (6)
+- 170969 U21 C/Ship Grp 3 (3)
+- 171028 U21 C/Ship Grp 4 (6)
+- 171739 U21 C/Sip Grp 1 (3)
+- 175324 U21 Championship (36)
+- 177286 U21 Championship Division 1 Group A (6)
+- 177294 U21 Championship Division 1 Group B (6)
+- 177287 U21 Championship Division 2 Group A (6)
+- 177295 U21 Championship Division 2 Group B (6)
+- 177288 U21 Championship Division 3 Group A (6)
+- 177296 U21 Championship Division 3 Group B (6)
+- 177297 U21 Championship Division 4 Group B (6)
+- 177549 U21 Championship Finals (4)
+- 177548 U21 Championship Semi Finals (8)
+- 172156 U21 Football Championship 2022 (15)
+- 174040 U21 Girls Interpros (8)
+- 174846 U21 Hurling Championship 2022 (7)
+- 175323 U21 Premier (31)
+- 177160 U21 Premier Hurling Championship (3)
+- 177603 U21 Women Ipro Finals (2)
+- 177289 U21Championship Division 4 Group A (6)
+- 175376 U6 Kids - Enfants (210)
+- 171614 U7 GoGames 2022 - Group 1 (15)
+- 171611 U7 GoGames 2022 - Group 2 (15)
+- 171615 U7 GoGames 2022 - Group 3 (36)
+- 171612 U7 GoGames 2022 - Group 4 (28)
+- 171616 U7 GoGames 2022 - Group 5 (21)
+- 171609 U7 GoGames 2022 - Group 6 (10)
+- 173785 U8 Football Gp.1X (3 Team) Northside REVISED (153)
+- 173788 U8 Football Gp.1Y (3 Team) Northside REVISED (153)
+- 173791 U8 Football Gp.1Y (3 Team) Southside REVISED (66)
+- 173789 U8 Football Gp.2 (2 Team) Northside REVISED (190)
+- 173793 U8 Football Gp.2 (2 Team) Southside REVISED (121)
+- 173837 U8 Hurling Gp.1X (3 Team) Northside REVISED (153)
+- 174544 U8 Hurling Gp.2 (2 Team) Northside REVISED (120)
+- 175378 U8 Kids - Enfants (282)
+- 177122 U8s B (4)
+- 173141 U8s Blue Section (3)
+- 177123 U8s C (16)
+- 173140 U8s Green Section (4)
+- 170474 U8s Section 1 A (1)
+- 170480 U8s Section 1 C (3)
+- 170481 U8s Section 1 D (3)
+- 173142 U8s Yellow Section (3)
+- 173798 U9 Football Gp.1X (3 Team) Southside REVISED (88)
+- 173795 U9 Football Gp.1Y (3 Team) Northside REVISED (66)
+- 173796 U9 Football Gp.2 (2 Team) Northside REV (45)
+- 171179 U9 GoGames 2022 - Group 1 (15)
+- 171174 U9 GoGames 2022 - Group 2 (15)
+- 171180 U9 GoGames 2022 - Group 3 (36)
+- 171175 U9 GoGames 2022 - Group 4 (28)
+- 171181 U9 GoGames 2022 - Group 5 (21)
+- 171176 U9 GoGames 2022 - Group 6 (10)
+- 173841 U9 Hurling Gp.1Y (3 Team) Northside REVISED (45)
+- 173866 U9 Hurling Gp.2 (2 Team) Northside REVISED (66)
+- 173864 U9 Hurling Gp.2 (2 Team) Southside REVISED (91)
+- 173867 U9 Hurling Gp.3 (1 Team) Northside REVISED (15)
+- 177119 U9s B (9)
+- 173137 U9s Blue Section (7)
+- 177120 U9s C (31)
+- 173136 U9s Green Section (4)
+- 174743 U9s Red Section (2)
+- 170482 U9s Section 1 A (5)
+- 170483 U9s Section 1 B (7)
+- 170484 U9s Section 1 C (3)
+- 170485 U9s Section 1 D (1)
+- 173138 U9s Yellow Section (2)
+- 171737 UNDER 15 B County  Football Knockout (3)
+- 176149 Ulster Carpets U14 Provincial League North (43)
+- 173432 Ulster Carpets U14 Provincial League South (55)
+- 176215 Ulster Carpets U14 Regional League A (5)
+- 173702 Ulster Carpets U14 Regional League B (20)
+- 173703 Ulster Carpets U14 Regional League C (30)
+- 176219 Ulster Carpets U14 Regional League D (29)
+- 169135 Ulster Carpets U14 Shield (1)
+- 173434 Ulster Carpets U16 Provincial League North (44)
+- 173431 Ulster Carpets U16 Provincial League South (56)
+- 176214 Ulster Carpets U16 Regional League A (11)
+- 173722 Ulster Carpets U16 Regional League B (15)
+- 173723 Ulster Carpets U16 Regional League C (30)
+- 176135 Ulster Carpets U16 Regional League D (20)
+- 169287 Ulster Carpets U16 Shield (4)
+- 173433 Ulster Carpets U18 Provincial League North (42)
+- 176159 Ulster Carpets U18 Provincial League South (59)
+- 176225 Ulster Carpets U18 Regional League A (12)
+- 176226 Ulster Carpets U18 Regional League B (21)
+- 171434 Ulster Intermediate Club Championship 2022 (7)
+- 171437 Ulster Junior Club Championship 2022 (8)
+- 175727 Ulster Junior Cup (16)
+- 175729 Ulster Junior Shield (23)
+- 169381 Ulster Juniors (1)
+- 172231 Ulster Minor Club Championship (8)
+- 173212 Ulster Rugby  Regional South 1 (28)
+- 173668 Ulster Rugby 2XV  League (72)
+- 171151 Ulster Rugby Premiership Division 1 (15)
+- 171152 Ulster Rugby Premiership Division 2 (15)
+- 173208 Ulster Rugby Provincial East 1 (28)
+- 173210 Ulster Rugby Provincial East 2 (28)
+- 173209 Ulster Rugby Provincial North (36)
+- 173206 Ulster Rugby Provincial Premier Division 1 (56)
+- 173207 Ulster Rugby Provincial Premier Division 2 (72)
+- 177678 Ulster Rugby Provincial Regional East 2- Phase 2 (28)
+- 177677 Ulster Rugby Provincial Regional North- Phase 2 (36)
+- 173214 Ulster Rugby Regional East 1 (28)
+- 173215 Ulster Rugby Regional East 2 (28)
+- 173211 Ulster Rugby Regional North West (28)
+- 177674 Ulster Rugby Regional South 1- Phase 2 (21)
+- 173213 Ulster Rugby Regional South 2 (28)
+- 177675 Ulster Rugby Regional South 2- Phase 2 (21)
+- 174355 Ulster Rugby Womens Championship (36)
+- 174472 Ulster Rugby Womens Conference (15)
+- 174090 Ulster Rugby Womens Premiership (28)
+- 177679 Ulster Rugby Womens Premiership Group 1 (6)
+- 175728 Ulster Senior Cup (5)
+- 177430 Un14A Hurling (1) (30)
+- 177596 Un14B Football (2) (7)
+- 177431 Un14B Hurling 1-1 (10)
+- 177432 Un14B Hurling 1-2 (12)
+- 177433 Un14C Hurling 1 (12)
+- 175246 Under !4A Shield (3)
+- 170295 Under - 13 'C' Hurling Development (6)
+- 172536 Under - 13 'C' Hurling Development Final (1)
+- 176114 Under - 15 Football Championship B Competition (5)
+- 172596 Under - 15 Football Championship Phase 2 Group 2A (15)
+- 172594 Under - 15 Football Championship Phase 2 Group 2B (15)
+- 172595 Under - 15 Football Championship Phase 2 Group 2C 2 (6)
+- 170305 Under - 15 Football Development (12)
+- 172337 Under - 17 'B' Football Championship Group 2B (6)
+- 174981 Under - 17 'C' Football Championship (2)
+- 172306 Under - 17 Hurling Championship Group 1A (23)
+- 172308 Under - 17 Hurling Championship Group 2B (28)
+- 171712 Under -13 Football Championship Phase 2 Group 2A (15)
+- 171710 Under -13 Football Championship Phase 2 Group 2B (15)
+- 171713 Under -13 Football Championship Phase 2 Group 2C (14)
+- 171711 Under -13 Football Championship Phase 2 Group 2D (15)
+- 173637 Under -13 Football Championship Phase 2 Knockout A Competition (5)
+- 173639 Under -13 Football Championship Phase 2 Knockout A1 Competition (5)
+- 173823 Under -13 Football Championship Phase 2 Knockout B Competition (5)
+- 175541 Under -15 Football Championship A Competition Knockout (5)
+- 175542 Under -15 Football Championship A1 Competition Knockout (5)
+- 172597 Under -15 Football Championship Phase 2 Group 2C 1 (27)
+- 172338 Under -17 'A' Football Championship Group 2A (6)
+- 173397 Under -17 'A' Football Championship Knockout (8)
+- 173625 Under -17 'B' Championship Knockout (8)
+- 172339 Under -17 'B' Football Championship Group 1B (6)
+- 169203 Under 10 Football PPL Group 1 (10)
+- 169200 Under 10 Football PPL Group 2 (12)
+- 169204 Under 10 Football PPL Group 3 (12)
+- 169201 Under 10 Football PPL Group 4 (18)
+- 169195 Under 10 Hurling Group 1 (21)
+- 176368 Under 10 PPL Final (1)
+- 170110 Under 10 SSG bye match up games (31)
+- 177114 Under 10s A (7)
+- 170794 Under 11 Black (20)
+- 170793 Under 11 Blue Division (23)
+- 175985 Under 11 Football Finals Group 1 (3)
+- 175983 Under 11 Football Finals Group 2 (3)
+- 175986 Under 11 Football Finals Group 3 (3)
+- 175981 Under 11 Football Finals Group 4 (4)
+- 175984 Under 11 Football Finals Group 5 (3)
+- 175982 Under 11 Football Finals Group 6 (5)
+- 170079 Under 11 Football Group 1 (39)
+- 170082 Under 11 Football Group 2 (39)
+- 170080 Under 11 Football Group 3 (39)
+- 170083 Under 11 Football Group 4 (52)
+- 170081 Under 11 Football Group 5 (39)
+- 170084 Under 11 Football Group 6 (65)
+- 170797 Under 11 Green Division (23)
+- 175885 Under 11 Hurling Finals Group 2 (4)
+- 169193 Under 11 Hurling Group 1 (39)
+- 175883 Under 11 Hurling Group 1 Finals (3)
+- 169188 Under 11 Hurling Group 2 (52)
+- 170796 Under 11 Orange Division (23)
+- 170792 Under 11 Red Division (30)
+- 174170 Under 11 SSG 3 team Group 3 (15)
+- 170795 Under 11 White Division (20)
+- 173022 Under 12 Boys Cup (11)
+- 172412 Under 12 Boys Division 1 (31)
+- 172414 Under 12 Boys Division 2B (30)
+- 172415 Under 12 Boys Division 3A (30)
+- 172416 Under 12 Boys Division 3B (21)
+- 172436 Under 12 Boys Division 4C (30)
+- 173033 Under 12 Boys Plate (16)
+- 172411 Under 12 Boys Premier (30)
+- 173023 Under 12 Boys Shield (13)
+- 173027 Under 12 Boys Trophy (10)
+- 175222 Under 12 Bye Match Up Games (1)
+- 173806 Under 12 Division 1 (28)
+- 173807 Under 12 Division 2 (28)
+- 172413 Under 12 Division 2A (30)
+- 173811 Under 12 Division 3 (28)
+- 173813 Under 12 Division 4 (36)
+- 172417 Under 12 Division 4A (30)
+- 172423 Under 12 Division 4B (20)
+- 173822 Under 12 Division 5 (36)
+- 173826 Under 12 Division 6 (28)
+- 173830 Under 12 Division 7 (28)
+- 173831 Under 12 Division 8 (36)
+- 173832 Under 12 Division 9 (28)
+- 170174 Under 12 Grading League Group A1 (10)
+- 170175 Under 12 Grading League Group A2 (15)
+- 170177 Under 12 Grading League Group B (15)
+- 170208 Under 12 Grading League Group C (15)
+- 170209 Under 12 Grading League Group D (15)
+- 170210 Under 12 Grading League Group E (15)
+- 170211 Under 12 Grading League Group F (15)
+- 170214 Under 12 Grading League Group G (15)
+- 175264 Under 12 Hurling Roinn 1 Cup (3)
+- 169205 Under 12 PPL Football Group 1 (12)
+- 169206 Under 12 PPL Football Group 2 (10)
+- 169209 Under 12 PPL Football Group 3 (10)
+- 169207 Under 12 PPL Football Group 4 (10)
+- 169190 Under 12 PPL Hurling Group 1 (14)
+- 169011 Under 12 Roinn  2A (15)
+- 168944 Under 12 Roinn 1A (15)
+- 168945 Under 12 Roinn 1B (10)
+- 175268 Under 12 Roinn 1Shield (5)
+- 175228 Under 12 Roinn 2 Cup (4)
+- 169012 Under 12 Roinn 2B (15)
+- 175269 Under 12 Roinn 3 Cup (3)
+- 175266 Under 12 Roinn 3 Shield (7)
+- 169013 Under 12 Roinn 3A (15)
+- 169014 Under 12 Roinn 3B (15)
+- 175270 Under 12 Roinn 4 Cup (3)
+- 175267 Under 12 Roinn 4 Shield (3)
+- 169015 Under 12 Roinn 4A (22)
+- 169016 Under 12 Roinn 7A (15)
+- 169585 Under 13 A Football Championship (21)
+- 175887 Under 13 A Football Championship (5)
+- 169570 Under 13 A Football League (21)
+- 169565 Under 13 A Hurling Championship (15)
+- 176561 Under 13 A Hurling Championship (2)
+- 169192 Under 13 A Hurling League (30)
+- 172181 Under 13 A1 Cup (3)
+- 172182 Under 13 A1 Shield (3)
+- 172341 Under 13 B Cup (3)
+- 169589 Under 13 B Football Championship (21)
+- 176089 Under 13 B Football Finals (3)
+- 169571 Under 13 B Football League (30)
+- 169564 Under 13 B Hurling Championship (28)
+- 176195 Under 13 B Hurling Finals (7)
+- 169187 Under 13 B Hurling League (28)
+- 172193 Under 13 B Shield (3)
+- 172196 Under 13 B1 Cup (4)
+- 172194 Under 13 B1 Shield (2)
+- 169865 Under 13 Boys Cup (15)
+- 169636 Under 13 Boys Division 1 C (30)
+- 169438 Under 13 Boys Division 1A (30)
+- 169469 Under 13 Boys Division 1B (20)
+- 169471 Under 13 Boys Division 2A (30)
+- 169473 Under 13 Boys Division 2B (30)
+- 169635 Under 13 Boys Division 2C (30)
+- 169437 Under 13 Boys Premier Division (30)
+- 169866 Under 13 Boys Shield (15)
+- 169867 Under 13 Boys Trophy (17)
+- 172195 Under 13 C Cup (3)
+- 169586 Under 13 C Football Championship (15)
+- 176088 Under 13 C Football Championship Finals (3)
+- 169579 Under 13 C Football League (30)
+- 172197 Under 13 C Shield (3)
+- 172237 Under 13 C1 Cup (1)
+- 173545 Under 13 Cup Division 1 Group A (6)
+- 173546 Under 13 Cup Division 1 Group B (6)
+- 173587 Under 13 Cup Division 10 Group A (6)
+- 173588 Under 13 Cup Division 10 Group B (6)
+- 173589 Under 13 Cup Division 11 Group A (6)
+- 173590 Under 13 Cup Division 11 Group B (3)
+- 173591 Under 13 Cup Division 12 (15)
+- 173547 Under 13 Cup Division 2 Group A (6)
+- 173548 Under 13 Cup Division 2 Group B (6)
+- 173551 Under 13 Cup Division 3 Group A (6)
+- 173562 Under 13 Cup Division 3 Group B (6)
+- 173563 Under 13 Cup Division 4 Group A (6)
+- 173564 Under 13 Cup Division 4 Group B (3)
+- 173565 Under 13 Cup Division 5 Group A (6)
+- 173566 Under 13 Cup Division 5 Group B (6)
+- 173568 Under 13 Cup Division 6 Group A (6)
+- 173569 Under 13 Cup Division 6 Group B (6)
+- 173580 Under 13 Cup Division 7 Group A (6)
+- 173581 Under 13 Cup Division 7 Group B (6)
+- 173582 Under 13 Cup Division 8 Group A (6)
+- 173584 Under 13 Cup Division 8 Group B (3)
+- 173585 Under 13 Cup Division 9 Group A (6)
+- 173586 Under 13 Cup Division 9 Group B (6)
+- 175889 Under 13 D Football (4)
+- 176091 Under 13 D Football Championship Finals (5)
+- 169580 Under 13 D Football League (36)
+- 172542 Under 13 D Football Section 1 (10)
+- 172539 Under 13 D Football Section 2 (8)
+- 176163 Under 13 Division 1 Cup Knock Out Stages (3)
+- 176185 Under 13 Division 10 Cup Knock Out Stages (3)
+- 176187 Under 13 Division 11 Cup Knock Out Stages (3)
+- 177107 Under 13 Division 12 Cup Final (1)
+- 177109 Under 13 Division 12 Plate Final (1)
+- 177108 Under 13 Division 12 Shield Final (1)
+- 176168 Under 13 Division 2 Cup Knock Out Stages (3)
+- 176171 Under 13 Division 3 Cup Knock Out Stages (3)
+- 176178 Under 13 Division 4 Cup Knock Out Stages (3)
+- 176311 Under 13 Division 5 Cup Knock Out Stages (3)
+- 176181 Under 13 Division 6 Cup Knock Out Stages (3)
+- 176183 Under 13 Division 7 Cup Knock Out Stages (3)
+- 176614 Under 13 Division 8 Cup Knock Out Stages (3)
+- 176615 Under 13 Division 8 Shield Knock Out Stages (3)
+- 176725 Under 13 Division 9 Cup Knock Out Stages (3)
+- 169587 Under 13 E Football Championship (15)
+- 176090 Under 13 E Football Championship Finals (3)
+- 169572 Under 13 E Football League (30)
+- 176389 Under 13 Hurling Play Off (1)
+- 174543 Under 13 League Div 1 (21)
+- 174574 Under 13 League Div 2 (21)
+- 174545 Under 13 League Div 3 (28)
+- 174546 Under 13 League Div 4 (28)
+- 174575 Under 13 League Div 5 (21)
+- 174764 Under 13 League Div 6 (28)
+- 176166 Under 13 Shield Division 1 Knock Out Stages (4)
+- 176186 Under 13 Shield Division 10 Knock Out Stages (3)
+- 176189 Under 13 Shield Division 11 Knock Out Stages (3)
+- 176170 Under 13 Shield Division 2 Knock Out Stages (3)
+- 176172 Under 13 Shield Division 3 Knock Out Stages (3)
+- 176179 Under 13 Shield Division 4 Knock Out Stages (3)
+- 176312 Under 13 Shield Division 5 Knock Out Stages (3)
+- 176182 Under 13 Shield Division 6 Knock Out Stages (3)
+- 176184 Under 13 Shield Division 7 Knock Out Stages (3)
+- 176726 Under 13 Shield Division 9 Knock Out Stages (3)
+- 174508 Under 13 Single Code Cup Green Group A (3)
+- 174510 Under 13 Single Code Cup Green Group B (3)
+- 176485 Under 13 Single Code Cup Green Knock Out stages (3)
+- 174512 Under 13 Single Code Cup Orange Group A (3)
+- 174513 Under 13 Single Code Cup Orange Group B (3)
+- 176534 Under 13 Single Code Cup Orange Knock Out Stages (3)
+- 174788 Under 13 Single Code Cup Red Group A (3)
+- 174790 Under 13 Single Code Cup Red Group B (3)
+- 176538 Under 13 Single Code Cup Red Knock Out Stages (3)
+- 176486 Under 13 Single Code Shield Green Final (1)
+- 176535 Under 13 Single Code Shield Orange Final (1)
+- 176539 Under 13 Single Code Shield Red Final (1)
+- 172179 Under 13A Cup (3)
+- 172178 Under 13A Shield (3)
+- 172711 Under 14 A Championship Grp A (6)
+- 172712 Under 14 A Championship Grp B (3)
+- 172713 Under 14 B Championship Grp A (6)
+- 172714 Under 14 B Championship Grp B (3)
+- 173132 Under 14 Boys Cup (15)
+- 173133 Under 14 Boys Shield (15)
+- 173134 Under 14 Boys Trophy (17)
+- 172715 Under 14 C Championship Grp A (6)
+- 172716 Under 14 C Championship Grp B (6)
+- 173503 Under 14 Championship Division 1 Group A (6)
+- 173504 Under 14 Championship Division 1 Group B (6)
+- 176201 Under 14 Championship Division 1 Knock Out Stages (3)
+- 173522 Under 14 Championship Division 10 Group A (6)
+- 173523 Under 14 Championship Division 10 Group B (6)
+- 176211 Under 14 Championship Division 10 Knock Out Stages (3)
+- 173505 Under 14 Championship Division 2 Group A (6)
+- 173506 Under 14 Championship Division 2 Group B (6)
+- 176203 Under 14 Championship Division 2 Knock Out Stages (3)
+- 173507 Under 14 Championship Division 3 Group A (6)
+- 173508 Under 14 Championship Division 3 Group B (6)
+- 176205 Under 14 Championship Division 3 Knock Out Stages (3)
+- 173509 Under 14 Championship Division 4 Group A (6)
+- 173510 Under 14 Championship Division 4 Group B (6)
+- 176683 Under 14 Championship Division 4 Knock Out Stages (3)
+- 173511 Under 14 Championship Division 5 Group A (6)
+- 173512 Under 14 Championship Division 5 Group B (6)
+- 176296 Under 14 Championship Division 5 Knock Out Stages (3)
+- 173514 Under 14 Championship Division 6 (15)
+- 177310 Under 14 Championship Division 6 Final (1)
+- 177311 Under 14 Championship Division 6 Shield Final (1)
+- 173516 Under 14 Championship Division 7 Group A (6)
+- 173517 Under 14 Championship Division 7 Group B (6)
+- 176262 Under 14 Championship Division 7 Knock Out Stages (3)
+- 173518 Under 14 Championship Division 8 Group A (6)
+- 173519 Under 14 Championship Division 8 Group B (6)
+- 176207 Under 14 Championship Division 8 Knock Out Stages (3)
+- 173520 Under 14 Championship Division 9 Group A (6)
+- 173521 Under 14 Championship Division 9 Group B (6)
+- 176209 Under 14 Championship Division 9 Knock Out Stages (3)
+- 172717 Under 14 D Championship Grp A (6)
+- 172718 Under 14 D Championship Grp B (6)
+- 172502 Under 14 Division 1 (20)
+- 173855 Under 14 Division 1 (28)
+- 173856 Under 14 Division 2 (28)
+- 172503 Under 14 Division 2A (30)
+- 173857 Under 14 Division 3 (28)
+- 172505 Under 14 Division 3A (31)
+- 172507 Under 14 Division 3C (30)
+- 173858 Under 14 Division 4 (28)
+- 173859 Under 14 Division 5 (28)
+- 173860 Under 14 Division 6 (28)
+- 173861 Under 14 Division 7 (28)
+- 173862 Under 14 Division 8 (21)
+- 174095 Under 14 Division 9 (21)
+- 173863 Under 14 Division 9 (Old) (15)
+- 172719 Under 14 E Championship Grp A (6)
+- 172720 Under 14 E Championship Grp B (6)
+- 172721 Under 14 E Championship Grp C (3)
+- 171008 Under 14 League Division 1A (6)
+- 171009 Under 14 League Division 1B (3)
+- 171011 Under 14 League Division 2A (6)
+- 171012 Under 14 League Division 2B (3)
+- 171013 Under 14 League Division 3A (6)
+- 171014 Under 14 League Division 3B (6)
+- 171015 Under 14 League Division 4A (6)
+- 171016 Under 14 League Division 4B (6)
+- 171017 Under 14 League Division 5A (6)
+- 171018 Under 14 League Division 5B (6)
+- 171019 Under 14 League Division 5C (6)
+- 176394 Under 14 PPL Football (1)
+- 169581 Under 14 PPL Football Group 1 (10)
+- 169573 Under 14 PPL Football Group 2 (18)
+- 169197 Under 14 PPL Hurling (18)
+- 172498 Under 14 Premier League (30)
+- 176202 Under 14 Shield Division 1 Knock Out Stages (3)
+- 176212 Under 14 Shield Division 10 Knock Out Stages (3)
+- 176204 Under 14 Shield Division 2 Knock Out Stages (3)
+- 176206 Under 14 Shield Division 3 Knock Out Stages (3)
+- 176684 Under 14 Shield Division 4 Knock Out Stages (3)
+- 176297 Under 14 Shield Division 5 Knock Out Stages (3)
+- 176263 Under 14 Shield Division 7 Knock Out Stages (3)
+- 176208 Under 14 Shield Division 8 Knock Out Stages (3)
+- 176210 Under 14 Shield Division 9 Knock Out Stages (3)
+- 174514 Under 14 Single Code Cup Green Group A (6)
+- 174515 Under 14 Single Code Cup Green Group B (3)
+- 176487 Under 14 Single Code Cup Green Knock Out Staged (3)
+- 174516 Under 14 Single Code Cup Orange Group A (3)
+- 174517 Under 14 Single Code Cup Orange Group B (3)
+- 176489 Under 14 Single Code Cup Orange Knock Out Stages (3)
+- 174518 Under 14 Single Code Cup Red (6)
+- 176491 Under 14 Single Code Cup Red Final (1)
+- 176488 Under 14 Single Code Shield Green Knock Out Stages (3)
+- 176490 Under 14 Single Code Shield Orange Final (1)
+- 176492 Under 14 Single Code Shield Red Final (1)
+- 175206 Under 14A Cup (9)
+- 173720 Under 14A Group 1 (6)
+- 173719 Under 14A Group 2 (6)
+- 175205 Under 14A1 Cup (6)
+- 175096 Under 14A1 Shield (3)
+- 175093 Under 14B Cup (3)
+- 175097 Under 14B Shield (4)
+- 175098 Under 14B1 Cup (4)
+- 175094 Under 14B1 Shield (4)
+- 175244 Under 14C Cup (3)
+- 175245 Under 14C Shield (3)
+- 175095 Under 14C1 Cup (5)
+- 175092 Under 14C1 Shield (1)
+- 171525 Under 15 A Cup (3)
+- 169591 Under 15 A Football Championship (15)
+- 176756 Under 15 A Football Championship Finals (3)
+- 169582 Under 15 A Football League (30)
+- 171521 Under 15 A Shield (3)
+- 171700 Under 15 A1 Cup (3)
+- 171526 Under 15 A1 Shield (3)
+- 171522 Under 15 B Cup (3)
+- 169590 Under 15 B Football Championship (15)
+- 176757 Under 15 B Football Championship (3)
+- 169574 Under 15 B Football League (30)
+- 169178 Under 15 B Group (2)
+- 171527 Under 15 B Shield (2)
+- 171543 Under 15 B Shield (1)
+- 171523 Under 15 B1 Cup (3)
+- 171528 Under 15 B1 Shield (3)
+- 169970 Under 15 Boys Cup (15)
+- 169644 Under 15 Boys Division 1 (31)
+- 169646 Under 15 Boys Division 2A (20)
+- 169647 Under 15 Boys Division 2B (19)
+- 169648 Under 15 Boys Division 3A (30)
+- 169649 Under 15 Boys Division 3B (21)
+- 169650 Under 15 Boys Division 3C (20)
+- 169638 Under 15 Boys Premier Division (20)
+- 169971 Under 15 Boys Shield (15)
+- 169972 Under 15 Boys Trophy (16)
+- 171524 Under 15 C Cup (3)
+- 176369 Under 15 C Football Finals (2)
+- 176577 Under 15 C Football Finals (8)
+- 172540 Under 15 C Football Group 1 (10)
+- 172543 Under 15 C Football Group 2 (8)
+- 169583 Under 15 C Football League (36)
+- 171520 Under 15 C Shield (2)
+- 173456 Under 15 Championship Division 1 Group A (6)
+- 173457 Under 15 Championship Division 1 Group B (6)
+- 176045 Under 15 Championship Division 1 Knock Out Stages (3)
+- 173472 Under 15 Championship Division 10 Group A (6)
+- 173473 Under 15 Championship Division 10 Group B (3)
+- 176063 Under 15 Championship Division 10 Knock Out Stages (3)
+- 173458 Under 15 Championship Division 2 Group A (6)
+- 173459 Under 15 Championship Division 2 Group B (6)
+- 176047 Under 15 Championship Division 2 Knock Out Stages (3)
+- 173460 Under 15 Championship Division 3 Group A (6)
+- 173461 Under 15 Championship Division 3 Group B (6)
+- 176049 Under 15 Championship Division 3 Knock Out Stages (3)
+- 173462 Under 15 Championship Division 4 Group A (6)
+- 173463 Under 15 Championship Division 4 Group B (6)
+- 176056 Under 15 Championship Division 4 Knock Out Stages (3)
+- 173464 Under 15 Championship Division 5 Group A (6)
+- 173465 Under 15 Championship Division 5 Group B (6)
+- 176058 Under 15 Championship Division 5 Knock Out Stages (3)
+- 173466 Under 15 Championship Division 6 Group A (6)
+- 173467 Under 15 Championship Division 6 Group B (6)
+- 176060 Under 15 Championship Division 6 Knock Out Stages (3)
+- 173468 Under 15 Championship Division 7 Group A (6)
+- 173469 Under 15 Championship Division 7 Group B (6)
+- 176313 Under 15 Championship Division 7 Knock Out Stages (3)
+- 173470 Under 15 Championship Division 8 (15)
+- 177279 Under 15 Championship Division 8 Final (1)
+- 173471 Under 15 Championship Division 9 (15)
+- 177085 Under 15 Championship Division 9 Final (1)
+- 176061 Under 15 Championship Shield 6 Knock Out Stages (3)
+- 169588 Under 15 D Football Championship (28)
+- 175886 Under 15 D Football Championship Section A (4)
+- 175888 Under 15 D Football Championship Section B (4)
+- 169575 Under 15 D Football League (28)
+- 172541 Under 15 D Football Section A (14)
+- 172538 Under 15 D Football Section B (12)
+- 170806 Under 15 Football Feile Division 1 Group A (3)
+- 170810 Under 15 Football Feile Division 1 Group B (3)
+- 170807 Under 15 Football Feile Division 1 Group C (3)
+- 170811 Under 15 Football Feile Division 1 Group D (3)
+- 170808 Under 15 Football Feile Division 2 Group A (3)
+- 170812 Under 15 Football Feile Division 2 Group B (3)
+- 170809 Under 15 Football Feile Division 2 Group C (1)
+- 170805 Under 15 Football Feile Division 2 Group D (1)
+- 169584 Under 15 Football Feile Group 1 (6)
+- 169576 Under 15 Football Feile Group 2 (6)
+- 169577 Under 15 Football Feile Group 3 (6)
+- 169569 Under 15 Football Feile Group 4 (6)
+- 169578 Under 15 Football Feile Group 5 (10)
+- 173499 Under 15 Group 4 (15)
+- 173502 Under 15 Group 5 (10)
+- 173501 Under 15 Group 6 (10)
+- 169566 Under 15 Hurling Championship (55)
+- 169196 Under 15 Hurling Feile Group 1 (11)
+- 169191 Under 15 Hurling Feile Group 2 (10)
+- 176809 Under 15 Hurling Finals (7)
+- 176390 Under 15 Hurling League Final (1)
+- 169194 Under 15 Hurling League Group 1 (15)
+- 169189 Under 15 Hurling League Group 2 (10)
+- 177281 Under 15 Plate Division 8 Final (1)
+- 177087 Under 15 Plate Division 9 Final (1)
+- 176046 Under 15 Shield Division 1 Knock Out Stages (3)
+- 176064 Under 15 Shield Division 10 Knock Out Stages (3)
+- 176048 Under 15 Shield Division 2 Knock Out Stages (3)
+- 176050 Under 15 Shield Division 3 Knock Out Stages (3)
+- 176057 Under 15 Shield Division 4 Knock Out Stages (3)
+- 176059 Under 15 Shield Division 5 Knock Out Stages (3)
+- 176628 Under 15 Shield Division 7 Knock Out Stages (3)
+- 177280 Under 15 Shield Division 8 Final (1)
+- 177086 Under 15 Shield Division 9 Final (1)
+- 174526 Under 15 Single Code Cup Blue (10)
+- 177373 Under 15 Single Code Cup Blue Final (1)
+- 174519 Under 15 Single Code Cup Green (6)
+- 176507 Under 15 Single Code Cup Green Final (1)
+- 174521 Under 15 Single Code Cup Orange Group A (6)
+- 174522 Under 15 Single Code Cup Orange Group B (6)
+- 176519 Under 15 Single Code Cup Orange Knock Out Stages (3)
+- 174525 Under 15 Single Code Cup Red (10)
+- 177185 Under 15 Single Code Cup Red Final (1)
+- 177374 Under 15 Single Code Shield Blue Final (1)
+- 176508 Under 15 Single Code Shield Green Final (1)
+- 176533 Under 15 Single Code Shield Orange Knock Out Stages (3)
+- 177186 Under 15 Single Code Shield Red Final (1)
+- 171639 Under 15C1 Shield (3)
+- 172445 Under 16 2A (30)
+- 169490 Under 16 A Cup (3)
+- 169492 Under 16 A Shield (2)
+- 169491 Under 16 A1 Cup (3)
+- 169489 Under 16 A1 Shield (3)
+- 175280 Under 16 Autumn League S1 (7)
+- 169496 Under 16 B Cup (3)
+- 169493 Under 16 B shield (3)
+- 169497 Under 16 B1 Cup (3)
+- 169494 Under 16 B1 Shield (3)
+- 172451 Under 16 Boy Division 3B (30)
+- 172446 Under 16 Boys 2B (12)
+- 173069 Under 16 Boys Cup (15)
+- 172440 Under 16 Boys Division 1 (30)
+- 172450 Under 16 Boys Division 3A (20)
+- 173070 Under 16 Boys Shield (10)
+- 173071 Under 16 Boys Trophy (15)
+- 169498 Under 16 C Cup (3)
+- 173524 Under 16 Championship Division 1 Group A (6)
+- 173525 Under 16 Championship Division 1 Group B (6)
+- 176233 Under 16 Championship Division 1 Knock Out Stages (3)
+- 173526 Under 16 Championship Division 2 Group A (6)
+- 173527 Under 16 Championship Division 2 Group B (6)
+- 176236 Under 16 Championship Division 2 Knock Out Stages (3)
+- 173528 Under 16 Championship Division 3 Group A (6)
+- 173529 Under 16 Championship Division 3 Group B (6)
+- 176562 Under 16 Championship Division 3 Knock Out Stages (3)
+- 173530 Under 16 Championship Division 4 Group A (6)
+- 173531 Under 16 Championship Division 4 Group B (6)
+- 176503 Under 16 Championship Division 4 Knock Out Stages (3)
+- 173533 Under 16 Championship Division 5 Group A (6)
+- 173534 Under 16 Championship Division 5 Group B (6)
+- 176241 Under 16 Championship Division 5 Knock Out Stages (3)
+- 173535 Under 16 Championship Division 6 Group A (6)
+- 173537 Under 16 Championship Division 6 Group B (6)
+- 176258 Under 16 Championship Division 6 Knock Out Stages (3)
+- 173542 Under 16 Championship Division 7 Group A (6)
+- 173543 Under 16 Championship Division 7 Group B (3)
+- 176260 Under 16 Championship Division 7 Knock Out Stages (3)
+- 173544 Under 16 Championship Division 8 (15)
+- 177102 Under 16 Championship Division 8 Final (1)
+- 171332 Under 16 Div 1 Cup Final (3)
+- 171333 Under 16 Div 1 Shield Final (3)
+- 173877 Under 16 Division 1 (28)
+- 173881 Under 16 Division 2 (28)
+- 173884 Under 16 Division 3 (21)
+- 173886 Under 16 Division 4 (21)
+- 173888 Under 16 Division 5 (21)
+- 173889 Under 16 Division 6 (15)
+- 173891 Under 16 Division 7 (21)
+- 169988 Under 16 League Division 1A (6)
+- 170281 Under 16 League Division 1B (6)
+- 170282 Under 16 League Division 2A (6)
+- 170283 Under 16 League Division 2B (3)
+- 170285 Under 16 League Division 3A (6)
+- 170286 Under 16 League Division 3B (6)
+- 170287 Under 16 League Division 4A (6)
+- 170288 Under 16 League Division 4B (6)
+- 170289 Under 16 League Division 4C (6)
+- 177104 Under 16 Plate Division 8 Final (1)
+- 172439 Under 16 Premier Division (30)
+- 176234 Under 16 Shield Division 1 Knock Out Stages (3)
+- 176237 Under 16 Shield Division 2 Knock Out Stages (3)
+- 176240 Under 16 Shield Division 3 Knock Out Stages (3)
+- 176504 Under 16 Shield Division 4 Knock Out Stages (3)
+- 176243 Under 16 Shield Division 5 Knock Out Stages (3)
+- 176259 Under 16 Shield Division 6 Knock Out Stages (3)
+- 176261 Under 16 Shield Division 7 Knock Out Stages (3)
+- 177103 Under 16 Shield Division 8 Final (1)
+- 174527 Under 16 Single Code Cup Green (3)
+- 176537 Under 16 Single Code Cup Green Final (1)
+- 174530 Under 16 Single Code Cup Orange (6)
+- 176950 Under 16 Single Code Cup Orange Final (1)
+- 174532 Under 16 Single Code Cup Red (3)
+- 176536 Under 16 Single Code Cup Red Final (1)
+- 177472 Under 17 A Football Championship Final (1)
+- 173901 Under 17 A Football Championship Group 1 (6)
+- 173902 Under 17 A Football Championship Group 2 (6)
+- 173904 Under 17 A Football Championship Group 3 (6)
+- 176698 Under 17 A Football Championship Quarter Final (4)
+- 177141 Under 17 A Football Championship Semifinal (2)
+- 176920 Under 17 A Hurling Championship Final (1)
+- 173883 Under 17 A Hurling Championship Group 1 (6)
+- 173887 Under 17 A Hurling Championship Group 2 (6)
+- 176464 Under 17 A Hurling Championship Semi Final (2)
+- 177539 Under 17 B Football Championship Final (1)
+- 173940 Under 17 B Football Championship Group 1 (15)
+- 173943 Under 17 B Football Championship Group 2 (6)
+- 177471 Under 17 B Football Championship Semi Final (2)
+- 177345 Under 17 B Hurling Championship Final (1)
+- 173890 Under 17 B Hurling Championship Group 1 (6)
+- 173892 Under 17 B Hurling Championship Group 2 (6)
+- 173893 Under 17 B Hurling Championship Group 3 (6)
+- 176463 Under 17 B Hurling Championship Quarter Final (4)
+- 176921 Under 17 B Hurling Championship Semi Final (2)
+- 169968 Under 17 Boys Cup (16)
+- 169522 Under 17 Boys Division 1A (30)
+- 169521 Under 17 Boys Division 1B (30)
+- 169519 Under 17 Boys Division 2A (20)
+- 169520 Under 17 Boys Division 2B (20)
+- 169523 Under 17 Boys Premier Division (31)
+- 169969 Under 17 Boys Shield (18)
+- 177474 Under 17 C Football Championship Final (1)
+- 173946 Under 17 C Football Championship Group 1 (6)
+- 173947 Under 17 C Football Championship Group 2 (6)
+- 173948 Under 17 C Football Championship Group 3 (6)
+- 173949 Under 17 C Football Championship Group 4 (6)
+- 176696 Under 17 C Football Championship Quarter Final (4)
+- 177142 Under 17 C Football Championship Semi Final (2)
+- 177605 Under 17 C Hurling Championship Final (1)
+- 173894 Under 17 C Hurling Championship Group 1 (15)
+- 173895 Under 17 C Hurling Championship Group 2 (6)
+- 173897 Under 17 C Hurling Championship Group 3 (6)
+- 177283 Under 17 C Hurling Championship Q/f (4)
+- 177543 Under 17 C Hurling Championship Semi Final (2)
+- 177475 Under 17 D Football Championship Final (1)
+- 173951 Under 17 D Football Championship Group 1 (6)
+- 173953 Under 17 D Football Championship Group 2 (6)
+- 173954 Under 17 D Football Championship Group 3 (6)
+- 173956 Under 17 D Football Championship Group 4 (6)
+- 176693 Under 17 D Football Championship Quarter Final (4)
+- 177143 Under 17 D Football Championship Semi Final (2)
+- 177477 Under 17 D Hurling Championship Final (2)
+- 173898 Under 17 D Hurling Championship Group 1 (6)
+- 173899 Under 17 D Hurling Championship Group 2 (6)
+- 176461 Under 17 D Hurling Championship Semi Final (1)
+- 176922 Under 17 D Hurling Championship Semi Final (1)
+- 173475 Under 18 Championship Division 1 Group A (6)
+- 173476 Under 18 Championship Division 1 Group B (6)
+- 175622 Under 18 Championship Division 1 Knock Out Stages (3)
+- 173497 Under 18 Championship Division 10 Group A (6)
+- 173500 Under 18 Championship Division 10 Group B (6)
+- 175633 Under 18 Championship Division 10 Knock Out Stages (3)
+- 173477 Under 18 Championship Division 2 Group A (6)
+- 173478 Under 18 Championship Division 2 Group B (6)
+- 175616 Under 18 Championship Division 2 Knock Out Stages (3)
+- 173480 Under 18 Championship Division 3 Group A (6)
+- 173481 Under 18 Championship Division 3 Group B (6)
+- 175618 Under 18 Championship Division 3 Knock Out Stages (3)
+- 173482 Under 18 Championship Division 4 Group A (6)
+- 173483 Under 18 Championship Division 4 Group B (3)
+- 175761 Under 18 Championship Division 4 Knock Out Stages (3)
+- 173484 Under 18 Championship Division 5 Group A (6)
+- 173485 Under 18 Championship Division 5 Group B (6)
+- 175625 Under 18 Championship Division 5 Knock Out Stages (3)
+- 173486 Under 18 Championship Division 6 Group A (6)
+- 173487 Under 18 Championship Division 6 Group B (6)
+- 175627 Under 18 Championship Division 6 Knock Out Stages (3)
+- 173488 Under 18 Championship Division 7 Group A (6)
+- 173489 Under 18 Championship Division 7 Group B (6)
+- 175629 Under 18 Championship Division 7 Knock Out Stages (3)
+- 173491 Under 18 Championship Division 8 Group A (6)
+- 173492 Under 18 Championship Division 8 Group B (6)
+- 175631 Under 18 Championship Division 8 Knock Out Stages (3)
+- 173493 Under 18 Championship Division 9 Group A (6)
+- 173495 Under 18 Championship Division 9 Group B (6)
+- 175848 Under 18 Championship Division 9 Knock Out Stages (2)
+- 175624 Under 18 Shield Division 1 Knock Out Stages (3)
+- 175634 Under 18 Shield Division 10 Knock Out Stages (3)
+- 175617 Under 18 Shield Division 2 Knockout Stages (3)
+- 175620 Under 18 Shield Division 3 Knock Out Stages (3)
+- 175762 Under 18 Shield Division 4 Knock Out Stages (3)
+- 175626 Under 18 Shield Division 5 Knock Out Stages (3)
+- 175784 Under 18 Shield Division 6 Knock Out Stages (3)
+- 175630 Under 18 Shield Division 7 Knock Out Stages (3)
+- 175632 Under 18 Shield Division 8 Knock Out Stages (2)
+- 175845 Under 18 Shield Division 8 Knock Out Stages (3)
+- 175849 Under 18 Shield Division 9 Knock Out Stages (3)
+- 177612 Under 19 A Football Championship (1)
+- 177615 Under 19 A Football Championship (1)
+- 177686 Under 19 A Football Championship (1)
+- 174283 Under 19 A Football Championship Group 1 (6)
+- 174285 Under 19 A Football Championship Group 2 (6)
+- 174254 Under 19 A Hurling Championship Group 1 (6)
+- 174255 Under 19 A Hurling Championship Group 2 (6)
+- 177687 Under 19 B Football Championship (1)
+- 177607 Under 19 B Football Championship Final (1)
+- 174689 Under 19 B Football Championship Group 1 (15)
+- 174290 Under 19 B Football Championship Group 2 (6)
+- 177540 Under 19 B Football Championship Semi Final (2)
+- 177344 Under 19 B Hurling Championship Final (1)
+- 174256 Under 19 B Hurling Championship Group 1 (6)
+- 174257 Under 19 B Hurling Championship Group 2 (6)
+- 176924 Under 19 B Hurling Championship Semi Final (2)
+- 177564 Under 19 C Football Championship (1)
+- 177565 Under 19 C Football Championship (1)
+- 177581 Under 19 C Football Championship (1)
+- 177582 Under 19 C Football Championship (1)
+- 177614 Under 19 C Football Championship (1)
+- 177608 Under 19 C Football Championship Final (1)
+- 174299 Under 19 C Football Championship Group 1 (6)
+- 174300 Under 19 C Football Championship Group 2 (6)
+- 174301 Under 19 C Football Championship Group 3 (6)
+- 174302 Under 19 C Football Championship Group 4 (6)
+- 177285 Under 19 C Football Championship Quarter Final (4)
+- 177541 Under 19 C Football Championship Semi Final (2)
+- 177606 Under 19 C Hurling Championship Final (1)
+- 174259 Under 19 C Hurling Championship Group 1 (6)
+- 174694 Under 19 C Hurling Championship Group 2 (15)
+- 177470 Under 19 C Hurling Championship SemiFinal (2)
+- 177681 Under 19 D Football Championship Final (1)
+- 174690 Under 19 D Football Championship Group 1 (15)
+- 174304 Under 19 D Football Championship Group 2 (6)
+- 174305 Under 19 D Football Championship Group 3 (15)
+- 177542 Under 19 D Football Championship Quarter Final (4)
+- 177604 Under 19 D Football Championship Semi Final (2)
+- 174313 Under 19 D Hurling Championship (6)
+- 176925 Under 19 D Hurling Championship Final (1)
+- 170488 Under 19 Div 3 Football (10)
+- 177611 Under 19B Football Championship (1)
+- 177613 Under 19B Football Championship (1)
+- 176959 Under 21 A Football Championship (7)
+- 176965 Under 21 A Hurling Championship (7)
+- 176972 Under 21 B Hurling Championship (7)
+- 176957 Under 21 C Football Championship (7)
+- 176974 Under 21 C Hurling Championship (8)
+- 176956 Under 21 D Football Championship (7)
+- 176975 Under 21 D Hurling Championship (7)
+- 176955 Under 21 E Football Championship (7)
+- 176980 Under 21 E Hurling Championship (7)
+- 176954 Under 21 F Football Championship (8)
+- 169408 Under 8 SSG 1 team Group 1 (15)
+- 169410 Under 8 SSG 2 team Group 1 (15)
+- 169411 Under 8 SSG 2 team Group 2 (20)
+- 169412 Under 8 SSG 3 team Group 1 (15)
+- 169413 Under 8 SSG 3 team Group 2 (15)
+- 169414 Under 8 SSG 3 team Group 3 (15)
+- 169415 Under 8 SSG 3 team Group 4 (28)
+- 169417 Under 8 SSG 4 team Group 1 (15)
+- 169418 Under 8 SSG 4 team Group 2 (20)
+- 169432 Under 8 SSG Bye match up games (10)
+- 177121 Under 8s A (8)
+- 173965 Under 8s Red Section (4)
+- 169419 Under 9 SSG 1 team Group 1 (15)
+- 174093 Under 9 SSG 1 team group 2 (10)
+- 169420 Under 9 SSG 2 team Group 1 (20)
+- 169421 Under 9 SSG 2 team Group 2 (20)
+- 169422 Under 9 SSG 2 team Group 3 (25)
+- 169423 Under 9 SSG 3 team Group 1 (20)
+- 169424 Under 9 SSG 3 team Group 2 (20)
+- 169426 Under 9 SSG 3 team Group 3 (15)
+- 169427 Under 9 SSG 3 team Group 4 (15)
+- 169428 Under 9 SSG 4 team Group 1 (10)
+- 169430 Under 9 SSG 4 team Group 2 (15)
+- 169431 Under 9 SSG Bye match up games (10)
+- 177118 Under 9s A (4)
+- 172336 Under- 17 'A' Football Championship Group 1A (6)
+- 173635 Under-13 Hurling Championship Phase 2 A Competition Knockout (5)
+- 173636 Under-13 Hurling Championship Phase 2 A1 Competition Knockout (5)
+- 173364 Under-13 Hurling Championship Phase 2 B Competition Knockout (6)
+- 171584 Under-13 Hurling Championship Phase 2 Group 2A (15)
+- 171585 Under-13 Hurling Championship Phase 2 Group 2B (15)
+- 171586 Under-13 Hurling Championship Phase 2 Group 2C (6)
+- 171587 Under-13 Hurling Championship Phase 2 Group 2D (3)
+- 174978 Under-15 Hurling Championship A Competition Knockout (5)
+- 174979 Under-15 Hurling Championship A1 Competition Knockout (6)
+- 174977 Under-15 Hurling Championship B Competition Knockout (4)
+- 170090 Under-15 Hurling Championship Phase 1 Group A (6)
+- 170091 Under-15 Hurling Championship Phase 1 Group B (6)
+- 170092 Under-15 Hurling Championship Phase 1 Group C (6)
+- 170089 Under-15 Hurling Championship Phase 1 Group D (10)
+- 172405 Under-15 Hurling Championship Phase 2 Group A (15)
+- 172407 Under-15 Hurling Championship Phase 2 Group B (15)
+- 172406 Under-15 Hurling Championship Phase 2 Group C (10)
+- 172340 Under-17 'C' Football Championship (10)
+- 175426 Under-17 Hurling Championship 1A Knockout (3)
+- 175425 Under-17 Hurling Championship 2B Knockout (3)
+- 172131 Under-19 A Football (15)
+- 172087 Under-19 A Hurling (5)
+- 172082 Under-19 B Football Gr 1 (4)
+- 172086 Under-19 B Football Gr 2 (5)
+- 172130 Under-19 B Hurl - Gr 1 (7)
+- 172129 Under-19 B Hurling - Gr 2 (11)
+- 176759 Under-21 B Hurling (7)
+- 174440 Under11 Bye Match Ups (15)
+- 176306 Under12 Autumn Development League (15)
+- 174430 Under12 SSG Group 7Y (1)
+- 172504 Under14 Division 2B (31)
+- 172506 Under14 Division 3B (30)
+- 171588 Under15C1 Cup (1)
+- 172955 United Rugby Championship (72)
+- 174031 Universitaire Féminin (34)
+- 174052 Universitaire Masculin (32)
+- 175336 University Men (29)
+- 173026 VGC Intermediate Football Championship G1 (6)
+- 173028 VGC Intermediate Football Championship G2 (6)
+- 174081 VGC Intermediate Football Championship KNOCK-OUT (3)
+- 170086 Vinnie Murray Plate Final (Senior) (1)
+- 173150 Voodoo Cup Area 1 (15)
+- 173151 Voodoo Cup Area 2 (10)
+- 173152 Voodoo Cup Area 3 (10)
+- 173153 Voodoo Cup Area 4 (15)
+- 177466 WAIL Conference Final (1)
+- 177462 WAIL Conference S/F (2)
+- 177213 WAIL League Final (1)
+- 177461 WAIL League S/F (2)
+- 172920 WBSC European Championship Qualifier 2022 (6)
+- 173107 WBSC European Championship Qualifiers Final (1)
+- 173992 WBSC U18 European Baseball Championship Group A 2022 (15)
+- 173993 WBSC U18 European Baseball Championship Group B 2022 (15)
+- 174364 WBSC U18 European Baseball Championship Playoffs 2022 (4)
+- 174363 WBSC U18 European Baseball Championship Ranking 2022 (8)
+- 175873 WRWC (3)
+- 177509 WRWC Bronze Final (1)
+- 177510 WRWC Q/F (1)
+- 177508 WRWC S/F (1)
+- 172183 WRWC Warm Ups (3)
+- 173032 WReilly Intermediate Hurling Championship (10)
+- 171334 WSFL  Under 15A Cup (6)
+- 170544 WSFL Under 11A Cup (7)
+- 174905 WSFL Under 11A League (90)
+- 170545 WSFL Under 11B Cup (7)
+- 174907 WSFL Under 11B League (56)
+- 170548 WSFL Under 11C Cup (7)
+- 174910 WSFL Under 11C League (72)
+- 170550 WSFL Under 11D Cup (7)
+- 174914 WSFL Under 11D League (90)
+- 170551 WSFL Under 11E Cup (7)
+- 174920 WSFL Under 11E League (90)
+- 175684 WSFL Under 11F League (90)
+- 170552 WSFL Under 12A Cup (7)
+- 174441 WSFL Under 12A League (56)
+- 170553 WSFL Under 12B Cup (7)
+- 174843 WSFL Under 12B League (42)
+- 170554 WSFL Under 12C Cup (8)
+- 177307 WSFL Under 12C League (90)
+- 170555 WSFL Under 12D Cup (7)
+- 174845 WSFL Under 12D League (110)
+- 171968 WSFL Under 13A Cup (8)
+- 174956 WSFL Under 13A League (56)
+- 170652 WSFL Under 13B Cup (4)
+- 174485 WSFL Under 13B League (42)
+- 170679 WSFL Under 13C Cup (4)
+- 174954 WSFL Under 13C League (56)
+- 170653 WSFL Under 13D Cup (4)
+- 174498 WSFL Under 13D League (90)
+- 170897 WSFL Under 14A Cup (7)
+- 174827 WSFL Under 14A League (72)
+- 170867 WSFL Under 14B Cup (7)
+- 174828 WSFL Under 14B League (42)
+- 170654 WSFL Under 14C Cup (4)
+- 174838 WSFL Under 14C League (42)
+- 172117 WSFL Under 14D Cup (11)
+- 174840 WSFL Under 14D League (42)
+- 174958 WSFL Under 15A League (72)
+- 170655 WSFL Under 15B Cup (5)
+- 174950 WSFL Under 15B League (56)
+- 171336 WSFL Under 15C Cup (6)
+- 174818 WSFL Under 15C League (30)
+- 174819 WSFL Under 15D League (30)
+- 170868 WSFL Under 16A Cup (7)
+- 174452 WSFL Under 16A League (56)
+- 170671 WSFL Under 16B Cup (8)
+- 175449 WSFL Under 16B League (56)
+- 170674 WSFL Under 16C Cup (7)
+- 174815 WSFL Under 16C League (30)
+- 169399 Wagga Senior Winter 2022 (42)
+- 169173 Walshs Pharmacy JB1 F C Group One (9)
+- 169174 Walshs Pharmacy JB1 F C Group Two (3)
+- 169826 Warriors U12 Cup Competition (7)
+- 169782 Warriors U14 Cup Competition (12)
+- 169783 Warriors U14 Sheild Competition (12)
+- 169784 Warriors U16 Cup Competition (16)
+- 169785 Warriors U16 Sheild Competition (16)
+- 173561 Watch Centre North Junior B Hurling Championship Knock Out (6)
+- 171200 Waterford Feile Hurling Knockout Division 1 (3)
+- 171201 Waterford Feile Hurling Knockout Division 2 (3)
+- 171202 Waterford Feile Hurling Knockout Division 3 (3)
+- 170987 Waterford Feile Qualifying Hurling Division 1 East (6)
+- 170992 Waterford Feile Qualifying Hurling Division 1 West (6)
+- 170995 Waterford Feile Qualifying Hurling Division 2 East (6)
+- 170993 Waterford Feile Qualifying Hurling Division 2 West (6)
+- 170994 Waterford Feile Qualifying Hurling Division 3 Group B (3)
+- 170997 Waterford Feile Qualifying Hurling Division 3 Group C (3)
+- 170996 Waterford Qualifying Hurling Division 3 Group A (3)
+- 176543 We Ae Dublin Championship U13 Shield Finals (10)
+- 174238 We Are Dublin Championship U13 Division 1 Group A (6)
+- 174239 We Are Dublin Championship U13 Division 1 Group B (6)
+- 174240 We Are Dublin Championship U13 Division 2 Group A (6)
+- 174241 We Are Dublin Championship U13 Division 2 Group B (6)
+- 174242 We Are Dublin Championship U13 Division 3 Group A (6)
+- 174243 We Are Dublin Championship U13 Division 3 Group B (6)
+- 174244 We Are Dublin Championship U13 Division 4 Group A (6)
+- 174245 We Are Dublin Championship U13 Division 4 Group B (6)
+- 174246 We Are Dublin Championship U13 Division 5 Group A (6)
+- 174247 We Are Dublin Championship U13 Division 5 Group B (6)
+- 174248 We Are Dublin Championship U13 Division 6 Group A (6)
+- 174249 We Are Dublin Championship U13 Division 6 Group B (6)
+- 174250 We Are Dublin Championship U13 Division 7 Group A (6)
+- 174251 We Are Dublin Championship U13 Division 7 Group B (6)
+- 174252 We Are Dublin Championship U13 Division 8 Group A (6)
+- 174253 We Are Dublin Championship U13 Division 8 Group B (6)
+- 176541 We Are Dublin Championship U13 Finals (9)
+- 176540 We Are Dublin Championship U13 Semi Finals (16)
+- 176542 We Are Dublin Championship U13 Shield Semi Finals (15)
+- 174220 We Are Dublin Championship U14 Division 1 Group A (6)
+- 174222 We Are Dublin Championship U14 Division 1 Group B (6)
+- 174221 We Are Dublin Championship U14 Division 2 Group A (6)
+- 174223 We Are Dublin Championship U14 Division 2 Group B (6)
+- 174225 We Are Dublin Championship U14 Division 3 Group A (6)
+- 174226 We Are Dublin Championship U14 Division 3 Group B (6)
+- 174227 We Are Dublin Championship U14 Division 4 Group A (6)
+- 174228 We Are Dublin Championship U14 Division 4 Group B (6)
+- 174229 We Are Dublin Championship U14 Division 5 Group A (6)
+- 174230 We Are Dublin Championship U14 Division 5 Group B (6)
+- 174232 We Are Dublin Championship U14 Division 6 Group A (6)
+- 174233 We Are Dublin Championship U14 Division 6 Group B (6)
+- 176545 We Are Dublin Championship U14 Finals (6)
+- 176544 We Are Dublin Championship U14 Semi Finals (12)
+- 176547 We Are Dublin Championship U14 Shield Finals (10)
+- 176546 We Are Dublin Championship U14 Shield Semi Finals (9)
+- 174209 We Are Dublin Championship U15 Division 1 Group A (6)
+- 174210 We Are Dublin Championship U15 Division 1 Group B (6)
+- 174211 We Are Dublin Championship U15 Division 2 Group A (6)
+- 174212 We Are Dublin Championship U15 Division 2 Group B (6)
+- 174214 We Are Dublin Championship U15 Division 3 Group B (6)
+- 174215 We Are Dublin Championship U15 Division 4 Group A (6)
+- 174216 We Are Dublin Championship U15 Division 4 Group B (6)
+- 174217 We Are Dublin Championship U15 Division 5 Group A (6)
+- 174218 We Are Dublin Championship U15 Division 5 Group B (6)
+- 174219 We Are Dublin Championship U15 Division 6 (15)
+- 176550 We Are Dublin Championship U15 Finals (6)
+- 176549 We Are Dublin Championship U15 Semi Finals (10)
+- 176552 We Are Dublin Championship U15 Shield Finals (6)
+- 176551 We Are Dublin Championship U15 Shield Semi Finals (8)
+- 174199 We Are Dublin Championship U16 Division 1 Group A (6)
+- 174200 We Are Dublin Championship U16 Division 1 Group B (6)
+- 174201 We Are Dublin Championship U16 Division 2 Group A (6)
+- 174202 We Are Dublin Championship U16 Division 2 Group B (6)
+- 174203 We Are Dublin Championship U16 Division 3 Group A (6)
+- 174204 We Are Dublin Championship U16 Division 3 Group B (6)
+- 174206 We Are Dublin Championship U16 Division 4 Group B (6)
+- 174207 We Are Dublin Championship U16 Division 5 Group A (6)
+- 174208 We Are Dublin Championship U16 Division 5 Group B (6)
+- 176554 We Are Dublin Championship U16 Finals (5)
+- 176553 We Are Dublin Championship U16 Semi Finals (11)
+- 176556 We Are Dublin Championship U16 Shield Finals (6)
+- 176555 We Are Dublin Championship U16 Shield Semi Finals (9)
+- 174213 We Are Dublin Championship u15 Division 3 Group A (6)
+- 174205 We are Dublin Championship U16 Division 4 Group A (6)
+- 172079 West Intermediate Hurling (3)
+- 172085 West Intermediate football (3)
+- 172437 West Mayo JFC Finals 2022 (3)
+- 171462 West Mayo JFC Group 2 (6)
+- 171463 West Mayo JFC Group1 (10)
+- 170319 West Mayo U12 Group 1 League 2022 (6)
+- 170315 West Mayo U12 Group 2 League 2022 (6)
+- 170320 West Mayo U12 Group 3 League 2022 (6)
+- 170316 West Mayo U12 Group 4 League 2022 (6)
+- 170321 West Mayo U12 Group 5 League 2022 (6)
+- 169996 West Mayo U14 Second Team 2022 League (10)
+- 171022 West Mayo U14 Second Team Knockout 2022 (1)
+- 169480 West Mayo U16A KnockoutChampionship 2022 (1)
+- 170677 West Mayo U16B Knockout Championship 2022 (1)
+- 168716 West Mayo U16C Group 1 Championship 2022 (7)
+- 170421 West Mayo U16C Knockout Championship 2022 (3)
+- 169479 West Mayo U18A Knockout 2022 (3)
+- 169481 West Mayo U18B Knockout 2022 (1)
+- 169416 West Mayo U18B League 2022 (6)
+- 172914 West North U17 B/C League (5)
+- 172077 West Prem Intermediate Hurling (1)
+- 172078 West Senior Hurling (1)
+- 172080 West Senior football (3)
+- 176987 West Tipp Under-21 A Football (12)
+- 176794 West Tipp Under-21 A Hurl - div B (4)
+- 176795 West Tipp Under-21 A Hurling (3)
+- 176986 West Tipp Under-21 B Football (11)
+- 169861 West U11 Gaelic Football Division 1 (21)
+- 169862 West U11 Gaelic Football Division 2 (27)
+- 170426 West U11A Football D1 R1 (6)
+- 170427 West U11A Hurling D1 R1 (6)
+- 170428 West U11A football D2 R1 (6)
+- 170429 West U11A football D2 R1 (12)
+- 170518 West U11B Football Division 1 (6)
+- 170519 West U11B Football Division 2 (10)
+- 170476 West U11B Hurling Division ! (12)
+- 170477 West U11B Hurling Division 2 (11)
+- 176928 West U12 Football Knockout Group 1 (2)
+- 176929 West U12 Football Knockout Group 2 (2)
+- 176927 West U12 Football Knockout Group 3 (2)
+- 176264 West U12 Hurling League Group 2 (6)
+- 176267 West U12 Hurling League Group 3 (6)
+- 176266 West U12 Hurling League Group 4 (15)
+- 176629 West U12A Hurling Knockout (1)
+- 176633 West U12B Hurling Knockout (4)
+- 176631 West U12C Hurling Knockout (4)
+- 176634 West U12D Hurling Knockout (4)
+- 176632 West U12E Hurling Knockout (1)
+- 176630 West U12F Hurling Knockout (1)
+- 176265 West U12Hurling League Group 1 (6)
+- 175049 West U13 C Hurling Knockout (3)
+- 169527 West U13A Football 2021 (10)
+- 169631 West U13A Football 2022 (11)
+- 170744 West U13A Football Knockout (4)
+- 171742 West U13A Hurling Championship (7)
+- 174932 West U13A Hurling Knockout (3)
+- 169529 West U13B Football 2022 (15)
+- 169628 West U13B Football 2022 (15)
+- 170743 West U13B Football Knockout (4)
+- 171745 West U13B Hurling Championship (16)
+- 174802 West U13B Hurling Knockout (8)
+- 169528 West U13C Football (6)
+- 169634 West U13C Football Knockout (3)
+- 171743 West U13C Hurling Championship (12)
+- 169629 West U13C/D Football League 2022 (10)
+- 169632 West U13C/D Football League 2022 (15)
+- 170800 West U13D Football Knockout (5)
+- 171744 West U13D Hurling Championship (20)
+- 175236 West U13D Hurling Knockout (3)
+- 170493 West U14A KO 2022 (1)
+- 170337 West U14B KO 2022 (3)
+- 170675 West U14C KO 2022 (2)
+- 169633 West U15A Football 2022 (6)
+- 170801 West U15A Football Knockout (4)
+- 171748 West U15A Hurling Championship (8)
+- 175107 West U15A Hurling Knockout (3)
+- 169630 West U15B Football 2022 (15)
+- 170985 West U15B Football Knockout (4)
+- 171747 West U15B Hurling Championship (21)
+- 175106 West U15B Hurling Knockout (4)
+- 176030 West U17A Football Championship (11)
+- 177506 West U17A Football Knockout (3)
+- 172447 West U17A Hurling Championship (10)
+- 175235 West U17A Hurling Knockout (3)
+- 177498 West U17B Football Knockout (4)
+- 176811 West U17B Football League (6)
+- 172449 West U17B Hurling Championship (10)
+- 175237 West U17B Hurling Knockout (3)
+- 174760 Western Hygiene Supplies Championship (132)
+- 174761 Western Hygiene Supplies Division 1 (90)
+- 174762 Western Hygiene Supplies Division 2 (72)
+- 174759 Western Hygiene Supplies Premier (90)
+- 174763 Western Hygiene Supplies Reserve (56)
+- 168795 Westmeath ACFL Div 1 2022 (46)
+- 168792 Westmeath ACFL Div 2 2022 (46)
+- 168796 Westmeath ACFL Div 3 2022 (46)
+- 168793 Westmeath ACFL Div 4 2022 (46)
+- 168797 Westmeath ACFL Div 5 2022 (46)
+- 172254 Westmeath ACFL Div 6 2022 (1)
+- 168791 Westmeath ACFL Div 6A 2022 (28)
+- 168790 Westmeath ACFL Div 6B 2022 (15)
+- 171499 Westville Hotel Senior Football League Division 1 (45)
+- 174460 Westville Hotel Senior Football League Division 1 (1)
+- 173989 Wexford People U17 Hurling Championship Division  4 Group A (4)
+- 172421 Wexford People U17 Hurling Championship Division 1 (20)
+- 175748 Wexford People U17 Hurling Championship Division 1 Cup (3)
+- 175750 Wexford People U17 Hurling Championship Division 1 Shield (3)
+- 172418 Wexford People U17 Hurling Championship Division 2 (20)
+- 175747 Wexford People U17 Hurling Championship Division 2 Cup (3)
+- 175746 Wexford People U17 Hurling Championship Division 2 Shield (3)
+- 172422 Wexford People U17 Hurling Championship Division 3 (20)
+- 175745 Wexford People U17 Hurling Championship Division 3 Cup (3)
+- 175749 Wexford People U17 Hurling Championship Division 3 Shield (3)
+- 172419 Wexford People U17 Hurling Championship Division 4 (11)
+- 173990 Wexford People U17 Hurling Championship Division 4 Group B (1)
+- 172420 Wexford People U17 Hurling Championship Premier  Division (20)
+- 175743 Wexford People U17 Hurling Championship Premier Division Cup (3)
+- 175744 Wexford People U17 Hurling Championship Premier Division Shield (3)
+- 171668 Wexford Wanderers RFC Tag League 2022 (15)
+- 176224 Whites Bar East U-20 B Football Championship (5)
+- 176223 Whites Bar East U-20 C Hurling Championship (3)
+- 175427 Whizzy Internet Intermediate A football Championship Gp A (15)
+- 175428 Whizzy Internet Intermediate A football Championship Gp B (15)
+- 176052 Whizzy Internet Intermediate A football Championship Knockout (8)
+- 171277 Winners Section (6)
+- 171387 Winners Section (6)
+- 171594 Winners Section (12)
+- 168956 Winters Cup (Metro J4) (13)
+- 172552 Women 7s Championship - Krakow (29)
+- 171516 Women 7s Championship - Lisbon (25)
+- 171390 Women 7s Conference - Belgrade (34)
+- 172935 Women 7s RWCQ - Bucharest (22)
+- 171493 Women 7s Trophy - Zagreb (34)
+- 172145 Women 7s Trophy Budapest (34)
+- 174271 Women U21 Interpros (6)
+- 175941 Womens 7s 24th September (11)
+- 176253 Womens 7s Oct 1 (6)
+- 176843 Womens 7s Oct 15 (10)
+- 177243 Womens 7s Oct 22 (3)
+- 176931 Womens D1 National Cup 2022/23 (12)
+- 173905 Womens D2 (24)
+- 173906 Womens D3 (15)
+- 169400 Womens Development (1)
+- 174744 Womens Division 1 (56)
+- 175312 Womens Division 1 (56)
+- 174747 Womens Division 1 Cup (7)
+- 174752 Womens Division 2 (72)
+- 175314 Womens Division 2 (42)
+- 174984 Womens Division 3 (56)
+- 175315 Womens Division 3 (56)
+- 174987 Womens Division 4 (72)
+- 175319 Womens Division 4 (56)
+- 174989 Womens Division 5 (56)
+- 175320 Womens Division 5 (20)
+- 169618 Womens Division 5 Cup (4)
+- 174992 Womens Division 6 (72)
+- 174748 Womens Examiner Cup - Group A (6)
+- 174749 Womens Examiner Cup - Group B (6)
+- 175877 Womens Fall League (9)
+- 173966 Womens Friendly (9)
+- 174086 Womens Friendly (5)
+- 175251 Womens Friendly (21)
+- 177181 Womens Future League : 2022 (12)
+- 174007 Womens Intermediate Cup (1)
+- 175131 Womens Island Division (25)
+- 176138 Womens League Conference B (12)
+- 176139 Womens League Conference C (13)
+- 176065 Womens League Conference Playoffs (16)
+- 175128 Womens Mainland Division 1 (15)
+- 175129 Womens Mainland Division 2 (19)
+- 175130 Womens Mainland Division 3 (25)
+- 176870 Womens Munster Open Cup (4)
+- 172822 Womens NLD 1 (24)
+- 172823 Womens NLD 2 (38)
+- 169864 Womens Paul Cusack Plate (3)
+- 169616 Womens Paul Flood Plate (7)
+- 175733 Womens President Cup (2)
+- 170735 Womens Promotion/Relegation Play Offs (1)
+- 175033 Womens University (15)
+- 169841 X7s National Finals - Girls Snr and Jnr (1)
+- 174560 XV U18 Qualifier (1)
+- 174561 XV U20 Qualifier (1)
+- 169642 Youth Blitz (1)
+- 168977 Youths U13 East Munster Plate (3)
+- 170558 Youths U13 League Group 2 Final (1)
+- 169248 Youths U13 North Munster League  Finals (3)
+- 170727 Youths U13 South Munster League Group 1 (1)
+- 169466 Youths U14 North Munster League Finals (3)
+- 168976 Youths U14 North Munster League Playoffs (9)
+- 169759 Youths U14 South Munster Cup (10)
+- 170207 Youths U14 South Munster Dev Plate Qualifier (1)
+- 169758 Youths U14 South Munster Development Cup (8)
+- 170584 Youths U14 South Munster Development Plate (1)
+- 168975 Youths U14 South Munster League Plate (7)
+- 170583 Youths U14 South Munster Plate (2)
+- 170164 Youths U14 South Munster Plate Qualifier (2)
+- 170126 Youths U16 East Munster Plate (4)
+- 169680 Youths U16 South Munster Cup (7)
+- 170213 Youths U16 South Munster Dev Plate Qualifier (1)
+- 169596 Youths U16 South Munster Development Cup (11)
+- 170526 Youths U16 South Munster Development Plate (3)
+- 170227 Youths U16 South Munster League (3)
+- 170216 Youths U16 South Munster Plate (2)
+- 170917 Youths U17 Inter-County Blitz (10)
+- 170368 Youths U18.5 East Munster Plate (3)
+- 169511 Youths U18.5 North Munster League Final (1)
+- 169558 Youths U18.5 South Munster Cup (7)
+- 169679 Youths U18.5 South Munster Development Cup (10)
+- 170433 Youths U18.5 South Munster Development Plate (2)
+- 170226 Youths U18.5 South Munster League (3)
+- 170432 Youths U18.5 South Munster Plate (1)
+- 176338 adf (6)
+- 169162 north tipp u15a (17)
+- 176746 north tipperary (6)
+- 177400 test (1)
+- 176528 u-14 A Knock Out (3)
+- 176529 u-14 B Knock Out (3)
+- 176257 u-14 C 1/4 Finals (4)
+- 172689 u-14 Div 1 Knock Out (3)
+- 171171 u-14 Div 1 Summer League (12)
+- 172690 u-14 Div 2 Knock Out (3)
+- 171172 u-14 Div 2 Summer League (12)
+- 172691 u-14 Div 3 Knock Out (3)
+- 171173 u-14 Div 3 Summer League (12)
+- 172692 u-14 Div 4 Knock Out (3)
+- 171459 u-14 Div 4 Summer League (12)
+- 176502 u-14 Team 2 KO (3)
+- 173748 u-14 Team 2s (11)
+- 171021 u-16 C Knock Out (3)
+- 171000 u-16 D Knock Out (3)
+- 172490 u-17 Division 1 (10)
+- 174367 u-17 Division 1 KO (3)
+- 172491 u-17 Division 2 (19)
+- 172492 u-17 Division 3 (12)
+- 172493 u-17 Division 4 (12)
+- 177230 u-19 A KO (3)
+- 177231 u-19 D KO (3)
+- 170447 u-21 Div 2 Knock Out (4)
+- 170446 u-21 Div 3 Knock Out (3)
+- 169873 u12 Girls Cup (5)
+- 175136 u12 Hurling 2022 (4)
+- 172884 u13 Div 2 (6)
+- 170120 u14 girls cup (5)
+- 170776 u17 East Region League Div1 (18)
+- 170777 u17 East Region League Div2, (14)
+- 170778 u17 East Region League Div3 (14)
+- 170973 u17 East Region League Div3 (26)
+- 177516 under 19 A Football Championship Final (1)
+- 177284 under 19 A Football Championship Semi Final (2)
+- 177343 under 19 A Hurling Championship Final (1)
+- 176923 under 19 A Hurling Championship Semi Final (2)
+- 176958 under 21 B Football Championship (7)
