@@ -21,6 +21,7 @@ import os
 import re
 import sys
 import threading
+import unicodedata
 from concurrent.futures import ThreadPoolExecutor
 
 import requests
@@ -57,16 +58,26 @@ def session():
     return local.s
 
 
-def canon(name):
-    """Match the canonicalisation the report's own pipeline uses."""
-    s = name.lower()
-    s = re.sub(r'\b(cumann peile?|clg|cl g|gaa|c\.?l\.?g\.?)\b', ' ', s)
-    s = re.sub(r"[^a-z0-9\s]", " ", s)
-    s = re.sub(r'\s+[a-d]$', ' ', s + ' ').strip()
+ALIAS = {'moycullen': 'maigh cuilinn', 'mhaigh cuilinn': 'maigh cuilinn',
+         'st jamess': 'st james', 'bhearna na forbacha': 'bearna na forbacha'}
+
+
+def canon(t):
+    """The report's own canonicaliser, copied exactly.
+
+    A reimplementation of this missed Irish lenition — "Cumann Peil Mhaigh
+    Cuilinn" did not reduce to "maigh cuilinn" — and that silently failed two
+    of the three 2022 senior championship groups. Keep this in step with
+    fourseason.canon.
+    """
+    s = unicodedata.normalize('NFKD', str(t)).encode('ascii', 'ignore').decode().lower()
+    s = re.sub(r'\b(cumann|peile?|iomanaiochta|clg|gaa|club)\b', ' ', s)
+    s = re.sub(r"[^a-z0-9]", ' ', s)
     s = re.sub(r'\s+', ' ', s).strip()
-    # drop a trailing single-letter team marker (Claregalway A -> claregalway)
+    s = re.sub(r'\s+(football|hurling)$', '', s)
     s = re.sub(r'\s+[a-d]$', '', s)
-    return s
+    s = re.sub(r'\bmh', 'm', s)
+    return ALIAS.get(s, s)
 
 
 def galway_football(comp, teams):
@@ -113,7 +124,7 @@ def page(cid):
 
 
 def main():
-    cands = json.load(open("data/unlisted_2022.json", encoding="utf-8"))
+    cands = json.load(open("data/all_2022_comps.json", encoding="utf-8"))
     # shortlist on the sampled names first, so only plausible pages are fetched
     short = [c for c in cands
              if galway_football(c["name"], c.get("teams", []))[0]]
