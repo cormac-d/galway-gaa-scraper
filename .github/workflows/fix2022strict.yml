@@ -1,0 +1,39 @@
+name: 2022 strict append
+
+# Re-does the 2022 append with an allowlist of Galway clubs instead of keyword
+# blocklists, which let soccer, rugby and other counties through.
+#
+# Triggered by editing fix2022strict.txt on main.
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['fix2022strict.txt']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fix2022strict
+  cancel-in-progress: true
+
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+      - run: pip install requests beautifulsoup4
+      - run: python fix2022strict.py
+      - name: Commit findings
+        if: always()
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A data/
+          git diff --staged --quiet || git commit -m "2022 strict append $(date -u +'%Y-%m-%d %H:%M')"
+          git pull --rebase origin main
+          git push
