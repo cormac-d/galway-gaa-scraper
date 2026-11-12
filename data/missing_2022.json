@@ -1,0 +1,4021 @@
+[
+ {
+  "id": 174759,
+  "name": "Western Hygiene Supplies Premier",
+  "n": 90,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Athenry",
+   "Colga",
+   "Corrib Celtic",
+   "Galway Hibs"
+  ]
+ },
+ {
+  "id": 174761,
+  "name": "Western Hygiene Supplies Division 1",
+  "n": 90,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Athenry B",
+   "Cois Fharraige",
+   "Corofin Utd",
+   "Cregmore/Claregalway"
+  ]
+ },
+ {
+  "id": 175313,
+  "name": "U13 Boys Division 5",
+  "n": 90,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Athenry C",
+   "Bearna Na Forbacha B",
+   "Kiltullagh B",
+   "Maree/Oranmore C"
+  ]
+ },
+ {
+  "id": 176398,
+  "name": "Connacht Junior Cup",
+  "n": 76,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Athenry",
+   "Athenry B",
+   "Athenry C",
+   "Ballina Town"
+  ]
+ },
+ {
+  "id": 174762,
+  "name": "Western Hygiene Supplies Division 2",
+  "n": 72,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Bearna Na Forbacha",
+   "Colga B",
+   "Galway Bohs",
+   "Kiltullagh"
+  ]
+ },
+ {
+  "id": 174876,
+  "name": "U13 Boys Division 2",
+  "n": 72,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Athenry B",
+   "Cregmore/Claregalway B",
+   "Gort Utd",
+   "Kilshanvey Utd"
+  ]
+ },
+ {
+  "id": 174563,
+  "name": "Connacht Cup Under 12",
+  "n": 64,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Arrow Harps",
+   "Athenry",
+   "Ballina Town",
+   "Ballina Town 2"
+  ]
+ },
+ {
+  "id": 174564,
+  "name": "Connacht Cup Under 14",
+  "n": 63,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Arrow Harps",
+   "Athenry",
+   "Ballina Town",
+   "Ballina Town 2"
+  ]
+ },
+ {
+  "id": 174869,
+  "name": "U13 Boys Championship",
+  "n": 57,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Athenry",
+   "Bearna Na Forbacha",
+   "Cregmore/Claregalway",
+   "Galway Hibs"
+  ]
+ },
+ {
+  "id": 175253,
+  "name": "U12 Boys Div 4 - Brown",
+  "n": 57,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Athenry Brown",
+   "Ballinasloe Town Brown",
+   "Corofin Utd Brown",
+   "East Galway Utd"
+  ]
+ },
+ {
+  "id": 174763,
+  "name": "Western Hygiene Supplies Reserve",
+  "n": 56,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Corofin Utd",
+   "Corrib Celtic",
+   "Corrib Rangers",
+   "Dynamo Blues"
+  ]
+ },
+ {
+  "id": 174775,
+  "name": "U14 Boys Premier",
+  "n": 56,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Athenry",
+   "Ballinasloe Town",
+   "Colga",
+   "Knocknacarra"
+  ]
+ },
+ {
+  "id": 174779,
+  "name": "U14 Division 1 Boys",
+  "n": 56,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Corofin Utd",
+   "Corrib Celtic",
+   "Craughwell United",
+   "Kilshanvey Utd"
+  ]
+ },
+ {
+  "id": 174783,
+  "name": "U14 Division 3 Boys",
+  "n": 56,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Colga B",
+   "Corofin Utd B",
+   "Corrib Rangers",
+   "East Galway Utd"
+  ]
+ },
+ {
+  "id": 174793,
+  "name": "U16 Boys Division 2",
+  "n": 56,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Athenry B",
+   "Bearna Na Forbacha B",
+   "Galway Bohs",
+   "Kinvara Utd"
+  ]
+ },
+ {
+  "id": 174868,
+  "name": "U13 Boys Premier",
+  "n": 56,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Ballinasloe Town",
+   "Colga",
+   "Corofin Utd",
+   "Knocknacarra"
+  ]
+ },
+ {
+  "id": 174900,
+  "name": "U15 Boys Championship",
+  "n": 56,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Bearna Na Forbacha",
+   "Colga",
+   "Knocknacarra B",
+   "Loughrea"
+  ]
+ },
+ {
+  "id": 174904,
+  "name": "U15 Boys Division 4",
+  "n": 56,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Bearna Na Forbacha B",
+   "Colemanstown Utd B",
+   "Cregmore/Claregalway C",
+   "Galway Bohs B"
+  ]
+ },
+ {
+  "id": 175254,
+  "name": "U12 Boys Div 5 - Red",
+  "n": 56,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Bearna Na Forbacha Red",
+   "Corrib Celtic Red",
+   "Cregmore/Claregalway Red",
+   "Kilshanvey Utd Red"
+  ]
+ },
+ {
+  "id": 175255,
+  "name": "U12 Boys Div 6 - Navy",
+  "n": 56,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Athenry Navy",
+   "Craughwell United Navy",
+   "Cregmore/Claregalway Navy",
+   "Kinvara Utd Navy"
+  ]
+ },
+ {
+  "id": 176152,
+  "name": "U14 Division 2 Boys",
+  "n": 56,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Ballinasloe Town B",
+   "Bearna Na Forbacha B",
+   "Colemanstown Utd",
+   "Knocknacarra B"
+  ]
+ },
+ {
+  "id": 169535,
+  "name": "GFA Girls U17 Premier League",
+  "n": 55,
+  "years": [
+   2021,
+   2022
+  ],
+  "teams": [
+   "Bearna Na Forbacha",
+   "Colemanstown Utd",
+   "Corrib Celtic",
+   "Corrib Rangers"
+  ]
+ },
+ {
+  "id": 174794,
+  "name": "U16 Boys Division 3",
+  "n": 55,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Bearna Na Forbacha C",
+   "Corrib Celtic B",
+   "East Galway Utd",
+   "Gort Utd"
+  ]
+ },
+ {
+  "id": 175471,
+  "name": "Connacht Cup U12 Boys",
+  "n": 53,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Arrow Harps",
+   "Athenry",
+   "Ballina Town B",
+   "Ballinasloe Town"
+  ]
+ },
+ {
+  "id": 176971,
+  "name": "GFA U12 Girls Div 2",
+  "n": 53,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Bearna Na Forbacha B",
+   "Colga C",
+   "Corofin Utd",
+   "Cregmore/Claregalway B"
+  ]
+ },
+ {
+  "id": 175469,
+  "name": "Connacht Cup U14 Boys",
+  "n": 49,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Athenry",
+   "Ballinasloe Town",
+   "Ballinasloe Town B",
+   "Ballymote Celtic"
+  ]
+ },
+ {
+  "id": 175252,
+  "name": "U12 Boys Div 3 -  Purple",
+  "n": 47,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Athenry Purple",
+   "Bearna Na Forbacha",
+   "Colemanstown Utd",
+   "Colga"
+  ]
+ },
+ {
+  "id": 170238,
+  "name": "GFA O35s Non-Junior 2022",
+  "n": 45,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Athenry",
+   "Corrib Celtic B",
+   "Kiltullagh",
+   "Kinvara Utd"
+  ]
+ },
+ {
+  "id": 174792,
+  "name": "U18 Division 1 Boys",
+  "n": 45,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Athenry B",
+   "Colga B",
+   "Corrib Rangers",
+   "Craughwell United"
+  ]
+ },
+ {
+  "id": 174913,
+  "name": "U17 Boys Division 1",
+  "n": 44,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Cregmore/Claregalway",
+   "Kilshanvey Utd",
+   "Knocknacarra B",
+   "MacDara"
+  ]
+ },
+ {
+  "id": 174903,
+  "name": "U15 Boys Division 3",
+  "n": 43,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Corrib Celtic B",
+   "Kilshanvey Utd",
+   "Maree/Oranmore B",
+   "Oughterard B"
+  ]
+ },
+ {
+  "id": 174778,
+  "name": "U14 Boys Championship",
+  "n": 42,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Bearna Na Forbacha",
+   "Cregmore/Claregalway",
+   "Kinvara Utd",
+   "Loughrea"
+  ]
+ },
+ {
+  "id": 174784,
+  "name": "U14 Division 4 Boys",
+  "n": 42,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Athenry",
+   "Ballinasloe Town C",
+   "Corrib Celtic B",
+   "Cregmore/Claregalway B"
+  ]
+ },
+ {
+  "id": 174785,
+  "name": "U14 Division 5 Boys",
+  "n": 42,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Bearna Na Forbacha C",
+   "Cregmore/Claregalway C",
+   "Gort Utd",
+   "Kinvara Utd B"
+  ]
+ },
+ {
+  "id": 174786,
+  "name": "U16 Boys Premier",
+  "n": 42,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Athenry",
+   "Bearna Na Forbacha",
+   "Knocknacarra",
+   "Maree/Oranmore"
+  ]
+ },
+ {
+  "id": 174787,
+  "name": "U18 Premier Boys",
+  "n": 42,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Colga",
+   "Cregmore/Claregalway",
+   "Knocknacarra",
+   "Maree/Oranmore"
+  ]
+ },
+ {
+  "id": 174807,
+  "name": "GFA U14 Girls Division 1",
+  "n": 42,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Athenry B",
+   "Colga",
+   "Corrib Rangers",
+   "Kilshanvey Utd"
+  ]
+ },
+ {
+  "id": 174810,
+  "name": "GFA U16 Girls",
+  "n": 42,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Athenry",
+   "Bearna Na Forbacha",
+   "Colga",
+   "Corrib Celtic"
+  ]
+ },
+ {
+  "id": 174899,
+  "name": "U15 Boys Premier",
+  "n": 42,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Athenry",
+   "Corrib Celtic",
+   "Cregmore/Claregalway",
+   "Knocknacarra"
+  ]
+ },
+ {
+  "id": 174909,
+  "name": "U17 Boys Premier",
+  "n": 42,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Athenry",
+   "Colemanstown Utd",
+   "Knocknacarra",
+   "Maree/Oranmore"
+  ]
+ },
+ {
+  "id": 174919,
+  "name": "Ladies Championship",
+  "n": 42,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Athenry",
+   "Dynamo Blues",
+   "Kiltullagh",
+   "Loughrea Rams"
+  ]
+ },
+ {
+  "id": 174990,
+  "name": "GFA U13 Girls Championship",
+  "n": 42,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Athenry",
+   "Bearna Na Forbacha",
+   "Corrib Celtic",
+   "East Galway Utd"
+  ]
+ },
+ {
+  "id": 175080,
+  "name": "GFA U13 Girls Division 2",
+  "n": 42,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Bearna Na Forbacha B",
+   "Colga B",
+   "Merlin Woods Sports Club",
+   "Moyne Villa B"
+  ]
+ },
+ {
+  "id": 175923,
+  "name": "SFAI Subway Under 14 Boys Cup",
+  "n": 42,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Arrow Harps",
+   "Athenry",
+   "Ballinasloe",
+   "Ballisodare Utd"
+  ]
+ },
+ {
+  "id": 175916,
+  "name": "SFAI Subway Under12 Boys Cup",
+  "n": 41,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Arrow Harps",
+   "Athenry",
+   "Ballina Town",
+   "Ballinasloe"
+  ]
+ },
+ {
+  "id": 175447,
+  "name": "Connacht Cup U16 Boys",
+  "n": 38,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Ballina Town",
+   "Ballymote Celtic",
+   "Bearna Na Forbacha",
+   "Boyle Celtic"
+  ]
+ },
+ {
+  "id": 176439,
+  "name": "Schools Junior Girls League",
+  "n": 38,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Abbey CC",
+   "Calasanctius Oranmore",
+   "Clarin College Athenry",
+   "Clifden CS"
+  ]
+ },
+ {
+  "id": 175890,
+  "name": "U14 National Cup Boys",
+  "n": 37,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Athenry",
+   "Ballinasloe Town",
+   "Bearna Na Forbacha B",
+   "Boyle Celtic"
+  ]
+ },
+ {
+  "id": 175324,
+  "name": "U21 Championship",
+  "n": 36,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Bearna Na Forbacha",
+   "Corrib Celtic",
+   "Craughwell United",
+   "Cregmore/Claregalway"
+  ]
+ },
+ {
+  "id": 174791,
+  "name": "U18 Championship Boys",
+  "n": 35,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Athenry",
+   "Bearna Na Forbacha",
+   "Cois Fharraige",
+   "Corrib Celtic"
+  ]
+ },
+ {
+  "id": 177083,
+  "name": "Connacht Shield U14 Boys",
+  "n": 34,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Arrow Harps",
+   "Ballinasloe Town",
+   "Ballymoe FC",
+   "Bearna Na Forbacha"
+  ]
+ },
+ {
+  "id": 175133,
+  "name": "FAI Junior Cup",
+  "n": 33,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Athenry",
+   "Buncrana Hearts",
+   "Clonmullion FC",
+   "Colemanstown Utd"
+  ]
+ },
+ {
+  "id": 174566,
+  "name": "Girls Under 12 Connacht Cup",
+  "n": 31,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Athenry",
+   "Ballaghderreen FC",
+   "Ballinrobe Town",
+   "Ballymote Celtic"
+  ]
+ },
+ {
+  "id": 174567,
+  "name": "Girls Under 14 Connacht Cup",
+  "n": 31,
+  "years": [
+   1999,
+   2022
+  ],
+  "teams": [
+   "Arrow Harps",
+   "Athenry",
+   "Ballinrobe Town",
+   "Ballisodare Utd"
+  ]
+ },
+ {
+  "id": 174902,
+  "name": "U15 Boys Division 2",
+  "n": 31,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Athenry B",
+   "Cregmore/Claregalway B",
+   "East Galway Utd",
+   "Kinvara Utd"
+  ]
+ },
+ {
+  "id": 175200,
+  "name": "GFA U14 Girls Championship",
+  "n": 31,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Bearna Na Forbacha",
+   "Cregmore/Claregalway",
+   "East Galway Utd",
+   "Knocknacarra B"
+  ]
+ },
+ {
+  "id": 175323,
+  "name": "U21 Premier",
+  "n": 31,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Athenry",
+   "Colga",
+   "Knocknacarra",
+   "Maree/Oranmore"
+  ]
+ },
+ {
+  "id": 175847,
+  "name": "SFAI Subway Under 13 Boys",
+  "n": 31,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Arrow Harps",
+   "Athenry",
+   "Ballina Town",
+   "Ballinasloe"
+  ]
+ },
+ {
+  "id": 175874,
+  "name": "U12 National Cup Boys",
+  "n": 31,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Arrow Harps",
+   "Athenry",
+   "Ballina Town",
+   "Ballinasloe Town"
+  ]
+ },
+ {
+  "id": 175926,
+  "name": "SFAI Subway Under 16 Boys Cup",
+  "n": 31,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Athenry",
+   "Ballisodare Utd",
+   "Castlebar Town",
+   "Colmanstown Utd"
+  ]
+ },
+ {
+  "id": 170365,
+  "name": "U12 GFA Championship Girls",
+  "n": 30,
+  "years": [
+   2021,
+   2022
+  ],
+  "teams": [
+   "Corrib Celtic",
+   "Craughwell United C",
+   "Cregmore/Claregalway",
+   "Kilshanvey Utd"
+  ]
+ },
+ {
+  "id": 174781,
+  "name": "U16 Boys Championship",
+  "n": 30,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Colemanstown Utd",
+   "Colga",
+   "Cregmore/Claregalway",
+   "Knocknacarra B"
+  ]
+ },
+ {
+  "id": 174789,
+  "name": "U16 Boys Division 1",
+  "n": 30,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Corrib Celtic",
+   "Cregmore/Claregalway B",
+   "Kiltullagh",
+   "Loughrea"
+  ]
+ },
+ {
+  "id": 174805,
+  "name": "GFA U14 Girls Premier",
+  "n": 30,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Athenry",
+   "Corrib Celtic",
+   "Knocknacarra",
+   "Maree/Oranmore"
+  ]
+ },
+ {
+  "id": 174912,
+  "name": "U17 Boys Championship",
+  "n": 30,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Bearna Na Forbacha",
+   "Corrib Celtic",
+   "Galway Hibs",
+   "Kiltullagh"
+  ]
+ },
+ {
+  "id": 174959,
+  "name": "U12 Boys Premier - Blue",
+  "n": 30,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Athenry",
+   "Cregmore/Claregalway",
+   "Knocknacarra",
+   "Maree/Oranmore"
+  ]
+ },
+ {
+  "id": 174970,
+  "name": "GFA U12 Girls Premier",
+  "n": 30,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Bearna Na Forbacha",
+   "Colga",
+   "Cregmore/Claregalway",
+   "Knocknacarra"
+  ]
+ },
+ {
+  "id": 174971,
+  "name": "GFA U12 Girls Championship",
+  "n": 30,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Athenry",
+   "Colga B",
+   "Corrib Celtic",
+   "Knocknacarra B"
+  ]
+ },
+ {
+  "id": 174985,
+  "name": "GFA U13 Girls Premier",
+  "n": 30,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Colga",
+   "Cregmore/Claregalway",
+   "Knocknacarra",
+   "Maree/Oranmore"
+  ]
+ },
+ {
+  "id": 175082,
+  "name": "GFA U15 Girls Premier",
+  "n": 30,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Athenry",
+   "Bearna Na Forbacha",
+   "Corrib Celtic",
+   "Knocknacarra"
+  ]
+ },
+ {
+  "id": 175083,
+  "name": "GFA U15 Girls Championship",
+  "n": 30,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Colga",
+   "Cregmore/Claregalway",
+   "Kilshanvey Utd",
+   "Maree/Oranmore"
+  ]
+ },
+ {
+  "id": 175242,
+  "name": "U12 Boys Championship - Green",
+  "n": 30,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Corofin Utd",
+   "Cregmore/Claregalway Green",
+   "Knocknacarra Green",
+   "Loughrea"
+  ]
+ },
+ {
+  "id": 175282,
+  "name": "U12 Girls Connacht Cup",
+  "n": 30,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Athenry",
+   "Ballaghdereen",
+   "Ballinrobe Town",
+   "Ballymote Celtic"
+  ]
+ },
+ {
+  "id": 175927,
+  "name": "U16A Boys Pinergy All Ireland Schools Cup",
+  "n": 30,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Calasanctius Oranmore",
+   "Colaiste Baile an Chlair",
+   "Colaiste Choilm Ballincollig",
+   "Colaiste Eanna"
+  ]
+ },
+ {
+  "id": 176444,
+  "name": "Schools Junior B League",
+  "n": 30,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Athlone CC",
+   "Calasanctius Oranmore",
+   "Clifden CS",
+   "Colaiste Bhaile Chlair"
+  ]
+ },
+ {
+  "id": 175029,
+  "name": "GFA U12 Girls Division 3",
+  "n": 29,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Athenry B",
+   "Kiltullagh",
+   "Knocknacarra C",
+   "Merlin Woods Sports Club"
+  ]
+ },
+ {
+  "id": 175897,
+  "name": "U16 National Cup Boys",
+  "n": 29,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Athenry",
+   "Ballyboro",
+   "Colemanstown Utd",
+   "Corrib Celtic"
+  ]
+ },
+ {
+  "id": 169716,
+  "name": "U16 League Fixtures Division 7",
+  "n": 28,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Claregalway C",
+   "Corofin B",
+   "Milltown",
+   "Naomh Mhuire C"
+  ]
+ },
+ {
+  "id": 169717,
+  "name": "U14 League Fixtures Division 1",
+  "n": 28,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "An Spid\u00e9al",
+   "Annaghdown A",
+   "Claregalway A",
+   "Kilkerrin Clonberne"
+  ]
+ },
+ {
+  "id": 169718,
+  "name": "U14 League Fixtures Division 2",
+  "n": 28,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Ballinasloe",
+   "Caherlistrane A",
+   "Caltra Cuans A",
+   "Corofin A"
+  ]
+ },
+ {
+  "id": 169719,
+  "name": "U14 League Fixtures Division 3",
+  "n": 28,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Claregalway B",
+   "Dunmore McHales",
+   "Maigh Cuilinn A",
+   "Menlough Skehana"
+  ]
+ },
+ {
+  "id": 169720,
+  "name": "U14 League Fixtures Division 4",
+  "n": 28,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Bearna Na Forbacha A",
+   "Glenamaddy Williamstown",
+   "Kilconly",
+   "Milltown"
+  ]
+ },
+ {
+  "id": 169721,
+  "name": "U14 League Fixtures Division 5",
+  "n": 28,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "An Cheathr\u00fa Rua",
+   "Carna Caiseal",
+   "Gr\u00e1inne Mhaols",
+   "Killannin"
+  ]
+ },
+ {
+  "id": 174568,
+  "name": "Girls Under 16 Connacht Cup",
+  "n": 28,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Arrow Harps",
+   "Ballinrobe Town",
+   "Bearna Na Forbacha",
+   "Calry Bohs"
+  ]
+ },
+ {
+  "id": 175844,
+  "name": "U13 National Cup Boys",
+  "n": 28,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Athenry",
+   "Ballina Town",
+   "Ballinasloe Town",
+   "Carrick Town"
+  ]
+ },
+ {
+  "id": 175846,
+  "name": "U15 National Cup Boys",
+  "n": 28,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Arrow Harps",
+   "Athenry",
+   "Ballinasloe Town",
+   "Belvedere"
+  ]
+ },
+ {
+  "id": 176445,
+  "name": "Schools Junior C League",
+  "n": 28,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Abbey CC",
+   "Carrick CS",
+   "Clarin College Athenry",
+   "Colaiste an Eachreidh"
+  ]
+ },
+ {
+  "id": 176844,
+  "name": "Connacht Shield Under 12",
+  "n": 27,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Ballina Town",
+   "Claremorris",
+   "Coolaney Utd",
+   "Corofin Utd"
+  ]
+ },
+ {
+  "id": 175350,
+  "name": "Connacht Cup U16 Boys",
+  "n": 26,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Ballina Town",
+   "Ballisodare United",
+   "Ballyboro FC",
+   "Barna/Fubro"
+  ]
+ },
+ {
+  "id": 175901,
+  "name": "SFAI Subway  Under 15 Boys Cup",
+  "n": 26,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Arrow Harps",
+   "Athenry",
+   "Ballinasloe",
+   "Ballisodare Utd"
+  ]
+ },
+ {
+  "id": 176627,
+  "name": "Connacht Cup U18 Boys",
+  "n": 24,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Abbey Utd",
+   "Ballina Town",
+   "Bearna Na Forbacha",
+   "Castlebar Celtic"
+  ]
+ },
+ {
+  "id": 175286,
+  "name": "U14 Girls Connacht Cup",
+  "n": 23,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Athenry",
+   "Ballymote Celtic",
+   "Bearna Na Forbacha",
+   "Castlebar Celtic"
+  ]
+ },
+ {
+  "id": 176846,
+  "name": "Connacht Shield Under 16",
+  "n": 23,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Athenry",
+   "Ballinrobe Town",
+   "Ballymote",
+   "Ballymote Celtic"
+  ]
+ },
+ {
+  "id": 175764,
+  "name": "SFAI Cup U12 Girls",
+  "n": 22,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Athenry",
+   "Ballyglass",
+   "Bearna Na Forbacha",
+   "Castlebar Celtic"
+  ]
+ },
+ {
+  "id": 177350,
+  "name": "U14 National Trophy Boys",
+  "n": 22,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Ardee Celtic",
+   "Athenry",
+   "Ballinasloe Town B",
+   "Ballisodare Utd"
+  ]
+ },
+ {
+  "id": 169663,
+  "name": "Adult League Fixtures 2022 Division 2",
+  "n": 21,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Annaghdown A",
+   "Bearna Na Forbacha",
+   "Glenamaddy Williamstown",
+   "Naomh Anna, Leitir M\u00f3ir A"
+  ]
+ },
+ {
+  "id": 169690,
+  "name": "U16 League Fixtures Division 2",
+  "n": 21,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "An Spid\u00e9al",
+   "Caltra Cuans",
+   "Dunmore McHales",
+   "Kilkerrin Clonberne"
+  ]
+ },
+ {
+  "id": 169707,
+  "name": "U16 League Fixtures Division 5",
+  "n": 21,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "An Cheathr\u00fa Rua",
+   "Carna Caiseal",
+   "Claregalway B",
+   "Gr\u00e1inne Mhaols"
+  ]
+ },
+ {
+  "id": 169723,
+  "name": "U14 League Fixtures Division 7",
+  "n": 21,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Ballinasloe B",
+   "Claregalway D",
+   "Loughrea B",
+   "Monivea Abbey C"
+  ]
+ },
+ {
+  "id": 175430,
+  "name": "Girls Under 14 SFAI Subway Cup",
+  "n": 21,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Arrow Harps",
+   "Athenry",
+   "Ballyglass",
+   "Bearna Na Forbacha"
+  ]
+ },
+ {
+  "id": 175084,
+  "name": "GFA U15 Girls Division 1",
+  "n": 20,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Bearna Na Forbacha B",
+   "Colemanstown Utd",
+   "Craughwell United",
+   "Kiltullagh"
+  ]
+ },
+ {
+  "id": 175300,
+  "name": "U17 Boys Division 2",
+  "n": 20,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Kinvara Utd",
+   "Loughrea",
+   "Maree/Oranmore B",
+   "Moyne Villa B"
+  ]
+ },
+ {
+  "id": 175765,
+  "name": "SFAI Cup U14 Girls",
+  "n": 20,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Arrow Harps",
+   "Athenry",
+   "Bearna Na Forbacha",
+   "Burren Celtic"
+  ]
+ },
+ {
+  "id": 176448,
+  "name": "Schools U14 C League",
+  "n": 20,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Abbey CC",
+   "Calasanctius Oranmore",
+   "Carrick CS",
+   "Clarin College Athenry"
+  ]
+ },
+ {
+  "id": 177326,
+  "name": "SFAI Subway Under 14 Trophy",
+  "n": 19,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Arrow Harps",
+   "Athenry",
+   "Ballinasloe",
+   "Ballinasloe 2"
+  ]
+ },
+ {
+  "id": 175164,
+  "name": "FAI Youth Cup U18",
+  "n": 18,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Athenry",
+   "Ballina Town",
+   "Bearna Na Forbacha",
+   "Colga"
+  ]
+ },
+ {
+  "id": 175352,
+  "name": "Connacht Cup U14 Girls",
+  "n": 18,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Ballinrobe",
+   "Barna/Fubro",
+   "Castlebar Celtic",
+   "Castlebar Town"
+  ]
+ },
+ {
+  "id": 176455,
+  "name": "Schools Senior B League",
+  "n": 18,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Athlone CC",
+   "Colaiste Einde",
+   "Pres Athenry",
+   "Pres Headford"
+  ]
+ },
+ {
+  "id": 177356,
+  "name": "U15 National Trophy Boys",
+  "n": 18,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Ballyjamesduff AFC",
+   "Colemanstown Utd",
+   "Cregmore/Claregalway",
+   "Gurteen"
+  ]
+ },
+ {
+  "id": 177521,
+  "name": "GFA U19 Girls Premier",
+  "n": 18,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Athenry",
+   "Corrib Celtic",
+   "Knocknacarra",
+   "Moyne Villa"
+  ]
+ },
+ {
+  "id": 168949,
+  "name": "Developmental League Division 3",
+  "n": 17,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Cordal GAA Club",
+   "Currow",
+   "Dromid Pearses",
+   "Milltown /Castlemaine"
+  ]
+ },
+ {
+  "id": 175030,
+  "name": "GFA U17 Girls Premier",
+  "n": 17,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Athenry",
+   "Bearna Na Forbacha",
+   "Knocknacarra",
+   "Salthill Devon"
+  ]
+ },
+ {
+  "id": 175766,
+  "name": "SFAI Cup U16 Girls",
+  "n": 17,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Athenry",
+   "Bearna Na Forbacha",
+   "Claremorris",
+   "Dundalk"
+  ]
+ },
+ {
+  "id": 175938,
+  "name": "U16A Girls Pinergy All Ireland Schools Cup",
+  "n": 17,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Calasanctius Oranmore",
+   "Colaiste Choilm Ballincollig",
+   "Colaiste Choilmcille Ballyshannon",
+   "Gort CS"
+  ]
+ },
+ {
+  "id": 175165,
+  "name": "FAI U17 Cup Boys",
+  "n": 16,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Athenry",
+   "Colemanstown Utd",
+   "Cregmore/Claregalway",
+   "Evergreen FC"
+  ]
+ },
+ {
+  "id": 175351,
+  "name": "Connacht Cup U12 Girls",
+  "n": 16,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Ballinrobe",
+   "Barna/Fubro",
+   "Benbulben FC",
+   "Castlebar Celtic"
+  ]
+ },
+ {
+  "id": 175429,
+  "name": "Girls Under 12 SFAI Subway Cup",
+  "n": 16,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Athenry",
+   "Ballyglass",
+   "Bearna Na Forbacha",
+   "Castlebar Celtic"
+  ]
+ },
+ {
+  "id": 175476,
+  "name": "U16 Girls Connacht Cup",
+  "n": 16,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Athenry",
+   "Ballinrobe Town",
+   "Bearna Na Forbacha",
+   "Calry Bohs"
+  ]
+ },
+ {
+  "id": 168944,
+  "name": "Under 12 Roinn 1A",
+  "n": 15,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Athenry",
+   "Carnmore",
+   "Castlegar",
+   "Clarinbridge"
+  ]
+ },
+ {
+  "id": 168997,
+  "name": "Div 1 Hurling League Group B",
+  "n": 15,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Ballinderreen",
+   "Craughwell",
+   "Oranmore-Maree",
+   "Sarsfields"
+  ]
+ },
+ {
+  "id": 168999,
+  "name": "Div 2 Hurling League Group B",
+  "n": 15,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Athenry",
+   "Clarinbridge",
+   "Kilconieron",
+   "Meelick-Eyrecourt"
+  ]
+ },
+ {
+  "id": 169000,
+  "name": "Div 3 Hurling League Group A",
+  "n": 15,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Annaghdown",
+   "Athenry",
+   "Castlegar",
+   "Mullagh"
+  ]
+ },
+ {
+  "id": 169013,
+  "name": "Under 12 Roinn 3A",
+  "n": 15,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Abbeyknockmoy",
+   "Ardrahan",
+   "Portumna",
+   "Skehana-Mountbellew/Moylough"
+  ]
+ },
+ {
+  "id": 169014,
+  "name": "Under 12 Roinn 3B",
+  "n": 15,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Annaghdown",
+   "Cois Fharraige",
+   "Killimordaly",
+   "Liam Mellows"
+  ]
+ },
+ {
+  "id": 169016,
+  "name": "Under 12 Roinn 7A",
+  "n": 15,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Annaghdown",
+   "Gort Inse Guaire",
+   "Micheal Breathnach",
+   "Rahoon-Newcastle"
+  ]
+ },
+ {
+  "id": 169186,
+  "name": "Div 3 Hurling League Group C",
+  "n": 15,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "An Spid\u00e9al",
+   "Clarinbridge",
+   "Craughwell",
+   "Cumann Iom\u00e1na\u00edochta Mhaigh Cuilinn"
+  ]
+ },
+ {
+  "id": 169662,
+  "name": "Adult League Fixtures 2022 Division 1",
+  "n": 15,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Caltra Cuans",
+   "Claregalway A",
+   "Corofin A",
+   "Dunmore McHales"
+  ]
+ },
+ {
+  "id": 169664,
+  "name": "Adult League Fixtures 2022 Division 3",
+  "n": 15,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Claregalway B",
+   "Gr\u00e1inne Mhaols A",
+   "Kilkerrin Clonberne B",
+   "Menlough Skehana"
+  ]
+ },
+ {
+  "id": 169665,
+  "name": "Adult League Fixtures 2022 Division 4",
+  "n": 15,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Caherlistrane A",
+   "Kilconly",
+   "Naomh Mhuire A",
+   "Oughterard A"
+  ]
+ },
+ {
+  "id": 169667,
+  "name": "Adult League Fixtures 2022 Division 6",
+  "n": 15,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "An Spid\u00e9al",
+   "Ballinasloe",
+   "Claregalway C",
+   "Glinsk"
+  ]
+ },
+ {
+  "id": 169668,
+  "name": "Adult League Fixtures 2022 Division 7",
+  "n": 15,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Annaghdown B",
+   "Caltra Cuans B",
+   "Corofin B",
+   "Gaeil na Gaillimhe"
+  ]
+ },
+ {
+  "id": 169669,
+  "name": "Adult League Fixtures 2022 Division 8",
+  "n": 15,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Carna Caiseal A",
+   "Maigh Cuilinn B",
+   "Na Piarsaigh",
+   "Naomh Anna, Leitir M\u00f3ir B"
+  ]
+ },
+ {
+  "id": 169689,
+  "name": "U16 League Fixtures Division 1",
+  "n": 15,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Annaghdown A",
+   "Claregalway A",
+   "Corofin A",
+   "Monivea Abbey A"
+  ]
+ },
+ {
+  "id": 169691,
+  "name": "U16 League Fixtures Division 3",
+  "n": 15,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Ballinasloe",
+   "Bearna Na Forbacha",
+   "Caherlistrane",
+   "M\u00edche\u00e1l Breathnach"
+  ]
+ },
+ {
+  "id": 169715,
+  "name": "U16 League Fixtures Division 6",
+  "n": 15,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Killannin",
+   "Loughrea B",
+   "Monivea Abbey C",
+   "Mountbellew Moylough"
+  ]
+ },
+ {
+  "id": 169722,
+  "name": "U14 League Fixtures Division 6",
+  "n": 15,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Annaghdown B",
+   "Claregalway C",
+   "Corofin B",
+   "Gr\u00e1inne Mhaols B"
+  ]
+ },
+ {
+  "id": 171560,
+  "name": "Rebel Og West Fe12 Football League Group 3 Section 1 Phase 2",
+  "n": 15,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Argideen Rangers",
+   "Clann na nGael",
+   "Clonakilty 2",
+   "St James"
+  ]
+ },
+ {
+  "id": 171677,
+  "name": "Junior A HC Group 2",
+  "n": 15,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Athenry",
+   "Cappataggle",
+   "Liam Mellows",
+   "Loughrea"
+  ]
+ },
+ {
+  "id": 171683,
+  "name": "Junior A HC Group 1",
+  "n": 15,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Ardrahan",
+   "Ballinderreen",
+   "Oranmore-Maree",
+   "St. Thomas'"
+  ]
+ },
+ {
+  "id": 171686,
+  "name": "Junior B HC Group 4",
+  "n": 15,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Abbeyknockmoy",
+   "Annaghdown",
+   "Gort Inse Guaire",
+   "Kilnadeema-Leitrim"
+  ]
+ },
+ {
+  "id": 171692,
+  "name": "Junior C1 HC Group 5",
+  "n": 15,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "An Spid\u00e9al",
+   "Cumann Iom\u00e1na\u00edochta Mhaigh Cuilinn",
+   "Cumann Peile Bhearna Na Forbacha",
+   "Micheal Breathnach"
+  ]
+ },
+ {
+  "id": 171831,
+  "name": "SFC - Group 1",
+  "n": 15,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "An Spid\u00e9al",
+   "Corofin",
+   "Cumann Peil Mhaigh Cuilinn",
+   "Naomh Anna, Leitir M\u00f3ir"
+  ]
+ },
+ {
+  "id": 171832,
+  "name": "SFC - Group 3",
+  "n": 15,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Caherlistrane",
+   "Claregalway",
+   "Killannin",
+   "Milltown"
+  ]
+ },
+ {
+  "id": 171835,
+  "name": "SFC - Group 2",
+  "n": 15,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "An Cheathr\u00fa Rua",
+   "Annaghdown",
+   "Cumann Peile Bhearna Na Forbacha",
+   "Mountbellew/Moylough"
+  ]
+ },
+ {
+  "id": 172261,
+  "name": "The Courtyard Ferns Intermediate Championship Gp 2",
+  "n": 15,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Ballygarrett (Hurling)",
+   "Oulart-The Ballagh",
+   "St Brigid's Blackwater",
+   "St James'"
+  ]
+ },
+ {
+  "id": 172304,
+  "name": "Junior C HC Group 1",
+  "n": 15,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Athenry",
+   "Carnmore",
+   "Craughwell",
+   "Oranmore-Maree"
+  ]
+ },
+ {
+  "id": 172402,
+  "name": "U17 HC Group 2",
+  "n": 15,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Athenry",
+   "Kilnadeema-Leitrim",
+   "Kinvara",
+   "Loughrea"
+  ]
+ },
+ {
+  "id": 172442,
+  "name": "Senior B HC Group 1",
+  "n": 15,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Athenry",
+   "Beagh",
+   "Cumann Iom\u00e1na\u00edochta Mhaigh Cuilinn",
+   "Kilnadeema-Leitrim"
+  ]
+ },
+ {
+  "id": 172816,
+  "name": "IFC Section A",
+  "n": 15,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Castledaly",
+   "Milltown",
+   "Milltownpass",
+   "Shandonagh Gaa"
+  ]
+ },
+ {
+  "id": 175431,
+  "name": "Girls Subway Under 16 SFAI Cup",
+  "n": 15,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Athenry",
+   "Ballinrobe Town",
+   "Ballisodare Utd",
+   "Bearna Na Forbacha"
+  ]
+ },
+ {
+  "id": 176062,
+  "name": "Ladies Connacht Cup",
+  "n": 15,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Athenry",
+   "Castlebar Town",
+   "Colga",
+   "Corrib Celtic"
+  ]
+ },
+ {
+  "id": 177084,
+  "name": "Connacht Shield U16 Boys",
+  "n": 15,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Athenry",
+   "Ballyboro",
+   "Castlerea Celtic",
+   "Colga"
+  ]
+ },
+ {
+  "id": 177327,
+  "name": "SFAI Subway Under 16 Trophy",
+  "n": 15,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Athenry",
+   "Bearna Na Forbacha",
+   "Benbulben",
+   "Castlebar Celtic"
+  ]
+ },
+ {
+  "id": 168757,
+  "name": "Connacht GAA PPS 1st Year C FC",
+  "n": 13,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Col\u00e1iste Einde",
+   "Col\u00e1iste Iogn\u00e1id S.J",
+   "Garbally College Ballinasloe",
+   "Holy Rosary College Mountbellew"
+  ]
+ },
+ {
+  "id": 169671,
+  "name": "Adult League Fixtures 2022 Division 10",
+  "n": 12,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Corofin C",
+   "Monivea Abbey B",
+   "Naomh Mhuire C",
+   "Salthill Knocknacarra B"
+  ]
+ },
+ {
+  "id": 173351,
+  "name": "Adult Friendlies - Mens",
+  "n": 12,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Buccaneers RFC U20s",
+   "Buccaneers/Monivea",
+   "Claremorris 1st XV",
+   "Corrib 1st XV"
+  ]
+ },
+ {
+  "id": 175771,
+  "name": "SFAI Subway U16 Girls National Cup",
+  "n": 12,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Athenry",
+   "Ballinrobe",
+   "Ballisodare United",
+   "Claremorris"
+  ]
+ },
+ {
+  "id": 176456,
+  "name": "Schools Senior C League",
+  "n": 12,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Abbey CC",
+   "Calasanctius Oranmore",
+   "Colaiste Bhaile Chlair",
+   "Sancta Maria College"
+  ]
+ },
+ {
+  "id": 177256,
+  "name": "U13 GFA Girls Prem/Champ Cup",
+  "n": 12,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Athenry",
+   "Bearna Na Forbacha",
+   "Cregmore/Claregalway",
+   "East Galway Utd"
+  ]
+ },
+ {
+  "id": 177258,
+  "name": "U14 GFA Girls Prem/Champ Cup",
+  "n": 11,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Athenry",
+   "Bearna Na Forbacha",
+   "Cregmore/Claregalway",
+   "East Galway Utd"
+  ]
+ },
+ {
+  "id": 177531,
+  "name": "U14 National Trophy Girls",
+  "n": 11,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Bearna Na Forbacha",
+   "Carrick Town",
+   "Castlebar Town",
+   "Colga"
+  ]
+ },
+ {
+  "id": 169666,
+  "name": "Adult League Fixtures 2022 Division 5",
+  "n": 10,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "An Cheathr\u00fa Rua A",
+   "Killannin",
+   "Monivea Abbey A",
+   "M\u00edche\u00e1l Breathnach  B"
+  ]
+ },
+ {
+  "id": 169706,
+  "name": "U16 League Fixtures Division 4",
+  "n": 10,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Glenamaddy Williamstown",
+   "Kilconly",
+   "Maigh Cuilinn",
+   "Menlough Skehana"
+  ]
+ },
+ {
+  "id": 170683,
+  "name": "GFA U11 Boys Neptune",
+  "n": 10,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Athenry Athenry Rovers BU11",
+   "Knocknacarra Knocknacarra Celtic BU11",
+   "Loughrea Loughrea Athletic BU11",
+   "Salthill Devon Salthill Devon Celtic BU11"
+  ]
+ },
+ {
+  "id": 170692,
+  "name": "GFA U11 Boys Jupiter",
+  "n": 10,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Bearna Na Forbacha Barna Furbo Albion BU11",
+   "Colga Colga Rovers BU11",
+   "Cregmore/Claregalway Cregmore Athletic BU11",
+   "Maree/Oranmore Maree/Oranmore Athletic BU11"
+  ]
+ },
+ {
+  "id": 170697,
+  "name": "GFA U11 Boys Venus",
+  "n": 10,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Colemanstown Utd Colemanstown Athletic BU11",
+   "Craughwell United Craughwell Athletic BU11",
+   "Kinvara Utd Kinvara Celtic BU11",
+   "Maree/Oranmore Maree/Oranmore Rovers BU11"
+  ]
+ },
+ {
+  "id": 171684,
+  "name": "Junior A HC Group 3",
+  "n": 10,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Ballygar",
+   "Cumann Peile Bhearna Na Forbacha",
+   "Micheal Breathnach",
+   "Salthill-Knocknacarra"
+  ]
+ },
+ {
+  "id": 171693,
+  "name": "Junior C1 HC Group 2",
+  "n": 10,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Annaghdown",
+   "Castlegar",
+   "Sylane",
+   "Tuam Hurling"
+  ]
+ },
+ {
+  "id": 172394,
+  "name": "U17 B1 HC Group 1",
+  "n": 10,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Ballygar",
+   "Carnmore",
+   "Liam Mellows",
+   "Rahoon Newcastle - Bearna Na Forbacha"
+  ]
+ },
+ {
+  "id": 175175,
+  "name": "Intermediate Championship Knockout",
+  "n": 10,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "An Spid\u00e9al",
+   "Castlegar",
+   "Clarinbridge",
+   "Killimor"
+  ]
+ },
+ {
+  "id": 177002,
+  "name": "Connacht GAA PPS Senior A Hurling Championsip 2022/23- Round Robin",
+  "n": 10,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Colaiste Bhaile Chlair",
+   "Gort Community School",
+   "Presentation College Athenry",
+   "St. Brigid's, Loughrea"
+  ]
+ },
+ {
+  "id": 177364,
+  "name": "U16 National Trophy Boys",
+  "n": 10,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Athenry",
+   "Bearna Na Forbacha",
+   "Benbulben",
+   "Castlerea Celtic"
+  ]
+ },
+ {
+  "id": 174456,
+  "name": "Junior A HC Knockout",
+  "n": 9,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Ardrahan",
+   "Athenry",
+   "Ballygar",
+   "Liam Mellows"
+  ]
+ },
+ {
+  "id": 174934,
+  "name": "Junior C1 Hurling Championship K/O",
+  "n": 9,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "An Spid\u00e9al",
+   "Annaghdown",
+   "Ardrahan",
+   "Cappataggle"
+  ]
+ },
+ {
+  "id": 175206,
+  "name": "Under 14A Cup",
+  "n": 9,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Athenry",
+   "Kilconieron",
+   "Loughrea",
+   "Oranmore-Maree"
+  ]
+ },
+ {
+  "id": 176094,
+  "name": "Senior FC Knockout Stages",
+  "n": 9,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "An Spid\u00e9al",
+   "Annaghdown",
+   "Caherlistrane",
+   "Cumann Peil Mhaigh Cuilinn"
+  ]
+ },
+ {
+  "id": 174848,
+  "name": "Junior C HC Knockout",
+  "n": 8,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Athenry",
+   "Craughwell",
+   "Kilbeacanty",
+   "Kiltormer"
+  ]
+ },
+ {
+  "id": 175770,
+  "name": "SFAI U12 Subway Girls National Cup",
+  "n": 8,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Athenry",
+   "Ballyglass",
+   "Castlebar Celtic",
+   "Claremorris"
+  ]
+ },
+ {
+  "id": 176883,
+  "name": "Connacht Shield U12 Girls",
+  "n": 8,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Ballymote Celtic",
+   "Kiltullagh Pioneers",
+   "Maree Oranmore",
+   "Mervue"
+  ]
+ },
+ {
+  "id": 168755,
+  "name": "Connacht GAA PPS Junior D FC",
+  "n": 7,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Clarin College Athenry",
+   "Colaiste Chroi Mhuire Spiddal",
+   "Col\u00e1iste Mhuire Ballygar",
+   "Merlin Woods Secondary School"
+  ]
+ },
+ {
+  "id": 169831,
+  "name": "U12 Premier Cup",
+  "n": 7,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Colga",
+   "Cregmore/Claregalway",
+   "Mervue Utd",
+   "Salthill Devon"
+  ]
+ },
+ {
+  "id": 171340,
+  "name": "U-13 County Football League Phase 2 - Division 1A",
+  "n": 7,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Austin Stacks",
+   "Killarney Legion",
+   "Laune Rangers",
+   "Milltown /Castlemaine"
+  ]
+ },
+ {
+  "id": 175266,
+  "name": "Under 12 Roinn 3 Shield",
+  "n": 7,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Abbeyknockmoy",
+   "Micheal Breathnach",
+   "Portumna",
+   "Salthill-Knocknacarra"
+  ]
+ },
+ {
+  "id": 175477,
+  "name": "Minor (U17) B HC Knockout",
+  "n": 7,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Cappataggle",
+   "Castlegar",
+   "Kilconieron",
+   "Skehana-Mountbellew/Moylough"
+  ]
+ },
+ {
+  "id": 175478,
+  "name": "Minor A (U17) HC Knock Out",
+  "n": 7,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Ballinderreen",
+   "Clarinbridge",
+   "Kinvara",
+   "Oranmore-Maree"
+  ]
+ },
+ {
+  "id": 176339,
+  "name": "U17 Girls Connacht Cup",
+  "n": 7,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Athenry",
+   "Bearna Na Forbacha",
+   "Claremorris",
+   "Knocknacarra"
+  ]
+ },
+ {
+  "id": 176469,
+  "name": "Bon Secours Junior A Football Championship",
+  "n": 7,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Cobh",
+   "Kilmurry",
+   "Kinsale",
+   "St James"
+  ]
+ },
+ {
+  "id": 177554,
+  "name": "U12 National Trophy Girls",
+  "n": 7,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Claremorris",
+   "Corofin Utd",
+   "Lourdes Celtic",
+   "Moyne Villa"
+  ]
+ },
+ {
+  "id": 169003,
+  "name": "Junior Hurling League Group 2",
+  "n": 6,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Carnmore",
+   "Cumann Peile Bhearna Na Forbacha",
+   "Maigh Cuilinn",
+   "Rahoon-Newcastle"
+  ]
+ },
+ {
+  "id": 169004,
+  "name": "Junior Hurling League Group 3",
+  "n": 6,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Castlegar",
+   "Liam Mellows",
+   "Micheal Breathnach",
+   "Oranmore-Maree"
+  ]
+ },
+ {
+  "id": 169008,
+  "name": "Junior Hurling League Group 7",
+  "n": 6,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Abbeyknockmoy",
+   "Athenry",
+   "Salthill-Knocknacarra",
+   "Turloughmore"
+  ]
+ },
+ {
+  "id": 169035,
+  "name": "2022 D1 (A) Forth Mountain U17 Football Tournament",
+  "n": 6,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Glynn-Barntown",
+   "Shelmaliers",
+   "St Brigid's Blackwater",
+   "St James'"
+  ]
+ },
+ {
+  "id": 169078,
+  "name": "GFA U17 Premier Cup",
+  "n": 6,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Cregmore/Claregalway",
+   "Kinvara Utd",
+   "Maree/Oranmore",
+   "Mervue Utd"
+  ]
+ },
+ {
+  "id": 169237,
+  "name": "U15 Premier Cup",
+  "n": 6,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Cregmore/Claregalway",
+   "Maree/Oranmore",
+   "Mervue Utd",
+   "Moyne Villa"
+  ]
+ },
+ {
+  "id": 169273,
+  "name": "2022 D2 (D) Croghan Gorey Guardian Hurling Tournament",
+  "n": 6,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Crossabeg-Ballymurn",
+   "Horeswood G.A.A.Club",
+   "St James'",
+   "Taghmon-Camross"
+  ]
+ },
+ {
+  "id": 169475,
+  "name": "U20A Hurling League Group 2",
+  "n": 6,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Carnmore",
+   "Castlegar",
+   "Cumann Iom\u00e1na\u00edochta Mhaigh Cuilinn",
+   "Oranmore-Maree"
+  ]
+ },
+ {
+  "id": 169476,
+  "name": "U20AHurling League Group 4",
+  "n": 6,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Athenry",
+   "Kilconieron",
+   "Sarsfields",
+   "Skehana-Mountbellew/Moylough"
+  ]
+ },
+ {
+  "id": 169888,
+  "name": "GFA U11 Girls Goldfinch",
+  "n": 6,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Bearna Na Forbacha Athletic GU11",
+   "Colga Rovers GU11",
+   "Knocknacarra Rovers GU11",
+   "Maree/Oranmore Albion GU11"
+  ]
+ },
+ {
+  "id": 169890,
+  "name": "GFA U11 Girls Eagle",
+  "n": 6,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Athenry Albion GU11",
+   "Bearna Na Forbacha Albion GU11",
+   "Kiltullagh Albion GU11",
+   "Renmore B"
+  ]
+ },
+ {
+  "id": 170341,
+  "name": "Junior B Hurling Championship New Ross District Gp B",
+  "n": 6,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Bannow-Ballymitty",
+   "Horeswood G.A.A.Club",
+   "St James'"
+  ]
+ },
+ {
+  "id": 170469,
+  "name": "DLGFA Feile Division 9 Group A",
+  "n": 6,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Beann Eadair",
+   "Robert Emmets",
+   "St James Gaels / An Caislean",
+   "St Patricks Palmerstown"
+  ]
+ },
+ {
+  "id": 170682,
+  "name": "GFA U11 Boys Mars",
+  "n": 6,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Cregmore/Claregalway Cregmore Rovers BU11",
+   "Knocknacarra Knocknacarra Rovers BU11",
+   "Maree/Oranmore Maree/Oranmore Celtic BU11",
+   "Salthill Devon Salthill Devon Rovers BU11"
+  ]
+ },
+ {
+  "id": 170694,
+  "name": "GFA U11 Boys Pluto",
+  "n": 6,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Athenry Athenry United BU11",
+   "Knocknacarra Knocknacarra Albion BU11",
+   "Loughrea Loughrea Celtic BU11",
+   "Mervue Utd Mervue Rovers BU11"
+  ]
+ },
+ {
+  "id": 170696,
+  "name": "GFA U11 Boys Sun",
+  "n": 6,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Corofin Utd Corofin Celtic BU11",
+   "Corrib Celtic Corrib Celtic BU11",
+   "Corrib Rangers Corrib Rangers Athletic BU11",
+   "Oughterard Oughterard AFC BU11"
+  ]
+ },
+ {
+  "id": 171346,
+  "name": "U-13 County Football League Phase 2 - Division 13A",
+  "n": 6,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "An Ghaeltacht",
+   "Austin Stacks",
+   "Laune Rangers",
+   "Milltown /Castlemaine"
+  ]
+ },
+ {
+  "id": 171630,
+  "name": "U20 A HC Group 2",
+  "n": 6,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Clarinbridge",
+   "Cumann Iom\u00e1na\u00edochta Mhaigh Cuilinn",
+   "Gort Inse Guaire",
+   "Oranmore-Maree"
+  ]
+ },
+ {
+  "id": 171673,
+  "name": "Go Ahead Junior 1 Club Football Championship Group 1",
+  "n": 6,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Crumlin",
+   "Na Gaeil Oga",
+   "Shankill",
+   "St James Gaels An Caislean"
+  ]
+ },
+ {
+  "id": 171680,
+  "name": "U20 A1 HC Group 1",
+  "n": 6,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Cappataggle",
+   "Craughwell",
+   "Kilnadeema-Leitrim",
+   "Skehana-Mountbellew/Moylough"
+  ]
+ },
+ {
+  "id": 171682,
+  "name": "U20 B1 HC Group 1",
+  "n": 6,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Annaghdown",
+   "P\u00e1draig Pearses",
+   "Rahoon-Newcastle",
+   "Salthill-Knocknacarra"
+  ]
+ },
+ {
+  "id": 171687,
+  "name": "U20 A1 HC Group 2",
+  "n": 6,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Athenry",
+   "Castlegar",
+   "Kinvara",
+   "Loughrea"
+  ]
+ },
+ {
+  "id": 171717,
+  "name": "Go Ahead Junior 6 South All County Football Championship G1",
+  "n": 6,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Crumlin",
+   "Na Gaeil Oga",
+   "St Brigids",
+   "St James Gaels An Caislean"
+  ]
+ },
+ {
+  "id": 171732,
+  "name": "Go-Ahead Junior I Championship Group B",
+  "n": 6,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Fingallians D",
+   "Lucan Sarsfields C",
+   "St James Gaels / An Caislean",
+   "St Peregrines B"
+  ]
+ },
+ {
+  "id": 171776,
+  "name": "IFC - Group 2",
+  "n": 6,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Caltra",
+   "M\u00edche\u00e1l Breathnach",
+   "Oranmore-Maree",
+   "St Brendan's"
+  ]
+ },
+ {
+  "id": 171777,
+  "name": "IFC - Group 4",
+  "n": 6,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Dunmore MacHales",
+   "Kilconly",
+   "St. Gabriels",
+   "Williamstown"
+  ]
+ },
+ {
+  "id": 171778,
+  "name": "IFC - Group 1",
+  "n": 6,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Corofin",
+   "Cortoon Shamrocks",
+   "Cumann Peil Mhaigh Cuilinn",
+   "Glenamaddy"
+  ]
+ },
+ {
+  "id": 171779,
+  "name": "IFC - Group 3",
+  "n": 6,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Headford",
+   "Kilkerrin/Clonberne",
+   "Killererin",
+   "Oile\u00e1in \u00c1rann"
+  ]
+ },
+ {
+  "id": 171810,
+  "name": "Rebel Og West Fe17 Division 3 Football Championship section 2B",
+  "n": 6,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Gabriel Rangers",
+   "St James",
+   "Tadhg Mac Carthaigh",
+   "Uibh Laoire"
+  ]
+ },
+ {
+  "id": 172395,
+  "name": "U17 B1 HC Group 3",
+  "n": 6,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Abbeyknockmoy",
+   "Annaghdown",
+   "Micheal Breathnach",
+   "Sylane"
+  ]
+ },
+ {
+  "id": 172401,
+  "name": "IHC Group 4",
+  "n": 6,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Annaghdown",
+   "Clarinbridge",
+   "Kinvara",
+   "Rahoon-Newcastle"
+  ]
+ },
+ {
+  "id": 172613,
+  "name": "IHC Group 1",
+  "n": 6,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "An Spid\u00e9al",
+   "Ballinderreen",
+   "Sylane",
+   "Turloughmore"
+  ]
+ },
+ {
+  "id": 172654,
+  "name": "Intermediate Football Championship Group 4",
+  "n": 6,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Glenflesk",
+   "Milltown /Castlemaine",
+   "Rathmore",
+   "St Mary's"
+  ]
+ },
+ {
+  "id": 173011,
+  "name": "BOI Cawley Cup Pool B",
+  "n": 6,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Connemara 1st XV",
+   "Monivea 1st XV",
+   "Tuam 1st XV",
+   "Westport 1st XV"
+  ]
+ },
+ {
+  "id": 173488,
+  "name": "Under 18 Championship Division 7 Group A",
+  "n": 6,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Fingallians B",
+   "Robert Emmets",
+   "St James Gaels / An Caislean",
+   "Templeogue Synge Street B"
+  ]
+ },
+ {
+  "id": 173719,
+  "name": "Under 14A Group 2",
+  "n": 6,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Craughwell",
+   "Cumann Iom\u00e1na\u00edochta Mhaigh Cuilinn",
+   "Oranmore-Maree",
+   "Sarsfields"
+  ]
+ },
+ {
+  "id": 173720,
+  "name": "Under 14A Group 1",
+  "n": 6,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Athenry",
+   "Castlegar",
+   "Kilconieron",
+   "Loughrea"
+  ]
+ },
+ {
+  "id": 173850,
+  "name": "U20 A HC Knockout",
+  "n": 6,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Clarinbridge",
+   "Oranmore-Maree",
+   "Sarsfields",
+   "Turloughmore"
+  ]
+ },
+ {
+  "id": 173951,
+  "name": "Under 17 D Football Championship Group 1",
+  "n": 6,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "St Agnes",
+   "St James Gaels An Caislean",
+   "St Maurs",
+   "St Peters"
+  ]
+ },
+ {
+  "id": 175638,
+  "name": "Minor (U17) B1 HC Knockout",
+  "n": 6,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Annaghdown",
+   "Killimordaly",
+   "Liam Mellows",
+   "Rahoon Newcastle - Bearna Na Forbacha"
+  ]
+ },
+ {
+  "id": 176625,
+  "name": "Galway Post Primary Senior A Football Championship",
+  "n": 6,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Colaiste Bhaile Chlair",
+   "Dunmore Community School",
+   "Garbally College Ballinasloe",
+   "Presentation College Athenry"
+  ]
+ },
+ {
+  "id": 168781,
+  "name": "Connacht GAA PPS Juvenile B FC",
+  "n": 5,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Calasanctius College Oranmore",
+   "Presentation College Athenry",
+   "Presentation College Headford",
+   "St. Nathy`s College Ballaghaderreen"
+  ]
+ },
+ {
+  "id": 169002,
+  "name": "Junior Hurling League Group 1",
+  "n": 5,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Ballygar",
+   "Four Roads/Tigh Srathra",
+   "Skehana-Mountbellew/Moylough",
+   "Sylane"
+  ]
+ },
+ {
+  "id": 169425,
+  "name": "GFA U18 Premier Cup",
+  "n": 5,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Cregmore/Claregalway",
+   "Knocknacarra",
+   "Maree/Oranmore",
+   "Mervue Utd"
+  ]
+ },
+ {
+  "id": 173549,
+  "name": "U20 A1 HC K/O",
+  "n": 5,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Athenry",
+   "Cappataggle",
+   "Craughwell",
+   "Loughrea"
+  ]
+ },
+ {
+  "id": 175053,
+  "name": "Rebel Og West Fe12 Football League Group 3A Playoff",
+  "n": 5,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Aghinagh",
+   "Barryroe",
+   "Clann na nGael",
+   "St James"
+  ]
+ },
+ {
+  "id": 175095,
+  "name": "Under 14C1 Cup",
+  "n": 5,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Athenry",
+   "Carnmore",
+   "Turloughmore"
+  ]
+ },
+ {
+  "id": 175180,
+  "name": "Rebel Og West Fe13 Football League Div 3A Playoff",
+  "n": 5,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Caha Og",
+   "Kilmacabea",
+   "St James",
+   "Urhan"
+  ]
+ },
+ {
+  "id": 176340,
+  "name": "U19 Girls Connacht Cup",
+  "n": 5,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Athenry",
+   "Corrib Celtic",
+   "Knocknacarra",
+   "Manulla"
+  ]
+ },
+ {
+  "id": 177018,
+  "name": "Connacht GAA PPS Senior B Football Championsip 2022/23- Group 1",
+  "n": 5,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Calasanctius College Oranmore",
+   "Presentation College Headford",
+   "Roscommon CBS",
+   "Scoil Mhuire Strokestown"
+  ]
+ },
+ {
+  "id": 171116,
+  "name": "U12 Div 2 Plate",
+  "n": 4,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Cregmore/Claregalway B",
+   "Knocknacarra C",
+   "Loughrea"
+  ]
+ },
+ {
+  "id": 172196,
+  "name": "Under 13 B1 Cup",
+  "n": 4,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Ballinderreen",
+   "Skehana-Mountbellew/Moylough",
+   "St. Thomas'"
+  ]
+ },
+ {
+  "id": 175383,
+  "name": "Test Comp 22 KO",
+  "n": 4,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "",
+   "AIB(teist)",
+   "Annaghdown A",
+   "Birr"
+  ]
+ },
+ {
+  "id": 175490,
+  "name": "Junior 1 Hurling Championship",
+  "n": 4,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Ballygar",
+   "Cumann Peile Bhearna Na Forbacha",
+   "Micheal Breathnach"
+  ]
+ },
+ {
+  "id": 175515,
+  "name": "Go Ahead Junior H Hurling Championship Quarter-final",
+  "n": 4,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Fingallians",
+   "Naomh Barrog",
+   "St Annes",
+   "St James Gaels An Caislean"
+  ]
+ },
+ {
+  "id": 169489,
+  "name": "Under 16 A1 Shield",
+  "n": 3,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Annaghdown",
+   "Carnmore",
+   "Kinvara"
+  ]
+ },
+ {
+  "id": 169491,
+  "name": "Under 16 A1 Cup",
+  "n": 3,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Kilconieron",
+   "Sarsfields",
+   "Skehana-Mountbellew/Moylough"
+  ]
+ },
+ {
+  "id": 170360,
+  "name": "Minor Football League Division 4 Semi Finals and Final",
+  "n": 3,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Glenbeigh/Glencar Cromane",
+   "Milltown /Castlemaine"
+  ]
+ },
+ {
+  "id": 170918,
+  "name": "U11 Girls Eagle Cup",
+  "n": 3,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Athenry Albion GU11",
+   "Kiltullagh Albion GU11"
+  ]
+ },
+ {
+  "id": 170919,
+  "name": "U11 Girls Goldfinch Cup",
+  "n": 3,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Bearna Na Forbacha Athletic GU11",
+   "Knocknacarra Rovers GU11"
+  ]
+ },
+ {
+  "id": 171114,
+  "name": "U17 Girls Shield",
+  "n": 3,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Bearna Na Forbacha",
+   "East Galway Utd",
+   "Mervue Utd"
+  ]
+ },
+ {
+  "id": 171524,
+  "name": "Under 15 C Cup",
+  "n": 3,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Ahascragh Fohenagh",
+   "Annaghdown"
+  ]
+ },
+ {
+  "id": 171525,
+  "name": "Under 15 A Cup",
+  "n": 3,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Athenry",
+   "Kilconieron"
+  ]
+ },
+ {
+  "id": 171602,
+  "name": "GFA U11 Boys Mars - Kevin Power Cup",
+  "n": 3,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Cregmore/Claregalway Cregmore Rovers BU11",
+   "Knocknacarra Knocknacarra Rovers BU11"
+  ]
+ },
+ {
+  "id": 171603,
+  "name": "GFA U11 Boys Pluto Cup",
+  "n": 3,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Athenry Athenry United BU11",
+   "Knocknacarra Knocknacarra Albion BU11",
+   "Loughrea Loughrea Celtic BU11"
+  ]
+ },
+ {
+  "id": 171605,
+  "name": "GFA U11 Boys Sun Cup",
+  "n": 3,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Corofin Utd Corofin Celtic BU11",
+   "Corrib Celtic Corrib Celtic BU11",
+   "Oughterard Oughterard AFC BU11"
+  ]
+ },
+ {
+  "id": 171608,
+  "name": "GFA U11 Boys Jupiter Cup",
+  "n": 3,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Bearna Na Forbacha Barna Furbo Albion BU11",
+   "Merlin Woods Sports Club Merlin Woods Medtronic Celtic BU11"
+  ]
+ },
+ {
+  "id": 171635,
+  "name": "GFA U11 Boys Neptune Cup",
+  "n": 3,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Athenry Athenry Rovers BU11",
+   "St Bernards St Bernards Athletic BU11"
+  ]
+ },
+ {
+  "id": 171639,
+  "name": "Under 15C1 Shield",
+  "n": 3,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Athenry",
+   "Carnmore",
+   "Turloughmore"
+  ]
+ },
+ {
+  "id": 172195,
+  "name": "Under 13 C Cup",
+  "n": 3,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Abbeyknockmoy",
+   "Annaghdown",
+   "Ballinasloe"
+  ]
+ },
+ {
+  "id": 172247,
+  "name": "U-13 County Football League Phase 2 - Division 14",
+  "n": 3,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Keel/Listry",
+   "Milltown /Castlemaine",
+   "Na Gaeil"
+  ]
+ },
+ {
+  "id": 172341,
+  "name": "Under 13 B Cup",
+  "n": 3,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Cappataggle",
+   "Micheal Breathnach",
+   "Mullagh/Kiltormer"
+  ]
+ },
+ {
+  "id": 172675,
+  "name": "GFA O35s NonJunior A Finals 2022",
+  "n": 3,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Kiltullagh",
+   "Maree/Oranmore",
+   "St Bernards"
+  ]
+ },
+ {
+  "id": 173198,
+  "name": "Go-Ahead Junior I Shield Knock Out Stages",
+  "n": 3,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Erin Go Bragh",
+   "St James Gaels / An Caislean"
+  ]
+ },
+ {
+  "id": 173584,
+  "name": "Under 13 Cup Division 8 Group B",
+  "n": 3,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Cuala B",
+   "St James Gaels / An Caislean",
+   "St Sylvesters C"
+  ]
+ },
+ {
+  "id": 174688,
+  "name": "2022 Gorey Guardian U15 Football D3 Knockout",
+  "n": 3,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Horeswood G.A.A.Club",
+   "St James'"
+  ]
+ },
+ {
+  "id": 175244,
+  "name": "Under 14C Cup",
+  "n": 3,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Annaghdown",
+   "Ballinderreen"
+  ]
+ },
+ {
+  "id": 175264,
+  "name": "Under 12 Hurling Roinn 1 Cup",
+  "n": 3,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Michael Cusacks",
+   "Oranmore-Maree"
+  ]
+ },
+ {
+  "id": 175746,
+  "name": "Wexford People U17 Hurling Championship Division 2 Shield",
+  "n": 3,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "St James'",
+   "St Mary's Rosslare"
+  ]
+ },
+ {
+  "id": 176298,
+  "name": "Demo Competition",
+  "n": 3,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Athenry",
+   "Liam Mellows",
+   "St Michaels"
+  ]
+ },
+ {
+  "id": 177000,
+  "name": "Connacht GAA PPS Senior B Hurling Championsip 2022/23- Group 2",
+  "n": 3,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Calasanctius College Oranmore",
+   "Holy Rosary College Mountbellew",
+   "Seamount Colleges Kinvara"
+  ]
+ },
+ {
+  "id": 177015,
+  "name": "Connacht GAA PPS Senior D Football Championsip 2022/23- Group 4",
+  "n": 3,
+  "years": [
+   2022,
+   2023
+  ],
+  "teams": [
+   "Colaiste Chroi Mhuire Spiddal",
+   "Scoil Chuimsitheach Chiarain An Cheathru Rua",
+   "Seamount Colleges Kinvara"
+  ]
+ },
+ {
+  "id": 177023,
+  "name": "Connacht GAA PPS Senior B Football Championsip 2022/23- Group 3",
+  "n": 3,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Garbally College Ballinasloe",
+   "Presentation College Athenry",
+   "St. Attractas Community School Tubbercurry"
+  ]
+ },
+ {
+  "id": 177024,
+  "name": "Connacht GAA PPS Senior C Football Championsip 2022/23- Group 4",
+  "n": 3,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Col\u00e1iste Iogn\u00e1id S.J",
+   "Dunmore Community School",
+   "Holy Rosary College Mountbellew"
+  ]
+ },
+ {
+  "id": 169492,
+  "name": "Under 16 A Shield",
+  "n": 2,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Oranmore-Maree"
+  ]
+ },
+ {
+  "id": 170508,
+  "name": "Justin Cheevers Cup Semi Finals",
+  "n": 2,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Gort Inse Guaire",
+   "Skehana-Mountbellew/Moylough"
+  ]
+ },
+ {
+  "id": 171240,
+  "name": "Div 2 Hurling League Knock out",
+  "n": 2,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Athenry",
+   "Castlegar"
+  ]
+ },
+ {
+  "id": 176118,
+  "name": "Go Ahead Junior H Hurling Championship Semi final",
+  "n": 2,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "St Annes",
+   "St James Gaels An Caislean"
+  ]
+ },
+ {
+  "id": 170509,
+  "name": "Toddie Byrne Cup Semi Final",
+  "n": 1,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Athenry"
+  ]
+ },
+ {
+  "id": 171582,
+  "name": "U15 C1 Cup",
+  "n": 1,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Oranmore-Maree"
+  ]
+ },
+ {
+  "id": 171588,
+  "name": "Under15C1 Cup",
+  "n": 1,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Athenry"
+  ]
+ },
+ {
+  "id": 171858,
+  "name": "Rebel Og West Fe15 Division 3 Hurling Championship Cup Final",
+  "n": 1,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "St James"
+  ]
+ },
+ {
+  "id": 172254,
+  "name": "Westmeath ACFL Div 6 2022",
+  "n": 1,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Milltown"
+  ]
+ },
+ {
+  "id": 172589,
+  "name": "John West Feile na nGael Hurling Div 1",
+  "n": 1,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Athenry"
+  ]
+ },
+ {
+  "id": 175092,
+  "name": "Under 14C1 Shield",
+  "n": 1,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Oranmore-Maree"
+  ]
+ },
+ {
+  "id": 177085,
+  "name": "Under 15 Championship Division 9 Final",
+  "n": 1,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "St James Gaels / An Caislean"
+  ]
+ },
+ {
+  "id": 177324,
+  "name": "Connacht GAA Club Senior Football Championship 2022",
+  "n": 1,
+  "years": [
+   2022
+  ],
+  "teams": [
+   "Moycullen"
+  ]
+ }
+]

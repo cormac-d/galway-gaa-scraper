@@ -1,0 +1,47 @@
+name: Fix 2022 and audit season completeness
+
+# Two jobs in one: append the 2022 competitions the season list does not serve,
+# then ask the same question of 2023-2026 by walking each season's id range.
+#
+# Triggered by editing fix2022.txt on main.
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['fix2022.txt']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fix2022
+  cancel-in-progress: true
+
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Scrape and audit
+        run: python fix2022.py
+
+      - name: Commit findings
+        if: always()
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A data/
+          git diff --staged --quiet || git commit -m "Fix 2022 and audit season completeness $(date -u +'%Y-%m-%d %H:%M')"
+          git push || true
