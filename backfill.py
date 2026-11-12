@@ -59,8 +59,8 @@ SEASONS = {1617: 2016, 1745: 2017, 1891: 2018, 2063: 2019, 2266: 2020,
 # Schools and third-level competitions run on the same system but are not
 # club football, so they are filtered out alongside hurling and camogie.
 NOT_CLUB = re.compile(
-    r'post primary|schools|colleges|ppsnr|ppsjn|bunscol|university|'
-    r'sigerson|freshers|vocational', re.I)
+    r'post.?primary|schools?\b|colleges?\b|\bpps\b|ppsnr|ppsjn|bunscol|'
+    r'university|sigerson|freshers|vocational|higher education|\bhe \b', re.I)
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (compatible; club-archive-research/1.0)",
