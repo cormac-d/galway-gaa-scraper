@@ -8,7 +8,7 @@ on:
       years:
         description: 'Seasons to backfill, space separated'
         required: false
-        default: '2023 2024 2025'
+        default: '2016 2017 2018 2019 2020 2021 2022'
   push:
     branches: [main]
     paths: ['backfill.txt']
@@ -32,7 +32,7 @@ jobs:
       - run: pip install requests beautifulsoup4
       - name: Run backfill
         env:
-          BACKFILL_YEARS: ${{ inputs.years || '2023 2024 2025' }}
+          BACKFILL_YEARS: ${{ inputs.years || '2016 2017 2018 2019 2020 2021 2022' }}
         run: python backfill.py
       - name: Commit seasons
         run: |

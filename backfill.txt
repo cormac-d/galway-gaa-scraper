@@ -4,3 +4,4 @@
 # cannot do this.
 
 run 4 - backfill 2016-2022, schools filtered, year confirmed from match dates
+earlier seasons 00:38:58
