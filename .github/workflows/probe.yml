@@ -42,7 +42,7 @@ jobs:
       - name: Run probe
         env:
           PROBE_HOST: ${{ inputs.host }}
-        run: python probe.py
+        run: python probe2022.py
 
       - name: Commit findings
         run: |
