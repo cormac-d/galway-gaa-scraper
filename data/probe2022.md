@@ -1,0 +1,182 @@
+## seasonid 2849 (2022): 139 competitions
+
+championship-named: 29
+
+- 177745: AIB All-Ireland Club SFC
+- 177291: Connacht GAA Club SFC
+- 175672: Intermediate Knockout
+- 175470: Intermediate Relegation
+- 172695: JFC A Championship
+- 172792: JFC B Championship
+- 168783: Junior B Championship North
+- 168776: Junior B Championship West
+- 169050: Junior C Championship North
+- 168784: Junior C Championship West
+- 175455: Junior Football Championship
+- 176667: Senior Football Relegation Group
+- 176440: U17 A Football Championship
+- 169127: U17 A North Championship
+- 169130: U17 A West Championship
+- 176441: U17 B Football Championship
+- 169129: U17 B West Championship
+- 175952: U17 C Football Championship
+- 169132: U17 C North Championship
+- 169133: U17 C West Championship
+- 175758: U19 A Football Championship
+- 169057: U19 A North Championship
+- 168785: U19 A West Championship
+- 175759: U19 B Football Championship
+- 169056: U19 B North Championship
+- 168788: U19 B West Championship
+- 175998: U19 C Football Championship
+- 169063: U19 C North Championship
+- 169064: U19 C West Championship
+
+ALL names:
+
+- 3Dental D1 League
+- 3Dental D1 League Play Offs
+- 3Dental D2 League
+- 3Dental D2 League Play Offs
+- 3Dental D3A League
+- 3Dental D3A League Play Offs
+- 3Dental D3B League
+- 3Dental D3B League Play Offs
+- 3Dental D4A League
+- 3Dental D4A League Play Offs
+- 3Dental D4B League
+- 3Dental D4B League Play Offs
+- AIB All-Ireland Club JFC
+- AIB All-Ireland Club SFC
+- AIB All-Ireland IFC Club
+- Cahill Cup
+- Connacht GAA Club IFC 2022
+- Connacht GAA Club JFC 2022
+- Connacht GAA Club SFC
+- Feile Peil na nOg D1
+- Feile Peil na nOg D1 G3
+- Intermediate Knockout
+- Intermediate Relegation
+- JFC A Championship
+- JFC A North
+- JFC A West
+- JFC B Championship
+- JFC North - Group A
+- JFC North - Group B
+- JFC West - Group A
+- JFC West - Group B
+- Junior A League/Shield
+- Junior B Championship North
+- Junior B Championship West
+- Junior B League/Shield
+- Junior C Championship North
+- Junior C Championship West
+- Junior C FC
+- Junior C League/Shield
+- Junior Football Championship
+- Senior Football Relegation Group
+- Sweeney Oil U19 A North League
+- Sweeney Oil U19 A West League
+- Sweeney Oil U19 B North League
+- Sweeney Oil U19 B West League
+- U-16 FL Group 4
+- U12 FL Div 1 Finals
+- U12 FL Group 09
+- U12 FL Group 1
+- U12 FL Group 10
+- U12 FL Group 11
+- U12 FL Group 2
+- U12 FL Group 3
+- U12 FL Group 4
+- U12 FL Group 5
+- U12 FL Group 6
+- U12 FL Group 7
+- U12 FL Group 8
+- U13 FC D1
+- U13 FC D2 North
+- U13 FC D2 West
+- U13 FC D3 North
+- U13 FC D3 West
+- U13 FC D4
+- U13 FC D5 North
+- U13 FC D5 West
+- U13 FC Final
+- U14 FL Group 1A
+- U14 FL Group 1B
+- U14 FL Group 2A
+- U14 FL Group 2B
+- U14 FL Group 3A
+- U14 FL Group 3B
+- U14 FL Group 4A
+- U14 FL Group 4B
+- U14 FL Group 5A
+- U14 FL Group 5B
+- U14 FL Group 6A
+- U14 FL Group 6B
+- U15 Division 1
+- U15 Division 2 A
+- U15 Division 2 B
+- U15 Division 3 A
+- U15 Division 4
+- U15 Division 5
+- U15 FC D1
+- U15 FC D2 North
+- U15 FC D2 West
+- U15 FC D3 North
+- U15 FC D3 West
+- U15 FC D4
+- U15 FC D5 North
+- U15 FC D5 West
+- U15 Feile - D1 - Final
+- U15 Feile - D1 - Grp A
+- U15 Feile - D1 - Grp B
+- U15 Feile - D4 - Cup
+- U15 Feile - D4 - Cup Grp A
+- U15 Feile - D4 - Grp B
+- U16 FL Group 1 Final
+- U16 FL Group 1A
+- U16 FL Group 1B
+- U16 FL Group 2A
+- U16 FL Group 2B
+- U16 FL Group 3A
+- U16 FL Group 3B
+- U16 FL Group 4A
+- U16 FL Group 4B
+- U16 FL Group 5A
+- U16 FL Group 5B
+- U17 A Football Championship
+- U17 A Football League/Shield
+- U17 A North Championship
+- U17 A West Championship
+- U17 B Fooball League/Shield
+- U17 B Football Championship
+- U17 B North FC - Group A
+- U17 B North FC - Group B
+- U17 B West Championship
+- U17 C Football Championship
+- U17 C Football Shield
+- U17 C North Championship
+- U17 C West Championship
+- U19 A Football Championship
+- U19 A Football League
+- U19 A North Championship
+- U19 A West Championship
+- U19 B Football Championship
+- U19 B Football League
+- U19 B North Championship
+- U19 B West Championship
+- U19 C Football Championship
+- U19 C Football League
+- U19 C North Championship
+- U19 C North FC - Group B
+- U19 C North League
+- U19 C West Championship
+- U19 C West League
+- U19 C West League
+
+## sweeping seasonid 2700-3069 for other 2022 keys
+
+
+## other 'value' codes under seasonid 2849
+
+- value 6929: 139 comps, sample 'Cahill Cup'
